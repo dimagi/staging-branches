@@ -24,7 +24,7 @@
 
 ## RESOLVING BRANCH CONFLICTS
 
-First, determine where the conflict lies.
+First, determine where the conflict lies.  All of these steps should be taken from the root of the repository you're working on (eg, `commcare-hq`)
 
 #### Branch `foo` conflicts with `master`
 
