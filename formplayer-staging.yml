@@ -1,1 +1,14 @@
-TEST - DO NOT USE
+# See README.md for details on how this is used
+
+trunk: master
+name: autostaging
+branches:
+    - saveMediaAttachment # Robert Feb 8
+    - sk/session-id-validation  # Simon Feb 9
+    - instanceLoadingFix # Shubham Feb 15
+submodules:
+  libs/commcare:
+    trunk: formplayer
+    branches:
+        - instanceLoadingFix # Shubham Feb 15
+
