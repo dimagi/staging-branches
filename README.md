@@ -1,20 +1,18 @@
 # staging-branches
 
-`staging-branches` is a repo hosting the branches configuration for [commcare-hq](https://github.com/dimagi/commcare-hq/)'s staging environment
+`staging-branches` is a repo hosting the branches configuration for [commcare-hq](https://github.com/dimagi/commcare-hq/)'s and [formplayer](https://github.com/dimagi/formplayer)'s staging environments.
 
 ## Workflow
 
-* Add the branch you'd like to deploy to staging to [the yaml file](https://github.com/dimagi/staging-branches/blob/main/commcare-hq-staging.yml) in this repository. You may use the github UI or edit it however you choose.
-* Commit your changes directly to master.  Don't worry about a detailed commit message unless you're doing something unusual.
-* From the root of the `commcare-hq` repository, run `./scripts/rebuildstaging`.  This will build a branch called `autostaging` that contains all branches specified in this file.
-  * To check if your nelwy added branch causes any conflicts before pushing to autostaging, run:
+The general workflow is virtually the same across repositories. The convention is for a script named `rebuildstaging` to live in the project's `scripts` directory (e.g., `commcare-hq/scripts/rebuildstaging`) which is responsible for fetching the appropriate file from this repository, and building a branch to deploy to the staging environment. 
+
+* Add the branch you'd like to deploy to the appropriate staging configuration file in this repository. The easiest approach is to use the GitHub UI for editing the file directly, but you can choose to edit locally if so desired.
+* Commit your changes directly to main.  Don't worry about a detailed commit message unless you're doing something unusual.
+* From the root of the repository you want to deploy (e.g., commcare-hq, formplayer, etc), run `./scripts/rebuildstaging`.  This will build a branch called `autostaging` that contains all branches specified in this file.
+  * To check if your newly added branch causes any conflicts before pushing to autostaging, run:
     ```
     $ scripts/rebuildstaging --no-push
     ```
-  * To rebuild autostaging and push those changes to origin (necessary for deploy), run:
-     ```
-     $ scripts/rebuildstaging
-     ```
 * After rebuilding the autostaging branch, you need to deploy the new branch to staging.
   ```
   $ commcare-cloud --control staging deploy
@@ -22,7 +20,7 @@
   $ scripts/rebuildstaging --deploy (NOTE: `commcare-cloud` must be available in your shell)
   ```
 
-## RESOLVING BRANCH CONFLICTS
+## Resolving Branch Conflicts
 
 First, determine where the conflict lies.  All of these steps should be taken from the root of the repository you're working on (eg, `commcare-hq`)
 
@@ -69,8 +67,3 @@ branches can feel free to assume the following needs to be done:
     now a subset of `foo`.
 
 If you are unsure of how to resolve a conflict, notify the branch owner.
-
-
-## FORMPLAYER
-
-TODO
