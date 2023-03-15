@@ -21,7 +21,6 @@ branches:
     # - akj/abdm-api-for-mobile-app # Akash Sep 28
     - es/redirect-domain  # Ethan Nov 21
     #- jls/web-apps-requirejs  # Jenny Jan 17
-    # - gh/remove-duplicate-kafka-seq-code # Graham Dec 26
     # - ce/enable-case-rate-limits # Cal Feb 1
     # - ml/enforce-metadata-ff # Minha Feb 2
     - jt/ush_2575_case_search_pull_related_cases # Jonathan T. Feb 6
@@ -33,7 +32,8 @@ branches:
     - gh/improve-pillow-logging-take-2 # Graham Mar 1
     - ml/remove-advanced-mobile-worker-search # Minha Mar 6
     - pkv/conditional-alerts-off-on-false # Pawan Mar 9
-    # - ap/es/update-to-python+gh/remove-duplicate-kafka-seq-code # Amit Mar 10
+    - ap/es/update-to-python+gh/remove-duplicate-kafka-seq-code # Amit Mar 10
+    - gh/remove-duplicate-kafka-seq-code # Graham Dec 26
     - ap/es/update-to-python # Amit Mar 10
     - cs+nh/attendees # Charl March 10
     - revert-32713-revert-32202-jls/new-instance-connectors # Steph March 10
