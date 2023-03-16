@@ -15,7 +15,7 @@ branches:
     - bmb/sso/api/test-001  # Biyeun June 15
     - dmr/add-support-for-ses-django-email-backend  # Danny Aug 26
     - do/migrate-apps # Dominic Sep 2
-    - smh/remove-setSelectedValue-import # Steph Sept 20
+    # - smh/remove-setSelectedValue-import # Steph Sept 20
     - akj/migrations-fix # Akash Oct 11
     - mk/support-expanded-cols-in-mobile-ucr-2 # MK Oct 31
     # - akj/abdm-api-for-mobile-app # Akash Sep 28
