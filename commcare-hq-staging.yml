@@ -37,7 +37,7 @@ branches:
     - revert-32713-revert-32202-jls/new-instance-connectors # Steph March 10
     - es/daterange  # Ethan March 14
     - cs/SC-2506/mw_attendees  # Norman Mar 16
+    - nh/at/add_attendee+ze/allocate_attendance_taker_to_ate  # Ethan Mar 16
     - nh/at/add_attendee  # Norman Mar 16
     - ze/allocate_attendance_taker_to_ate  # Norman Mar 16
-    - nh/at/add_attendee+ze/allocate_attendance_taker_to_ate  # Ethan Mar 16
 submodules: { }
