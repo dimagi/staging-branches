@@ -39,4 +39,5 @@ branches:
     - cs/SC-2506/mw_attendees  # Norman Mar 16
     - nh/at/add_attendee  # Norman Mar 16
     - ze/allocate_attendance_taker_to_ate  # Norman Mar 16
+    - nh/at/add_attendee+ze/allocate_attendance_taker_to_ate  # Ethan Mar 16
 submodules: { }
