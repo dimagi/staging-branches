@@ -23,7 +23,6 @@ branches:
     #- jls/web-apps-requirejs  # Jenny Jan 17
     # - ce/enable-case-rate-limits # Cal Feb 1
     # - ml/enforce-metadata-ff # Minha Feb 2
-    - jt/ush_2575_case_search_pull_related_cases # Jonathan T. Feb 6
     - smh/force-incremental-sync # Steph Feb 14
     - rc/media-upload-spinner-fix # Robert Feb 16
     - mjr/erm-overwrite # Matt Feb 21
