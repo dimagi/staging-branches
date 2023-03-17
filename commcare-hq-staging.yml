@@ -40,4 +40,5 @@ branches:
     - nh/at/add_attendee+ze/allocate_attendance_taker_to_ate  # Ethan Mar 16
     - nh/at/add_attendee  # Norman Mar 16
     - ze/allocate_attendance_taker_to_ate  # Norman Mar 16
+    - ap/update-mapbox-geocoder # Amit Phulera
 submodules: { }
