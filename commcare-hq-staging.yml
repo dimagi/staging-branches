@@ -37,7 +37,6 @@ branches:
     - ap/update-mapbox-geocoder # Amit Mar 17
     - cs/SC-2506/mw_attendees+ze/allocate_attendance_taker_to_ate  # Norman mar 17
     - cs/SC-2506/mw_attendees  # Norman Mar 16
-    # - ze/allocate_attendance_taker_to_ate  # Norman Mar 16
     - jt/form_printing_layout_bug # Jonathan T. Mar 17
     - pkv/data-dictionary-case-property-ordering # Pawan Mar 20
 submodules: { }
