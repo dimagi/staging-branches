@@ -2,7 +2,8 @@
 
 trunk: master
 name: autostaging
-branches: []
+branches: 
+    - saveMediaAttachment # Robert March 22
 submodules:
   libs/commcare:
     trunk: formplayer
