@@ -32,7 +32,6 @@ branches:
     - ap/update-mapbox-geocoder # Amit Mar 17
     - cs/SC-2506/mw_attendees+ze/allocate_attendance_taker_to_ate  # Norman mar 17
     - cs/SC-2506/mw_attendees  # Norman Mar 16
-    - jt/form_printing_layout_bug # Jonathan T. Mar 17
     - akj/ush-2886-radio-btn-SR # Akash Mar 22
     - gh/remove-silly-param # Graham Mar 22
     - ml/manage-forms-500 # Minha Mar 24
