@@ -26,7 +26,6 @@ branches:
     - smh/force-incremental-sync # Steph Feb 14
     - rc/media-upload-spinner-fix # Robert Feb 16
 #     - mjr/erm-overwrite # Matt Feb 21
-    - pkv/accessibility-mapbox-geocoder-widget # Pawan Feb 27
     - gh/improve-pillow-logging-take-2 # Graham Mar 1
     # - gh/remove-duplicate-kafka-seq-code # Graham Dec 26
     - revert-32713-revert-32202-jls/new-instance-connectors # Steph March 10
