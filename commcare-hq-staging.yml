@@ -32,7 +32,6 @@ branches:
     - ap/update-mapbox-geocoder # Amit Mar 17
     - cs/SC-2506/mw_attendees+ze/allocate_attendance_taker_to_ate  # Norman mar 17
     - cs/SC-2506/mw_attendees  # Norman Mar 16
-    - akj/ush-2886-radio-btn-SR # Akash Mar 22
     - gh/remove-silly-param # Graham Mar 22
     - riese/api_key_expiration # Martin Mar 24
     - ze/bulk_export_all_case_types # Zandre Mar 27
