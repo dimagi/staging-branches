@@ -35,5 +35,4 @@ branches:
     - riese/api_key_expiration # Martin Mar 24
     - ze/bulk_export_all_case_types # Zandre Mar 27
     - cs/SC-2646-clear_mw_data # Charl Mar 27
-    - bmb/bootstrap5-javascript  # Biyeun Mar 28
 submodules: { }
