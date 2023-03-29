@@ -29,7 +29,6 @@ branches:
     # - gh/remove-duplicate-kafka-seq-code # Graham Dec 26
     # - revert-32713-revert-32202-jls/new-instance-connectors # Steph March 10
     - ap/update-mapbox-geocoder # Amit Mar 17
-    - cs/SC-2506/mw_attendees+ze/allocate_attendance_taker_to_ate  # Norman mar 17
     - cs/SC-2506/mw_attendees  # Norman Mar 16
     - gh/remove-silly-param # Graham Mar 22
     - riese/api_key_expiration # Martin Mar 24
