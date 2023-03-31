@@ -4,8 +4,10 @@ trunk: master
 name: autostaging
 branches: 
     - saveMediaAttachment # Robert March 22
+    - testCaseSearchIndexing # Shubham March 31
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches: []
+    branches:
+        - caseSearchDb # Shubham March 31
 
