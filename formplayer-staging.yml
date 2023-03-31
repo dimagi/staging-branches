@@ -9,6 +9,6 @@ branches:
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches: []
+    branches:
         - caseSearchDb # Shubham March 31
 
