@@ -3,12 +3,12 @@
 trunk: master
 name: autostaging
 branches: 
-#     - saveMediaAttachment+testCaseSearchIndex # Shubham March 31
+    - saveMediaAttachment+testCaseSearchIndex # Shubham March 31
     - saveMediaAttachment # Robert March 22
-#     - testCaseSearchIndexing # Shubham March 31
+    - testCaseSearchIndexing # Shubham March 31
 submodules:
   libs/commcare:
     trunk: formplayer
     branches: []
-#         - caseSearchDb # Shubham March 31
+        - caseSearchDb # Shubham March 31
 
