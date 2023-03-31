@@ -33,6 +33,5 @@ branches:
     - ze/bulk_export_all_case_types # Zandre Mar 27
     - cs/SC-2646-clear_mw_data # Charl Mar 27
     #- bmb/bootstrap5-javascript-testing  # Biyeun Mar 28
-    - cs/SC-2449/event_status # Chris March 29
     - ad/fix-tableau-view # Addison Mar 31
 submodules: { }
