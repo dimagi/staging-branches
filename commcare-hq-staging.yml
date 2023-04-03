@@ -34,4 +34,5 @@ branches:
     #- bmb/bootstrap5-javascript-testing-002  # Biyeun Mar 28
     - ad/fix-tableau-view # Addison Mar 31
     - em/multimedia-linking-bugfix # Evan Mar 31
+    - ze/bulk_import_all_case_types # Zandre Apr 3
 submodules: { }
