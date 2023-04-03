@@ -35,5 +35,4 @@ branches:
     - ad/fix-tableau-view # Addison Mar 31
     - em/multimedia-linking-bugfix # Evan Mar 31
     - ze/bulk_import_all_case_types # Zandre Apr 3
-    - cs/SC-2662/end_date_not_required # Chris Apr 3
 submodules: { }
