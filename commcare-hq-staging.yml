@@ -14,7 +14,6 @@ branches:
     # - mk/support-expanded-cols-in-mobile-ucr # MK Feb 2
     - bmb/sso/api/test-001  # Biyeun June 15
     - dmr/add-support-for-ses-django-email-backend  # Danny Aug 26
-    - do/migrate-apps # Dominic Sep 2
     # - smh/remove-setSelectedValue-import # Steph Sept 20
     - akj/migrations-fix # Akash Oct 11
     - mk/support-expanded-cols-in-mobile-ucr-2 # MK Oct 31
@@ -32,7 +31,6 @@ branches:
     - ze/bulk_export_all_case_types # Zandre Mar 27
     - cs/SC-2646-clear_mw_data # Charl Mar 27
     #- bmb/bootstrap5-javascript-testing-002  # Biyeun Mar 28
-    - ad/fix-tableau-view # Addison Mar 31
     - em/multimedia-linking-bugfix # Evan Mar 31
     - ze/bulk_import_all_case_types # Zandre Apr 3
     - dependabot/pip/requirements/redis-4.4.4  # Biyeun for dependacat April 3
