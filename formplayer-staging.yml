@@ -3,8 +3,6 @@
 trunk: master
 name: autostaging
 branches: 
-    - saveMediaAttachment+testCaseSearchIndex # Shubham March 31
-    - saveMediaAttachment # Robert March 22
     - testCaseSearchIndexing # Shubham March 31
 submodules:
   libs/commcare:
