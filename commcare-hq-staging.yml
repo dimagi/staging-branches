@@ -25,7 +25,7 @@ branches:
     - smh/force-incremental-sync # Steph Feb 14
     - mjr/erm-overwrite # Matt Feb 21
     # - gh/remove-duplicate-kafka-seq-code # Graham Dec 26
-    # - revert-32713-revert-32202-jls/new-instance-connectors # Steph March 10
+    - revert-32713-revert-32202-jls/new-instance-connectors # Steph March 10
     - ap/update-mapbox-geocoder # Amit Mar 17
     - gh/remove-silly-param # Graham Mar 22
     - ze/bulk_export_all_case_types # Zandre Mar 27
