@@ -26,8 +26,6 @@ branches:
     # - gh/remove-duplicate-kafka-seq-code # Graham Dec 26
     - ap/update-mapbox-geocoder # Amit Mar 17
     - gh/remove-silly-param # Graham Mar 22
-    - ze/bulk_export_all_case_types # Zandre Mar 27
-    - cs/SC-2646-clear_mw_data # Charl Mar 27
     #- bmb/bootstrap5-javascript-testing-002  # Biyeun Mar 28
     - em/multimedia-linking-bugfix # Evan Mar 31
     - ze/bulk_import_all_case_types # Zandre Apr 3
@@ -35,4 +33,8 @@ branches:
     #- revert-32713-revert-32202-jls/new-instance-connectors+smh/force-incremental-sync # Steph April 4
     #- revert-32713-revert-32202-jls/new-instance-connectors # Steph March 10
     - smh/force-incremental-sync # Steph Feb 14
+    - dm/revert-incremental-export+resolutions
+    - ze/bulk_export_all_case_types # Zandre Mar 27
+    - cs/SC-2646-clear_mw_data # Charl Mar 27
+    - dm/revert-incremental-export # Daniel April 5
 submodules: { }
