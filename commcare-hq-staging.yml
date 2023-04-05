@@ -32,7 +32,7 @@ branches:
     - em/multimedia-linking-bugfix # Evan Mar 31
     - ze/bulk_import_all_case_types # Zandre Apr 3
     - dependabot/pip/requirements/redis-4.4.4  # Biyeun for dependacat April 3
-    #- revert-32713-revert-32202-jls/new-instance-connectors+smh/force-incremental-sync # Steph April 4
-    #- revert-32713-revert-32202-jls/new-instance-connectors # Steph March 10
+    - revert-32713-revert-32202-jls/new-instance-connectors+smh/force-incremental-sync # Steph April 4
+    - revert-32713-revert-32202-jls/new-instance-connectors # Steph March 10
     - smh/force-incremental-sync # Steph Feb 14
 submodules: { }
