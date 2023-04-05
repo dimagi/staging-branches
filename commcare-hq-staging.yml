@@ -35,4 +35,5 @@ branches:
     #- revert-32713-revert-32202-jls/new-instance-connectors+smh/force-incremental-sync # Steph April 4
     #- revert-32713-revert-32202-jls/new-instance-connectors # Steph March 10
     - smh/force-incremental-sync # Steph Feb 14
+    - dm/revert-incremental-export # Daniel April 5
 submodules: { }
