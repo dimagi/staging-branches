@@ -24,7 +24,6 @@ branches:
     # - ml/enforce-metadata-ff # Minha Feb 2
     - mjr/erm-overwrite # Matt Feb 21
     # - gh/remove-duplicate-kafka-seq-code # Graham Dec 26
-    - ap/update-mapbox-geocoder # Amit Mar 17
     - ze/bulk_export_all_case_types_debug+gh/remove-silly-param # Zandre Apr 7 (Conflict resolutiion)
     #- ze/bulk_export_all_case_types # Zandre Mar 27
     - ze/bulk_export_all_case_types_debug # Zandre Apr 7
