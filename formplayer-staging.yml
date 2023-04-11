@@ -3,7 +3,7 @@
 trunk: master
 name: autostaging
 branches:
-    - testCaseSearchIndexing # Shubham March 31
+    - caseSearchDb # Shubham March 31
 submodules:
   libs/commcare:
     trunk: formplayer
