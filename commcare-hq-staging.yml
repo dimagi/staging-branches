@@ -38,6 +38,4 @@ branches:
     - smh/force-incremental-sync # Steph Feb 14
     - jt/related_case_bug # Jonathan T. April 5
     - ml/url-obfuscation-CLE-CL # Minha Apr 11
-    - dmr/add-support-for-ses-django-email-backend+ap/upgrade-urllib-and-related-deps #Amit Apr 12
-    - ap/upgrade-urllib-and-related-deps # Amit Apr 12
 submodules: { }
