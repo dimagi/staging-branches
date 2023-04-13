@@ -33,8 +33,9 @@ branches:
     - revert-32713-revert-32202-jls/new-instance-connectors+smh/force-incremental-sync # Steph April 4
     - revert-32713-revert-32202-jls/new-instance-connectors # Steph March 10
     - smh/force-incremental-sync # Steph Feb 14
-    - ml/url-obfuscation-CLE-CL # Minha Apr 11
     - dmr/add-support-for-ses-django-email-backend+ap/upgrade-urllib-and-related-deps # Amit April 13
     - ap/upgrade-urllib-and-related-deps # Amit April 13
     - aj/attachments-size-limit # Ajeet Apr 13
+    - ml/url-hash-migration # Minha Apr 13
+    - ml/obfuscate-CLE-CL-url # Minha Apr 13
 submodules: { }
