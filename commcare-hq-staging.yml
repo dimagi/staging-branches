@@ -38,4 +38,5 @@ branches:
     - cs/SC-2621/ga_export_ownership # Chris Apr 14
     - pkv/data-dictionary-group-model # Pawan Apr 14
     #- pkv/data-dictionary-group-model-2 # Pawan Apr 18
+    - cs/SC-2683-mw_attendee_progress_bar # Apr 19
 submodules: { }
