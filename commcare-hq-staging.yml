@@ -41,4 +41,5 @@ branches:
     - dm/rm-connectionsettings-fk # Daniel Apr 19
     - em/eof-nav-multi-to-single-select # Evan Apr 19
     - ze/conditionally_disable_bulk_case_exports # Zandre Apr 20
+    - es/assertions-UI  # Ethan Apr 20
 submodules: { }
