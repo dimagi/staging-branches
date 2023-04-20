@@ -29,7 +29,7 @@ branches:
     #- bmb/bootstrap5-javascript-testing-002  # Biyeun Mar 28
     - revert-32713-revert-32202-jls/new-instance-connectors+smh/force-incremental-sync # Steph April 4
     - revert-32713-revert-32202-jls/new-instance-connectors # Steph March 10
-    #- smh/force-incremental-sync # Steph Feb 14
+    - smh/force-incremental-sync # Steph Feb 14
     - dmr/add-support-for-ses-django-email-backend+ap/upgrade-urllib-and-related-deps # Amit April 13
     - ap/upgrade-urllib-and-related-deps # Amit April 13
     - ml/obfuscate-CLE-CL-url # Minha Apr 13
