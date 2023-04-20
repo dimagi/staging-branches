@@ -40,4 +40,5 @@ branches:
     - cs/SC-2683-mw_attendee_progress_bar # Apr 19
     - dm/rm-connectionsettings-fk # Daniel Apr 19
     - em/eof-nav-multi-to-single-select # Evan Apr 19
+    - ze/conditionally_disable_bulk_case_exports # Zandre Apr 20
 submodules: { }
