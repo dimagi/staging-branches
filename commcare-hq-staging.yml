@@ -26,7 +26,6 @@ branches:
     # - gh/remove-duplicate-kafka-seq-code # Graham Dec 26
     - gh/remove-silly-param # Graham Mar 22
     - cs/SC-2646-clear_mw_data # Charl Mar 27
-    #- bmb/bootstrap5-javascript-testing-002  # Biyeun Mar 28
     - revert-32713-revert-32202-jls/new-instance-connectors+smh/force-incremental-sync # Steph April 4
     - revert-32713-revert-32202-jls/new-instance-connectors # Steph March 10
     - smh/force-incremental-sync # Steph Feb 14
@@ -40,4 +39,5 @@ branches:
     - ze/conditionally_disable_bulk_case_exports # Zandre Apr 20
     - es/assertions-UI  # Ethan Apr 20
     - ze/determine_if_user_or_update_rule # Zandre Apr 21
+    - bmb/bootstrap5-javascript-testing-002  # Biyeun April 21
 submodules: { }
