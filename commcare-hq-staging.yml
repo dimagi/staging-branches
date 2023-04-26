@@ -37,4 +37,5 @@ branches:
     - bmb/bootstrap5-javascript-testing-002  # Biyeun April 21
     - sk/sort-calculated  # Simon April 24
     - pkv/data-dictionary-group-model-2 # Pawan April 25
+    - ap/remove-elasticsearch-indexinfo # Amit April 26
 submodules: { }
