@@ -37,4 +37,5 @@ branches:
     - pkv/data-dictionary-group-model-2 # Pawan April 25
     - ap/remove-elasticsearch-indexinfo # Amit April 26
     - riese/rm_j2me # Martin April 26
+    - jt/dependent_dropdown_bug_fix # Jonathan T. April 26
 submodules: { }
