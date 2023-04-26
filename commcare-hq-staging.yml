@@ -36,4 +36,5 @@ branches:
     - sk/sort-calculated  # Simon April 24
     - pkv/data-dictionary-group-model-2 # Pawan April 25
     - ap/remove-elasticsearch-indexinfo # Amit April 26
+    - riese/rm_j2me # Martin April 26
 submodules: { }
