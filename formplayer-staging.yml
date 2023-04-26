@@ -2,12 +2,10 @@
 
 trunk: master
 name: autostaging
-branches:
-    - caseSearchDb # Shubham March 31
+branches: []
 submodules:
   libs/commcare:
     trunk: formplayer
     branches:
-        - caseSearchDb # Shubham March 31
         - rc/custom-assertions-fp # Robert April 19
 
