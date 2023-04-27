@@ -31,7 +31,6 @@ branches:
     - cs/SC-2621/ga_export_ownership # Chris Apr 14
     #- cs/SC-2683-mw_attendee_progress_bar # Apr 19
     - em/eof-nav-multi-to-single-select # Evan Apr 19
-    - ze/conditionally_disable_bulk_case_exports # Zandre Apr 20
     #- bmb/bootstrap5-javascript-testing-002  # Biyeun April 21
     - sk/sort-calculated  # Simon April 24
     - pkv/data-dictionary-group-model-2 # Pawan April 25
