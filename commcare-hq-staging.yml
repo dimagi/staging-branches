@@ -27,7 +27,6 @@ branches:
     - smh/force-incremental-sync # Steph Feb 14
     - dmr/add-support-for-ses-django-email-backend+ap/upgrade-urllib-and-related-deps # Amit April 13
     - ap/upgrade-urllib-and-related-deps # Amit April 13
-    - ml/obfuscate-CLE-CL-url # Minha Apr 13
     - cs/SC-2621/ga_export_ownership # Chris Apr 14
     #- cs/SC-2683-mw_attendee_progress_bar # Apr 19
     - em/eof-nav-multi-to-single-select # Evan Apr 19
