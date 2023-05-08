@@ -30,7 +30,6 @@ branches:
     #- cs/SC-2683-mw_attendee_progress_bar # Apr 19
     - sk/sort-calculated  # Simon April 24
     - pkv/data-dictionary-group-model-2 # Pawan April 25
-    - riese/rm_j2me # Martin April 26
     - akj/ush-2981-dd-case-data-styling # Akash Apr 27
     - ml/adjust-dates-by-timezone-CLE # Minha  Apr 27
     - pkv/data-dictionary-groups-editable-ui # Pawan Apr 28
