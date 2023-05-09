@@ -39,4 +39,5 @@ branches:
     - em/remove-case-search-redundant-request # Evan May 3
     - jt/dependent_dropdown_bug_fix # Jonathan T. April 26
     # - pkv/data-dictionary-groups-bug-fixes # Pawan May 5
+    - jls/markdown-case-lists # Jenny May 8
 submodules: { }
