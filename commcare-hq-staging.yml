@@ -31,7 +31,7 @@ branches:
     - pkv/data-dictionary-group-model-2 # Pawan April 25
     - akj/ush-2981-dd-case-data-styling # Akash Apr 27
     - ml/adjust-dates-by-timezone-CLE # Minha  Apr 27
-    - pkv/data-dictionary-groups-editable-ui # Pawan Apr 28
+    #- pkv/data-dictionary-groups-editable-ui # Pawan Apr 28
     - bmb/b5/javascript-split  # Biyeun May 2
     # - gh/upgrade-sh # Graham May 3
     - em/remove-case-search-redundant-request+jt/dependent_dropdown_bug_fix # Evan May 3
