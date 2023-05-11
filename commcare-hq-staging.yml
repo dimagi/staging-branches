@@ -28,7 +28,6 @@ branches:
     - dmr/add-support-for-ses-django-email-backend+ap/upgrade-urllib-and-related-deps # Amit April 13
     - cs/SC-2621/ga_export_ownership # Chris Apr 14
     #- cs/SC-2683-mw_attendee_progress_bar # Apr 19
-    - sk/sort-calculated  # Simon April 24
     - pkv/data-dictionary-group-model-2 # Pawan April 25
     - akj/ush-2981-dd-case-data-styling # Akash Apr 27
     - ml/adjust-dates-by-timezone-CLE # Minha  Apr 27
