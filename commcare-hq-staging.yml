@@ -42,5 +42,4 @@ branches:
     - em/dynamic-case-tile-widths # Evan May 11
     - jls/markdown-case-lists # Jenny May 8
     - riese/multi_select_case_tile # Martin May 12
-    - rc/force-annual-tos # Robert May 15
 submodules: { }
