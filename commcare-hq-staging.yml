@@ -38,7 +38,6 @@ branches:
     - em/remove-case-search-redundant-request # Evan May 3
     - jt/dependent_dropdown_bug_fix # Jonathan T. April 26
     # - pkv/data-dictionary-groups-bug-fixes # Pawan May 5
-    - pkv/accessibility-ush-1988-labels # Pawan May 10
     - em/dynamic-case-tile-widths+jls/markdown-case-lists # Evan May 11
     - em/dynamic-case-tile-widths # Evan May 11
     - jls/markdown-case-lists # Jenny May 8
