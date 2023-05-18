@@ -40,4 +40,5 @@ branches:
     # - pkv/data-dictionary-groups-bug-fixes # Pawan May 5
     - riese/multi_select_case_tile # Martin May 12
     - akj/saas-14520-scheduled-reports # Akash May 17
+    - jt/login_logout_data_query # Jonathan T. May 17
 submodules: { }
