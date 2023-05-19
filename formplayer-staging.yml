@@ -2,12 +2,12 @@
 
 trunk: master
 name: autostaging
-branches:
-    - itemsetsRefactor # Jonathan T. May 11
+branches: []
+#     - itemsetsRefactor # Jonathan T. May 11
 submodules:
   libs/commcare:
     trunk: formplayer
     branches:
         - rc/custom-assertions-fp # Robert April 19
-        - itemsetsRefactor # Jonathan T. May 11
+#         - itemsetsRefactor # Jonathan T. May 11
 
