@@ -18,7 +18,7 @@ branches:
     - mk/support-expanded-cols-in-mobile-ucr-2 # MK Oct 31
     # - akj/abdm-api-for-mobile-app # Akash Sep 28
     - es/redirect-domain  # Ethan Nov 21
-    #- jls/web-apps-requirejs  # Jenny Jan 17
+    - jls/web-apps-requirejs  # Jenny Jan 17
     # - ce/enable-case-rate-limits # Cal Feb 1
     # - ml/enforce-metadata-ff # Minha Feb 2
     - mjr/erm-overwrite # Matt Feb 21
