@@ -46,4 +46,5 @@ branches:
     - ap/upgrade-deps-for-m2 # Amit May 22
     - pkv/accessibility-screen-readable-breadcrumbs # Pawan May 22
     - rc/fix-update-eula # Robert May 22
+    - ml/obfuscate-CLE-CL-url-v2 # Minha May 22
 submodules: { }
