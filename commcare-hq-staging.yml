@@ -43,4 +43,5 @@ branches:
     - akj/saas-14520-scheduled-reports # Akash May 17
     - jt/login_logout_data_query # Jonathan T. May 17
     - pkv/accessibility-forms-help-button # Pawan May 22
+    - ap/upgrade-deps-for-m2
 submodules: { }
