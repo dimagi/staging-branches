@@ -18,8 +18,10 @@ branches:
     - mk/support-expanded-cols-in-mobile-ucr-2 # MK Oct 31
     # - akj/abdm-api-for-mobile-app # Akash Sep 28
     - es/redirect-domain  # Ethan Nov 21
+    - jls/web-apps-requirejs+bmb/b5/javascript-split+riese/multi_select_case_tile
     - jls/web-apps-requirejs+bmb/b5/javascript-split
     - jls/web-apps-requirejs  # Jenny Jan 17
+    - riese/multi_select_case_tile # Martin May 12
     - bmb/b5/javascript-split  # Biyeun May 2
     # - ce/enable-case-rate-limits # Cal Feb 1
     # - ml/enforce-metadata-ff # Minha Feb 2
@@ -38,7 +40,6 @@ branches:
     # - em/remove-case-search-redundant-request+jt/dependent_dropdown_bug_fix # Evan May 3
     # - jt/dependent_dropdown_bug_fix # Jonathan T. April 26
     # - pkv/data-dictionary-groups-bug-fixes # Pawan May 5
-    - riese/multi_select_case_tile # Martin May 12
     - akj/saas-14520-scheduled-reports # Akash May 17
     - jt/login_logout_data_query # Jonathan T. May 17
     - pkv/accessibility-forms-help-button # Pawan May 22
