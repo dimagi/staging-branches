@@ -18,9 +18,9 @@ branches:
     - mk/support-expanded-cols-in-mobile-ucr-2 # MK Oct 31
     # - akj/abdm-api-for-mobile-app # Akash Sep 28
     - es/redirect-domain  # Ethan Nov 21
-    - jls/web-apps-requirejs+bmb/b5/javascript-split+riese/multi_select_case_tile
-    - jls/web-apps-requirejs+bmb/b5/javascript-split
-    - jls/web-apps-requirejs  # Jenny Jan 17
+    #- jls/web-apps-requirejs+bmb/b5/javascript-split+riese/multi_select_case_tile
+    #- jls/web-apps-requirejs+bmb/b5/javascript-split
+    #- jls/web-apps-requirejs  # Jenny Jan 17
     - riese/multi_select_case_tile # Martin May 12
     - bmb/b5/javascript-split  # Biyeun May 2
     # - ce/enable-case-rate-limits # Cal Feb 1
