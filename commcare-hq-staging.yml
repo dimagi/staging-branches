@@ -36,7 +36,6 @@ branches:
     - pkv/data-dictionary-groups-editable-ui # Pawan Apr 28
     # - gh/upgrade-sh # Graham May 3
     # - em/remove-case-search-redundant-request+jt/dependent_dropdown_bug_fix # Evan May 3
-    # - em/remove-case-search-redundant-request # Evan May 3
     # - jt/dependent_dropdown_bug_fix # Jonathan T. April 26
     # - pkv/data-dictionary-groups-bug-fixes # Pawan May 5
     - riese/multi_select_case_tile # Martin May 12
