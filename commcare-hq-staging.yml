@@ -20,7 +20,6 @@ branches:
     - es/redirect-domain  # Ethan Nov 21
     #- jls/web-apps-requirejs+riese/multi_select_case_tile
     #- jls/web-apps-requirejs  # Jenny Jan 17
-    - riese/multi_select_case_tile # Martin May 12
     # - ce/enable-case-rate-limits # Cal Feb 1
     # - ml/enforce-metadata-ff # Minha Feb 2
     - mjr/erm-overwrite # Matt Feb 21
@@ -46,5 +45,5 @@ branches:
     - rc/fix-update-eula # Robert May 22
     - ml/obfuscate-CLE-CL-url-v2 # Minha May 22
     - smh/split-screen-case-search # Steph May 23
-    - riese/mvp_map # Martin May 23
+    - riese/multi_select_case_tile+mvp_map # Martin May 23
 submodules: { }
