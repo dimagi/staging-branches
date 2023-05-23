@@ -45,5 +45,4 @@ branches:
     - pkv/accessibility-screen-readable-breadcrumbs # Pawan May 22
     - rc/fix-update-eula # Robert May 22
     - ml/obfuscate-CLE-CL-url-v2 # Minha May 22
-    - smh/split-screen-case-search # Steph May 23
 submodules: { }
