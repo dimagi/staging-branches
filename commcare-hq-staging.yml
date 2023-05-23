@@ -21,7 +21,6 @@ branches:
     #- jls/web-apps-requirejs+riese/multi_select_case_tile
     #- jls/web-apps-requirejs  # Jenny Jan 17
     - riese/multi_select_case_tile # Martin May 12
-    - bmb/b5/javascript-split  # Biyeun May 2
     # - ce/enable-case-rate-limits # Cal Feb 1
     # - ml/enforce-metadata-ff # Minha Feb 2
     - mjr/erm-overwrite # Matt Feb 21
