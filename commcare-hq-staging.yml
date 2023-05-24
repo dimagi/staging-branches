@@ -38,7 +38,6 @@ branches:
     # - pkv/data-dictionary-groups-bug-fixes # Pawan May 5
     - akj/saas-14520-scheduled-reports # Akash May 17
     - jt/login_logout_data_query # Jonathan T. May 17
-    - pkv/accessibility-forms-help-button # Pawan May 22
     - ap/upgrade-deps-for-m2 # Amit May 22
     - pkv/accessibility-screen-readable-breadcrumbs # Pawan May 22
     - ml/obfuscate-CLE-CL-url-v2 # Minha May 22
