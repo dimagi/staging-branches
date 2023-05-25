@@ -2,7 +2,7 @@
 
 trunk: master
 name: autostaging
-branches: []
+branches:
     - entityResponseCleanup # Shubham May 25
 submodules:
   libs/commcare:
