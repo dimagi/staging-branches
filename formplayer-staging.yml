@@ -3,11 +3,11 @@
 trunk: master
 name: autostaging
 branches: []
-#     - itemsetsRefactor # Jonathan T. May 11
+    - entityResponseCleanup # Shubham May 25
 submodules:
   libs/commcare:
     trunk: formplayer
     branches:
-        - rc/custom-assertions-fp # Robert April 19
-#         - itemsetsRefactor # Jonathan T. May 11
+#         - rc/custom-assertions-fp # Robert April 19
+        - entityResponseCleanup # Shubham May 25
 
