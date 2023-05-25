@@ -30,7 +30,6 @@ branches:
     - cs/SC-2621/ga_export_ownership # Chris Apr 14
     #- cs/SC-2683-mw_attendee_progress_bar # Apr 19
     - pkv/data-dictionary-group-model-2 # Pawan April 25
-    - akj/ush-2981-dd-case-data-styling # Akash Apr 27
     - ml/adjust-dates-by-timezone-CLE # Minha  Apr 27
     - pkv/data-dictionary-groups-editable-ui # Pawan Apr 28
     # - em/remove-case-search-redundant-request+jt/dependent_dropdown_bug_fix # Evan May 3
@@ -48,5 +47,4 @@ branches:
     - mk/user-create-ensure-location-in-domain # MK May 24
     - mk/validate-attachments # MK May 24
     - akj/report-cach-issue # Akash May 25
-    - revert-32907-bmb/b5/javascript-split # MK May 25
 submodules: { }
