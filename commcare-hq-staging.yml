@@ -48,5 +48,5 @@ branches:
     - mk/validate-attachments # MK May 24
     - akj/report-cach-issue # Akash May 25
     - gh/remove-ucr-experiment/models # SK May 25
-    - bmb/b5/javascript-split  # Biyeun May 25
+    # - bmb/b5/javascript-split  # Biyeun May 25
 submodules: { }
