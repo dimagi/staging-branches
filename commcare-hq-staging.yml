@@ -28,7 +28,6 @@ branches:
     - dmr/add-support-for-ses-django-email-backend+ap/upgrade-urllib-and-related-deps # Amit April 13
     - cs/SC-2621/ga_export_ownership # Chris Apr 14
     #- cs/SC-2683-mw_attendee_progress_bar # Apr 19
-    - pkv/data-dictionary-group-model-2 # Pawan April 25
     - jt/ancestor-exists+ml/adjust-dates-by-timezone-CLE # Jonathan T. May 25
     - ml/adjust-dates-by-timezone-CLE # Minha  Apr 27
     - jt/ancestor-exists # Jonathan T May 25
@@ -37,7 +36,6 @@ branches:
     - akj/saas-14520-scheduled-reports # Akash May 17
     - jt/login_logout_data_query # Jonathan T. May 17
     - ap/upgrade-deps-for-m2 # Amit May 22
-    - pkv/accessibility-screen-readable-breadcrumbs # Pawan May 22
     - smh/split-screen-case-search # Steph May 23
     - riese/multi_select_case_tile+mvp_map # Martin May 23
     # - akj/config-delete-debug # Akash May 24
