@@ -30,7 +30,7 @@ branches:
     #- cs/SC-2683-mw_attendee_progress_bar # Apr 19
     - jt/ancestor-exists+ml/adjust-dates-by-timezone-CLE # Jonathan T. May 25
     - ml/adjust-dates-by-timezone-CLE # Minha  Apr 27
-    # - jt/ancestor-exists # Jonathan T May 25
+    - jt/ancestor-exists # Jonathan T May 25
     - pkv/data-dictionary-groups-editable-ui # Pawan Apr 28
     # - pkv/data-dictionary-groups-bug-fixes # Pawan May 5
     - akj/saas-14520-scheduled-reports # Akash May 17
