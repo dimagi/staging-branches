@@ -50,4 +50,5 @@ branches:
     - bmb/b5/javascript-split  # Biyeun May 25
     - dm/repeaters-db-split # Daniel May 25
     - bmb/cle-ui-improvements  # Biyeun May 26
+    - em/sscs-search-again-workflow # Evan May 29
 submodules: { }
