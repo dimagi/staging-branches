@@ -35,12 +35,10 @@ branches:
     # - pkv/data-dictionary-groups-bug-fixes # Pawan May 5
     - akj/saas-14520-scheduled-reports # Akash May 17
     - jt/login_logout_data_query # Jonathan T. May 17
-    - ap/upgrade-deps-for-m2 # Amit May 22
     - smh/split-screen-case-search # Steph May 23
     - riese/multi_select_case_tile+mvp_map # Martin May 23
     # - akj/config-delete-debug # Akash May 24
     - ad/case-tile-template-selection-migration # Addison May 24
-    - mk/escape-key-value-map-vals # MK May 24
     - mk/user-create-ensure-location-in-domain # MK May 24
     - mk/validate-attachments # MK May 24
     # - akj/report-cach-issue # Akash May 25
