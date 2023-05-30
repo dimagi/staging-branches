@@ -37,7 +37,6 @@ branches:
     - jt/login_logout_data_query # Jonathan T. May 17
     - smh/split-screen-case-search # Steph May 23
     # - akj/config-delete-debug # Akash May 24
-    - ad/case-tile-template-selection-migration # Addison May 24
     - mk/validate-attachments # MK May 24
     # - akj/report-cach-issue # Akash May 25
     - gh/remove-ucr-experiment/models # SK May 25
