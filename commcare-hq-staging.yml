@@ -45,4 +45,5 @@ branches:
     - riese/mvp_map # Martin May 31
     - cs/SC-2636-copy_cases_to_test_user # Charl Smit May 31
     - bmb/cle-copy-changes  # Biyeun May 31
+    - em/sscs-field-type-accommodation # Evan May 31
 submodules: { }
