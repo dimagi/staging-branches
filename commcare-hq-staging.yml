@@ -31,8 +31,7 @@ branches:
     - jt/ancestor-exists+ml/adjust-dates-by-timezone-CLE # Jonathan T. May 25
     - ml/adjust-dates-by-timezone-CLE # Minha  Apr 27
     - jt/ancestor-exists # Jonathan T May 25
-    # - pkv/data-dictionary-groups-editable-ui # Pawan Apr 28
-    # - pkv/data-dictionary-groups-bug-fixes # Pawan May 5
+    - pkv/data-dictionary-groups-editable-ui # Pawan Apr 28
     - akj/saas-14520-scheduled-reports # Akash May 17
     - jt/login_logout_data_query # Jonathan T. May 17
     - smh/split-screen-case-search # Steph May 23
