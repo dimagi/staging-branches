@@ -47,4 +47,5 @@ branches:
     - bmb/cle-copy-changes  # Biyeun May 31
     - em/sscs-field-type-accommodation # Evan May 31
     - ad/case-tile-template-UI # Addison Jun 1
+    - ml/CLE-char-limit-error # Minha Jun 1
 submodules: { }
