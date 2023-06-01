@@ -46,4 +46,5 @@ branches:
     - cs/SC-2636-copy_cases_to_test_user # Charl Smit May 31
     - bmb/cle-copy-changes  # Biyeun May 31
     - em/sscs-field-type-accommodation # Evan May 31
+    - ad/case-tile-template-UI-2 # Addison Jun 1
 submodules: { }
