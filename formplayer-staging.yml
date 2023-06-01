@@ -2,12 +2,9 @@
 
 trunk: master
 name: autostaging
-branches:
-    - entityResponseCleanup # Shubham May 25
+branches: []
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches:
-#         - rc/custom-assertions-fp # Robert April 19
-        - entityResponseCleanup # Shubham May 25
+    branches: []
 
