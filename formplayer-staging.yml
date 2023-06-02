@@ -2,7 +2,8 @@
 
 trunk: master
 name: autostaging
-branches: []
+branches:
+    - addIpToPost 
 submodules:
   libs/commcare:
     trunk: formplayer
