@@ -48,4 +48,6 @@ branches:
     - em/sscs-field-type-accommodation # Evan May 31
     - ad/case-tile-template-UI # Addison Jun 1
     - ml/CLE-char-limit-error # Minha Jun 1
+    - ap/es/create-new-indexes # Amit Jun 2
+    - ap/es/configurable-multiplexer # Amit Jun 2
 submodules: { }
