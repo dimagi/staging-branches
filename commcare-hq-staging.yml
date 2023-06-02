@@ -24,7 +24,6 @@ branches:
     # - ml/enforce-metadata-ff # Minha Feb 2
     - mjr/erm-overwrite # Matt Feb 21
     - gh/remove-duplicate-kafka-seq-code # Graham Dec 26
-    - dmr/add-support-for-ses-django-email-backend+ap/upgrade-urllib-and-related-deps # Amit April 13
     - cs/SC-2621/ga_export_ownership # Chris Apr 14
     #- cs/SC-2683-mw_attendee_progress_bar # Apr 19
     - ml/adjust-dates-by-timezone-CLE # Minha  Apr 27
@@ -48,6 +47,7 @@ branches:
     - em/sscs-field-type-accommodation # Evan May 31
     - ad/case-tile-template-UI # Addison Jun 1
     - ml/CLE-char-limit-error # Minha Jun 1
+    - ap/es/create-new-indexes+configurable_multiplexer
     - ap/es/create-new-indexes # Amit Jun 2
     - ap/es/configurable-multiplexer # Amit Jun 2
 submodules: { }
