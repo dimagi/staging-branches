@@ -30,7 +30,6 @@ branches:
     - pkv/data-dictionary-groups-editable-ui # Pawan Apr 28
     - akj/saas-14520-scheduled-reports # Akash May 17
     - jt/login_logout_data_query # Jonathan T. May 17
-    - smh/split-screen-case-search # Steph May 23
     # - akj/config-delete-debug # Akash May 24
     - mk/validate-attachments # MK May 24
     # - akj/report-cach-issue # Akash May 25
@@ -41,6 +40,8 @@ branches:
     - em/sscs-search-again-workflow # Evan May 29
     - gh/data-deletion/form-deletion-ui # Graham May 30
     # - ap/update-ddtrace # Amit May 31
+    - smh/split-screen-case-search+mvp_map # Steph June 5
+    - smh/split-screen-case-search # Steph May 23
     - riese/mvp_map # Martin May 31
     - cs/SC-2636-copy_cases_to_test_user # Charl Smit May 31
     - bmb/cle-copy-changes  # Biyeun May 31
