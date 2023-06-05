@@ -37,7 +37,6 @@ branches:
     - bmb/b5/javascript-split  # Biyeun May 25
     - dm/repeaters-db-split # Daniel May 25
     - bmb/cle-ui-improvements  # Biyeun May 26
-    - em/sscs-search-again-workflow # Evan May 29
     - gh/data-deletion/form-deletion-ui # Graham May 30
     # - ap/update-ddtrace # Amit May 31
     - smh/split-screen-case-search+mvp_map # Steph June 5
@@ -45,7 +44,6 @@ branches:
     - riese/mvp_map # Martin May 31
     - cs/SC-2636-copy_cases_to_test_user # Charl Smit May 31
     - bmb/cle-copy-changes  # Biyeun May 31
-    - em/sscs-field-type-accommodation # Evan May 31
     - ad/case-tile-template-UI # Addison Jun 1
     - ml/CLE-char-limit-error # Minha Jun 1
     - ap/es/create-new-indexes+configurable_multiplexer
