@@ -51,4 +51,5 @@ branches:
     - ap/es/create-new-indexes # Amit Jun 2
     - ap/es/configurable-multiplexer # Amit Jun 2
     - ap/es/add-secondary-index # Amit Jun 2
+    - nh/rebuild_failed  # Norman Jun 5
 submodules: { }
