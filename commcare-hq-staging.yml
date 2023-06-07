@@ -39,7 +39,6 @@ branches:
     - smh/split-screen-case-search # Steph May 23
     - cs/SC-2636-copy_cases_to_test_user # Charl Smit May 31
     - bmb/cle-copy-changes  # Biyeun May 31
-    - ad/case-tile-template-UI # Addison Jun 1
     - ml/CLE-char-limit-error # Minha Jun 1
     - ap/es/create-new-indexes+configurable_multiplexer
     - ap/es/create-new-indexes # Amit Jun 2
