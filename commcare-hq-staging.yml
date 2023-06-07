@@ -48,4 +48,6 @@ branches:
     - ap/es/configurable-multiplexer # Amit Jun 2
     - ap/es/add-secondary-index # Amit Jun 2
     - nh/rebuild_failed  # Norman Jun 5
+    - riese/bha-case-tile-template # Martin Jun 6
+    - riese/interactive_map # Martin Jun 6
 submodules: { }
