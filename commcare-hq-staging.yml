@@ -11,11 +11,9 @@ branches:
     - ce/bulk-case-search # Cal July 6
     # - sr/memoized-toggle # Sravan July 26
     # - dependabot/pip/requirements/certifi-2021.10.8   # SK / Joel Oct 12
-    # - mk/support-expanded-cols-in-mobile-ucr # MK Feb 2
     - dmr/add-support-for-ses-django-email-backend  # Danny Aug 26
     # - smh/remove-setSelectedValue-import # Steph Sept 20
     - akj/migrations-fix # Akash Oct 11
-    - mk/support-expanded-cols-in-mobile-ucr-2 # MK Oct 31
     # - akj/abdm-api-for-mobile-app # Akash Sep 28
     - es/redirect-domain  # Ethan Nov 21
     #- jls/web-apps-requirejs  # Jenny Jan 17
