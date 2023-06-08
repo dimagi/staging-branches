@@ -7,5 +7,6 @@ branches:
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches: []
+    branches:
+      - jls/image-enum-style # Jenny June 8
 
