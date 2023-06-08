@@ -51,4 +51,5 @@ branches:
     - akj/case-export-all # Akash June 8
     - jt/login_logout_exclude_null_user # Jonathan T. June 8
     - ap/es/enhance-reindex-process # Amit June 8
+    - jls/web-apps-image-enum # Jenny June 8
 submodules: { }
