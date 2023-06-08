@@ -44,7 +44,7 @@ branches:
     - ap/es/create-new-indexes # Amit Jun 2
     - ap/es/configurable-multiplexer # Amit Jun 2
     - ap/es/add-secondary-index # Amit Jun 2
-    - nh/rebuild_failed  # Norman Jun 5
+    # - nh/rebuild_failed  # Norman Jun 5
     - riese/interactive_map # Martin Jun 6
     - ze/application_error_report_ga # Zandre June 7
     - mk/escape-question-labels # MK June 7
