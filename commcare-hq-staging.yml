@@ -24,6 +24,7 @@ branches:
     - cs/SC-2621/ga_export_ownership # Chris Apr 14
     #- cs/SC-2683-mw_attendee_progress_bar # Apr 19
     - ml/adjust-dates-by-timezone-CLE # Minha  Apr 27
+    - pkv/data-dictionary-groups-editable-ui # Pawan Apr 28
     - akj/saas-14520-scheduled-reports # Akash May 17
     # - akj/config-delete-debug # Akash May 24
     - mk/validate-attachments # MK May 24
@@ -38,11 +39,6 @@ branches:
     - cs/SC-2636-copy_cases_to_test_user # Charl Smit May 31
     - bmb/cle-copy-changes  # Biyeun May 31
     - ml/CLE-char-limit-error # Minha Jun 1
-    - deprecate_case_types_in_dd+data-dictionary-groups-editable-ui+add-secondary-index # Zandre June 12
-    - ze/deprecate_case_types_in_dd # Zandre June 12
-    - pkv/data-dictionary-groups-editable-ui # Pawan Apr 28
-    # - ze/deprecate_case_types_warnings # Zandre June 12
-    # - ze/deprecate_case_types_filter # Zandre June 12
     - ap/es/create-new-indexes+configurable_multiplexer
     - ap/es/create-new-indexes # Amit Jun 2
     - ap/es/add-secondary-index # Amit Jun 2
