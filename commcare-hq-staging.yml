@@ -50,4 +50,5 @@ branches:
     - ap/es/enhance-reindex-process # Amit June 8
     - jls/web-apps-image-enum # Jenny June 8
     - jls/simplest-tile-template # Jenny June 9
+    - smh/sscs-qa-updates # Steph June 12
 submodules: { }
