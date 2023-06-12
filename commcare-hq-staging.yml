@@ -39,9 +39,9 @@ branches:
     - cs/SC-2636-copy_cases_to_test_user # Charl Smit May 31
     - bmb/cle-copy-changes  # Biyeun May 31
     - ml/CLE-char-limit-error # Minha Jun 1
-    - ze/deprecate_case_types_in_dd # Zandre June 12
-    - ze/deprecate_case_types_warnings # Zandre June 12
-    - ze/deprecate_case_types_filter # Zandre June 12
+    # - ze/deprecate_case_types_in_dd # Zandre June 12
+    # - ze/deprecate_case_types_warnings # Zandre June 12
+    # - ze/deprecate_case_types_filter # Zandre June 12
     - ap/es/create-new-indexes+configurable_multiplexer
     - ap/es/create-new-indexes # Amit Jun 2
     - ap/es/add-secondary-index # Amit Jun 2
