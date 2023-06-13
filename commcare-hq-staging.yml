@@ -51,4 +51,5 @@ branches:
     - jls/simplest-tile-template # Jenny June 9
     - smh/sscs-qa-updates # Steph June 12
     - sk/case-tile-group-v0 # Simon June 13
+    - es/instance-error  # Ethan June 13
 submodules: { }
