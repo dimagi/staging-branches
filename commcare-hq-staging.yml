@@ -37,8 +37,6 @@ branches:
     - cs/SC-2636-copy_cases_to_test_user # Charl Smit May 31
     - bmb/cle-copy-changes  # Biyeun May 31
     - ml/CLE-char-limit-error # Minha Jun 1
-    - ap/es/create-new-indexes+configurable_multiplexer
-    - ap/es/create-new-indexes # Amit Jun 2
     - ap/es/add-secondary-index # Amit Jun 2
     # - nh/rebuild_failed  # Norman Jun 5
     - riese/interactive_map # Martin Jun 6
@@ -51,4 +49,5 @@ branches:
     - smh/sscs-qa-updates # Steph June 12
     - sk/case-tile-group-v0 # Simon June 13
     - es/instance-error  # Ethan June 13
+    - ap/es/new-indexes # Amit June 13
 submodules: { }
