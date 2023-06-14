@@ -43,7 +43,6 @@ branches:
     - ay/push-notification-stage # Ajeet June 8
     - akj/ush-2887-case-export # Akash June 8
     - ap/es/new-indexes+ap/es/add-secondary-index # Amit June 13
-    - ap/es/enhance-reindex-process # Amit June 8
     - jls/web-apps-image-enum # Jenny June 8
     - jls/simplest-tile-template # Jenny June 9
     - smh/sscs-qa-updates # Steph June 12
