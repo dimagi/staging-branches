@@ -23,7 +23,6 @@ branches:
     - gh/remove-duplicate-kafka-seq-code # Graham Dec 26
     - cs/SC-2621/ga_export_ownership # Chris Apr 14
     #- cs/SC-2683-mw_attendee_progress_bar # Apr 19
-    - pkv/data-dictionary-groups-editable-ui # Pawan Apr 28
     - akj/saas-14520-scheduled-reports # Akash May 17
     # - akj/config-delete-debug # Akash May 24
     - mk/validate-attachments # MK May 24
@@ -41,7 +40,6 @@ branches:
     - riese/interactive_map # Martin Jun 6
     - mk/escape-question-labels # MK June 7
     - ay/push-notification-stage # Ajeet June 8
-    - akj/ush-2887-case-export # Akash June 8
     - ap/es/new-indexes+ap/es/add-secondary-index # Amit June 13
     - jls/web-apps-image-enum # Jenny June 8
     - jls/simplest-tile-template # Jenny June 9
@@ -50,6 +48,9 @@ branches:
     - es/instance-error  # Ethan June 13
     - ap/es/new-indexes # Amit June 13
     - es/menu-instances # Ethan/Robert June 13
-    # - ze/deprecate_case_types # Zandre June 14
+    - deprecate_case_types+data-dictionary-groups-editable-ui+ush-2887-case-export # Zandre June 14
+    - ze/deprecate_case_types # Zandre June 14
+    - pkv/data-dictionary-groups-editable-ui # Pawan Apr 28
+    - akj/ush-2887-case-export # Akash June 8
     - cs/SC-2781-show-banner-for-missing-case-data # Charl Jun 14
 submodules: { }
