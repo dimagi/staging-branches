@@ -3,10 +3,11 @@
 trunk: master
 name: autostaging
 branches:
-    - addIpToPost 
+    - groupEntities # Shubham June 13
 submodules:
   libs/commcare:
     trunk: formplayer
     branches:
       - rc/custom-assertions-fp # Robert June 13
+      - groupEntities # Shubham June 13
 
