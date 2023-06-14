@@ -51,5 +51,5 @@ branches:
     - es/instance-error  # Ethan June 13
     - ap/es/new-indexes # Amit June 13
     # - es/menu-instances # Robert June 13
-    - ze/deprecate_case_types # Zandre June 14
+    # - ze/deprecate_case_types # Zandre June 14
 submodules: { }
