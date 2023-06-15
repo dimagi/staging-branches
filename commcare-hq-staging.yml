@@ -51,4 +51,5 @@ branches:
     - akj/ush-2887-case-export # Akash June 8
     - cs/SC-2781-show-banner-for-missing-case-data # Charl Jun 14
     - ad/case-tiles-no-items-textx3 # Addison Jun 14
+    - jt/case_tiles_sorting # Jonathan T. June 15
 submodules: { }
