@@ -52,4 +52,5 @@ branches:
     - pkv/data-dictionary-groups-editable-ui # Pawan Apr 28
     - cs/SC-2781-show-banner-for-missing-case-data # Charl Jun 14
     - ad/case-tiles-no-items-textx3 # Addison Jun 14
+    - ze/data_dictionary_ga # Zandre June 15
 submodules: { }
