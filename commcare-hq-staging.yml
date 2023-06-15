@@ -27,7 +27,6 @@ branches:
     # - akj/config-delete-debug # Akash May 24
     - mk/validate-attachments # MK May 24
     # - akj/report-cach-issue # Akash May 25
-    - dm/repeaters-db-split # Daniel May 25
     - bmb/cle-ui-improvements  # Biyeun May 26
     - gh/data-deletion/form-deletion-ui # Graham May 30
     # - ap/update-ddtrace # Amit May 31
