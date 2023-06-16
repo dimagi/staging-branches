@@ -19,7 +19,6 @@ branches:
     #- jls/web-apps-requirejs  # Jenny Jan 17
     # - ce/enable-case-rate-limits # Cal Feb 1
     # - ml/enforce-metadata-ff # Minha Feb 2
-    
     - gh/remove-duplicate-kafka-seq-code # Graham Dec 26
     - cs/SC-2621/ga_export_ownership # Chris Apr 14
     #- cs/SC-2683-mw_attendee_progress_bar # Apr 19
