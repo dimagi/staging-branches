@@ -53,5 +53,5 @@ branches:
     - sk/case-tile-group-v0 # Simon June 13
     - jt/case_tiles_sorting # Jonathan T. June 15
     - akj/ush-3280-DD-properties-ordering # Akash June 16
-    - ad/add-case-tile-templates # Addison Jun 16
+    - ad/add-case-tile-temlates+jls/simplest-tile-template # Addison Jun 16
 submodules: { }
