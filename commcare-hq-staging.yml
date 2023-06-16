@@ -51,5 +51,5 @@ branches:
     - jt/case_tiles_sorting+sk/case-tile-group-v0 # Jonathan T. June 15
     - sk/case-tile-group-v0 # Simon June 13
     - jt/case_tiles_sorting # Jonathan T. June 15
-    - ze/data_dictionary_ga # Zandre June 16
+    # - ze/data_dictionary_ga # Zandre June 16
 submodules: { }
