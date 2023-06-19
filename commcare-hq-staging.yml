@@ -37,7 +37,7 @@ branches:
     # - nh/rebuild_failed  # Norman Jun 5
     - riese/interactive_map # Martin Jun 6
     - mk/escape-question-labels # MK June 7
-    - ay/push-notification-stage # Ajeet June 8
+    - ay/push-notification # Ajeet June 19
     - jls/web-apps-image-enum # Jenny June 8
     - jls/simplest-tile-template # Jenny June 9
     - smh/sscs-qa-updates # Steph June 12
