@@ -40,7 +40,6 @@ branches:
     - jls/web-apps-image-enum # Jenny June 8
     - jls/simplest-tile-template # Jenny June 9
     - smh/sscs-qa-updates # Steph June 12
-    - es/instance-error  # Ethan June 13
     - es/menu-instances # Ethan/Robert June 13
     - ze/data_dictionary_ga+mjr/erm-overwrite # Zandre June 20
     - ze/data_dictionary_ga # Zandre June 19
