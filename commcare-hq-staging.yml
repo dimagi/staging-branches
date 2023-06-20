@@ -42,7 +42,6 @@ branches:
     - smh/sscs-qa-updates # Steph June 12
     - es/instance-error  # Ethan June 13
     - es/menu-instances # Ethan/Robert June 13
-    # - ze/data_dictionary_ga+mjr/erm-overwrite+ze/deprecate_case_types # Zandre June 16
     - ze/data_dictionary_ga+mjr/erm-overwrite # Zandre June 20
     - ze/data_dictionary_ga # Zandre June 19
     - mjr/erm-overwrite # Matt Feb 21
