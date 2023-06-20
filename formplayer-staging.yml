@@ -4,6 +4,7 @@ trunk: master
 name: autostaging
 branches:
     - groupEntities # Shubham June 13
+    - eoftoSearchResults # Shubham June 20
 submodules:
   libs/commcare:
     trunk: formplayer
