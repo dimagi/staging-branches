@@ -8,7 +8,7 @@ submodules:
   libs/commcare:
     trunk: formplayer
     branches:
-      # - rc/custom-assertions-fp # Robert June 13
+      - rc/custom-assertions-fp # Robert June 13
       - groupEntities # Shubham June 13
       - addsAlignmentToResp # Shubham June 16
 
