@@ -43,6 +43,7 @@ branches:
     - es/instance-error  # Ethan June 13
     - es/menu-instances # Ethan/Robert June 13
     # - ze/data_dictionary_ga+mjr/erm-overwrite+ze/deprecate_case_types # Zandre June 16
+    - ze/data_dictionary_ga+mjr/erm-overwrite # Zandre June 20
     - ze/data_dictionary_ga # Zandre June 19
     - mjr/erm-overwrite # Matt Feb 21
     # - ze/deprecate_case_types+akj/ush-2887-case-export # Zandre June 15
