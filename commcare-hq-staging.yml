@@ -40,12 +40,12 @@ branches:
     - jls/web-apps-image-enum # Jenny June 8
     - jls/simplest-tile-template # Jenny June 9
     - es/menu-instances # Ethan/Robert June 13
+    - ze/deprecate_case_types+ze/data_dictionary_ga+akj/ush-2887-case-export # Zandre June 21
+    - ze/deprecate_case_types # Zandre June 14
+    - akj/ush-2887-case-export # Akash June 8
     - ze/data_dictionary_ga+mjr/erm-overwrite # Zandre June 20
     - ze/data_dictionary_ga # Zandre June 19
     - mjr/erm-overwrite # Matt Feb 21
-    # - ze/deprecate_case_types+akj/ush-2887-case-export # Zandre June 15
-    - ze/deprecate_case_types # Zandre June 14
-    - akj/ush-2887-case-export # Akash June 8
     - cs/SC-2781-show-banner-for-missing-case-data # Charl Jun 14
     - jt/case_tiles_sorting+sk/case-tile-group-v0 # Jonathan T. June 15
     - sk/case-tile-group-v0 # Simon June 13
