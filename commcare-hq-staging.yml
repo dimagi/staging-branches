@@ -30,7 +30,6 @@ branches:
     # - ap/update-ddtrace # Amit May 31
     - bmb/cle-copy-changes  # Biyeun May 31
     # - nh/rebuild_failed  # Norman Jun 5
-    # - riese/interactive_map # Martin Jun 6
     - mk/escape-question-labels # MK June 7
     - ay/push-notification # Ajeet June 19
     - jls/web-apps-image-enum # Jenny June 8
@@ -50,4 +49,6 @@ branches:
     - akj/ush-3280-DD-properties-ordering # Akash June 16
     - bmb/cle-prep-management-command  # Biyeun June 20 (management command only)
     - ap/es/remove-size-0-from-aggs # Amit June 21
+    - riese/rm_polyfill # Martin June 21
+    - riese/detail_popup # Martin June 21
 submodules: { }
