@@ -34,7 +34,7 @@ branches:
     - bmb/cle-copy-changes  # Biyeun May 31
     - ap/es/add-secondary-index # Amit Jun 2
     # - nh/rebuild_failed  # Norman Jun 5
-    - riese/interactive_map # Martin Jun 6
+    # - riese/interactive_map # Martin Jun 6
     - mk/escape-question-labels # MK June 7
     - ay/push-notification # Ajeet June 19
     - jls/web-apps-image-enum # Jenny June 8
