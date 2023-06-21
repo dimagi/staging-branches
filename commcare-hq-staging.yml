@@ -28,7 +28,6 @@ branches:
     # - akj/report-cach-issue # Akash May 25
     - gh/data-deletion/form-deletion-ui # Graham May 30
     # - ap/update-ddtrace # Amit May 31
-    - smh/split-screen-case-search # Steph May 23
     - bmb/cle-copy-changes  # Biyeun May 31
     # - nh/rebuild_failed  # Norman Jun 5
     # - riese/interactive_map # Martin Jun 6
