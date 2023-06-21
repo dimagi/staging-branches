@@ -32,7 +32,6 @@ branches:
     - smh/split-screen-case-search # Steph May 23
     - cs/SC-2636-copy_cases_to_test_user # Charl Smit May 31
     - bmb/cle-copy-changes  # Biyeun May 31
-    - ap/es/add-secondary-index # Amit Jun 2
     # - nh/rebuild_failed  # Norman Jun 5
     # - riese/interactive_map # Martin Jun 6
     - mk/escape-question-labels # MK June 7
@@ -52,4 +51,5 @@ branches:
     - jt/case_tiles_sorting # Jonathan T. June 15
     - akj/ush-3280-DD-properties-ordering # Akash June 16
     - bmb/cle-prep-management-command  # Biyeun June 20 (management command only)
+    - ap/es/remove-size-0-from-aggs # Amit June 21
 submodules: { }
