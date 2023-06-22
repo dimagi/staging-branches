@@ -49,4 +49,5 @@ branches:
     - ap/es/remove-size-0-from-aggs # Amit June 21
     - riese/rm_polyfill # Martin June 21
     - riese/detail_popup # Martin June 21
+    - akj/ush-3062-GA-web-app-menu-lang # Akash June 22
 submodules: { }
