@@ -50,4 +50,5 @@ branches:
     - riese/rm_polyfill # Martin June 21
     - riese/detail_popup # Martin June 21
     - akj/ush-3062-GA-web-app-menu-lang # Akash June 22
+    - jt/case_tile_grouping_v1 # Jonathan T. June 22
 submodules: { }
