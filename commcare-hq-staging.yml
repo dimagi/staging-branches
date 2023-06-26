@@ -30,7 +30,7 @@ branches:
     # - ap/update-ddtrace # Amit May 31
     - bmb/cle-copy-changes  # Biyeun May 31
     - mk/escape-question-labels # MK June 7
-    - ay/push-notification # Ajeet June 19
+    # - ay/push-notification # Ajeet June 19
     - jls/web-apps-image-enum # Jenny June 8
     - jls/simplest-tile-template # Jenny June 9
     - es/menu-instances # Ethan/Robert June 13
@@ -48,10 +48,11 @@ branches:
     - riese/rm_polyfill # Martin June 21
     - riese/detail_popup # Martin June 21
     - akj/ush-3062-GA-web-app-menu-lang # Akash June 22
-    - jt/case_tile_grouping_v2 # Jonathan T. June 23
     - jls/render-html-entities-in-tiles # Jenny June 23
     - ml/ancestor-function-error # Minha June 23
     - nh/childext_2  # Norman June 26
     - riese/unscrolling_map # Martin June 26
+    - em/case-search-tiles-action-fix+jt/case_tile_grouping_v2 # Evan June 26
     - em/case-search-tiles-action-fix # Evan June 26
+    - jt/case_tile_grouping_v2 # Jonathan T. June 23
 submodules: { }
