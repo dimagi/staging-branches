@@ -29,7 +29,6 @@ branches:
     - gh/data-deletion/form-deletion-ui # Graham May 30
     # - ap/update-ddtrace # Amit May 31
     - bmb/cle-copy-changes  # Biyeun May 31
-    # - nh/rebuild_failed  # Norman Jun 5
     - mk/escape-question-labels # MK June 7
     - ay/push-notification # Ajeet June 19
     - jls/web-apps-image-enum # Jenny June 8
@@ -52,4 +51,5 @@ branches:
     - jt/case_tile_grouping_v2 # Jonathan T. June 23
     - jls/render-html-entities-in-tiles # Jenny June 23
     - ml/ancestor-function-error # Minha June 23
+    - nh/childext_2  # Norman June 26
 submodules: { }
