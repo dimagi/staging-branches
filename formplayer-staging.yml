@@ -2,14 +2,10 @@
 
 trunk: master
 name: autostaging
-branches:
-    - groupEntities # Shubham June 13
-    - eofBug # Shubham June 21
+branches: []
 submodules:
   libs/commcare:
     trunk: formplayer
     branches:
       - rc/custom-assertions-fp # Robert June 13
-      - groupEntities # Shubham June 13
-      - eofBug # Shubham June 21
       
