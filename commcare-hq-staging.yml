@@ -51,7 +51,6 @@ branches:
     - jls/render-html-entities-in-tiles # Jenny June 23
     - ml/ancestor-function-error # Minha June 23
     - nh/childext_2  # Norman June 26
-    - riese/unscrolling_map # Martin June 26
     - em/case-search-tiles-action-fix+jt/case_tile_grouping_v2 # Evan June 26
     - em/case-search-tiles-action-fix # Evan June 26
     - jt/case_tile_grouping_v2 # Jonathan T. June 23
