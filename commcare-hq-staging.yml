@@ -46,7 +46,6 @@ branches:
     - akj/ush-3280-DD-properties-ordering # Akash June 16
     - ap/es/remove-size-0-from-aggs # Amit June 21
     - riese/rm_polyfill # Martin June 21
-    - riese/detail_popup # Martin June 21
     - akj/ush-3062-GA-web-app-menu-lang # Akash June 22
     - jls/render-html-entities-in-tiles # Jenny June 23
     - ml/ancestor-function-error # Minha June 23
