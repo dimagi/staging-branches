@@ -47,7 +47,6 @@ branches:
     - nh/childext_2  # Norman June 26
     - jt/case_tile_grouping_v2 # Jonathan T. June 23
     - riese/validate_address_popup_unique # Martin June 27
-    - riese/map_ff # Martin June 27
     - jc/sort_by_date # Jing June 27
     - gh/data-deletion/soft-delete-couch-docs # Daniel June 28
 submodules: { }
