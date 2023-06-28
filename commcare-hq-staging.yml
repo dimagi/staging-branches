@@ -46,8 +46,6 @@ branches:
     - akj/ush-3062-GA-web-app-menu-lang # Akash June 22
     - ml/ancestor-function-error # Minha June 23
     - nh/childext_2  # Norman June 26
-    - em/case-search-tiles-action-fix+jt/case_tile_grouping_v2 # Evan June 26
-    - em/case-search-tiles-action-fix # Evan June 26
     - jt/case_tile_grouping_v2 # Jonathan T. June 23
     - riese/validate_address_popup_unique # Martin June 27
     - riese/map_ff # Martin June 27
