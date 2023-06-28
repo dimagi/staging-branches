@@ -39,7 +39,6 @@ branches:
     - mjr/erm-overwrite # Matt Feb 21
     - cs/SC-2781-show-banner-for-missing-case-data # Charl Jun 14
     - jt/case_tiles_sorting+sk/case-tile-group-v0 # Jonathan T. June 15
-    - sk/case-tile-group-v0 # Simon June 13
     - jt/case_tiles_sorting # Jonathan T. June 15
     - akj/ush-3280-DD-properties-ordering # Akash June 16
     - riese/rm_polyfill # Martin June 21
