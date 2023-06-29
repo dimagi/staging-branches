@@ -43,7 +43,7 @@ branches:
     - akj/ush-3062-GA-web-app-menu-lang # Akash June 22
     - ml/ancestor-function-error # Minha June 23
     - nh/childext_2  # Norman June 26
-    # - jc/sort_by_date # Jing June 27
+    - jc/sort_by_date # Jing June 27
     - gh/data-deletion/soft-delete-couch-docs # Daniel June 28
     - em/case-tiles-centering # Evan June 28
     - jls/render-line-breaks-map-popup # Jenny June 29
