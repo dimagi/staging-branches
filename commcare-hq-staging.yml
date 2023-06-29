@@ -47,4 +47,5 @@ branches:
     - gh/data-deletion/soft-delete-couch-docs # Daniel June 28
     - em/case-tiles-centering # Evan June 28
     - ap/update-flower # Amit June 29
+    - jls/render-line-breaks-map-popup # Jenny June 29
 submodules: { }
