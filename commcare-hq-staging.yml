@@ -27,7 +27,7 @@ branches:
     - mk/validate-attachments # MK May 24
     # - akj/report-cach-issue # Akash May 25
     - gh/data-deletion/form-deletion-ui # Graham May 30
-    - ap/update-ddtrace # Amit May 31
+    # - ap/update-ddtrace # Amit May 31
     - bmb/cle-copy-changes  # Biyeun May 31
     - mk/escape-question-labels # MK June 7
     # - ay/push-notification # Ajeet June 19
