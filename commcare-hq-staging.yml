@@ -46,4 +46,5 @@ branches:
     - jc/sort_by_date # Jing June 27
     - gh/data-deletion/soft-delete-couch-docs # Daniel June 28
     - em/case-tiles-centering # Evan June 28
+    - ad/swtich-newline-syntax-web-apps # Addison June 30
 submodules: { }
