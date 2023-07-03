@@ -50,4 +50,5 @@ branches:
     - es/mobile-ucr  # Ethan June 30
     - ap/es/fix-sort-param # Amit July 3
     - endpointCaseList # Shubham July 3
+    - riese/register_case_tile # Martin July 3
 submodules: { }
