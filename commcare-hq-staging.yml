@@ -51,4 +51,5 @@ branches:
     - ap/es/fix-sort-param # Amit July 3
     - endpointCaseList # Shubham July 3
     - riese/register_case_tile # Martin July 3
+    - em/sscs-force-manual-search # Evan July 3
 submodules: { }
