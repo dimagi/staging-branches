@@ -52,4 +52,5 @@ branches:
     - endpointCaseList # Shubham July 3
     - riese/register_case_tile # Martin July 3
     - em/sscs-force-manual-search # Evan July 3
+    - em/case-tile-template-quick-bugfix # Evan July 4
 submodules: { }
