@@ -49,7 +49,6 @@ branches:
     - ad/swtich-newline-syntax-web-apps # Addison June 30
     - es/mobile-ucr  # Ethan June 30
     - ap/es/fix-sort-param # Amit July 3
-    - endpointCaseList # Shubham July 3
     - riese/register_case_tile # Martin July 3
     - em/sscs-force-manual-search # Evan July 3
     - em/case-tile-template-quick-bugfix # Evan July 4
