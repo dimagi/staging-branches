@@ -53,4 +53,5 @@ branches:
     - em/sscs-force-manual-search # Evan July 3
     - em/case-tile-template-quick-bugfix # Evan July 4
     - sg/case_list_grouping_form_error # Shubham July 4
+    - riese/hide_map_templates # Martin July 5
 submodules: { }
