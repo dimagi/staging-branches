@@ -51,4 +51,5 @@ branches:
     - ap/es/fix-sort-param # Amit July 3
     - riese/register_case_tile # Martin July 3
     - riese/hide_map_templates # Martin July 5
+    - pkv/dd-description-limit-revert  # Ethan/Pawan July 5
 submodules: { }
