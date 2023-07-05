@@ -38,7 +38,6 @@ branches:
     - cs/SC-2636-copy_cases_to_test_user # Charl Smit May 31
     - mjr/erm-overwrite # Matt Feb 21
     - cs/SC-2781-show-banner-for-missing-case-data # Charl Jun 14
-    - akj/ush-3280-DD-properties-ordering # Akash June 16
     - riese/rm_polyfill # Martin June 21
     - akj/ush-3062-GA-web-app-menu-lang # Akash June 22
     - ml/ancestor-function-error # Minha June 23
@@ -46,7 +45,6 @@ branches:
     - jc/sort_by_date # Jing June 27
     - gh/data-deletion/soft-delete-couch-docs # Daniel June 28
     - em/case-tiles-centering # Evan June 28
-    - ad/swtich-newline-syntax-web-apps # Addison June 30
     - es/mobile-ucr  # Ethan June 30
     - riese/register_case_tile # Martin July 3
     - riese/hide_map_templates # Martin July 5
