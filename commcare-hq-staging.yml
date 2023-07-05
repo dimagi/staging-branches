@@ -48,7 +48,6 @@ branches:
     - em/case-tiles-centering # Evan June 28
     - ad/swtich-newline-syntax-web-apps # Addison June 30
     - es/mobile-ucr  # Ethan June 30
-    - ap/es/fix-sort-param # Amit July 3
     - riese/register_case_tile # Martin July 3
     - riese/hide_map_templates # Martin July 5
     - pkv/dd-description-limit-revert  # Ethan/Pawan July 5
