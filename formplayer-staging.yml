@@ -7,5 +7,5 @@ submodules:
   libs/commcare:
     trunk: formplayer
     branches:
-      - StackStepNullability # Shubham July 6
+      - skipNullValuesInSessionInstance # Shubham July 6
       
