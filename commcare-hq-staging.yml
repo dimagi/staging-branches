@@ -32,9 +32,9 @@ branches:
     - mk/escape-question-labels # MK June 7
     # - ay/push-notification # Ajeet June 19
     - es/menu-instances # Ethan/Robert June 13
-    - ze/data_dictionary_ga+ze/deprecate_case_types+cs/SC-2636-copy_cases_to_test_user+mjr/erm-overwrite # Zandre June 26
-    - ze/data_dictionary_ga # Zandre June 19
-    - ze/deprecate_case_types # Zandre June 14
+    # - ze/data_dictionary_ga+ze/deprecate_case_types+cs/SC-2636-copy_cases_to_test_user+mjr/erm-overwrite # Zandre June 26
+    # - ze/data_dictionary_ga # Zandre June 19
+    # - ze/deprecate_case_types # Zandre June 14
     - cs/SC-2636-copy_cases_to_test_user # Charl Smit May 31
     - mjr/erm-overwrite # Matt Feb 21
     - cs/SC-2781-show-banner-for-missing-case-data # Charl Jun 14
