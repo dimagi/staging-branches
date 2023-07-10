@@ -55,7 +55,6 @@ branches:
     - em/case-tiles-centering # Evan June 28
     - es/mobile-ucr  # Ethan June 30
     - riese/register_case_tile # Martin July 3
-    - riese/hide_map_templates # Martin July 5
     - cs/fix_shared_exports # Chris July 6
     - es/case-search-style  # Ethan July 7
 submodules: { }
