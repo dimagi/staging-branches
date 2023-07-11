@@ -54,7 +54,6 @@ branches:
     - gh/data-deletion/soft-delete-couch-docs # Daniel June 28
     - em/case-tiles-centering # Evan June 28
     - es/mobile-ucr  # Ethan June 30
-    - riese/register_case_tile # Martin July 3
     - cs/fix_shared_exports # Chris July 6
     #- es/case-search-style  # Ethan July 7
 submodules: { }
