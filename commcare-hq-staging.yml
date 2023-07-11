@@ -16,7 +16,7 @@ branches:
     - akj/migrations-fix # Akash Oct 11
     # - akj/abdm-api-for-mobile-app # Akash Sep 28
     - es/redirect-domain  # Ethan Nov 21
-    - jls/web-apps-requirejs  # Jenny Jan 17
+    #- jls/web-apps-requirejs  # Jenny Jan 17
     # - ce/enable-case-rate-limits # Cal Feb 1
     # - ml/enforce-metadata-ff # Minha Feb 2
     - gh/remove-duplicate-kafka-seq-code # Graham Dec 26
@@ -32,22 +32,22 @@ branches:
     - mk/escape-question-labels # MK June 7
     # - ay/push-notification # Ajeet June 19
     - es/menu-instances # Ethan/Robert June 13
-    ##- ze/data_dictionary_ga+ze/deprecate_case_types  # Zandre June 19
-    ##- ze/deprecate_case_types # Zandre June 14
+    - ze/data_dictionary_ga+ze/deprecate_case_types  # Zandre June 19
+    - ze/deprecate_case_types # Zandre June 14
     - ze/data_dictionary_ga+cs/SC-2636-copy_cases_to_test_user  # Zandre June 19
     - cs/SC-2636-copy_cases_to_test_user # Charl Smit May 31
     - mjr/erm-roles  # Matt July 9
     - mjr/erm-custom-roles  # Matt July 9
-    ##- ze/data_dictionary_ga+mjr/erm-update-rules  # Matt July 9
-    ##- mjr/erm-update-rules  # Matt July 9
-    ##- ze/data_dictionary_ga+mjr/erm-fixtures  # Matt July 9
-    ##- mjr/erm-fixtures  # Matt July 9
-    ##- ze/data_dictionary_ga+mjr/erm_reports_keywords_fixes  # Matt July 9
-    ##- mjr/erm_reports_keywords_fixes  # Matt July 9
-    ##- ze/data_dictionary_ga # Zandre June 19
+    - ze/data_dictionary_ga+mjr/erm-update-rules  # Matt July 9
+    - mjr/erm-update-rules  # Matt July 9
+    - ze/data_dictionary_ga+mjr/erm-fixtures  # Matt July 9
+    - mjr/erm-fixtures  # Matt July 9
+    - ze/data_dictionary_ga+mjr/erm_reports_keywords_fixes  # Matt July 9
+    - mjr/erm_reports_keywords_fixes  # Matt July 9
+    - ze/data_dictionary_ga # Zandre June 19
     - cs/SC-2781-show-banner-for-missing-case-data # Charl Jun 14
-    ##- riese/rm_polyfill # Martin June 21
-    ##- akj/ush-3062-GA-web-app-menu-lang # Akash June 22
+    - riese/rm_polyfill # Martin June 21
+    - akj/ush-3062-GA-web-app-menu-lang # Akash June 22
     - ml/ancestor-function-error # Minha June 23
     - nh/childext_2  # Norman June 26
     - jc/sort_by_date # Jing June 27
