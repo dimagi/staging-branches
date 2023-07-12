@@ -27,7 +27,6 @@ branches:
     - mk/validate-attachments # MK May 24
     # - akj/report-cach-issue # Akash May 25
     # - gh/data-deletion/form-deletion-ui # Graham May 30 Branch does not exist anymore
-    - ap/update-ddtrace # Amit May 31
     - bmb/cle-copy-changes  # Biyeun May 31
     # - ay/push-notification # Ajeet June 19
     - es/menu-instances # Ethan/Robert June 13
@@ -56,4 +55,5 @@ branches:
     - cs/fix_shared_exports # Chris July 6
     #- es/case-search-style  # Ethan July 7
     - riese/zoom_control # Martin July 11
+    - ap/es/add-ability-to-copy-checkpoints # Amit July 12
 submodules: { }
