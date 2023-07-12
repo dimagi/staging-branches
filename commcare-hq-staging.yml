@@ -54,4 +54,5 @@ branches:
     #- es/case-search-style  # Ethan July 7
     - riese/zoom_control # Martin July 11
     - ap/es/add-ability-to-copy-checkpoints # Amit July 12
+    - ze/duplicate_data_dictionary_case_properties # Zandre July 12
 submodules: { }
