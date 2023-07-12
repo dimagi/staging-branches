@@ -29,22 +29,22 @@ branches:
     # - gh/data-deletion/form-deletion-ui # Graham May 30 Branch does not exist anymore
     - bmb/cle-copy-changes  # Biyeun May 31
     # - ay/push-notification # Ajeet June 19
-    ##- ze/data_dictionary_ga+ze/deprecate_case_types  # Zandre June 19
-    ##- ze/deprecate_case_types # Zandre June 14
-    ##- ze/data_dictionary_ga+cs/SC-2636-copy_cases_to_test_user  # Zandre June 19
+    - ze/data_dictionary_ga+ze/deprecate_case_types  # Zandre June 19
+    - ze/deprecate_case_types # Zandre June 14
+    - ze/data_dictionary_ga+cs/SC-2636-copy_cases_to_test_user  # Zandre June 19
     - cs/SC-2636-copy_cases_to_test_user # Charl Smit May 31
-    ##- mjr/erm-roles  # Matt July 9
-    ##- mjr/erm-custom-roles  # Matt July 9
-    ##- ze/data_dictionary_ga+mjr/erm-update-rules  # Matt July 9
-    ##- mjr/erm-update-rules  # Matt July 9
-    ##- ze/data_dictionary_ga+mjr/erm-fixtures  # Matt July 9
-    ##- mjr/erm-fixtures  # Matt July 9
-    ##- ze/data_dictionary_ga+mjr/erm_reports_keywords_fixes  # Matt July 9
-    ##- mjr/erm_reports_keywords_fixes  # Matt July 9
-    ##- ze/data_dictionary_ga # Zandre June 19
+    - mjr/erm-roles  # Matt July 9
+    - mjr/erm-custom-roles  # Matt July 9
+    - ze/data_dictionary_ga+mjr/erm-update-rules  # Matt July 9
+    - mjr/erm-update-rules  # Matt July 9
+    - ze/data_dictionary_ga+mjr/erm-fixtures  # Matt July 9
+    - mjr/erm-fixtures  # Matt July 9
+    - ze/data_dictionary_ga+mjr/erm_reports_keywords_fixes  # Matt July 9
+    - mjr/erm_reports_keywords_fixes  # Matt July 9
+    - ze/data_dictionary_ga # Zandre June 19
     - cs/SC-2781-show-banner-for-missing-case-data # Charl Jun 14
-    ##- riese/rm_polyfill # Martin June 21
-    ##- akj/ush-3062-GA-web-app-menu-lang # Akash June 22
+    - riese/rm_polyfill # Martin June 21
+    - akj/ush-3062-GA-web-app-menu-lang # Akash June 22
     - ml/ancestor-function-error # Minha June 23
     - nh/childext_2  # Norman June 26
     - gh/data-deletion/soft-delete-couch-docs # Daniel June 28
