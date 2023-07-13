@@ -43,7 +43,6 @@ branches:
     - mjr/erm_reports_keywords_fixes  # Matt July 9
     - ze/data_dictionary_ga # Zandre June 19
     - cs/SC-2781-show-banner-for-missing-case-data # Charl Jun 14
-    - riese/rm_polyfill # Martin June 21
     - akj/ush-3062-GA-web-app-menu-lang # Akash June 22
     - ml/ancestor-function-error # Minha June 23
     - nh/childext_2  # Norman June 26
