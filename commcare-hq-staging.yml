@@ -52,4 +52,5 @@ branches:
     #- es/case-search-style  # Ethan July 7
     - ze/duplicate_data_dictionary_case_properties # Zandre July 12
     - ml/email-report-bug # Minha July 13
+    - jt/action_time_API_adjustment # Jonathan T. July 13
 submodules: { }
