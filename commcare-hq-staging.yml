@@ -48,12 +48,9 @@ branches:
     - ml/ancestor-function-error # Minha June 23
     - nh/childext_2  # Norman June 26
     - gh/data-deletion/soft-delete-couch-docs # Daniel June 28
-    - em/case-tiles-centering # Evan June 28
     - es/mobile-ucr  # Ethan June 30
     - cs/fix_shared_exports # Chris July 6
     #- es/case-search-style  # Ethan July 7
-    - riese/zoom_control # Martin July 11
-    - ap/es/add-ability-to-copy-checkpoints # Amit July 12
     - ze/duplicate_data_dictionary_case_properties # Zandre July 12
     - ml/email-report-bug # Minha July 13
 submodules: { }
