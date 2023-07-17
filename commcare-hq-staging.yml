@@ -47,7 +47,6 @@ branches:
     - ml/ancestor-function-error # Minha June 23
     - nh/childext_2  # Norman June 26
     - gh/data-deletion/soft-delete-couch-docs # Daniel June 28
-    - cs/fix_shared_exports # Chris July 6
     #- es/case-search-style  # Ethan July 7
     - ml/email-report-bug # Minha July 13
     - jt/action_time_API_adjustment # Jonathan T. July 13
