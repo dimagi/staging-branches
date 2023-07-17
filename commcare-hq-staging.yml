@@ -53,4 +53,5 @@ branches:
     - jc/duplicate-icon # Jing July 16
     - riese/delete_domain # Martin July 17
     - ad/fix-cloudcareURL-bug # Addison Jul 17
+    - jt/new_case_tile_template # Jonathan T. July 17
 submodules: { }
