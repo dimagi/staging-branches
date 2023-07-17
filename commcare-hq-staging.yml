@@ -50,5 +50,5 @@ branches:
     #- es/case-search-style  # Ethan July 7
     - ml/email-report-bug # Minha July 13
     - jt/action_time_API_adjustment # Jonathan T. July 13
-    # - jc/duplicate-icon # Jing July 16
+    - jc/duplicate-icon # Jing July 16
 submodules: { }
