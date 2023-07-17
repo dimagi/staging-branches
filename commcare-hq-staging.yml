@@ -51,4 +51,5 @@ branches:
     - ml/email-report-bug # Minha July 13
     - jt/action_time_API_adjustment # Jonathan T. July 13
     - jc/duplicate-icon # Jing July 16
+    - riese/delete_domain # Martin July 17
 submodules: { }
