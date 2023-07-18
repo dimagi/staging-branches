@@ -55,4 +55,5 @@ branches:
     - ad/fix-cloudcareURL-bug # Addison Jul 17
     - jt/new_case_tile_template # Jonathan T. July 17
     - cs/hide-GAed-feature # Charl Jul 18
+    - dependabot/pip/requirements/django-redis-5.3.0 # Daniel & Jing, Jul 18
 submodules: { }
