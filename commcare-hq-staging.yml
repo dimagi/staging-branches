@@ -54,6 +54,5 @@ branches:
     - riese/delete_domain # Martin July 17
     - ad/fix-cloudcareURL-bug # Addison Jul 17
     - jt/new_case_tile_template # Jonathan T. July 17
-    - cs/SC-2871-microplanning-settings-page # Charl Jul 18
     - cs/hide-GAed-feature # Charl Jul 18
 submodules: { }
