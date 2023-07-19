@@ -55,4 +55,6 @@ branches:
     - riese/delete_domain # Martin July 17
     - ad/fix-cloudcareURL-bug # Addison Jul 17
     - cs/hide-GAed-feature # Charl Jul 18
+    - jc/subscription-plan-setup # Jing Jul 19
+    - jc/bill-web-user-flag # Jing Jul 19
 submodules: { }
