@@ -28,14 +28,14 @@ branches:
     # - gh/data-deletion/form-deletion-ui # Graham May 30 Branch does not exist anymore
     - bmb/cle-copy-changes  # Biyeun May 31
     # - ay/push-notification # Ajeet June 19
-    # - ze/deprecate_case_types+ze/data_dictionary_excel_import_usability_improvement # Zandre July 19
+    - ze/deprecate_case_types+ze/data_dictionary_excel_import_usability_improvement # Zandre July 19
     - ze/data_dictionary_excel_import_usability_improvement # Zandre July 19
-    # - ze/data_dictionary_ga+ze/deprecate_case_types  # Zandre June 19
-    # - ze/deprecate_case_types # Zandre June 14
+    - ze/data_dictionary_ga+ze/deprecate_case_types  # Zandre June 19
+    - ze/deprecate_case_types # Zandre June 14
     - cs/SC-2636-copy_cases_to_test_user # Charl Smit May 31
-    # - ze/data_dictionary_ga+mjr/erm-all # Matt July 19
+    - ze/data_dictionary_ga+mjr/erm-all # Matt July 19
     - mjr/erm-all # Matt July 19
-    # - ze/data_dictionary_ga # Zandre June 19
+    - ze/data_dictionary_ga # Zandre June 19
     - cs/SC-2781-show-banner-for-missing-case-data # Charl Jun 14
     # - akj/ush-3062-GA-web-app-menu-lang # Akash June 22
     - ml/ancestor-function-error # Minha June 23
@@ -46,7 +46,7 @@ branches:
     - jc/duplicate-icon # Jing July 16
     - ad/fix-cloudcareURL-bug # Addison Jul 17
     - cs/hide-GAed-feature # Charl Jul 18
-    - jc/subscription-plan-setup # Jing Jul 19
-    - jc/bill-web-user-flag # Jing Jul 19
+    # - jc/subscription-plan-setup # Jing Jul 19
+    # - jc/bill-web-user-flag # Jing Jul 19
     - smh/sscs-case-list-subtitles # Steph July 19
 submodules: { }
