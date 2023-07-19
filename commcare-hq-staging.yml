@@ -53,5 +53,6 @@ branches:
     - riese/delete_domain # Martin July 17
     - ad/fix-cloudcareURL-bug # Addison Jul 17
     - cs/hide-GAed-feature # Charl Jul 18
+    - ze/deprecate_case_types+ze/data_dictionary_excel_import_usability_improvement # Zandre July 19
     - ze/data_dictionary_excel_import_usability_improvement # Zandre July 19
 submodules: { }
