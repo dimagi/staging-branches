@@ -52,7 +52,6 @@ branches:
     #- es/case-search-style  # Ethan July 7
     - ml/email-report-bug # Minha July 13
     - jc/duplicate-icon # Jing July 16
-    - riese/delete_domain # Martin July 17
     - ad/fix-cloudcareURL-bug # Addison Jul 17
     - cs/hide-GAed-feature # Charl Jul 18
     - jc/subscription-plan-setup # Jing Jul 19
