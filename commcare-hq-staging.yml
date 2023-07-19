@@ -24,7 +24,6 @@ branches:
     #- cs/SC-2683-mw_attendee_progress_bar # Apr 19
     - akj/saas-14520-scheduled-reports # Akash May 17
     # - akj/config-delete-debug # Akash May 24
-    - mk/validate-attachments # MK May 24
     # - akj/report-cach-issue # Akash May 25
     # - gh/data-deletion/form-deletion-ui # Graham May 30 Branch does not exist anymore
     - bmb/cle-copy-changes  # Biyeun May 31
