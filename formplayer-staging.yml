@@ -2,10 +2,11 @@
 
 trunk: master
 name: autostaging
-branches: []
+branches:
+  - instanceEndpoint # Shubham July 19
 submodules:
   libs/commcare:
     trunk: formplayer
     branches:
-      - skipNullValuesInSessionInstance # Shubham July 6
+      - instanceEndpoint # Shubham July 19
       
