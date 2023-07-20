@@ -16,7 +16,7 @@ branches:
     - akj/migrations-fix # Akash Oct 11
     # - akj/abdm-api-for-mobile-app # Akash Sep 28
     - es/redirect-domain  # Ethan Nov 21
-    #- jls/web-apps-requirejs  # Jenny Jan 17
+    - jls/web-apps-requirejs  # Jenny Jan 17
     # - ce/enable-case-rate-limits # Cal Feb 1
     # - ml/enforce-metadata-ff # Minha Feb 2
     - gh/remove-duplicate-kafka-seq-code # Graham Dec 26
