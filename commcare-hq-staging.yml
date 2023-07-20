@@ -49,4 +49,5 @@ branches:
     - smh/sscs-case-list-subtitles # Steph July 19
     - ad/fix_auto_update_rule_any_option # Addision Jul 19
     - cs/fetch-geo-data-from-settings # Charl Jul 20
+    - jls/temp # Jenny July 20
 submodules: { }
