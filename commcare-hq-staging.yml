@@ -48,7 +48,7 @@ branches:
     - jc/duplicate-icon # Jing July 16
     - ad/fix-cloudcareURL-bug # Addison Jul 17
     - cs/hide-GAed-feature # Charl Jul 18
-    # - jc/subscription-plan-setup # Jing Jul 19
+    - jc/subscription-plan-setup # Jing Jul 19
     # - jc/bill-web-user-flag # Jing Jul 19
     - smh/sscs-case-list-subtitles # Steph July 19
     - ad/fix_auto_update_rule_any_option # Addision Jul 19
