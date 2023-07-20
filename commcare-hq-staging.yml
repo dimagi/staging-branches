@@ -48,6 +48,7 @@ branches:
     - jc/duplicate-icon # Jing July 16
     - ad/fix-cloudcareURL-bug # Addison Jul 17
     - cs/hide-GAed-feature # Charl Jul 18
+    - jc/subscription-plan-setup+ze/data_dictionary_ga+cs/SC-2636-copy_cases_to_test_user # Zandre July 20
     - jc/subscription-plan-setup # Jing Jul 19
     # - jc/bill-web-user-flag # Jing Jul 19
     - smh/sscs-case-list-subtitles # Steph July 19
