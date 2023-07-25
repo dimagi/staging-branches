@@ -46,4 +46,5 @@ branches:
     - cs/fetch-geo-data-from-settings # Charl Jul 20
     - bmb/b5-crispy-forms  # Biyeun Jul 24
     - instanceEndpoint # Shubham Jul 24
+    - bmb/cle-release  # Biyeun Jul 25
 submodules: { }
