@@ -26,8 +26,6 @@ branches:
     # - gh/data-deletion/form-deletion-ui # Graham May 30 Branch does not exist anymore
     - bmb/cle-copy-changes  # Biyeun May 31
     # - ay/push-notification # Ajeet June 19
-    - jc/bill-web-user-flag+ze/data_dictionary_ga # Zandre July 25
-    - jc/bill-web-user-flag # Jing Jul 19
     - ze/deprecate_case_types+ze/data_dictionary_excel_import_usability_improvement # Zandre July 19
     - ze/data_dictionary_excel_import_usability_improvement # Zandre July 19
     - ze/data_dictionary_ga+ze/deprecate_case_types  # Zandre June 19
@@ -37,6 +35,8 @@ branches:
     # - cs/SC-2636-copy_cases_to_test_user # Charl Smit May 31
     - ze/data_dictionary_ga+mjr/erm-all # Matt July 19
     - mjr/erm-all # Matt July 19
+    - jc/bill-web-user-flag+ze/data_dictionary_ga # Zandre July 25
+    - jc/bill-web-user-flag # Jing Jul 19
     - ze/data_dictionary_ga # Zandre June 19
     # - akj/ush-3062-GA-web-app-menu-lang # Akash June 22
     - ml/ancestor-function-error # Minha June 23
