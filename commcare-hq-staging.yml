@@ -42,7 +42,6 @@ branches:
     #- es/case-search-style  # Ethan July 7
     - ml/email-report-bug # Minha July 13
     - ad/fix-cloudcareURL-bug # Addison Jul 17
-    - smh/sscs-case-list-subtitles # Steph July 19
     - cs/fetch-geo-data-from-settings # Charl Jul 20
     - bmb/b5-crispy-forms  # Biyeun Jul 24
     - instanceEndpoint # Shubham Jul 24
