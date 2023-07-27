@@ -45,4 +45,5 @@ branches:
     - bmb/b5-crispy-forms  # Biyeun Jul 24
     - instanceEndpoint # Shubham Jul 24
     - rc/smartlink-home # Robert Jul 26
+    - ce/connect-sso # Cal Jul 27
 submodules: { }
