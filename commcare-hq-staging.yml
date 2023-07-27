@@ -45,4 +45,5 @@ branches:
     - bmb/b5-crispy-forms  # Biyeun Jul 24
     - instanceEndpoint # Shubham Jul 24
     - ce/connect-sso # Cal Jul 27
+    - ad/set-allowed-tableau-groups # Addison Jul 27
 submodules: { }
