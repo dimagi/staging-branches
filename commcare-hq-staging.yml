@@ -38,7 +38,6 @@ branches:
     - ml/ancestor-function-error # Minha June 23
     - nh/childext_2  # Norman June 26
     - gh/data-deletion/soft-delete-couch-docs # Daniel June 28
-    #- es/case-search-style  # Ethan July 7
     - ml/email-report-bug # Minha July 13
     - ad/fix-cloudcareURL-bug # Addison Jul 17
     - cs/fetch-geo-data-from-settings # Charl Jul 20
@@ -46,5 +45,6 @@ branches:
     - instanceEndpoint # Shubham Jul 24
     - ce/connect-sso # Cal Jul 27
     - ad/set-allowed-tableau-groups # Addison Jul 27
+    - es/es-metrics  # Ethan July 28
     - bmb/update-appcues-data  # Biyeun Jul 27
 submodules: { }
