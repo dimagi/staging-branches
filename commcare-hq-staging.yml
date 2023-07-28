@@ -19,7 +19,7 @@ branches:
     # - ce/enable-case-rate-limits # Cal Feb 1
     # - ml/enforce-metadata-ff # Minha Feb 2
     - gh/remove-duplicate-kafka-seq-code # Graham Dec 26
-    #- cs/SC-2683-mw_attendee_progress_bar # Apr 19
+    - cs/SC-2683-mw_attendee_progress_bar # Apr 19
     - akj/saas-14520-scheduled-reports # Akash May 17
     # - akj/config-delete-debug # Akash May 24
     # - akj/report-cach-issue # Akash May 25
