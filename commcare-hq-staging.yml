@@ -47,4 +47,5 @@ branches:
     - ad/set-allowed-tableau-groups # Addison Jul 27
     - es/es-metrics  # Ethan July 28
     - bmb/update-appcues-data  # Biyeun Jul 27
+    - riese/concat_session_endpoint # Martin Jul 31
 submodules: { }
