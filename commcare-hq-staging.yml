@@ -49,4 +49,5 @@ branches:
     - bmb/update-appcues-data  # Biyeun Jul 27
     - riese/concat_session_endpoint # Martin Jul 31
     - em/search-property-dot-notation # Evan July 31
+    - sk/commcare-connect # Simon Aug 1
 submodules: { }
