@@ -50,4 +50,5 @@ branches:
     - riese/concat_session_endpoint # Martin Jul 31
     - em/search-property-dot-notation # Evan July 31
     - sk/commcare-connect # Simon Aug 1
+    - ad/tableau-user-syncing-multiple-domains # Addison Aug 1
 submodules: { }
