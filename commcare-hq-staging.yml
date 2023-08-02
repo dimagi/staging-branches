@@ -19,6 +19,7 @@ branches:
     # - ce/enable-case-rate-limits # Cal Feb 1
     # - ml/enforce-metadata-ff # Minha Feb 2
     - gh/remove-duplicate-kafka-seq-code # Graham Dec 26
+    - cs/SC-2992-undo-GAed-ff+sk/commcare-connect+akj/saas-14520-scheduled-reports # Charl Aug 2
     - sk/commcare-connect+akj/saas-14520-scheduled-reports # Simon Aug 1
     - akj/saas-14520-scheduled-reports # Akash May 17
     # - akj/config-delete-debug # Akash May 24
