@@ -42,7 +42,6 @@ branches:
     - nh/childext_2  # Norman June 26
     - gh/data-deletion/soft-delete-couch-docs # Daniel June 28
     - ml/email-report-bug # Minha July 13
-    - ad/fix-cloudcareURL-bug # Addison Jul 17
     - cs/fetch-geo-data-from-settings # Charl Jul 20
     - bmb/b5-crispy-forms  # Biyeun Jul 24
     - instanceEndpoint # Shubham Jul 24
