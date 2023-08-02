@@ -27,7 +27,6 @@ branches:
     - instanceEndpoint # Shubham Jul 24
     - ce/connect-sso # Cal Jul 27
     - ad/set-allowed-tableau-groups # Addison Jul 27
-    - es/es-metrics  # Ethan July 28
     - riese/concat_session_endpoint # Martin Jul 31
     - em/search-property-dot-notation # Evan July 31
     - sk/commcare-connect # Simon Aug 1
