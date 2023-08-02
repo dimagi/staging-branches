@@ -35,7 +35,6 @@ branches:
     #- cs/SC-2636-copy_cases_to_test_user # Charl Smit May 31
     - ze/data_dictionary_all+mjr/erm-all # Matt July 19
     - mjr/erm-all+bmb/update-appcues-data  # Biyeun Jul 27
-    - mjr/erm-all # Matt July 19
     - ze/data_dictionary_all # Zandre July 25
     # - akj/ush-3062-GA-web-app-menu-lang # Akash June 22
     - ml/ancestor-function-error # Minha June 23
