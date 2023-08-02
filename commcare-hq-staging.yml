@@ -31,8 +31,8 @@ branches:
     - ze/data_dictionary_all+jc/bill-web-user-flag # Zandre July 25
     - jc/bill-web-user-flag # Jing Jul 19
     #- cs/SC-2636-copy_cases_to_test_user # Charl Smit May 31
-    - mjr/erm-all+bmb/update-appcues-data  # Biyeun Jul 27
     - ze/data_dictionary_all+mjr/erm-all # Matt July 19
+    - mjr/erm-all+bmb/update-appcues-data  # Biyeun Jul 27
     - mjr/erm-all # Matt July 19
     - ze/data_dictionary_all # Zandre July 25
     # - akj/ush-3062-GA-web-app-menu-lang # Akash June 22
