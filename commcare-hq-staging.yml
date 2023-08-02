@@ -32,5 +32,5 @@ branches:
     - sk/commcare-connect # Simon Aug 1
     - ad/tableau-user-syncing-multiple-domains # Addison Aug 1
     - cs/SC-2992-undo-GAed-ff # Charl Aug 2
-    - rc/remove-null-header # Robert Aug 2
+    # - rc/remove-null-header # Robert Aug 2
 submodules: { }
