@@ -51,4 +51,5 @@ branches:
     - em/search-property-dot-notation # Evan July 31
     - sk/commcare-connect # Simon Aug 1
     - ad/tableau-user-syncing-multiple-domains # Addison Aug 1
+    - cs/SC-2992-undo-GAed-ff # Charl Aug 2
 submodules: { }
