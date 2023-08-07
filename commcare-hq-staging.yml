@@ -16,6 +16,7 @@ branches:
     - sk/commcare-connect+akj/saas-14520-scheduled-reports # Simon Aug 1
     - akj/saas-14520-scheduled-reports # Akash May 17
     # - ze/data_dictionary_all+jc/bill-web-user-flag # Zandre July 25
+    - ze/data_dictionary_ga+jc/bill-web-user-flag # Zandre August 7
     - jc/bill-web-user-flag # Jing Jul 19
     # - ze/data_dictionary_all # Zandre July 25
     - ze/data_dictionary_ga # Zandre August 7
