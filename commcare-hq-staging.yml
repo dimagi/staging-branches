@@ -34,4 +34,5 @@ branches:
     - cs/SC-2927/orphan_case_alerts # Chris 4 Aug
     - sr/gis-select # Sravan 7 Aug
     - client_simple_template # Martin August 7
+    - rc/hide-secondary-header # Robert August 7
 submodules: { }
