@@ -31,4 +31,5 @@ branches:
     - cs/SC-2992-undo-GAed-ff # Charl Aug 2
     # - rc/remove-null-header # Robert Aug 2
     - cs/SC-2927/orphan_case_alerts # Chris 4 Aug
+    - sr/gis-select # Sravan 7 Aug
 submodules: { }
