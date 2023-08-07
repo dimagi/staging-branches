@@ -19,7 +19,9 @@ branches:
     - ze/data_dictionary_ga+jc/bill-web-user-flag # Zandre August 7
     - jc/bill-web-user-flag # Jing Jul 19
     # - ze/data_dictionary_all # Zandre July 25
+    - ze/data_dictionary_ga+ze/deprecate_case_types # Zandre August 7
     - ze/data_dictionary_ga # Zandre August 7
+    - ze/deprecate_case_types # Zandre August 7
     - nh/childext_2  # Norman June 26
     - gh/data-deletion/soft-delete-couch-docs # Daniel June 28
     - cs/fetch-geo-data-from-settings # Charl Jul 20
