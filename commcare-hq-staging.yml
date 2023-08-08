@@ -20,7 +20,6 @@ branches:
     - ze/data_dictionary_ga # Zandre August 7
     - ze/data_dictionary_excel_import_usability_improvement # Zandre August 8
     - nh/childext_2  # Norman June 26
-    - gh/data-deletion/soft-delete-couch-docs # Daniel June 28
     - cs/fetch-geo-data-from-settings # Charl Jul 20
     - bmb/b5-crispy-forms  # Biyeun Jul 24
     - instanceEndpoint # Shubham Jul 24
