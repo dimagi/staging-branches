@@ -2,9 +2,11 @@
 
 trunk: master
 name: autostaging
-branches: []
+branches:
+  - instanceEndpoint
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches: []
+    branches:
+      - instanceEndpoint
       
