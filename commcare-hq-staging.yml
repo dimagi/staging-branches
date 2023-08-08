@@ -12,7 +12,6 @@ branches:
     - gh/remove-duplicate-kafka-seq-code # Graham Dec 26
     # - ze/data_dictionary_all+mjr/erm-all # Matt July 19 (Remove when data dictionary is merged)
     # - ze/data_dictionary_all+jc/bill-web-user-flag+cs/SC-2992-undo-GAed-ff+sk/commcare-connect+akj/saas-14520-scheduled-reports # charl Aug 2
-    - ze/data_dictionary_excel_import_usability_improvement # Zandre August 8
     - cs/SC-2992-undo-GAed-ff+sk/commcare-connect+akj/saas-14520-scheduled-reports # Charl Aug 2
     - sk/commcare-connect+akj/saas-14520-scheduled-reports # Simon Aug 1
     - akj/saas-14520-scheduled-reports # Akash May 17
