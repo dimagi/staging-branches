@@ -33,5 +33,4 @@ branches:
     - sr/gis-select # Sravan 7 Aug
     - client_simple_template # Martin August 7
     - rc/hide-secondary-header # Robert August 7
-    - ze/data_dictionary_excel_import_usability_improvement # Zandre August 8
 submodules: { }
