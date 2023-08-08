@@ -14,7 +14,7 @@ branches:
     # - ze/data_dictionary_all+jc/bill-web-user-flag+cs/SC-2992-undo-GAed-ff+sk/commcare-connect+akj/saas-14520-scheduled-reports # charl Aug 2
     - cs/SC-2992-undo-GAed-ff+sk/commcare-connect+akj/saas-14520-scheduled-reports # Charl Aug 2
     - sk/commcare-connect+akj/saas-14520-scheduled-reports # Simon Aug 1
-    - akj/saas-14520-scheduled-reports # Akash May 17
+    # - akj/saas-14520-scheduled-reports # Akash May 17
     - ze/data_dictionary_ga+jc/bill-web-user-flag+ze/data_dictionary_excel_import_usability_improvement # Zandre August 7
     - jc/bill-web-user-flag # Jing Jul 19
     - ze/data_dictionary_ga # Zandre August 7
