@@ -18,6 +18,7 @@ branches:
     - ze/data_dictionary_ga+jc/bill-web-user-flag+ze/data_dictionary_excel_import_usability_improvement # Zandre August 7
     - jc/bill-web-user-flag # Jing Jul 19
     - ze/data_dictionary_ga # Zandre August 7
+    - ze/data_dictionary_excel_import_usability_improvement # Zandre August 8
     - nh/childext_2  # Norman June 26
     - gh/data-deletion/soft-delete-couch-docs # Daniel June 28
     - cs/fetch-geo-data-from-settings # Charl Jul 20
