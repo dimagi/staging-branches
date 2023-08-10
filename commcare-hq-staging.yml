@@ -13,7 +13,6 @@ branches:
     # - ze/data_dictionary_all+mjr/erm-all # Matt July 19 (Remove when data dictionary is merged)
     # - ze/data_dictionary_all+jc/bill-web-user-flag+cs/SC-2992-undo-GAed-ff+sk/commcare-connect+akj/saas-14520-scheduled-reports # charl Aug 2
     - cs/SC-2992-undo-GAed-ff+sk/commcare-connect+akj/saas-14520-scheduled-reports # Charl Aug 2
-    - sk/commcare-connect+akj/saas-14520-scheduled-reports # Simon Aug 1
     # - akj/saas-14520-scheduled-reports # Akash May 17
     - ze/data_dictionary_ga+jc/bill-web-user-flag # Zandre August 7
     - jc/bill-web-user-flag # Jing Jul 19
@@ -24,7 +23,6 @@ branches:
     - instanceEndpoint # Shubham Jul 24
     - ad/set-allowed-tableau-groups # Addison Jul 27
     - em/search-property-dot-notation # Evan July 31
-    - sk/commcare-connect # Simon Aug 1
     - ad/tableau-user-syncing-multiple-domains # Addison Aug 1
     - cs/SC-2992-undo-GAed-ff # Charl Aug 2
     - cs/SC-2927/orphan_case_alerts # Chris 4 Aug
