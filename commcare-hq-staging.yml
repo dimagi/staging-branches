@@ -32,6 +32,6 @@ branches:
     - client_simple_template # Martin August 7
     - mjr/recipient_emails # Minha Aug 8
     - jt/question_tile_mvp_actual_v0 # Jonathan T Aug 8
-    # - riese/tile-ui # Martin August 9
+    - riese/tile-ui # Martin August 9
     - jc/clean-navigation-cache  # Matt Aug 9 -- quick verification
 submodules: { }
