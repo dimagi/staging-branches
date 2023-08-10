@@ -33,4 +33,5 @@ branches:
     - riese/tile-ui # Martin August 9
     - bmb/fix-domain-no-sub  # Biyeun Aug 10
     - ml/bulk-group-upload # Minha Aug 10
+    - dmr/only-generate-app-short-code-when-requested # Danny Aug 10
 submodules: { }
