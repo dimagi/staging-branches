@@ -30,7 +30,7 @@ branches:
     - client_simple_template # Martin August 7
     - mjr/recipient_emails # Minha Aug 8
     - jt/question_tile_mvp_actual_v0 # Jonathan T Aug 8
-    - riese/tile-ui # Martin August 9
+    # - riese/tile-ui # Martin August 9
     - bmb/fix-domain-no-sub  # Biyeun Aug 10
     - ml/bulk-group-upload # Minha Aug 10
     - dmr/only-generate-app-short-code-when-requested # Danny Aug 10
