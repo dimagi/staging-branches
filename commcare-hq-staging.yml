@@ -18,7 +18,6 @@ branches:
     - jc/bill-web-user-flag # Jing Jul 19
     - ze/data_dictionary_ga # Zandre August 7
     - nh/childext_2  # Norman June 26
-    - cs/fetch-geo-data-from-settings # Charl Jul 20
     - bmb/b5-crispy-forms  # Biyeun Jul 24
     - instanceEndpoint # Shubham Jul 24
     - ad/set-allowed-tableau-groups # Addison Jul 27
@@ -34,5 +33,6 @@ branches:
     - ml/bulk-group-upload # Minha Aug 10
     - dmr/only-generate-app-short-code-when-requested # Danny Aug 10
     - akj/ush-3062-GA-web-app-menu-lang # Akash Aug 13
+    - cs/SC-2636-copy_cases_to_test_user # Charl Aug 14
     - cs/SC-2904-mark-test-cases # Charl Aug 14 
 submodules: { }
