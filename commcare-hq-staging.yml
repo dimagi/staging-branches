@@ -35,5 +35,5 @@ branches:
     - dmr/only-generate-app-short-code-when-requested # Danny Aug 10
     - akj/ush-3062-GA-web-app-menu-lang # Akash Aug 13
     - cs/SC-2636-copy_cases_to_test_user # Charl Aug 14
-    - cs/SC-2904-mark-test-cases # Charl Aug 14 
+    - cs/SC-2904-mark-test-cases-as-copy # Charl Aug 14 
 submodules: { }
