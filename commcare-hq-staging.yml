@@ -22,7 +22,6 @@ branches:
     - bmb/b5-crispy-forms  # Biyeun Jul 24
     - instanceEndpoint # Shubham Jul 24
     - ad/set-allowed-tableau-groups # Addison Jul 27
-    - em/search-property-dot-notation # Evan July 31
     - ad/tableau-user-syncing-multiple-domains # Addison Aug 1
     - cs/SC-2927/orphan_case_alerts # Chris 4 Aug
     - sr/gis-select # Sravan 7 Aug
