@@ -34,4 +34,5 @@ branches:
     - dmr/only-generate-app-short-code-when-requested # Danny Aug 10
     - akj/ush-3062-GA-web-app-menu-lang # Akash Aug 13
     - cs/SC-2636-copy_cases_to_test_user # Charl Aug 14
+    - dmr/skip-django-user-sync-on-user-reporting-metadata-update # Aug 15
 submodules: { }
