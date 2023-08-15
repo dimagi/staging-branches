@@ -19,7 +19,6 @@ branches:
     - jc/bill-web-user-flag # Jing Jul 19
     - ze/data_dictionary_ga # Zandre August 7
     - nh/childext_2  # Norman June 26
-    - bmb/b5-crispy-forms  # Biyeun Jul 24
     - instanceEndpoint # Shubham Jul 24
     - ad/set-allowed-tableau-groups # Addison Jul 27
     - ad/tableau-user-syncing-multiple-domains # Addison Aug 1
@@ -31,7 +30,6 @@ branches:
     # - riese/tile-ui # Martin August 9
     - bmb/fix-domain-no-sub  # Biyeun Aug 10
     - dmr/only-generate-app-short-code-when-requested # Danny Aug 10
-    - akj/ush-3062-GA-web-app-menu-lang # Akash Aug 13
     - cs/SC-2636-copy_cases_to_test_user # Charl Aug 14
     - dmr/skip-django-user-sync-on-user-reporting-metadata-update # Aug 15
 submodules: { }
