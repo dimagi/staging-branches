@@ -30,7 +30,6 @@ branches:
     - jt/question_tile_mvp_actual_v0 # Jonathan T Aug 8
     # - riese/tile-ui # Martin August 9
     - bmb/fix-domain-no-sub  # Biyeun Aug 10
-    - ml/bulk-group-upload # Minha Aug 10
     - dmr/only-generate-app-short-code-when-requested # Danny Aug 10
     - akj/ush-3062-GA-web-app-menu-lang # Akash Aug 13
     - cs/SC-2636-copy_cases_to_test_user # Charl Aug 14
