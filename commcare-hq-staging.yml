@@ -31,4 +31,5 @@ branches:
     - cs/SC-2636-copy_cases_to_test_user # Charl Aug 14
     - dmr/skip-django-user-sync-on-user-reporting-metadata-update # Aug 15
     - akj/indiv-197-dfci-custom-update-rule # Aug 16
+    - em/web-apps-responsive-design # Evan Aug 16
 submodules: { }
