@@ -18,7 +18,6 @@ branches:
     - jc/bill-web-user-flag # Jing Jul 19
     - ze/data_dictionary_ga # Zandre August 7
     - nh/childext_2  # Norman June 26
-    - instanceEndpoint # Shubham Jul 24
     - ad/set-allowed-tableau-groups # Addison Jul 27
     - ad/tableau-user-syncing-multiple-domains # Addison Aug 1
     - cs/SC-2927/orphan_case_alerts # Chris 4 Aug
