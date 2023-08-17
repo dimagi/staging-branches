@@ -25,7 +25,6 @@ branches:
     - mjr/recipient_emails # Minha Aug 8
     - jt/question_tile_mvp_actual_v0 # Jonathan T Aug 8
     # - riese/tile-ui # Martin August 9
-    - bmb/fix-domain-no-sub  # Biyeun Aug 10
     - dmr/only-generate-app-short-code-when-requested # Danny Aug 10
     - cs/SC-2636-copy_cases_to_test_user # Charl Aug 14
     - dmr/skip-django-user-sync-on-user-reporting-metadata-update # Aug 15
