@@ -15,7 +15,6 @@ branches:
     # - akj/saas-14520-scheduled-reports # Akash May 17
     - cs/SC-2636-copy_cases_to_test_user+ze/data_dictionary_ga+jc/bill-web-user-flag
     - ze/data_dictionary_ga+jc/bill-web-user-flag # Zandre August 7
-    - jc/bill-web-user-flag # Jing Jul 19
     - ze/data_dictionary_ga # Zandre August 7
     - nh/childext_2  # Norman June 26
     - ad/set-allowed-tableau-groups # Addison Jul 27
