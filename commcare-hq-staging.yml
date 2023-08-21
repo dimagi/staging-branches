@@ -24,7 +24,7 @@ branches:
     - cs/SC-2927/orphan_case_alerts # Chris 4 Aug
     - sr/gis-select # Sravan 7 Aug
     - mjr/recipient_emails # Minha Aug 8
-    # - riese/tile-ui # Martin August 9
+    - riese/tile-ui # Martin August 9
     - dmr/only-generate-app-short-code-when-requested # Danny Aug 10
     - dmr/skip-django-user-sync-on-user-reporting-metadata-update # Aug 15
     - akj/indiv-197-dfci-custom-update-rule # Akash Aug 16
