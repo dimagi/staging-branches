@@ -2,11 +2,10 @@
 
 trunk: master
 name: autostaging
-branches:
-  - instanceEndpoint
+branches: []
 submodules:
   libs/commcare:
     trunk: formplayer
     branches:
-      - instanceEndpoint
+      - mixedRepeatGroup
       
