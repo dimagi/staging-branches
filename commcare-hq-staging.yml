@@ -34,4 +34,5 @@ branches:
     - cs/SC-2909-add_page_for_det_ds_query_file_v2 # Charl Aug 21
     - jc/update-tornado # Jing Aug 21
     - riese/fix_shadow_wo_session_endpoint # Martin August 21
+    - jt/case_list_print_menu_v0 # Jonathan T. August 21
 submodules: { }
