@@ -30,4 +30,5 @@ branches:
     - akj/saas-14520-scheduled-reports # Akash Aug 18
     - cs/SC-2909-add_page_for_det_ds_query_file_v2 # Charl Aug 21
     - em/web-apps-responsive-design # Evan Aug 16
+    - bmb/b5-hqwebapp-template-split  # Biyeun Aug 22
 submodules: { }
