@@ -30,5 +30,4 @@ branches:
     - em/web-apps-responsive-design # Evan Aug 16
     - bmb/b5-hqwebapp-template-split+riese/tile-ui  # Aug 22
     - bmb/b5-hqwebapp-template-split  # Biyeun Aug 22
-    - es/form-submission-logging  # Ethan Aug 24
 submodules: { }
