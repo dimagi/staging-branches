@@ -33,4 +33,5 @@ branches:
     - bmb/b5-hqwebapp-template-split+riese/tile-ui  # Aug 22
     - bmb/b5-hqwebapp-template-split  # Biyeun Aug 22
     - jt/case_tile_layout_adjustment # Jonathan T. Aug 24
+    - jls/not-just-minimal # Jenny Aug 25
 submodules: { }
