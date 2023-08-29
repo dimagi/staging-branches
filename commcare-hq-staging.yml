@@ -31,5 +31,4 @@ branches:
     - jt/case_tile_layout_adjustment # Jonathan T. Aug 24
     - jls/not-just-minimal # Jenny Aug 25
     - orangejenny-patch-12 # Jenny Aug 28
-    - cs/SC-2993_ucr_for_det_v2 # Chris Aug 29
 submodules: { }
