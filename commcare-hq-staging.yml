@@ -31,4 +31,5 @@ branches:
     - jls/not-just-minimal # Jenny Aug 25
     - cs/SC-2993_ucr_for_det_v2 # Chris Aug 29
     - bmb/b5-hqwebapp-views-static  # Biyeun Aug 29
+    - riese/custom_vars # Martin Aug 30
 submodules: { }
