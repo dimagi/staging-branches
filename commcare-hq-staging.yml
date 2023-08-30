@@ -17,8 +17,7 @@ branches:
     - ze/data_dictionary_ga # Zandre August 7
     - cs/SC-2636-copy_cases_to_test_user # Charl Aug 14
     - nh/childext_2  # Norman June 26
-    - ad/set-allowed-tableau-groups # Addison Jul 27
-    - ad/tableau-user-syncing-multiple-domains # Addison Aug 1
+    - ad/set-allowed-tableau-groups+ad/tableau-user-syncing-multiple-domains # Addison Aug 30
     - cs/SC-2927/orphan_case_alerts # Chris 4 Aug
     - sr/gis-select # Sravan 7 Aug
     - dmr/only-generate-app-short-code-when-requested # Danny Aug 10
