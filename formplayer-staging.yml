@@ -2,10 +2,10 @@
 
 trunk: master
 name: autostaging
-branches: []
+branches: 
+    - removeSelectValuesByKeys
 submodules:
   libs/commcare:
     trunk: formplayer
     branches:
-      - mixedRepeatGroup
-      
+      - removeSelectValuesByKeys
