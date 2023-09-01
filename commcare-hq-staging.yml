@@ -26,7 +26,6 @@ branches:
     - akj/saas-14520-scheduled-reports # Akash Aug 18
     - cs/SC-2909-add_page_for_det_ds_query_file_v2 # Charl Aug 21
     - em/web-apps-responsive-design # Evan Aug 16
-    - jt/case_tile_layout_adjustment # Jonathan T. Aug 24
     - jls/not-just-minimal # Jenny Aug 25
     - cs/SC-2993_ucr_for_det_v2 # Chris Aug 29
     - bmb/b5-hqwebapp-views-static  # Biyeun Aug 29
