@@ -32,4 +32,5 @@ branches:
     - riese/custom_vars # Martin Aug 30
     - pkv/fix-test-connection-button-connection-settings # Pawan Sep 1
     - cs/fix-pre-filled-filter-issue # Charl Sept 1
+    - riese/template_central # Martin Sep 1
 submodules: { }
