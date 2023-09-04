@@ -33,4 +33,6 @@ branches:
     - pkv/fix-test-connection-button-connection-settings # Pawan Sep 1
     - cs/fix-pre-filled-filter-issue # Charl Sept 1
     - riese/template_central # Martin Sep 1
+    - smh/sscs-dynamically-update-results-ff # Steph Sept 4
+    - smh/sscs-dynamically-update-results # Steph Sept 4
 submodules: { }
