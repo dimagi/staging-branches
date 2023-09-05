@@ -33,5 +33,4 @@ branches:
     - riese/template_central # Martin Sep 1
     - smh/sscs-dynamically-update-results-ff # Steph Sept 4
     - smh/sscs-dynamically-update-results # Steph Sept 4
-    - jc/fix-update-software-plan # Jing Sept 4
 submodules: { }
