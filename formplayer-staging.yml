@@ -3,10 +3,10 @@
 trunk: master
 name: autostaging
 branches: 
-    - removeSelectValuesByKeys
+    # - removeSelectValuesByKeys
     - rc/clear-answer
 submodules:
   libs/commcare:
     trunk: formplayer
     branches:
-      - removeSelectValuesByKeys
+      # - removeSelectValuesByKeys
