@@ -26,11 +26,12 @@ branches:
     - cs/SC-2909-add_page_for_det_ds_query_file_v2 # Charl Aug 21
     - em/web-apps-responsive-design # Evan Aug 16
     - cs/SC-2993_ucr_for_det_v2 # Chris Aug 29
-    #- bmb/b5-hqwebapp-views-static  # Biyeun Aug 29
     - riese/custom_vars # Martin Aug 30
     - pkv/fix-test-connection-button-connection-settings # Pawan Sep 1
     - cs/fix-pre-filled-filter-issue # Charl Sept 1
     - smh/sscs-dynamically-update-results-ff # Steph Sept 4
     - smh/sscs-dynamically-update-results # Steph Sept 4
     - akj/ush-3466-custom-email-ui # Akash Sep 6
+    - bmb/b5-notifications-service-js  # Biyeun Sep 6
+    - bmb/b5-es6-requirejs-local  # Biyeun Sep 6
 submodules: { }
