@@ -32,4 +32,5 @@ branches:
     - cs/fix-pre-filled-filter-issue # Charl Sept 1
     - smh/sscs-dynamically-update-results-ff # Steph Sept 4
     - smh/sscs-dynamically-update-results # Steph Sept 4
+    - akj/ush-3466-custom-email-ui # Akash Sep 6
 submodules: { }
