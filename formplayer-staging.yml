@@ -2,11 +2,9 @@
 
 trunk: master
 name: autostaging
-branches: 
-    # - removeSelectValuesByKeys
+branches:
     - rc/clear-answer
 submodules:
   libs/commcare:
     trunk: formplayer
     branches:
-      # - removeSelectValuesByKeys
