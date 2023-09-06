@@ -32,4 +32,5 @@ branches:
     - akj/ush-3466-custom-email-ui # Akash Sep 6
     - bmb/b5-notifications-service-js  # Biyeun Sep 6
     - bmb/b5-es6-requirejs-local  # Biyeun Sep 6
+    - rc/media-upload-clear-button # Robert Sept 6
 submodules: { }
