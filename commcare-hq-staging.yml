@@ -17,7 +17,6 @@ branches:
     - ad/set-allowed-tableau-groups+ad/tableau-user-syncing-multiple-domains # Addison Aug 30
     - cs/SC-2927/orphan_case_alerts # Chris 4 Aug
     - sr/gis-select # Sravan 7 Aug
-    # - dmr/only-generate-app-short-code-when-requested # Danny Aug 10
     - dmr/skip-django-user-sync-on-user-reporting-metadata-update # Aug 15
     - akj/indiv-197-dfci-custom-update-rule # Akash Aug 16
     - akj/saas-14520-scheduled-reports # Akash Aug 18
@@ -35,4 +34,5 @@ branches:
     - bmb/b5-page-header  # Biyeun Sep 6
     - bmb/b5-hqwebapp-error-pages  # Biyeun Sep 6
     - rc/media-upload-clear-button # Robert Sept 6
+    - dmr/report-time-to-start-ok
 submodules: { }
