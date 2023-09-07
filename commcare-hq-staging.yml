@@ -32,6 +32,7 @@ branches:
     - bmb/b5-notifications-service-js  # Biyeun Sep 6
     - bmb/b5-page-header  # Biyeun Sep 6
     - bmb/b5-hqwebapp-error-pages  # Biyeun Sep 6
+    - bmb/b5-schedule-demo  # Biyeun Sep 7
     - rc/media-upload-clear-button # Robert Sept 6
     - dmr/report-time-to-start-ok  # Danny Sep 6
     - ze/create-gps-capture-page # Zandre Sep 7
