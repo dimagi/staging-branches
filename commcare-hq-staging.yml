@@ -36,4 +36,5 @@ branches:
     - rc/media-upload-clear-button # Robert Sept 6
     - dmr/report-time-to-start-ok  # Danny Sep 6
     - ze/create-gps-capture-page # Zandre Sep 7
+    - mjr/rebuild_domain_index  # Danny Sep 7
 submodules: { }
