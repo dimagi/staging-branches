@@ -29,6 +29,7 @@ branches:
     - smh/sscs-dynamically-update-results-ff # Steph Sept 4
     - smh/sscs-dynamically-update-results # Steph Sept 4
     - akj/ush-3466-custom-email-ui # Akash Sep 6
+    - bmb/b5-working-branch  # Biyeun Sep 6
     - bmb/b5-notifications-service-js  # Biyeun Sep 6
     - bmb/b5-page-header  # Biyeun Sep 6
     - bmb/b5-hqwebapp-error-pages  # Biyeun Sep 6
