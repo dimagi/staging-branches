@@ -36,4 +36,5 @@ branches:
     - bmb/b5-hqwebapp-tests  # Biyeun Sep 6
     - rc/media-upload-clear-button # Robert Sept 6
     - dmr/report-time-to-start-ok  # Danny Sep 6
+    - ze/create-gps-capture-page # Zandre Sep 7
 submodules: { }
