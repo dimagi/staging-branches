@@ -30,7 +30,6 @@ branches:
     - smh/sscs-dynamically-update-results # Steph Sept 4
     - akj/ush-3466-custom-email-ui # Akash Sep 6
     - bmb/b5-working-branch  # Biyeun Sep 6
-    - bmb/b5-notifications-service-js  # Biyeun Sep 6
     - bmb/b5-hqwebapp-error-pages  # Biyeun Sep 6
     - bmb/b5-schedule-demo  # Biyeun Sep 7
     - rc/media-upload-clear-button # Robert Sept 6
