@@ -14,7 +14,6 @@ branches:
     # - akj/saas-14520-scheduled-reports # Akash May 17
     - cs/SC-2636-copy_cases_to_test_user # Charl Aug 14
     - nh/childext_2  # Norman June 26
-    - ad/set-allowed-tableau-groups+ad/tableau-user-syncing-multiple-domains # Addison Aug 30
     - cs/SC-2927/orphan_case_alerts # Chris 4 Aug
     - sr/gis-select # Sravan 7 Aug
     - dmr/skip-django-user-sync-on-user-reporting-metadata-update # Aug 15
@@ -35,4 +34,5 @@ branches:
     - ap/es/changes-to-support-es5 # Amit Sep 8
     - smh/dynamic-results-updates # Steph Sept 11
     - smh/dynamic-search-clear-button # Steph Sept 11
+    - ad/set-allowed-tableau-groups # Addison Sep 11
 submodules: { }
