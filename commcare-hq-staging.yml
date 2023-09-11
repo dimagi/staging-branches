@@ -33,4 +33,5 @@ branches:
     - rc/media-upload-clear-button # Robert Sept 6
     - ze/create-gps-capture-page # Zandre Sep 7
     - ap/es/changes-to-support-es5 # Amit Sep 8
+    - smh/dynamic-results-updates # Steph Sept 11
 submodules: { }
