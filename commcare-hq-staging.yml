@@ -18,7 +18,7 @@ branches:
     - sr/gis-select # Sravan 7 Aug
     - dmr/skip-django-user-sync-on-user-reporting-metadata-update # Aug 15
     - akj/indiv-197-dfci-custom-update-rule # Akash Aug 16
-    - akj/saas-14520-scheduled-reports # Akash Aug 18
+    #- akj/saas-14520-scheduled-reports # Akash Aug 18
     - cs/SC-2909-add_page_for_det_ds_query_file_v2 # Charl Aug 21
     - em/web-apps-responsive-design # Evan Aug 16
     - cs/SC-2993_ucr_for_det_v2 # Chris Aug 29
