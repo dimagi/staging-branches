@@ -35,4 +35,5 @@ branches:
     - smh/dynamic-results-updates # Steph Sept 11
     - smh/dynamic-search-clear-button # Steph Sept 11
     - ad/set-allowed-tableau-groups # Addison Sep 11
+    - gh/raw-doc/fix-couch-doc-bug # Graham Sept 11
 submodules: { }
