@@ -31,7 +31,5 @@ branches:
     - bmb/b5-schedule-demo  # Biyeun Sep 7
     - rc/media-upload-clear-button # Robert Sept 6
     - ap/es/changes-to-support-es5 # Amit Sep 8
-    - smh/dynamic-results-updates # Steph Sept 11
-    - smh/dynamic-search-clear-button # Steph Sept 11
     - ad/set-allowed-tableau-groups # Addison Sep 11
 submodules: { }
