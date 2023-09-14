@@ -21,7 +21,6 @@ branches:
     - akj/saas-14520-scheduled-reports # Akash Aug 18
     - cs/SC-2909-add_page_for_det_ds_query_file_v2 # Charl Aug 21
     - em/web-apps-responsive-design # Evan Aug 16
-    - cs/SC-2993_ucr_for_det_v2 # Chris Aug 29
     - riese/custom_vars # Martin Aug 30
     - pkv/fix-test-connection-button-connection-settings # Pawan Sep 1
     - cs/fix-pre-filled-filter-issue # Charl Sept 1
