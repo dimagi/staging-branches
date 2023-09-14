@@ -33,4 +33,5 @@ branches:
     - ze/fix-gps-capture-validation # Zandre Sep 14
     - ad/fix-bulk-user-upload-500 # Addison Sep 14
     #- cs/SC-3104-add-manage-mobile-workers-page # Charl Sep 14
+    - es/emwf-web-users  # Ethan Sep 14
 submodules: { }
