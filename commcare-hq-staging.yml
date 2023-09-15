@@ -29,7 +29,6 @@ branches:
     - rc/media-upload-clear-button # Robert Sept 6
     - ap/es/changes-to-support-es5 # Amit Sep 8
     - dm/sql-repeatrecord-fields # Daniel Sep 13
-    - ze/fix-gps-capture-validation # Zandre Sep 14
     - ad/fix-bulk-user-upload-500 # Addison Sep 14
     #- cs/SC-3104-add-manage-mobile-workers-page # Charl Sep 14
     - es/emwf-web-users  # Ethan Sep 14
