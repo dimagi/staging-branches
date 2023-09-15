@@ -19,7 +19,6 @@ branches:
     - dmr/skip-django-user-sync-on-user-reporting-metadata-update # Aug 15
     - akj/saas-14520-scheduled-reports # Akash Aug 18
     - cs/SC-2909-add_page_for_det_ds_query_file_v2 # Charl Aug 21
-    - em/web-apps-responsive-design # Evan Aug 16
     - riese/custom_vars # Martin Aug 30
     - pkv/fix-test-connection-button-connection-settings # Pawan Sep 1
     - cs/fix-pre-filled-filter-issue # Charl Sept 1
@@ -32,5 +31,7 @@ branches:
     - ad/fix-bulk-user-upload-500 # Addison Sep 14
     #- cs/SC-3104-add-manage-mobile-workers-page # Charl Sep 14
     - es/emwf-web-users  # Ethan Sep 14
+    - em/web-apps-signature-capture+em/web-apps-responsive-design # Evan Sep 15
     - em/web-apps-signature-capture # Evan Sep 15
+    - em/web-apps-responsive-design # Evan Aug 16
 submodules: { }
