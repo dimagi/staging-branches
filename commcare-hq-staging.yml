@@ -32,4 +32,5 @@ branches:
     - ad/fix-bulk-user-upload-500 # Addison Sep 14
     #- cs/SC-3104-add-manage-mobile-workers-page # Charl Sep 14
     - es/emwf-web-users  # Ethan Sep 14
+    - em/web-apps-signature-capture # Evan Sep 15
 submodules: { }
