@@ -35,4 +35,5 @@ branches:
     - em/web-apps-responsive-design # Evan Aug 16
     # - jt/custom_email_backend # Jonathan T. Sep 15
     - smh/dynamic-search-reordering # Steph Sept 18
+    - rc/fix-error-text # Robert Sept 18
 submodules: { }
