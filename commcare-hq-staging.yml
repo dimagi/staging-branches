@@ -35,5 +35,5 @@ branches:
     - em/web-apps-signature-capture # Evan Sep 15
     - em/web-apps-responsive-design # Evan Aug 16
     - jt/custom_email_backend # Jonathan T. Sep 15
-    - smh/dynamic-search-date-picker # Steph Sept 18
+    - smh/dynamic-search-reordering # Steph Sept 18
 submodules: { }
