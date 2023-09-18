@@ -24,7 +24,6 @@ branches:
     - cs/fix-pre-filled-filter-issue # Charl Sept 1
     # - akj/ush-3466-custom-email-ui # Akash Sep 6
     - bmb/b5-hqwebapp-error-pages  # Biyeun Sep 6
-    - bmb/b5-schedule-demo  # Biyeun Sep 7
     - rc/media-upload-clear-button # Robert Sept 6
     - ap/es/changes-to-support-es5 # Amit Sep 8
     - dm/sql-repeatrecord-fields # Daniel Sep 13
