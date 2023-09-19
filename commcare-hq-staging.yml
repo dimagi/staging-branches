@@ -38,4 +38,5 @@ branches:
     - cs/SC-3104-add-mobile-workers-page-gps-capture-page # Charl Sept 19
     - cs/SC-2922-implement-geocoder # Charl Sept 19
     - jc/show-software-plan-version # Jing Sep 19
+    - ml/delete_form_deleted_on # Minha Sept 19
 submodules: { }
