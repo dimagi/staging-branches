@@ -35,7 +35,7 @@ branches:
     - em/web-apps-responsive-design # Evan Aug 16
     - jt/custom_email_backend # Jonathan T. Sep 15
     - smh/dynamic-search-reordering # Steph Sept 18
-    - rc/fix-error-text # Robert Sept 18
+    # - rc/fix-error-text # Robert Sept 18
     - cs/SC-3104-add-mobile-workers-page-gps-capture-page # Charl Sept 19
     - cs/SC-2922-implement-geocoder # Charl Sept 19
     - jc/show-software-plan-version # Jing Sep 19
