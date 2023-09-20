@@ -13,7 +13,6 @@ branches:
     # - ze/data_dictionary_all+jc/bill-web-user-flag+cs/SC-2992-undo-GAed-ff+sk/commcare-connect+akj/saas-14520-scheduled-reports # charl Aug 2
     # - akj/saas-14520-scheduled-reports # Akash May 17
     - cs/SC-2636-copy_cases_to_test_user # Charl Aug 14
-    - nh/childext_2  # Norman June 26
     - cs/SC-2927/orphan_case_alerts # Chris 4 Aug
     - sr/gis-select # Sravan 7 Aug
     - dmr/skip-django-user-sync-on-user-reporting-metadata-update # Aug 15
