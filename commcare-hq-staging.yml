@@ -35,5 +35,4 @@ branches:
     - cs/SC-2922-implement-geocoder # Charl Sept 19
     - ml/delete_form_deleted_on # Minha Sept 19
     - gh/domains/es-filter # Graham Sept 20
-    - rc/media-clear-followup # Robert Sept 20
 submodules: { }
