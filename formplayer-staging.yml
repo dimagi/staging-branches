@@ -3,7 +3,7 @@
 trunk: master
 name: autostaging
 branches:
-    - rc/clear-answer
+
 submodules:
   libs/commcare:
     trunk: formplayer
