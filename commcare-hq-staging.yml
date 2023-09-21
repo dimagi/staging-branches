@@ -31,7 +31,6 @@ branches:
     - jt/custom_email_backend # Jonathan T. Sep 15
     - smh/dynamic-search-reordering # Steph Sept 18
     - cs/SC-3104-add-mobile-workers-page-gps-capture-page # Charl Sept 19
-    - cs/SC-2922-implement-geocoder # Charl Sept 19
     - ml/delete_form_deleted_on # Minha Sept 19
     - gh/domains/es-filter # Graham Sept 20
     - bmb/b5-hqwebapp-maintenance-alerts  # Biyeun Sep 20
