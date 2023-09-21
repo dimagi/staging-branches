@@ -28,7 +28,7 @@ branches:
     - em/web-apps-signature-capture+em/web-apps-responsive-design # Evan Sep 15
     - em/web-apps-signature-capture # Evan Sep 15
     - em/web-apps-responsive-design # Evan Aug 16
-    - jt/custom_email_backend # Jonathan T. Sep 15
+    # - jt/custom_email_backend # Jonathan T. Sep 15
     - smh/dynamic-search-reordering # Steph Sept 18
     - cs/SC-3104-add-mobile-workers-page-gps-capture-page # Charl Sept 19
     - ml/delete_form_deleted_on # Minha Sept 19
