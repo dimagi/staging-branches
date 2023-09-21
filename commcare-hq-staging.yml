@@ -36,4 +36,5 @@ branches:
     - bmb/b5-hqwebapp-maintenance-alerts  # Biyeun Sep 20
     - bmb/b5-css-updates  # Biyeun Sep 20
     - ad/dont-overwrite-tableau-groups # Addison Sep 21
+    - mjr/improve-dedupe-property-list # Matt Sept 21 for QA testing -- remove afterwards
 submodules: { }
