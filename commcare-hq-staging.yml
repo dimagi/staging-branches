@@ -23,7 +23,6 @@ branches:
     - akj/ush-3466-custom-email-ui # Akash Sep 6
     - ap/es/changes-to-support-es5 # Amit Sep 8
     - dm/sql-repeatrecord-fields # Daniel Sep 13
-    - ad/fix-bulk-user-upload-500 # Addison Sep 14
     #- cs/SC-3104-add-manage-mobile-workers-page # Charl Sep 14
     - es/emwf-web-users  # Ethan Sep 14
     - em/web-apps-signature-capture+em/web-apps-responsive-design # Evan Sep 15
@@ -37,4 +36,5 @@ branches:
     - gh/domains/es-filter # Graham Sept 20
     - bmb/b5-hqwebapp-maintenance-alerts  # Biyeun Sep 20
     - bmb/b5-css-updates  # Biyeun Sep 20
+    - ad/dont-overwrite-tableau-groups # Addison Sep 21
 submodules: { }
