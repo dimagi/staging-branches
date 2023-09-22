@@ -18,7 +18,6 @@ branches:
     - dmr/skip-django-user-sync-on-user-reporting-metadata-update # Aug 15
     - akj/saas-14520-scheduled-reports # Akash Aug 18
     - cs/SC-2909-add_page_for_det_ds_query_file_v2 # Charl Aug 21
-    - riese/custom_vars # Martin Aug 30
     - cs/fix-pre-filled-filter-issue # Charl Sept 1
     - akj/ush-3466-custom-email-ui # Akash Sep 6
     - ap/es/changes-to-support-es5 # Amit Sep 8
