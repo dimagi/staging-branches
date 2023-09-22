@@ -33,8 +33,6 @@ branches:
     - cs/SC-3104-add-mobile-workers-page-gps-capture-page # Charl Sept 19
     - ml/delete_form_deleted_on # Minha Sept 19
     - gh/domains/es-filter # Graham Sept 20
-    - bmb/b5-hqwebapp-maintenance-alerts  # Biyeun Sep 20
-    - bmb/b5-css-updates  # Biyeun Sep 20
     - ad/dont-overwrite-tableau-groups # Addison Sep 21
     - mjr/improve-dedupe-property-list # Matt Sept 21 for QA testing -- remove afterwards
 submodules: { }
