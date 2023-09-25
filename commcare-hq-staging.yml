@@ -36,4 +36,5 @@ branches:
     - ml/remove_DELETED_state_pt2 # Minha Sept 22
     - ap/dependacat/upgrade-stripe # Amit Sept 25
     - jt/case_search_geocoder_expand_types # Jonathan Sept 25
+    - ap/dependacat/upgrade-attrs # Amit Sept 25
 submodules: { }
