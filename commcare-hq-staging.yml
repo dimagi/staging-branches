@@ -20,7 +20,6 @@ branches:
     - cs/SC-2909-add_page_for_det_ds_query_file_v2 # Charl Aug 21
     - cs/fix-pre-filled-filter-issue # Charl Sept 1
     - akj/ush-3466-custom-email-ui # Akash Sep 6
-    - ap/es/changes-to-support-es5 # Amit Sep 8
     - dm/sql-repeatrecord-fields # Daniel Sep 13
     #- cs/SC-3104-add-manage-mobile-workers-page # Charl Sep 14
     - es/emwf-web-users  # Ethan Sep 14
@@ -35,4 +34,5 @@ branches:
     - ad/dont-overwrite-tableau-groups # Addison Sep 21
     - mjr/improve-dedupe-property-list # Matt Sept 21 for QA testing -- remove afterwards
     - ml/remove_DELETED_state_pt2 # Minha Sept 22
+    - ap/dependacat/upgrade-stripe # Amit Sept 25
 submodules: { }
