@@ -19,14 +19,14 @@ branches:
     - akj/saas-14520-scheduled-reports # Akash Aug 18
     - cs/SC-2909-add_page_for_det_ds_query_file_v2 # Charl Aug 21
     - cs/fix-pre-filled-filter-issue # Charl Sept 1
-    - akj/ush-3466-custom-email-ui # Akash Sep 6
+    # - akj/ush-3466-custom-email-ui # Akash Sep 6
     - dm/sql-repeatrecord-fields # Daniel Sep 13
     #- cs/SC-3104-add-manage-mobile-workers-page # Charl Sep 14
     - es/emwf-web-users  # Ethan Sep 14
     - em/web-apps-signature-capture+em/web-apps-responsive-design # Evan Sep 15
     - em/web-apps-signature-capture # Evan Sep 15
     - em/web-apps-responsive-design # Evan Aug 16
-    - jt/custom_email_backend # Jonathan T. Sep 15
+    # - jt/custom_email_backend # Jonathan T. Sep 15
     - smh/dynamic-search-reordering # Steph Sept 18
     - cs/SC-3104-add-mobile-workers-page-gps-capture-page # Charl Sept 19
     - ml/delete_form_deleted_on # Minha Sept 19
@@ -35,4 +35,5 @@ branches:
     - mjr/improve-dedupe-property-list # Matt Sept 21 for QA testing -- remove afterwards
     - ml/remove_DELETED_state_pt2 # Minha Sept 22
     - ap/dependacat/upgrade-stripe # Amit Sept 25
+    - jt/case_search_geocoder_expand_types # Jonathan Sept 25
 submodules: { }
