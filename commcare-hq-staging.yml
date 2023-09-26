@@ -30,7 +30,6 @@ branches:
     - smh/dynamic-search-reordering # Steph Sept 18
     - cs/SC-3104-add-mobile-workers-page-gps-capture-page # Charl Sept 19
     - ml/delete_form_deleted_on # Minha Sept 19
-    - gh/domains/es-filter # Graham Sept 20
     - ad/dont-overwrite-tableau-groups # Addison Sep 21
     - mjr/improve-dedupe-property-list # Matt Sept 21 for QA testing -- remove afterwards
     - ml/remove_DELETED_state_pt2 # Minha Sept 22
