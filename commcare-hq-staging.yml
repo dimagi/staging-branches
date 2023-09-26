@@ -31,7 +31,6 @@ branches:
     - ml/delete_form_deleted_on # Minha Sept 19
     - ad/dont-overwrite-tableau-groups # Addison Sep 21
     - mjr/improve-dedupe-property-list # Matt Sept 21 for QA testing -- remove afterwards
-    - ml/remove_DELETED_state_pt2 # Minha Sept 22
     - ap/dependacat/upgrade-stripe # Amit Sept 25
     - jt/case_search_geocoder_expand_types # Jonathan Sept 25
     - ap/dependacat/upgrade-attrs # Amit Sept 25
