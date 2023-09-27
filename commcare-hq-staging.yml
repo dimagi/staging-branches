@@ -34,4 +34,5 @@ branches:
     - jt/case_search_geocoder_expand_types # Jonathan Sept 25
     - ap/dependacat/upgrade-attrs # Amit Sept 25
     - gh/data-deletion/periodic-form-deletion # Minha Sept 26
+    - mk/3105-add-filters-to-cases-only # MK Sept 27
 submodules: { }
