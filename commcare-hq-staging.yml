@@ -16,7 +16,6 @@ branches:
     - cs/SC-2927/orphan_case_alerts # Chris 4 Aug
     - sr/gis-select # Sravan 7 Aug
     - dmr/skip-django-user-sync-on-user-reporting-metadata-update # Aug 15
-    - akj/saas-14520-scheduled-reports # Akash Aug 18
     - cs/SC-2909-add_page_for_det_ds_query_file_v2 # Charl Aug 21
     # - akj/ush-3466-custom-email-ui # Akash Sep 6
     - dm/sql-repeatrecord-fields # Daniel Sep 13
