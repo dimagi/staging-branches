@@ -3,7 +3,7 @@
 trunk: master
 name: autostaging
 branches:
-
+    - autoFormSubmission
 submodules:
   libs/commcare:
     trunk: formplayer
