@@ -24,7 +24,6 @@ branches:
     - em/web-apps-responsive-design # Evan Aug 16
     - akj/ush-3466-3469-email-gw # Jonathan Sep 26
     - jt/custom_email_backend # Jonathan T. Sep 26
-    - smh/dynamic-search-reordering # Steph Sept 18
     - cs/SC-3104-add-mobile-workers-page-gps-capture-page # Charl Sept 19
     - ad/dont-overwrite-tableau-groups # Addison Sep 21
     - mjr/improve-dedupe-property-list # Matt Sept 21 for QA testing -- remove afterwards
@@ -33,4 +32,5 @@ branches:
     - mk/3105-add-filters-to-cases-only # MK Sept 27
     - dependabot/pip/requirements/gevent-23.9.1 # Amit Sept 27
     - riese/clickable_ui # Martin Sep 27
+    - smh/single-date-field-ds # Steph Sept 30
 submodules: { }
