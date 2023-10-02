@@ -25,7 +25,6 @@ branches:
     - akj/ush-3466-3469-email-gw # Jonathan Sep 26
     - jt/custom_email_backend # Jonathan T. Sep 26
     - cs/SC-3104-add-mobile-workers-page-gps-capture-page # Charl Sept 19
-    - ad/dont-overwrite-tableau-groups # Addison Sep 21
     - mjr/improve-dedupe-property-list # Matt Sept 21 for QA testing -- remove afterwards
     - ap/dependacat/upgrade-stripe # Amit Sept 25
     - gh/data-deletion/periodic-form-deletion # Minha Sept 26
