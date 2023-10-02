@@ -29,7 +29,6 @@ branches:
     - mjr/improve-dedupe-property-list # Matt Sept 21 for QA testing -- remove afterwards
     - ap/dependacat/upgrade-stripe # Amit Sept 25
     - gh/data-deletion/periodic-form-deletion # Minha Sept 26
-    - mk/3105-add-filters-to-cases-only # MK Sept 27
     - dependabot/pip/requirements/gevent-23.9.1 # Amit Sept 27
     - riese/clickable_ui # Martin Sep 27
     - smh/single-date-field-ds # Steph Sept 30
