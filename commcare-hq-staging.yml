@@ -34,4 +34,5 @@ branches:
     - smh/single-date-field-ds # Steph Sept 30
     - jc/prevent-double-charging # Jing Sep 30
     - cs/increase_export_limit # Chris Oct 2
+    - jc/add-more-filters-for-software-plan # Jing Oct 2
 submodules: { }
