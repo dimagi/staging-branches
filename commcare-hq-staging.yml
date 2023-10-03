@@ -26,7 +26,6 @@ branches:
     - jt/custom_email_backend # Jonathan T. Sep 26
     - cs/SC-3104-add-mobile-workers-page-gps-capture-page # Charl Sept 19
     - mjr/improve-dedupe-property-list # Matt Sept 21 for QA testing -- remove afterwards
-    - ap/dependacat/upgrade-stripe # Amit Sept 25
     - gh/data-deletion/periodic-form-deletion # Minha Sept 26
     - dependabot/pip/requirements/gevent-23.9.1 # Amit Sept 27
     - riese/clickable_ui # Martin Sep 27
