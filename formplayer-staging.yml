@@ -4,7 +4,9 @@ trunk: master
 name: autostaging
 branches:
     - autoFormSubmission
+    - endpointAction
 submodules:
   libs/commcare:
     trunk: formplayer
-    # branches:
+    branches:
+        - endpoint_action_in_detail
