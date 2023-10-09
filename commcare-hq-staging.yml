@@ -24,7 +24,6 @@ branches:
     - akj/ush-3466-3469-email-gw # Jonathan Sep 26
     - jt/custom_email_backend # Jonathan T. Sep 26
     - cs/SC-3104-add-mobile-workers-page-gps-capture-page # Charl Sept 19
-    - riese/clickable_ui # Martin Sep 27
     - smh/single-date-field-ds # Steph Sept 30
     - jc/prevent-double-charging # Jing Sep 30
     - cs/increase_export_limit # Chris Oct 2
