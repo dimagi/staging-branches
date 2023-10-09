@@ -28,7 +28,6 @@ branches:
     - jc/prevent-double-charging # Jing Sep 30
     - cs/increase_export_limit # Chris Oct 2
     - jc/add-more-filters-for-software-plan # Jing Oct 2
-    - gh/couch/force-active-data-sources-reindex # Graham Oct 4
     - em/case-search-popover-placement # Evan Oct 6
     - rc/clickable-icons-request # Robert Oct 9
 submodules: { }
