@@ -29,4 +29,5 @@ branches:
     - cs/increase_export_limit # Chris Oct 2
     - jc/add-more-filters-for-software-plan # Jing Oct 2
     - rc/clickable-icons-request # Robert Oct 9
+    - mk/3003-add-domain-banners # MK Oct 10
 submodules: { }
