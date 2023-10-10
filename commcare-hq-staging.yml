@@ -25,7 +25,7 @@ branches:
     - jt/custom_email_backend # Jonathan T. Sep 26
     - cs/SC-3104-add-mobile-workers-page-gps-capture-page # Charl Sept 19
     - smh/single-date-field-ds # Steph Sept 30
-    - cs/increase_export_limit # Chris Oct 2
+    # - cs/increase_export_limit # Chris Oct 2
     - jc/add-more-filters-for-software-plan # Jing Oct 2
     - rc/clickable-icons-request # Robert Oct 9
     - mk/3003-add-domain-banners # MK Oct 10
