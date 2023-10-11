@@ -29,6 +29,7 @@ branches:
     - jc/add-more-filters-for-software-plan # Jing Oct 2
     - rc/clickable-icons-request # Robert Oct 9
     - mk/3003-add-domain-banners # MK Oct 10
-    - jc/replace-invoice-logo #Jing Oct 10
+    - jc/replace-invoice-logo # Jing Oct 10
     - es/release-dd-case-data  # Ethan Oct 10
+    - jc/remove-billing-support # Jing Oct 11
 submodules: { }
