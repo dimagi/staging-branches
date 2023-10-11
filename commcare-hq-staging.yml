@@ -32,4 +32,5 @@ branches:
     - jc/replace-invoice-logo # Jing Oct 10
     - es/release-dd-case-data  # Ethan Oct 10
     - jc/remove-billing-support # Jing Oct 11
+    - riese/collapsible_tile # Martin Oct 11
 submodules: { }
