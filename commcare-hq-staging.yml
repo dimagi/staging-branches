@@ -33,5 +33,5 @@ branches:
     - es/release-dd-case-data  # Ethan Oct 10
     - jc/remove-billing-support # Jing Oct 11
     - riese/collapsible_tile # Martin Oct 11
-    - akj/debug-location-filter # Akash Oct 12
+    - akj/ush-3370-mapping-alignment # Akash Oct 12
 submodules: { }
