@@ -34,4 +34,5 @@ branches:
     - gh/web-apps/too-many-ucrs # Graham Oct 12
     - jc/subscription-page-loading-slow # Jing Oct 12
     - riese/custom_vars_clean # Martin Oct 12
+    - jt/parent_select_inline_case_search # Jonathan T. Oct 13
 submodules: { }
