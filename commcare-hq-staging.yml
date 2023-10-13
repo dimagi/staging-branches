@@ -33,4 +33,5 @@ branches:
     # - akj/ush-3370-mapping-alignment # Akash Oct 12
     - gh/web-apps/too-many-ucrs # Graham Oct 12
     - jc/subscription-page-loading-slow # Jing Oct 12
+    - riese/custom_vars_clean # Martin Oct 12
 submodules: { }
