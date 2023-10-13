@@ -11,13 +11,11 @@ branches:
     - es/redirect-domain  # Ethan Nov 21
     - gh/remove-duplicate-kafka-seq-code # Graham Dec 26
     # - ze/data_dictionary_all+jc/bill-web-user-flag+cs/SC-2992-undo-GAed-ff+sk/commcare-connect+akj/saas-14520-scheduled-reports # charl Aug 2
-    # - akj/saas-14520-scheduled-reports # Akash May 17
     - cs/SC-2636-copy_cases_to_test_user # Charl Aug 14
     - cs/SC-2927/orphan_case_alerts # Chris 4 Aug
     - sr/gis-select # Sravan 7 Aug
     - dmr/skip-django-user-sync-on-user-reporting-metadata-update # Aug 15
     - cs/SC-2909-add_page_for_det_ds_query_file_v2 # Charl Aug 21
-    # - akj/ush-3466-custom-email-ui # Akash Sep 6
     - dm/sql-repeatrecord-fields # Daniel Sep 13
     #- cs/SC-3104-add-manage-mobile-workers-page # Charl Sep 14
     - es/emwf-web-users  # Ethan Sep 14
@@ -32,7 +30,7 @@ branches:
     - jc/replace-invoice-logo # Jing Oct 10
     - es/release-dd-case-data  # Ethan Oct 10
     - riese/collapsible_tile # Martin Oct 11
-    - akj/ush-3370-mapping-alignment # Akash Oct 12
+    # - akj/ush-3370-mapping-alignment # Akash Oct 12
     - gh/web-apps/too-many-ucrs # Graham Oct 12
     - jc/subscription-page-loading-slow # Jing Oct 12
 submodules: { }
