@@ -35,5 +35,5 @@ branches:
     - es/search-instances # Jonathan T. Oct 13
     - em/case-search-es-sort # Evan Oct 13
     - akj/ush-3370-mapping-overflow # Akash Oct 16
-    - bmb/update-logos  # Biyeun oct 16
+    - bmb/update-registration  # Biyeun oct 17
 submodules: { }
