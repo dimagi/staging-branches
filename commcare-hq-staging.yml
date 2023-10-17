@@ -31,8 +31,8 @@ branches:
     - gh/web-apps/too-many-ucrs # Graham Oct 12
     - jc/subscription-page-loading-slow # Jing Oct 12
     - riese/custom_vars_clean # Martin Oct 12
-    - jt/parent_select_inline_case_search # Jonathan T. Oct 13
-    - es/search-instances # Jonathan T. Oct 13
+    # - jt/parent_select_inline_case_search # Jonathan T. Oct 13
+    # - es/search-instances # Jonathan T. Oct 13
     - em/case-search-es-sort # Evan Oct 13
     - akj/ush-3370-mapping-overflow # Akash Oct 16
     - bmb/update-registration  # Biyeun oct 17
