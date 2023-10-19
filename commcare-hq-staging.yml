@@ -19,7 +19,6 @@ branches:
     - dm/sql-repeatrecord-fields # Daniel Sep 13
     #- cs/SC-3104-add-manage-mobile-workers-page # Charl Sep 14
     - es/emwf-web-users  # Ethan Sep 14
-    - jt/custom_email_backend # Jonathan T. Sep 26
     - cs/SC-3104-add-mobile-workers-page-gps-capture-page # Charl Sept 19
     # - cs/increase_export_limit # Chris Oct 2
     - jc/add-more-filters-for-software-plan # Jing Oct 2
@@ -34,4 +33,5 @@ branches:
     - akj/ush-3370-mapping-overflow # Akash Oct 16
     - bmb/update-registration  # Biyeun oct 17
     - mk/2900-cache-domain-case-props # MK Oct 19
+    - jt/remove_select_values_by_keys # Jonathan T. Oct 19
 submodules: { }
