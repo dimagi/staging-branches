@@ -26,7 +26,6 @@ branches:
     - rc/clickable-icons-request # Robert Oct 9
     - mk/3003-add-domain-banners # MK Oct 10
     - jc/replace-invoice-logo # Jing Oct 10
-    - riese/collapsible_tile # Martin Oct 11
     - gh/web-apps/too-many-ucrs # Graham Oct 12
     - jc/subscription-page-loading-slow # Jing Oct 12
     - riese/custom_vars_clean # Martin Oct 12
