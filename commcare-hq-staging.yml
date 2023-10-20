@@ -20,17 +20,14 @@ branches:
     #- cs/SC-3104-add-manage-mobile-workers-page # Charl Sep 14
     - es/emwf-web-users  # Ethan Sep 14
     - cs/SC-3104-add-mobile-workers-page-gps-capture-page # Charl Sept 19
-    - jc/add-more-filters-for-software-plan # Jing Oct 2
     - rc/clickable-icons-request # Robert Oct 9
     - mk/3003-add-domain-banners # MK Oct 10
     - jc/replace-invoice-logo # Jing Oct 10
     - gh/web-apps/too-many-ucrs # Graham Oct 12
     - jc/subscription-page-loading-slow # Jing Oct 12
-    - riese/custom_vars_clean # Martin Oct 12
     - jt/sub_menu_inline_case_search # Jonathan T. Oct 18
     - em/case-search-es-sort # Evan Oct 13
     - akj/ush-3370-mapping-overflow # Akash Oct 16
-    - bmb/update-registration  # Biyeun oct 17
     - mk/2900-cache-domain-case-props # MK Oct 19
     - jt/remove_select_values_by_keys # Jonathan T. Oct 19
     - cs/increase_export_limit # Chris Oct 20
