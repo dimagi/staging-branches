@@ -34,4 +34,5 @@ branches:
     - mk/2900-cache-domain-case-props # MK Oct 19
     - jt/remove_select_values_by_keys # Jonathan T. Oct 19
     - cs/increase_export_limit # Chris Oct 20
+    - es/metadata  # Ethan Oct 20
 submodules: { }
