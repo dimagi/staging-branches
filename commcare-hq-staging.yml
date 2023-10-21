@@ -22,6 +22,7 @@ branches:
     - cs/SC-3104-add-mobile-workers-page-gps-capture-page # Charl Sept 19
     - rc/clickable-icons-request # Robert Oct 9
     - mk/3003-add-domain-banners # MK Oct 10
+    - mk/3003-add-domain-banners-qafix # MK Oct 21
     - jc/replace-invoice-logo # Jing Oct 10
     - gh/web-apps/too-many-ucrs # Graham Oct 12
     - jc/subscription-page-loading-slow # Jing Oct 12
