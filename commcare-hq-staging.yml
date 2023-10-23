@@ -24,7 +24,6 @@ branches:
     - mk/3003-add-domain-banners # MK Oct 10
     - mk/3003-add-domain-banners-qafix # MK Oct 21
     - jc/replace-invoice-logo # Jing Oct 10
-    - gh/web-apps/too-many-ucrs # Graham Oct 12
     - jt/sub_menu_inline_case_search # Jonathan T. Oct 18
     - em/case-search-es-sort # Evan Oct 13
     - akj/ush-3370-mapping-overflow # Akash Oct 16
