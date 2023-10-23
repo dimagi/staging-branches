@@ -30,4 +30,5 @@ branches:
     - mk/2900-cache-domain-case-props # MK Oct 19
     - cs/increase_export_limit # Chris Oct 20
     - es/metadata  # Ethan Oct 20
+    - bmb/update-reg-email  # Biyeun Oct 23
 submodules: { }
