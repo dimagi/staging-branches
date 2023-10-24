@@ -32,4 +32,5 @@ branches:
     - bmb/update-reg-email  # Biyeun Oct 23
     - riese/clickable_tile # Martin Oct 23
     - jc/fix-updating-subscription # Jing Oct 23
+    - smh/disable-dynamic-search # Steph Oct 24
 submodules: { }
