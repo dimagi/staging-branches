@@ -32,4 +32,5 @@ branches:
     - es/metadata  # Ethan Oct 20
     - bmb/update-reg-email  # Biyeun Oct 23
     - riese/clickable_tile # Martin Oct 23
+    - jc/fix-updating-subscription # Jing Oct 23
 submodules: { }
