@@ -29,4 +29,5 @@ branches:
     - es/metadata  # Ethan Oct 20
     - riese/clickable_tile # Martin Oct 23
     - smh/disable-dynamic-search # Steph Oct 24
+    - revert-33484-jt/custom_email_backend # Jonathan T Oct 25
 submodules: { }
