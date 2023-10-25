@@ -29,6 +29,5 @@ branches:
     - cs/increase_export_limit # Chris Oct 20
     - es/metadata  # Ethan Oct 20
     - riese/clickable_tile # Martin Oct 23
-    - jc/fix-updating-subscription # Jing Oct 23
     - smh/disable-dynamic-search # Steph Oct 24
 submodules: { }
