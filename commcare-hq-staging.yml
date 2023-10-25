@@ -26,6 +26,5 @@ branches:
     - mk/2900-cache-domain-case-props # MK Oct 19
     - es/metadata  # Ethan Oct 20
     - riese/clickable_tile # Martin Oct 23
-    - smh/disable-dynamic-search # Steph Oct 24
     - jt/conditional_email_fix # Jonathan T Oct 25
 submodules: { }
