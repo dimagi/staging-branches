@@ -16,7 +16,6 @@ branches:
     - sr/gis-select # Sravan 7 Aug
     - dmr/skip-django-user-sync-on-user-reporting-metadata-update # Aug 15
     - cs/SC-2909-add_page_for_det_ds_query_file_v2 # Charl Aug 21
-    - dm/sql-repeatrecord-fields # Daniel Sep 13
     #- cs/SC-3104-add-manage-mobile-workers-page # Charl Sep 14
     - es/emwf-web-users  # Ethan Sep 14
     - cs/SC-3104-add-mobile-workers-page-gps-capture-page # Charl Sept 19
@@ -26,6 +25,5 @@ branches:
     - mk/2900-cache-domain-case-props # MK Oct 19
     - es/metadata  # Ethan Oct 20
     - riese/clickable_tile # Martin Oct 23
-    - jt/conditional_email_fix # Jonathan T Oct 25
     - ml/case-deletion # minha OCt 25
 submodules: { }
