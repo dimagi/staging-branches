@@ -27,4 +27,5 @@ branches:
     - es/metadata  # Ethan Oct 20
     - riese/clickable_tile # Martin Oct 23
     - jt/conditional_email_fix # Jonathan T Oct 25
+    - ml/case-deletion # minha OCt 25
 submodules: { }
