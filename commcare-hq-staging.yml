@@ -27,4 +27,5 @@ branches:
     - ml/case-deletion # minha OCt 25
     - cs/SC-3057-lock-case-grouping # 26 Oct
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
+    - dm/zopes  # Oct 27
 submodules: { }
