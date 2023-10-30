@@ -20,7 +20,7 @@ branches:
     - cs/SC-3104-add-mobile-workers-page-gps-capture-page # Charl Sept 19
     - mk/3003-add-domain-banners # MK Oct 10
     - mk/3003-add-domain-banners-qafix # MK Oct 21
-    - akj/ush-3370-mapping-overflow # Akash Oct 16
+    #- akj/ush-3370-mapping-overflow # Akash Oct 16
     - mk/2900-cache-domain-case-props # MK Oct 19
     - es/metadata  # Ethan Oct 20
     - riese/clickable_tile # Martin Oct 23
@@ -28,4 +28,5 @@ branches:
     - cs/SC-3057-lock-case-grouping # 26 Oct
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
     - dm/zopes  # Oct 27
+    - akj/ush-3692-dynamic-search-dashboard # Akash Oct 30
 submodules: { }
