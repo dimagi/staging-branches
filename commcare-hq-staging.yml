@@ -30,4 +30,5 @@ branches:
     - dm/zopes  # Oct 27
     - akj/ush-3692-dynamic-search-dashboard # Akash Oct 30
     - cs/SSC-3060/select_case_groups_to_view # Chris Oct 30
+    - gh/repeaters/whitelist-bug-migration # Graham Oct 30
 submodules: { }
