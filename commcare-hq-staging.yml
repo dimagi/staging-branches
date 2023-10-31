@@ -23,7 +23,6 @@ branches:
     #- akj/ush-3370-mapping-overflow # Akash Oct 16
     - mk/2900-cache-domain-case-props # MK Oct 19
     - es/metadata  # Ethan Oct 20
-    - riese/clickable_tile # Martin Oct 23
     - ml/case-deletion # minha OCt 25
     - cs/SC-3057-lock-case-grouping # 26 Oct
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
@@ -31,4 +30,5 @@ branches:
     - akj/ush-3692-dynamic-search-dashboard # Akash Oct 30
     - cs/SSC-3060/select_case_groups_to_view # Chris Oct 30
     - bmb/bootstrap5-hqcrispy-updates  # Biyeun Oct 30
+    - riese/clickable_update_tile # Martin Oct 31 👻
 submodules: { }
