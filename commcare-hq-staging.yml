@@ -30,5 +30,4 @@ branches:
     - akj/ush-3692-dynamic-search-dashboard # Akash Oct 30
     - cs/SSC-3060/select_case_groups_to_view # Chris Oct 30
     - bmb/bootstrap5-hqcrispy-updates  # Biyeun Oct 30
-    - riese/clickable_update_tile # Martin Oct 31 👻
 submodules: { }
