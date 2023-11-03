@@ -26,5 +26,5 @@ branches:
     - cs/SSC-3060/select_case_groups_to_view # Chris Oct 30
     - bmb/bootstrap5-hqcrispy-updates  # Biyeun Oct 30
     - ad/endpoints-access-to-hidden-forms # Addison Nov 1
-    #- akj/ush-3507-3508-remove-group-prop # Akash Nov 1
+    - akj/ush-3507-3508-remove-group-prop # Akash Nov 1
 submodules: { }
