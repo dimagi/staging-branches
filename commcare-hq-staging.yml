@@ -24,4 +24,5 @@ branches:
     - cs/SC-2876-implement-disbursement # Charl Nov 3
     - rc/skip-iframe-click-icons # Robert Nov 3
     - jt/custom-gateway-system-emails # Jonthan T. Nov 6
+    - bmb/bootstrap5-knockout-bindings-updates  # Biyeun Nov 6
 submodules: { }
