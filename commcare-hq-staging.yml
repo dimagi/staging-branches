@@ -29,4 +29,6 @@ branches:
     - akj/ush-3507-3508-remove-group-prop # Akash Nov 1
     - cs/SC-2876-implement-disbursement # Charl Nov 3
     - rc/skip-iframe-click-icons # Robert Nov 3
+    - ze/update-geospatial-menu # Zandre Nov 6
+    - ze/geospatial-polygon-filtering # Zandre Nov 6
 submodules: { }
