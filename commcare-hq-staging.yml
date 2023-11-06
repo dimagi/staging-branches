@@ -11,23 +11,16 @@ branches:
     - es/redirect-domain  # Ethan Nov 21
     - gh/remove-duplicate-kafka-seq-code # Graham Dec 26
     # - ze/data_dictionary_all+jc/bill-web-user-flag+cs/SC-2992-undo-GAed-ff+sk/commcare-connect+akj/saas-14520-scheduled-reports # charl Aug 2
-    - cs/SC-2636-copy_cases_to_test_user # Charl Aug 14
-    - cs/SC-2927/orphan_case_alerts # Chris 4 Aug
     - sr/gis-select # Sravan 7 Aug
     - dmr/skip-django-user-sync-on-user-reporting-metadata-update # Aug 15
-    - cs/SC-2909-add_page_for_det_ds_query_file_v2 # Charl Aug 21
     - es/emwf-web-users  # Ethan Sep 14
-    - cs/SC-3104-add-mobile-workers-page-gps-capture-page # Charl Sept 19
     - mk/2900-cache-domain-case-props # MK Oct 19
     - ml/case-deletion # minha OCt 25
-    - cs/SC-3057-lock-case-grouping # 26 Oct
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
     - akj/ush-3692-dynamic-search-dashboard # Akash Oct 30
-    - cs/SSC-3060/select_case_groups_to_view # Chris Oct 30
     - bmb/bootstrap5-hqcrispy-updates  # Biyeun Oct 30
     - ad/endpoints-access-to-hidden-forms # Addison Nov 1
     - akj/ush-3507-3508-remove-group-prop # Akash Nov 1
     - cs/SC-2876-implement-disbursement # Charl Nov 3
     - rc/skip-iframe-click-icons # Robert Nov 3
-    - ze/geospatial-polygon-filtering # Zandre Nov 6
 submodules: { }
