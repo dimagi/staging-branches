@@ -5,7 +5,10 @@ name: autostaging
 branches:
     - queryDataKeyChanges
     - getDetailsRefreshWithCaseSearch
+    - dynamicSearch
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches: []
+    branches: [
+    - dynamicSearchSuite
+    ]
