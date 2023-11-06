@@ -25,4 +25,6 @@ branches:
     - rc/skip-iframe-click-icons # Robert Nov 3
     - jt/custom-gateway-system-emails # Jonthan T. Nov 6
     - bmb/bootstrap5-knockout-bindings-updates  # Biyeun Nov 6
+    - smh/dynamic-search-app-level-config # Steph Nov 6
+    - smh/dynamic-search-split-screen-changes # Steph Nov 6
 submodules: { }
