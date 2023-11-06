@@ -10,5 +10,5 @@ submodules:
   libs/commcare:
     trunk: formplayer
     branches: [
-    - dynamicSearchSuite
+    dynamicSearchSuite
     ]
