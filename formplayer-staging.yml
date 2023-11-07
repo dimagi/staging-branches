@@ -3,13 +3,8 @@
 trunk: master
 name: autostaging
 branches:
-    - dynamicSearch+queryDataKeyChanges
-    - dynamicSearch
-    - queryDataKeyChanges
     - getDetailsRefreshWithCaseSearch
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches: [
-    dynamicSearchSuite
-    ]
+    branches: []
