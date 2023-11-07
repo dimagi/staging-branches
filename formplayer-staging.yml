@@ -4,7 +4,10 @@ trunk: master
 name: autostaging
 branches:
     - getDetailsRefreshWithCaseSearch
+    - dynamicSearchSuite
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches: []
+    branches: [
+    dynamicSearch
+    ]
