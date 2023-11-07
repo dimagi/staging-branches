@@ -21,7 +21,7 @@ branches:
     - akj/ush-3507-3508-remove-group-prop # Akash Nov 1
     - rc/skip-iframe-click-icons # Robert Nov 3
     - jt/custom-gateway-system-emails # Jonthan T. Nov 6
-    - smh/dynamic-search-app-level-config # Steph Nov 6
-    - smh/dynamic-search-split-screen-changes # Steph Nov 6
+    # - smh/dynamic-search-app-level-config # Steph Nov 6
+    # - smh/dynamic-search-split-screen-changes # Steph Nov 6
     - bmb/b5-styleguide  # Biyeun Nov 7
 submodules: { }
