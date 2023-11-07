@@ -18,7 +18,7 @@ branches:
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
     - akj/ush-3692-dynamic-search-dashboard # Akash Oct 30
     - ad/endpoints-access-to-hidden-forms # Addison Nov 1
-    - akj/ush-3507-3508-remove-group-prop # Akash Nov 1
+    # - akj/ush-3507-3508-remove-group-prop # Akash Nov 1
     - rc/skip-iframe-click-icons # Robert Nov 3
     - jt/custom-gateway-system-emails # Jonthan T. Nov 6
     # - smh/dynamic-search-app-level-config # Steph Nov 6
