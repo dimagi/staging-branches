@@ -10,7 +10,6 @@ branches:
     - akj/migrations-fix # Akash Oct 11
     - es/redirect-domain  # Ethan Nov 21
     - gh/remove-duplicate-kafka-seq-code # Graham Dec 26
-    # - ze/data_dictionary_all+jc/bill-web-user-flag+cs/SC-2992-undo-GAed-ff+sk/commcare-connect+akj/saas-14520-scheduled-reports # charl Aug 2
     - sr/gis-select # Sravan 7 Aug
     - dmr/skip-django-user-sync-on-user-reporting-metadata-update # Aug 15
     - es/emwf-web-users  # Ethan Sep 14
