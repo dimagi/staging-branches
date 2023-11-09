@@ -24,4 +24,5 @@ branches:
     - smh/dynamic-search-split-screen-changes # Steph Nov 6
     - bmb/b5-styleguide  # Biyeun Nov 7
     # - gh/django/upgrade-two-factor-auth # Graham Nov 8
+    - mk/case-grouping-aggregation  # Norman Nov 9
 submodules: { }
