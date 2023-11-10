@@ -3,7 +3,7 @@
 trunk: master
 name: autostaging
 branches:
-    - getDetailsRefreshWithCaseSearch
+    - queryDataKeyChanges
     - dynamicSearch
 submodules:
   libs/commcare:
