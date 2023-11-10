@@ -24,4 +24,5 @@ branches:
     - bmb/b5-styleguide  # Biyeun Nov 7
     # - gh/django/upgrade-two-factor-auth # Graham Nov 8
     - mk/case-grouping-aggregation  # Norman Nov 9
+    - cs/SC-3059-group-cases-manually # Charl Nov 10
 submodules: { }
