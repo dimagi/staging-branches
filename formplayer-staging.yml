@@ -8,6 +8,6 @@ branches:
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches: [
-    dynamicSearchSuite
-    ]
+    branches:   
+        - dynamicSearchSuite
+        - getQueryKey
