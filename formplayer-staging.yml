@@ -4,10 +4,8 @@ trunk: master
 name: autostaging
 branches:
     - queryDataKeyChanges
-    - dynamicSearch
 submodules:
   libs/commcare:
     trunk: formplayer
     branches:   
-        - dynamicSearchSuite
         - getQueryKey
