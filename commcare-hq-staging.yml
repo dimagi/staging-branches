@@ -27,7 +27,7 @@ branches:
     - mk/case-grouping-aggregation  # Norman Nov 9
     - riese/linking # Martin Nov 10
     - jt/inline_case_search_parent_select # Jonathan Nov 10
-    - jls/web-apps-ui # Jenny Nov 13
+    #- jls/web-apps-ui # Jenny Nov 13
     - ze/validate-dd-case-properties+ze/validate-dd-case-types # Zandre Nov 14
     - ze/validate-dd-case-types # Zandre Nov 14
     - ze/validate-dd-case-properties # Zandre Nov 14
