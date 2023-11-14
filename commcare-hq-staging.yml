@@ -24,7 +24,6 @@ branches:
     - bmb/b5-styleguide  # Biyeun Nov 7
     # - gh/django/upgrade-two-factor-auth # Graham Nov 8
     - mk/case-grouping-aggregation  # Norman Nov 9
-    - cs/SC-3059-group-cases-manually # Charl Nov 10
     - riese/linking # Martin Nov 10
     - jt/inline_case_search_parent_select # Jonathan Nov 10
     - jls/web-apps-ui # Jenny Nov 13
