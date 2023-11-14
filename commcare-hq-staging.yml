@@ -21,6 +21,7 @@ branches:
     - jt/custom-gateway-system-emails # Jonthan T. Nov 6
     - smh/dynamic-search-app-level-config # Steph Nov 6
     - smh/dynamic-search-split-screen-changes # Steph Nov 6
+    - jls/web-apps-ui+bmb/b5-styleguide # garbage whitespace conflict
     - bmb/b5-styleguide  # Biyeun Nov 7
     # - gh/django/upgrade-two-factor-auth # Graham Nov 8
     - mk/case-grouping-aggregation  # Norman Nov 9
