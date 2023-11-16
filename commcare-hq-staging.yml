@@ -28,4 +28,5 @@ branches:
     - ze/validate-dd-case-types # Zandre Nov 14
     - ze/validate-dd-case-properties # Zandre Nov 14
     - smh/geocoder-debug # Steph Nov 14
+    - riese/map_show_hide # Martin Nov 16
 submodules: { }
