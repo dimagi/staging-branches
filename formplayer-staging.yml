@@ -9,3 +9,4 @@ submodules:
     trunk: formplayer
     branches:   
         - getQueryKey
+        - fixMenuAllItems
