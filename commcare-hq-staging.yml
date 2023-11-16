@@ -16,7 +16,7 @@ branches:
     - ml/case-deletion # minha OCt 25
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
     - akj/ush-3692-dynamic-search-dashboard # Akash Oct 30
-    # - bmb/b5-styleguide+jls/web-apps-ui # garbage whitespace conflict
+    - bmb/b5-styleguide+jls/web-apps-ui # garbage whitespace conflict
     - bmb/b5-styleguide  # Biyeun Nov 7
     # - gh/django/upgrade-two-factor-auth # Graham Nov 8
     - mk/case-grouping-aggregation  # Norman Nov 9
