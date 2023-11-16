@@ -29,4 +29,5 @@ branches:
     - ze/validate-dd-case-properties # Zandre Nov 14
     - smh/geocoder-debug # Steph Nov 14
     - riese/map_show_hide # Martin Nov 16
+    - bmb/marketing-styling-rollback  # Biyeun Nov 16
 submodules: { }
