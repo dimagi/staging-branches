@@ -21,11 +21,11 @@ branches:
     - mk/case-grouping-aggregation  # Norman Nov 9
     - riese/linking # Martin Nov 10
     - jt/inline_case_search_parent_select # Jonathan Nov 10
-    - jls/web-apps-label-style+jt/nested-form-groups-style
+    #- jls/web-apps-label-style+jt/nested-form-groups-style
     - jls/web-apps-ui # Jenny Nov 13
     - jls/drop-web-apps-status-icons # Jenny Nov 15
     - jls/web-apps-label-style # Jenny Nov 16
-    - jt/nested-form-groups-style # Jonathan Nov 16
+    #- jt/nested-form-groups-style # Jonathan Nov 16
     - ze/validate-dd-case-properties+ze/validate-dd-case-types # Zandre Nov 14
     - ze/validate-dd-case-types # Zandre Nov 14
     - ze/validate-dd-case-properties # Zandre Nov 14
