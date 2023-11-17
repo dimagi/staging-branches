@@ -32,4 +32,5 @@ branches:
     - smh/geocoder-debug # Steph Nov 14
     - riese/map_show_hide # Martin Nov 16
     - bmb/marketing-styling-rollback  # Biyeun Nov 16
+    - mk/case-list-filter-locations # MK Nov 17
 submodules: { }
