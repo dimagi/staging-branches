@@ -36,4 +36,5 @@ branches:
     - gh/user-reporting-metadata/tests # Graham Nov 20
     - es/user-sidebar  # Ethan Nov 17
     - jc/upgrade-stripe # Jing Nov 20
+    - em/button-select-entry # Evan Nov 20
 submodules: { }
