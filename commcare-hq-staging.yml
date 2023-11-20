@@ -34,5 +34,5 @@ branches:
     - mk/case-list-filter-locations # MK Nov 17
     - es/sql-user-data  # Ethan Nov 17
     - es/user-sidebar  # Ethan Nov 17
-    - jc/update-stripe # Jing Nov 20
+    - jc/upgrade-stripe # Jing Nov 20
 submodules: { }
