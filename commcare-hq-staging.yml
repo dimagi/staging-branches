@@ -21,7 +21,8 @@ branches:
     - bmb/b5-styleguide  # Biyeun Nov 7
     - riese/linking # Martin Nov 10
     - jt/inline_case_search_parent_select # Jonathan Nov 10
-    - jls/web-apps-label-style+jt/nested-form-groups-style
+    #- jls/web-apps-label-style+jt/nested-form-groups-style
+    - jls/web-apps-label-style # Jenny Nov 20
     - jls/web-apps-ui # Jenny Nov 13
     - jt/nested-form-groups-style # Jonathan Nov 16
     - ze/validate-dd-case-properties+ze/validate-dd-case-types # Zandre Nov 14
