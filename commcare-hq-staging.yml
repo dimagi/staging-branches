@@ -31,6 +31,5 @@ branches:
     - jc/upgrade-stripe # Jing Nov 20
     - em/button-select-entry # Evan Nov 20
     # - jt/nested-form-groups-style # Jonathan Nov 16
-    - bmb/remove-unused-datatables-extensions  # Biyeun Nov 21
-    - bmb/remove-additional-dt-extensions   # Biyeun Nov 21
+    - bmb/js-package-purge  # Biyeun Nov 21
 submodules: { }
