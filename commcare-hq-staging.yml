@@ -27,9 +27,7 @@ branches:
     - smh/geocoder-debug # Steph Nov 14
     - riese/map_show_hide # Martin Nov 16
     - mk/case-list-filter-locations # MK Nov 17
-    - gh/user-reporting-metadata/tests+es/sql-user-data # Graham Nov 20
     - es/sql-user-data  # Ethan Nov 17
-    - gh/user-reporting-metadata/tests # Graham Nov 20
     - es/user-sidebar  # Ethan Nov 17
     - jc/upgrade-stripe # Jing Nov 20
     - em/button-select-entry # Evan Nov 20
