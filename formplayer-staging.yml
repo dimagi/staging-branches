@@ -2,11 +2,8 @@
 
 trunk: master
 name: autostaging
-branches:
-    - queryDataKeyChanges
+branches: []
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches:   
-        - getQueryKey
-        - fixMenuAllItems
+    branches: []
