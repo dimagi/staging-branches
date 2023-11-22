@@ -33,4 +33,5 @@ branches:
     # - jt/nested-form-groups-style # Jonathan Nov 16
     - bmb/js-package-purge  # Biyeun Nov 21
     - cs/data_source_logs # Chris Nov 22
+    - cs/SC-3067-set-up-repeater-on-ds-get # Charl Nov 22
 submodules: { }
