@@ -31,7 +31,7 @@ branches:
     - jc/upgrade-stripe # Jing Nov 20
     - em/button-select-entry # Evan Nov 20
     # - jt/nested-form-groups-style # Jonathan Nov 16
-    - bmb/js-package-purge  # Biyeun Nov 21
+    # - bmb/js-package-purge  # Biyeun Nov 21
     - cs/data_source_logs # Chris Nov 22
     - cs/SC-3067-set-up-repeater-on-ds-get # Charl Nov 22
     - riese/tile_border # Martin Nov 22
