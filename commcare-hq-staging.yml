@@ -24,7 +24,6 @@ branches:
     - ze/validate-dd-case-properties+ze/validate-dd-case-types # Zandre Nov 14
     - ze/validate-dd-case-types # Zandre Nov 14
     - ze/validate-dd-case-properties # Zandre Nov 14
-    - smh/geocoder-debug # Steph Nov 14
     - mk/case-list-filter-locations # MK Nov 17
     - es/sql-user-data  # Ethan Nov 17
     - es/user-sidebar  # Ethan Nov 17
@@ -34,4 +33,5 @@ branches:
     - cs/data_source_logs # Chris Nov 22
     - cs/SC-3067-set-up-repeater-on-ds-get # Charl Nov 22
     - riese/tile_border # Martin Nov 22
+    - smh/make-geocoder-widget-sticky #Steph Nov 27
 submodules: { }
