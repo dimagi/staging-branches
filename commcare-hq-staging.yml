@@ -25,7 +25,6 @@ branches:
     - ze/validate-dd-case-types # Zandre Nov 14
     - ze/validate-dd-case-properties # Zandre Nov 14
     - mk/case-list-filter-locations # MK Nov 17
-    - es/sql-user-data  # Ethan Nov 17
     - es/user-sidebar  # Ethan Nov 17
     - jc/upgrade-stripe # Jing Nov 20
     - em/button-select-entry # Evan Nov 20
