@@ -34,5 +34,5 @@ branches:
     - cs/SC-3067-set-up-repeater-on-ds-get # Charl Nov 22
     - riese/tile_border # Martin Nov 22
     - smh/make-geocoder-widget-sticky #Steph Nov 27
-    - proteusvacuum:fr/rich-text-emails #Robert Nov 27
+    # - proteusvacuum:fr/rich-text-emails #Robert Nov 27
 submodules: { }
