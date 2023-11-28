@@ -6,5 +6,4 @@ branches: []
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches:
-        - riese/field_border
+    branches: []
