@@ -36,4 +36,5 @@ branches:
     # - proteusvacuum:fr/rich-text-emails # Robert Nov 27
     - ad/use-project-logo-in-invite-email # Addison Nov 27
     - rc/clickable-icons-filter-case-list # Robert Nov 28
+    - ad/prevent-tableau-sync-errors # Addison Nov 28
 submodules: { }
