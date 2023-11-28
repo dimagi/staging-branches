@@ -2,7 +2,8 @@
 
 trunk: master
 name: autostaging
-branches: []
+branches: 
+    - rc/clickable-icons-remove-case-from-ui
 submodules:
   libs/commcare:
     trunk: formplayer
