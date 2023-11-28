@@ -35,4 +35,5 @@ branches:
     - smh/make-geocoder-widget-sticky #Steph Nov 27
     # - proteusvacuum:fr/rich-text-emails #Robert Nov 27
     - ad/use-project-logo-in-invite-email # Addison Nov 27
+    - jls/req-js # Jenny Nov 27
 submodules: { }
