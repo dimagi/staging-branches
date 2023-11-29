@@ -15,9 +15,7 @@ branches:
     # - mk/2900-cache-domain-case-props # MK Oct 19
     - ml/case-deletion # minha OCt 25
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
-    - gh/web-apps/limit-usage+akj/ush-3692-dynamic-search-dashboard # Nov 17
     - gh/web-apps/limit-usage # Graham Nov 17
-    - akj/ush-3692-dynamic-search-dashboard # Akash Oct 30
     - bmb/b5-styleguide  # Biyeun Nov 7
     - riese/linking # Martin Nov 10
     - jt/inline_case_search_parent_select # Jonathan Nov 10
