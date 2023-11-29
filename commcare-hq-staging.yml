@@ -35,4 +35,5 @@ branches:
     - rc/clickable-icons-filter-case-list # Robert Nov 28
     - ad/prevent-tableau-sync-errors # Addison Nov 28
     - jls/allow-cache-index-sort # Jenny Nov 29
+    - riese/clickable_no_btn # Martin Nov 29
 submodules: { }
