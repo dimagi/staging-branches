@@ -28,7 +28,6 @@ branches:
     # - jt/nested-form-groups-style # Jonathan Nov 16
     - cs/data_source_logs # Chris Nov 22
     - cs/SC-3067-set-up-repeater-on-ds-get # Charl Nov 22
-    - smh/make-geocoder-widget-sticky #Steph Nov 27
     # - proteusvacuum:fr/rich-text-emails # Robert Nov 27
     - ad/use-project-logo-in-invite-email # Addison Nov 27
     - rc/clickable-icons-filter-case-list # Robert Nov 28
