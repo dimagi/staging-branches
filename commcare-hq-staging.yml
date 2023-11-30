@@ -35,4 +35,5 @@ branches:
     - jls/allow-cache-index-sort # Jenny Nov 29
     - riese/clickable_no_btn # Martin Nov 29
     - ml/dont-return-deleted # Minha Nov 29
+    - jls/web-apps-sticky-tile # Jenny Nov 29
 submodules: { }
