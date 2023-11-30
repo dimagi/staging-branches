@@ -33,6 +33,5 @@ branches:
     - jls/allow-cache-index-sort # Jenny Nov 29
     - ml/dont-return-deleted # Minha Nov 29
     - jls/web-apps-sticky-tile # Jenny Nov 29
-    - es/user-data-fix  # Ethan Nov 30
     - gh/django-user-case-sensitive # Graham Nov 30
 submodules: { }
