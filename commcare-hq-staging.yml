@@ -34,4 +34,5 @@ branches:
     - jls/empty-question-labels # Jenny Nov 30
     - proteusvacuum:fr/rich-text-emails # Steph Dec 4
     - rc/adjust-input-size # Robert Dec 4
+    - es/riese/linking  # Ethan Dec 4
 submodules: { }
