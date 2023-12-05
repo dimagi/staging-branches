@@ -37,4 +37,5 @@ branches:
     - es/riese/linking  # Ethan Dec 4
     - gh/django-prbac/1.1.0 # Graham Dec 5
     - riese/lazy_config # Martin Dec 5
+    - jt/visually-segmented-query-search-categories # Jonathan T. Dec 5
 submodules: { }
