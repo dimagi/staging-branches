@@ -35,4 +35,5 @@ branches:
     - proteusvacuum:fr/rich-text-emails # Steph Dec 4
     - rc/adjust-input-size # Robert Dec 4
     - es/riese/linking  # Ethan Dec 4
+    - gh/django-prbac/1.1.0 # Graham Dec 5
 submodules: { }
