@@ -30,13 +30,14 @@ branches:
     - ad/use-project-logo-in-invite-email # Addison Nov 27
     - ad/prevent-tableau-sync-errors # Addison Nov 28
     - jls/allow-cache-index-sort # Jenny Nov 29
-    - jls/web-apps-sticky-tile # Jenny Nov 29
     - jls/empty-question-labels # Jenny Nov 30
     - proteusvacuum:fr/rich-text-emails # Steph Dec 4
     - es/riese/linking  # Ethan Dec 4
     - gh/django-prbac/1.1.0 # Graham Dec 5
     - riese/lazy_config # Martin Dec 5
     - jt/visually-segmented-query-search-categories # Jonathan T. Dec 5
+    - em/form-submit-bar+jls/web-apps-sticky-tile # Evan Dec 5
     - em/form-submit-bar # Evan Dec 5
+    - jls/web-apps-sticky-tile # Jenny Nov 29
     - em/stripe-repeats-attribute # Evan Dec 5
 submodules: { }
