@@ -36,7 +36,6 @@ branches:
     - riese/lazy_config # Martin Dec 5
     - riese/search_group # Martin Dec 5
     - jt/visually-segmented-query-search-categories # Jonathan T. Dec 5
-    - jls/web-apps-sticky-tile # Jenny Nov 29
     - em/stripe-repeats-attribute # Evan Dec 5
     - ad/web-apps-breadcrumbs-improvements # Addison Dec 6
 submodules: { }
