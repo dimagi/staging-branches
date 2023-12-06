@@ -40,4 +40,5 @@ branches:
     - em/form-submit-bar # Evan Dec 5
     - jls/web-apps-sticky-tile # Jenny Nov 29
     - em/stripe-repeats-attribute # Evan Dec 5
+    - ad/web-apps-breadcrumbs-improvements # Addison Dec 6
 submodules: { }
