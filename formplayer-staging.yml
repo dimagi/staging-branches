@@ -3,7 +3,7 @@
 trunk: master
 name: autostaging
 branches:
-  - jt/visually-segmented-case-search-group # Jonathan T. Dec 5
+  - jt/visually-segmented-case-search-groups # Jonathan T. Dec 5
 submodules:
   libs/commcare:
     trunk: formplayer
