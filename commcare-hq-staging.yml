@@ -34,6 +34,7 @@ branches:
     - proteusvacuum:fr/rich-text-emails # Steph Dec 4
     - es/riese/linking  # Ethan Dec 4
     - riese/lazy_config # Martin Dec 5
+    - riese/search_group # Martin Dec 5
     - jt/visually-segmented-query-search-categories # Jonathan T. Dec 5
     - em/form-submit-bar+jls/web-apps-sticky-tile # Evan Dec 5
     - em/form-submit-bar # Evan Dec 5
