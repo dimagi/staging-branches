@@ -31,7 +31,6 @@ branches:
     - ad/prevent-tableau-sync-errors # Addison Nov 28
     - jls/empty-question-labels # Jenny Nov 30
     - jls/web-apps-sticky-tile # Jenny Dec 6
-    - proteusvacuum:fr/rich-text-emails # Steph Dec 4
     - es/riese/linking  # Ethan Dec 4
     - riese/lazy_config # Martin Dec 5
     - riese/search_group # Martin Dec 5
