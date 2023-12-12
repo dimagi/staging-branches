@@ -32,7 +32,6 @@ branches:
     - jls/empty-question-labels # Jenny Nov 30
     - jls/web-apps-sticky-tile # Jenny Dec 6
     # - es/riese/linking  # Ethan Dec 4
-    - riese/lazy_config # Martin Dec 5
     - riese/search_group # Martin Dec 5
     - jt/visually-segmented-query-search-categories # Jonathan T. Dec 5
     - ad/web-apps-breadcrumbs-improvements # Addison Dec 6
@@ -40,4 +39,5 @@ branches:
     - proteusvacuum:fr/rich-text-emails # Addison Dec 7
     - es/user-data-api  # Ethan Dec 11
     - smh/sticky-submit-fix # Steph Dec 11
+    - riese/extra_field # Martin Dec 12
 submodules: { }
