@@ -42,4 +42,5 @@ branches:
     - rc/hide-search-cancel-buttons # Robert Dec 12
     - em/checkbox-vertical-align # Evan Dec 12
     - smh/clear-from-submit-on-nav # Steph Dec 13
+    - bmb/marketing-styling-deploy  # Biyeun Dec 13
 submodules: { }
