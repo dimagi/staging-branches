@@ -39,7 +39,7 @@ branches:
     - proteusvacuum:fr/rich-text-emails # Addison Dec 7
     - smh/sticky-submit-fix # Steph Dec 11
     - riese/extra_field # Martin Dec 12
-    - akj/ush-3855-group-per-row-attr # Akash Dec 12
+    #- akj/ush-3855-group-per-row-attr # Akash Dec 12
     - rc/hide-search-cancel-buttons # Robert Dec 12
     - em/checkbox-vertical-align # Evan Dec 12
 submodules: { }
