@@ -41,7 +41,6 @@ branches:
     - proteusvacuum:fr/rich-text-emails # Addison Dec 7
     - riese/extra_field # Martin Dec 12
     - akj/ush-3855-group-per-row-attr # Akash Dec 12
-    - rc/hide-search-cancel-buttons # Robert Dec 12
     - em/checkbox-vertical-align # Evan Dec 12
     - smh/clear-from-submit-on-nav # Steph Dec 13
     - bmb/marketing-styling-deploy  # Biyeun Dec 13
