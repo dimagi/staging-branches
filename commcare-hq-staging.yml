@@ -30,6 +30,7 @@ branches:
     - bmb/marketing-styling-deploy+ad/use-project-logo-in-invite-email+fr/rich-text-emails  # Biyeun Dec 13
     - ad/use-project-logo-in-invite-email # Addison Nov 27
     - ad/prevent-tableau-sync-errors # Addison Nov 28
+    - akj/ush-3855-group-per-row-attr+jls/empty-question-labels
     - jls/empty-question-labels # Jenny Nov 30
     - jls/web-apps-sticky-tile # Jenny Dec 6
     # - es/riese/linking  # Ethan Dec 4
