@@ -27,6 +27,7 @@ branches:
     # - jt/nested-form-groups-style # Jonathan Nov 16
     - cs/data_source_logs # Chris Nov 22
     - cs/SC-3067-set-up-repeater-on-ds-get # Charl Nov 22
+    - bmb/marketing-styling-deploy+ad/use-project-logo-in-invite-email+fr/rich-text-emails  # Biyeun Dec 13
     - ad/use-project-logo-in-invite-email # Addison Nov 27
     - ad/prevent-tableau-sync-errors # Addison Nov 28
     - jls/empty-question-labels # Jenny Nov 30
