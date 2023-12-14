@@ -45,5 +45,4 @@ branches:
     - smh/clear-from-submit-on-nav # Steph Dec 13
     - bmb/marketing-styling-deploy  # Biyeun Dec 13
     - mjr/combined_dedupe # Matt Dec 13 -- For dedupe testing. Should not remain after December
-    - mjr/user_importer_critical_section # Matt Dec 13 -- quick verification, should be removed in days
 submodules: { }
