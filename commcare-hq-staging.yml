@@ -44,4 +44,5 @@ branches:
     - mjr/user_importer_critical_section
     - cs/data_source_logs_updated # Chris Dec 14
     # - rc/hide-cancel-search-buttons # Robert Dec 14
+    - em/clickable-icons-accessibility # Evan Dec 14
 submodules: { }
