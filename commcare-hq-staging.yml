@@ -13,7 +13,6 @@ branches:
     - sr/gis-select # Sravan 7 Aug
     - es/emwf-web-users  # Ethan Sep 14
     # - mk/2900-cache-domain-case-props # MK Oct 19
-    - gh/disable-delete-task+ml/case-deletion # Graham Dec 13
     - ml/case-deletion # minha OCt 25
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
     - bmb/b5-styleguide  # Biyeun Nov 7
