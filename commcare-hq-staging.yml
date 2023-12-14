@@ -16,24 +16,20 @@ branches:
     - ml/case-deletion # minha OCt 25
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
     - bmb/b5-styleguide  # Biyeun Nov 7
-    - jt/inline_case_search_parent_select # Jonathan Nov 10
     - ze/validate-dd-case-properties+ze/validate-dd-case-types # Zandre Nov 14
     - ze/validate-dd-case-types # Zandre Nov 14
     - ze/validate-dd-case-properties # Zandre Nov 14
-    - mk/case-list-filter-locations # MK Nov 17
     - es/user-sidebar  # Ethan Nov 17
     - jc/upgrade-stripe # Jing Nov 20
     # - jt/nested-form-groups-style # Jonathan Nov 16
     #- cs/data_source_logs # Chris Nov 22
     - bmb/marketing-styling-deploy+ad/use-project-logo-in-invite-email  # Biyeun Dec 13
     - ad/use-project-logo-in-invite-email # Addison Nov 27
-    - ad/prevent-tableau-sync-errors # Addison Nov 28
     - akj/ush-3855-group-per-row-attr+jls/empty-question-labels
     - jls/empty-question-labels # Jenny Nov 30
     - jls/web-apps-sticky-tile # Jenny Dec 6
     - riese/search_group # Martin Dec 5
     - jt/visually-segmented-query-search-categories # Jonathan T. Dec 5
-    - ad/web-apps-breadcrumbs-improvements # Addison Dec 6
     - bmb/marketing-styling-deploy+fr/rich-text-emails  # Biyeun Dec 13
     - proteusvacuum:fr/rich-text-emails # Addison Dec 7
     - akj/ush-3855-group-per-row-attr # Akash Dec 12
