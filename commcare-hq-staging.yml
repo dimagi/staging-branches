@@ -26,7 +26,7 @@ branches:
     - es/user-sidebar  # Ethan Nov 17
     - jc/upgrade-stripe # Jing Nov 20
     # - jt/nested-form-groups-style # Jonathan Nov 16
-    - cs/data_source_logs # Chris Nov 22
+    #- cs/data_source_logs # Chris Nov 22
     - cs/SC-3067-set-up-repeater-on-ds-get # Charl Nov 22
     - bmb/marketing-styling-deploy+ad/use-project-logo-in-invite-email  # Biyeun Dec 13
     - ad/use-project-logo-in-invite-email # Addison Nov 27
@@ -47,4 +47,5 @@ branches:
     - bmb/marketing-styling-deploy  # Biyeun Dec 13
     - mjr/combined_dedupe # Matt Dec 13 -- For dedupe testing. Should not remain after December
     - mjr/user_importer_critical_section
+    - cs/data_source_logs_updated # Chris Dec 14
 submodules: { }
