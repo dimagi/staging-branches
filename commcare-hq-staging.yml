@@ -41,4 +41,5 @@ branches:
     - cs/data_source_logs_updated # Chris Dec 14
     # - rc/hide-cancel-search-buttons # Robert Dec 14
     - em/clickable-icons-accessibility # Evan Dec 14
+    - cs/SC-3067-set-up-repeater-on-ds-get-v2 # Charl Dec 15
 submodules: { }
