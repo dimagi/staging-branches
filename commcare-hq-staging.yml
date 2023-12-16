@@ -21,7 +21,6 @@ branches:
     - ze/validate-dd-case-properties # Zandre Nov 14
     - es/user-sidebar  # Ethan Nov 17
     - jc/upgrade-stripe # Jing Nov 20
-    # - jt/nested-form-groups-style # Jonathan Nov 16
     #- cs/data_source_logs # Chris Nov 22
     - bmb/marketing-styling-deploy+ad/use-project-logo-in-invite-email  # Biyeun Dec 13
     - ad/use-project-logo-in-invite-email # Addison Nov 27
@@ -41,4 +40,5 @@ branches:
     # - rc/hide-cancel-search-buttons # Robert Dec 14
     - em/clickable-icons-accessibility # Evan Dec 14
     - ad/question-tiles-vertical-alignment # Addison Dec 15
+    - jt/underline_link # Jonathan T. Dec 16
 submodules: { }
