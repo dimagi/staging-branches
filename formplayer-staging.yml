@@ -2,11 +2,9 @@
 
 trunk: master
 name: autostaging
-branches:
-  - jt/visually-segmented-case-search-groups # Jonathan T. Dec 5
+branches: []
 submodules:
   libs/commcare:
     trunk: formplayer
     branches:
         - asyncEntityLoad
-        - jt/visually-segmented-case-search-group # Jonathan T. Dec 5
