@@ -8,3 +8,4 @@ submodules:
     trunk: formplayer
     branches:
         - asyncEntityLoad
+        - formSubmitTranslation
