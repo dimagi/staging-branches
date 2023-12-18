@@ -40,4 +40,5 @@ branches:
     - em/clickable-icons-accessibility # Evan Dec 14
     - ad/question-tiles-vertical-alignment # Addison Dec 15
     - jt/underline_link # Jonathan T. Dec 16
+    - es/sort-options  # Ethan Dec 18
 submodules: { }
