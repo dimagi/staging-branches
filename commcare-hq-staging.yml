@@ -42,4 +42,5 @@ branches:
     - es/jt/underline_link+es/sort-options  # Ethan/Jonathan T
     - jt/underline_link # Jonathan T. Dec 16
     - es/sort-options  # Ethan Dec 18
+    - smh/form-submission-notification-translation # Steph Dec 18
 submodules: { }
