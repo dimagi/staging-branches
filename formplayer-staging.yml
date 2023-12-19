@@ -2,9 +2,8 @@
 
 trunk: master
 name: autostaging
-branches: [
+branches:
   - formSubmitTranslation
-]
 submodules:
   libs/commcare:
     trunk: formplayer
