@@ -39,7 +39,5 @@ branches:
     - cs/data_source_logs_updated # Chris Dec 14
     - em/clickable-icons-accessibility # Evan Dec 14
     - ad/question-tiles-vertical-alignment # Addison Dec 15
-    - es/jt/underline_link+es/sort-options  # Ethan/Jonathan T
-    - jt/underline_link # Jonathan T. Dec 16
     - smh/form-submission-notification-translation # Steph Dec 18
 submodules: { }
