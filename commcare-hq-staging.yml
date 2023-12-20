@@ -36,6 +36,7 @@ branches:
     - cs/data_source_logs_updated # Chris Dec 14
     # - em/clickable-icons-accessibility # Evan Dec 14
     - ad/question-tiles-vertical-alignment # Addison Dec 15
-    - smh/form-submission-notification-translation # Steph Dec 18
     - jt/file-upload-style # Jonathan T. Dec 20
+    - smh/default_search-mod # Steph Dec 20
+    - smh/form-submit-translation # Steph Dec 20
 submodules: { }
