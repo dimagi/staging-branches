@@ -37,6 +37,5 @@ branches:
     # - em/clickable-icons-accessibility # Evan Dec 14
     - ad/question-tiles-vertical-alignment # Addison Dec 15
     - smh/form-submission-notification-translation # Steph Dec 18
-    - ad/fix-incomplete-forms-breadcrumbs # Addison Dec 20
     - jt/file-upload-style # Jonathan T. Dec 20
 submodules: { }
