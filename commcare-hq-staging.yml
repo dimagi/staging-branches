@@ -26,7 +26,6 @@ branches:
     - ad/use-project-logo-in-invite-email # Addison Nov 27
     - akj/ush-3855-group-per-row-attr+jls/empty-question-labels
     - jls/web-apps-sticky-tile # Jenny Dec 6
-    - jt/visually-segmented-query-search-categories # Jonathan T. Dec 5
     - bmb/marketing-styling-deploy+fr/rich-text-emails  # Biyeun Dec 13
     - proteusvacuum:fr/rich-text-emails # Addison Dec 7
     - akj/ush-3855-group-per-row-attr # Akash Dec 12
@@ -39,4 +38,5 @@ branches:
     - jt/file-upload-style # Jonathan T. Dec 20
     - smh/default_search-mod # Steph Dec 20
     - smh/form-submit-translation # Steph Dec 20
+    - jt/forceManualSearch-for-case-search-validation # Jonathan T. Dec 21
 submodules: { }
