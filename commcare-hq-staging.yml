@@ -36,6 +36,5 @@ branches:
     # - em/clickable-icons-accessibility # Evan Dec 14
     - ad/question-tiles-vertical-alignment # Addison Dec 15
     - jt/file-upload-style # Jonathan T. Dec 20
-    - smh/default_search-mod # Steph Dec 20
     - jt/forceManualSearch-for-case-search-validation # Jonathan T. Dec 21
 submodules: { }
