@@ -33,7 +33,7 @@ branches:
     - mjr/combined_dedupe # Matt Dec 13 -- For dedupe testing. Should not remain after December
     - mjr/user_importer_critical_section
     - cs/data_source_logs_updated # Chris Dec 14
-    # - em/clickable-icons-accessibility # Evan Dec 14
+    - em/clickable-icons-accessibility # Evan Dec 14
     - ad/question-tiles-vertical-alignment # Addison Dec 15
     - jt/file-upload-style # Jonathan T. Dec 20
     - jt/forceManualSearch-for-case-search-validation # Jonathan T. Dec 21
