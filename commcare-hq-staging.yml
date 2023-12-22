@@ -37,4 +37,5 @@ branches:
     - ad/question-tiles-vertical-alignment # Addison Dec 15
     - jt/file-upload-style # Jonathan T. Dec 20
     - jt/forceManualSearch-for-case-search-validation # Jonathan T. Dec 21
+    - rc/case-tile-shading # Robert Dec 22
 submodules: { }
