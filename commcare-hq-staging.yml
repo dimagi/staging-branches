@@ -37,4 +37,5 @@ branches:
     - ad/question-tiles-vertical-alignment # Addison Dec 15
     - jt/file-upload-style # Jonathan T. Dec 20
     - jt/anchored-submit-bar-visual-fix # Jonathan T. Dec 22
+    - jls/hide-pagination # Jenny Dec 26
 submodules: { }
