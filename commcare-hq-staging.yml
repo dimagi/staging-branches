@@ -35,4 +35,5 @@ branches:
     - jt/file-upload-style # Jonathan T. Dec 20
     - jt/anchored-submit-bar-visual-fix # Jonathan T. Dec 22
     - jls/hide-pagination # Jenny Dec 26
+    - gh/django/upgrade-two-factor-auth # Graham Dec 26
 submodules: { }
