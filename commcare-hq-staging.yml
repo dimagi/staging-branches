@@ -23,6 +23,7 @@ branches:
     - jc/upgrade-stripe # Jing Nov 20
     #- cs/data_source_logs # Chris Nov 22
     - ad/use-project-logo-in-invite-email # Addison Nov 27
+    - jt/anchored-submit-bar-visual-fix+jls/web-apps-sticky-tile
     - jls/web-apps-sticky-tile # Jenny Dec 6
     - akj/ush-3855-group-per-row-attr # Akash Dec 12
     - bmb/marketing-styling-deploy  # Biyeun Dec 13
@@ -32,7 +33,6 @@ branches:
     - em/clickable-icons-accessibility # Evan Dec 14
     - ad/question-tiles-vertical-alignment # Addison Dec 15
     - jt/file-upload-style # Jonathan T. Dec 20
-    - jt/anchored-submit-bar-visual-fix+jls/web-apps-sticky-tile
     - jt/anchored-submit-bar-visual-fix # Jonathan T. Dec 22
     - jls/hide-pagination # Jenny Dec 26
 submodules: { }
