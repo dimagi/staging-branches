@@ -22,12 +22,8 @@ branches:
     - es/user-sidebar  # Ethan Nov 17
     - jc/upgrade-stripe # Jing Nov 20
     #- cs/data_source_logs # Chris Nov 22
-    - bmb/marketing-styling-deploy+ad/use-project-logo-in-invite-email  # Biyeun Dec 13
     - ad/use-project-logo-in-invite-email # Addison Nov 27
-    - akj/ush-3855-group-per-row-attr+jls/empty-question-labels
     - jls/web-apps-sticky-tile # Jenny Dec 6
-    - bmb/marketing-styling-deploy+fr/rich-text-emails  # Biyeun Dec 13
-    - proteusvacuum:fr/rich-text-emails # Addison Dec 7
     - akj/ush-3855-group-per-row-attr # Akash Dec 12
     - bmb/marketing-styling-deploy  # Biyeun Dec 13
     - mjr/combined_dedupe # Matt Dec 13 -- For dedupe testing. Should not remain after December
