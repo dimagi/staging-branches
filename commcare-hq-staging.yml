@@ -32,7 +32,6 @@ branches:
     - cs/data_source_logs_updated # Chris Dec 14
     - em/clickable-icons-accessibility # Evan Dec 14
     - ad/question-tiles-vertical-alignment # Addison Dec 15
-    - jt/file-upload-style # Jonathan T. Dec 20
     - jt/anchored-submit-bar-visual-fix # Jonathan T. Dec 22
     - jls/hide-pagination # Jenny Dec 26
     - gh/django-two-factor-auth/1.15.5 # Graham Dec 27
