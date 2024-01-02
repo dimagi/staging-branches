@@ -22,7 +22,6 @@ branches:
     - es/user-sidebar  # Ethan Nov 17
     - jc/upgrade-stripe # Jing Nov 20
     #- cs/data_source_logs # Chris Nov 22
-    - ad/use-project-logo-in-invite-email # Addison Nov 27
     - jt/anchored-submit-bar-visual-fix+jls/web-apps-sticky-tile
     - jls/web-apps-sticky-tile # Jenny Dec 6
     - akj/ush-3855-group-per-row-attr # Akash Dec 12
