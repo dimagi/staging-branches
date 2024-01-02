@@ -38,4 +38,6 @@ branches:
     - mk/3235-edit-banner # MK Jan 2
     - mk/3230-order-domain-banners # MK Jan 2
     - mk/3225-add-cols-to-group-export # MK Jan 2
+    - mk/3225-add-cols-to-group-export+mk/3252-update-filter # MK Jan 2
+    - mk/3252-update-filter # MK Jan 2
 submodules: { }
