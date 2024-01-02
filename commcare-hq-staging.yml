@@ -35,4 +35,8 @@ branches:
     - jt/anchored-submit-bar-visual-fix # Jonathan T. Dec 22
     - jls/hide-pagination # Jenny Dec 26
     - gh/django-two-factor-auth/1.15.5 # Graham Dec 27
+    - mk/3235-edit-banner # MK Jan 2
+    - mk/3230-order-domain-banners # MK Jan 2
+    - mk/3225-add-cols-to-group-export # MK Jan 2
+    - mk/3252-update-filter # MK Jan 2
 submodules: { }
