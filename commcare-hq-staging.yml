@@ -34,7 +34,7 @@ branches:
     - mk/3235-edit-banner # MK Jan 2
     - mk/3252-update-filter # MK Jan 2
     - ad/fix-breadcrumbs-overflow-bug # Addison Jan 2
-    - gh/jsonfield/3.1.0 # Graham Jan 3
+    # - gh/jsonfield/3.1.0 # Graham Jan 3
     # - smh/disable-search-button-sscs # Steph Jan 3
     - rc/added-margin-shaded-bordered-fields # Robert Jan 3
 submodules: { }
