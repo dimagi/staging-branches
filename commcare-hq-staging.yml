@@ -40,4 +40,5 @@ branches:
     - mk/3252-update-filter # MK Jan 2
     - ad/fix-breadcrumbs-overflow-bug # Addison Jan 2
     - gh/jsonfield/3.1.0 # Graham Jan 3
+    - smh/disable-search-button-sscs # Steph Jan 3
 submodules: { }
