@@ -31,10 +31,10 @@ branches:
     - em/clickable-icons-accessibility # Evan Dec 14
     - jls/hide-pagination # Jenny Dec 26
     - gh/django-two-factor-auth/1.15.5 # Graham Dec 27
-    - mk/3235-edit-banner # MK Jan 2
     - mk/3252-update-filter # MK Jan 2
     - ad/fix-breadcrumbs-overflow-bug # Addison Jan 2
     # - gh/jsonfield/3.1.0 # Graham Jan 3
     # - smh/disable-search-button-sscs # Steph Jan 3
     - rc/added-margin-shaded-bordered-fields # Robert Jan 3
+    - mk/3265-reset-disbursement # MK Jan 4
 submodules: { }
