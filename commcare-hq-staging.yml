@@ -37,4 +37,5 @@ branches:
     # - smh/disable-search-button-sscs # Steph Jan 3
     - rc/added-margin-shaded-bordered-fields # Robert Jan 3
     - mk/3265-reset-disbursement # MK Jan 4
+    - riese/dynamic_map_pop_up # Martin Jan 4
 submodules: { }
