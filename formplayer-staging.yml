@@ -3,9 +3,8 @@
 trunk: master
 name: autostaging
 branches:
-  - formSubmitTranslation
+  - skipCacheForPagination
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches:
-        - asyncEntityLoad
+    branches: []
