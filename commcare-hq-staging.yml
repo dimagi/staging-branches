@@ -20,7 +20,6 @@ branches:
     - ze/validate-dd-case-types # Zandre Nov 14
     - ze/validate-dd-case-properties # Zandre Nov 14
     - es/user-sidebar  # Ethan Nov 17
-    - jc/upgrade-stripe # Jing Nov 20
     #- cs/data_source_logs # Chris Nov 22
     #- jls/web-apps-sticky-tile # Jenny Dec 6
     - akj/ush-3855-group-per-row-attr # Akash Dec 12
