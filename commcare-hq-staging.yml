@@ -39,4 +39,5 @@ branches:
     - jc/fix-software-plan-filter # Jing Jan 5
     - es/riese/linking  # Ethan Jan 5
     - em/obfuscate-case-search-inputs # Evan Jan 5
+    - jt/add_datadog-metric-session_detail # Jonathan T. Jan 5
 submodules: { }
