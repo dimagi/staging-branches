@@ -38,4 +38,5 @@ branches:
     - mk/3265-reset-disbursement # MK Jan 4
     - riese/dynamic_map_pop_up # Martin Jan 4
     - jc/fix-software-plan-filter # Jing Jan 5
+    - es/riese/linking  # Ethan Jan 5
 submodules: { }
