@@ -22,7 +22,7 @@ branches:
     - es/user-sidebar  # Ethan Nov 17
     #- cs/data_source_logs # Chris Nov 22
     - jls/web-apps-sticky-tile # Jenny Dec 6
-    #- akj/ush-3855-group-per-row-attr # Akash Dec 12
+    - akj/ush-3855-group-per-row-attr # Akash Dec 12
     - bmb/marketing-styling-deploy  # Biyeun Dec 13
     - mjr/combined_dedupe # Matt Dec 13 -- For dedupe testing. Should not remain after December
     - mjr/user_importer_critical_section
