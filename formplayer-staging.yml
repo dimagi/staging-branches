@@ -2,8 +2,7 @@
 
 trunk: master
 name: autostaging
-branches:
-  - skipCacheForPagination
+branches: []
 submodules:
   libs/commcare:
     trunk: formplayer
