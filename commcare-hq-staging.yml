@@ -36,7 +36,6 @@ branches:
     - riese/dynamic_map_pop_up # Martin Jan 4
     - es/riese/linking  # Ethan Jan 5
     # - em/obfuscate-case-search-inputs # Evan Jan 5
-    - riese/tile_clickable # Martin Jan 10
     - ze/delete-in-data-dictionary # Zandre Jan 8
     - jt/profile-session_details  #Jonathan T. Jan 10
 submodules: { }
