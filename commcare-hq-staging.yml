@@ -32,7 +32,6 @@ branches:
     - ad/fix-breadcrumbs-overflow-bug # Addison Jan 2
     # - gh/jsonfield/3.1.0 # Graham Jan 3
     # - smh/disable-search-button-sscs # Steph Jan 3
-    - rc/added-margin-shaded-bordered-fields # Robert Jan 3
     - riese/dynamic_map_pop_up # Martin Jan 4
     - es/riese/linking  # Ethan Jan 5
     - em/obfuscate-case-search-inputs # Evan Jan 5
