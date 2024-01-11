@@ -39,4 +39,6 @@ branches:
     - ze/delete-in-data-dictionary # Zandre Jan 8
     - jt/profile-session_details  #Jonathan T. Jan 10
     - jc/fix-enterprise-dashboard-data # Jing Jan 11
+    - dependabot/pip/requirements/pycryptodomex-3.19.1 # Amit Jan 11
+    - dependabot/pip/requirements/jwcrypto-1.5.1 # Amit Jan 11
 submodules: { }
