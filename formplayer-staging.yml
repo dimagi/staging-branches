@@ -2,8 +2,11 @@
 
 trunk: master
 name: autostaging
-branches: []
+branches:
+  - rc/select-text-entity-list-response
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches: []
+    branches:
+      - rc/select-text-detail
+    
