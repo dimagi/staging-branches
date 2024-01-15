@@ -37,4 +37,5 @@ branches:
     - dependabot/pip/requirements/pycryptodomex-3.19.1 # Amit Jan 11
     - dependabot/pip/requirements/jwcrypto-1.5.1 # Amit Jan 11
     # - rc/continue-button-translation # Robert Jan 15
+    - dm/sql-repeatrecord-pr1  # Daniel Jan 15
 submodules: { }
