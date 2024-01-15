@@ -36,7 +36,5 @@ branches:
     - jc/fix-enterprise-dashboard-data # Jing Jan 11
     - dependabot/pip/requirements/pycryptodomex-3.19.1 # Amit Jan 11
     - dependabot/pip/requirements/jwcrypto-1.5.1 # Amit Jan 11
-    - ad/top-align-question-rows # Addison Jan 11
-    - em/debugger-querydata-bugfix # Evan Jan 12
     - rc/continue-button-translation # Robert Jan 15
 submodules: { }
