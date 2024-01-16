@@ -25,7 +25,7 @@ branches:
     - mjr/user_importer_critical_section
     - em/clickable-icons-accessibility # Evan Dec 14
     - gh/django-two-factor-auth/1.15.5 # Graham Dec 27
-    - gh/django-two-factor-auth/test # Graham Jan 11
+    # - gh/django-two-factor-auth/test # Graham Jan 11
     - ad/fix-breadcrumbs-overflow-bug # Addison Jan 2
     # - smh/disable-search-button-sscs # Steph Jan 3
     - riese/dynamic_map_pop_up # Martin Jan 4
