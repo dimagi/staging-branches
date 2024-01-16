@@ -22,7 +22,6 @@ branches:
     - bmb/marketing-styling-deploy  # Biyeun Dec 13
     - mjr/combined_dedupe # Matt Dec 13 -- For dedupe testing. Should not remain after December
     - mjr/user_importer_critical_section
-    - em/clickable-icons-accessibility # Evan Dec 14
     - gh/django-two-factor-auth/1.15.5 # Graham Dec 27
     # - gh/django-two-factor-auth/test # Graham Jan 11
     - ad/fix-breadcrumbs-overflow-bug # Addison Jan 2
