@@ -37,4 +37,6 @@ branches:
     # - rc/continue-button-translation # Robert Jan 15
     - dm/sql-repeatrecord-pr1  # Daniel Jan 15
     - jls/case-tile-for-case-detail # Jenny Jan 16
+    - ad/add-match-all-csql # Addison Jan 17
+    - ad/location-api-create-update # Addison Jan 17
 submodules: { }
