@@ -39,4 +39,5 @@ branches:
     - rc/continue-button-translation+jls/case-tile-for-case-detail # Robert Jan 17
     - rc/continue-button-translation # Robert Jan 15
     - jls/case-tile-for-case-detail # Jenny Jan 16
+    - jt/case_search_on_clear # Jonathan T. Jan 17
 submodules: { }
