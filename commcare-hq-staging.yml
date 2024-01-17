@@ -28,7 +28,6 @@ branches:
     # - smh/disable-search-button-sscs # Steph Jan 3
     - riese/dynamic_map_pop_up # Martin Jan 4
     - es/riese/linking  # Ethan Jan 5
-    - em/obfuscate-case-search-inputs # Evan Jan 5
     - ze/delete-in-data-dictionary # Zandre Jan 8
     - jt/profile-session_details  #Jonathan T. Jan 10
     - jc/fix-enterprise-dashboard-data # Jing Jan 11
@@ -39,5 +38,7 @@ branches:
     - rc/continue-button-translation+jls/case-tile-for-case-detail # Robert Jan 17
     - rc/continue-button-translation # Robert Jan 15
     - jls/case-tile-for-case-detail # Jenny Jan 16
+    - em/obfuscate-case-search-inputs+jt/case_search_on_clear # Evan Jan 17
+    - em/obfuscate-case-search-inputs # Evan Jan 5
     - jt/case_search_on_clear # Jonathan T. Jan 17
 submodules: { }
