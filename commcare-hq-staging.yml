@@ -35,8 +35,8 @@ branches:
     - dependabot/pip/requirements/jwcrypto-1.5.1 # Amit Jan 11
     - dm/sql-repeatrecord-pr1  # Daniel Jan 15
     - ad/location-api-create-update # Addison Jan 17
-    # - rc/continue-button-translation+jls/case-tile-for-case-detail # Robert Jan 17
-    # - rc/continue-button-translation # Robert Jan 15
+    - rc/continue-button-translation+jls/case-tile-for-case-detail # Robert Jan 17
+    - rc/continue-button-translation # Robert Jan 15
     - jls/case-tile-for-case-detail # Jenny Jan 16
     - em/obfuscate-case-search-inputs+jt/case_search_on_clear # Evan Jan 17
     - em/obfuscate-case-search-inputs # Evan Jan 5
