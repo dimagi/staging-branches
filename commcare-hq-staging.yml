@@ -38,9 +38,9 @@ branches:
     - rc/continue-button-translation+jls/case-tile-for-case-detail # Robert Jan 17
     - rc/continue-button-translation # Robert Jan 15
     - jls/case-tile-for-case-detail # Jenny Jan 16
-    # - em/obfuscate-case-search-inputs+jt/case_search_on_clear # Evan Jan 17
+    - em/obfuscate-case-search-inputs+jt/case_search_on_clear # Evan Jan 17
     - em/obfuscate-case-search-inputs # Evan Jan 5
-    # - jt/case_search_on_clear # Jonathan T. Jan 17
+    - jt/case_search_on_clear # Jonathan T. Jan 17
     - akj/ush-3701-n-per-row-repeat-group # Akash Jan 18
     - smh/search-button-disabling-sscs # Steph Jan 18
 submodules: { }
