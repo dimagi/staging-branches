@@ -4,6 +4,7 @@ trunk: master
 name: autostaging
 branches:
   - rc/select-text-entity-list-response
+  - jt/search_input_dd_tag
 submodules:
   libs/commcare:
     trunk: formplayer
