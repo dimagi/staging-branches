@@ -25,7 +25,6 @@ branches:
     - gh/django-two-factor-auth/1.15.5 # Graham Dec 27
     # - gh/django-two-factor-auth/test # Graham Jan 11
     - ad/fix-breadcrumbs-overflow-bug # Addison Jan 2
-    # - smh/disable-search-button-sscs # Steph Jan 3
     - riese/dynamic_map_pop_up # Martin Jan 4
     - es/riese/linking  # Ethan Jan 5
     - ze/delete-in-data-dictionary # Zandre Jan 8
@@ -40,7 +39,6 @@ branches:
     - em/obfuscate-case-search-inputs # Evan Jan 5
     - jt/case_search_on_clear # Jonathan T. Jan 17
     - akj/ush-3701-n-per-row-repeat-group # Akash Jan 18
-    # - smh/search-button-disabling-sscs # Steph Jan 18
     - riese/bbox+bmb/b5-styleguide # Martin Jan 19
     - riese/bbox # Martin Jan 19
     - akj/debug-dynamic-search-issue+jt/search_input_dd_tag # Akash Jan 22
@@ -50,4 +48,5 @@ branches:
     - cs/SC-3242-export-geojson # Charl Jan 22
     - bmb/new-fontawesome  # Biyeun Jan 22
     - ad/create-OR-case-search-query # Addison Jan 22
+    - smh/sscs-disabling-submit-button # Steph Jan 22
 submodules: { }
