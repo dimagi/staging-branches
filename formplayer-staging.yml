@@ -8,6 +8,5 @@ branches:
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches:
-      - rc/select-text-detail
+    branches:[]
     
