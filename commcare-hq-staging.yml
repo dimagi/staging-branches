@@ -48,4 +48,5 @@ branches:
     - jt/search_input_dd_tag # Jonathan T. Jan 19
     - akj/debug-dynamic-search-issue # Akash Jan 22
     - dependabot/pip/requirements/jinja2-3.1.3 # Amit Jan 22
+    - cs/SC-3242-export-geojson # Charl Jan 22
 submodules: { }
