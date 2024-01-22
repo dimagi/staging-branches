@@ -48,5 +48,4 @@ branches:
     - cs/SC-3242-export-geojson # Charl Jan 22
     - bmb/new-fontawesome  # Biyeun Jan 22
     - ad/create-OR-case-search-query # Addison Jan 22
-    - smh/sscs-disabling-submit-button # Steph Jan 22
 submodules: { }
