@@ -49,4 +49,5 @@ branches:
     - dependabot/pip/requirements/jinja2-3.1.3 # Amit Jan 22
     - cs/SC-3242-export-geojson # Charl Jan 22
     - bmb/new-fontawesome  # Biyeun Jan 22
+    - ad/create-OR-case-search-query # Addison Jan 22
 submodules: { }
