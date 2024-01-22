@@ -47,4 +47,5 @@ branches:
     - riese/bbox # Martin Jan 19
     - riese/dynamic_map_pop_up_2 # Martin Jan 19
     - jt/search_input_dd_tag # Jonathan T. Jan 19
+    - akj/debug-dynamic-search-issue # Akash Jan 22
 submodules: { }
