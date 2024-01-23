@@ -17,6 +17,7 @@ branches:
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
     - bmb/datetimepicker  # Biyeun Jan 22
     - bmb/b5-widgets-datetimepicker  # Biyeun Jan 23
+    - bmb/b5-datatables+bmb/datetimepicker
     - bmb/b5-datatables # Biyeun Jan 23
     - bmb/b5-styleguide  # Biyeun Nov 7
     - es/user-sidebar  # Ethan Nov 17
