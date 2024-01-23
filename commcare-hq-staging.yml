@@ -39,6 +39,7 @@ branches:
     - em/obfuscate-case-search-inputs # Evan Jan 5
     - jt/case_search_on_clear # Jonathan T. Jan 17
     - akj/ush-3701-n-per-row-repeat-group # Akash Jan 18
+    - riese/bbox+bmb/b5-widgets-datetimepicker
     - riese/bbox # Martin Jan 19
     - akj/debug-dynamic-search-issue+jt/search_input_dd_tag # Akash Jan 22
     - jt/search_input_dd_tag # Jonathan T. Jan 19
