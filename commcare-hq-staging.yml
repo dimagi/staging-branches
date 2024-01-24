@@ -32,8 +32,6 @@ branches:
     - ze/delete-in-data-dictionary # Zandre Jan 8
     - dm/sql-repeatrecord-pr1  # Daniel Jan 15
     - ad/location-api-create-update # Addison Jan 17
-    - rc/continue-button-translation+jls/case-tile-for-case-detail # Robert Jan 17
-    - rc/continue-button-translation # Robert Jan 15
     - jls/case-tile-for-case-detail # Jenny Jan 16
     - em/obfuscate-case-search-inputs # Evan Jan 5
     - akj/ush-3701-n-per-row-repeat-group # Akash Jan 18
