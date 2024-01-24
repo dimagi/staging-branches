@@ -27,7 +27,6 @@ branches:
     - mjr/user_importer_critical_section
     - gh/django-two-factor-auth/1.15.5 # Graham Dec 27
     # - gh/django-two-factor-auth/test # Graham Jan 11
-    - ad/fix-breadcrumbs-overflow-bug # Addison Jan 2
     - riese/dynamic_map_pop_up # Martin Jan 4
     - es/riese/linking  # Ethan Jan 5
     - ze/delete-in-data-dictionary # Zandre Jan 8
