@@ -27,7 +27,6 @@ branches:
     - mjr/user_importer_critical_section
     - gh/django-two-factor-auth/1.15.5 # Graham Dec 27
     # - gh/django-two-factor-auth/test # Graham Jan 11
-    - riese/dynamic_map_pop_up # Martin Jan 4
     - es/riese/linking  # Ethan Jan 5
     - ze/delete-in-data-dictionary # Zandre Jan 8
     - dm/sql-repeatrecord-pr1  # Daniel Jan 15
@@ -43,4 +42,5 @@ branches:
     - bmb/new-fontawesome  # Biyeun Jan 22
     - riese/home_margin # Martin Jan 23
     - jls/web-apps-requirejs # Jenny Jan 24
+    - riese/multi-select-margin # Martin Jan 24
 submodules: { }
