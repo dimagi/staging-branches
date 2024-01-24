@@ -15,7 +15,7 @@ branches:
     # - mk/2900-cache-domain-case-props # MK Oct 19
     - ml/case-deletion # minha OCt 25
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
-    - jls/web-apps-requirejs+bmb/b5-datatables+bmb/datetimepicker+bmb/b5-styleguide+akj/debug-dynamic-search-issue
+    #- jls/web-apps-requirejs+bmb/b5-datatables+bmb/datetimepicker+bmb/b5-styleguide+akj/debug-dynamic-search-issue
     - bmb/datetimepicker  # Biyeun Jan 22
     - bmb/b5-widgets-datetimepicker  # Biyeun Jan 23
     - bmb/b5-datatables+bmb/datetimepicker
@@ -43,6 +43,6 @@ branches:
     - cs/SC-3242-export-geojson # Charl Jan 22
     - bmb/new-fontawesome  # Biyeun Jan 22
     - riese/home_margin # Martin Jan 23
-    - jls/web-apps-requirejs # Jenny Jan 24
+    #- jls/web-apps-requirejs # Jenny Jan 24
     - riese/multi-select-margin # Martin Jan 24
 submodules: { }
