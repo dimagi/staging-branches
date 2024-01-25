@@ -44,6 +44,7 @@ branches:
     - bmb/new-fontawesome  # Biyeun Jan 22
     - riese/home_margin # Martin Jan 23
     #- jls/web-apps-requirejs # Jenny Jan 24
+    - jls/sentry-paths-config # Jenny Jan 25
     - riese/multi-select-margin # Martin Jan 24
     - akj/ush-4025-image-upload-waf # Akash Jan 25
     - akj/ush-4126-multimedia-upload-btn-alignment # Akash Jan 25
