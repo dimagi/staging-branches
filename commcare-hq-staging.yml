@@ -48,4 +48,5 @@ branches:
     - akj/ush-4025-image-upload-waf # Akash Jan 25
     - akj/ush-4126-multimedia-upload-btn-alignment # Akash Jan 25
     #- mk/3198-ga-custom-alerts # MK Jan 25
+    - em/ush-4154 # Evan Jan 25
 submodules: { }
