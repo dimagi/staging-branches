@@ -35,7 +35,7 @@ branches:
     - riese/multi-select-margin+jls/case-tile-for-case-detail
     - jls/case-tile-for-case-detail # Jenny Jan 16
     - em/obfuscate-case-search-inputs # Evan Jan 5
-    - akj/ush-3701-n-per-row-repeat-group # Akash Jan 18
+    #- akj/ush-3701-n-per-row-repeat-group # Akash Jan 18
     - akj/debug-dynamic-search-issue+jt/search_input_dd_tag # Akash Jan 22
     - jt/search_input_dd_tag # Jonathan T. Jan 19
     - akj/debug-dynamic-search-issue # Akash Jan 22
