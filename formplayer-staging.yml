@@ -2,8 +2,7 @@
 
 trunk: master
 name: autostaging
-branches:
-  - jt/search_input_dd_tag
+branches: []
 submodules:
   libs/commcare:
     trunk: formplayer
