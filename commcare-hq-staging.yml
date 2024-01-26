@@ -38,6 +38,7 @@ branches:
     - akj/debug-dynamic-search-issue # Akash Jan 22
     - dependabot/pip/requirements/jinja2-3.1.3 # Amit Jan 22
     - cs/SC-3242-export-geojson # Charl Jan 22
+    - cs/SC-3360-support-road-network-algorithm # Charl Jan 26
     - bmb/new-fontawesome  # Biyeun Jan 22
     - riese/home_margin # Martin Jan 23
     #- jls/web-apps-requirejs # Jenny Jan 24
