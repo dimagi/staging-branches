@@ -45,6 +45,6 @@ branches:
     - rc/hint-as-placeholder # Robert Jan 26
     - bmb/update-langcodes-wal  # Biyeun Jan 29
     - jls/move-webforms-css # Jenny Jan 29
-    - orangejenny-patch-14 # Steph Jan 29
+    - case-refresh-on-form-submit # Steph Jan 29
     - mjr/adblock-information-edit  # Matt Jan 29
 submodules: { }
