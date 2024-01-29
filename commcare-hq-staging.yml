@@ -45,4 +45,5 @@ branches:
     - mk/3198-ga-custom-alerts # MK Jan 25
     - em/ush-4154 # Evan Jan 25
     - rc/hint-as-placeholder # Robert Jan 26
+    - bmb/update-langcodes-wal  # Biyeun Jan 29
 submodules: { }
