@@ -38,7 +38,7 @@ branches:
     - dependabot/pip/requirements/jinja2-3.1.3 # Amit Jan 22
     - cs/SC-3242-export-geojson # Charl Jan 22
     - bmb/new-fontawesome  # Biyeun Jan 22
-    #- jls/web-apps-requirejs # Jenny Jan 24
+    - jls/web-apps-requirejs # Jenny Jan 24
     - riese/multi-select-margin # Martin Jan 24
     - akj/ush-4126-multimedia-upload-btn-alignment # Akash Jan 25
     - mk/3198-ga-custom-alerts # MK Jan 25
