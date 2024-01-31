@@ -15,8 +15,6 @@ branches:
     # - mk/2900-cache-domain-case-props # MK Oct 19
     - ml/case-deletion # minha OCt 25
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
-    - bmb/datetimepicker  # Biyeun Jan 22
-    - bmb/b5-widgets-datetimepicker  # Biyeun Jan 23
     - bmb/b5-styleguide  # Biyeun Nov 7
     - es/user-sidebar  # Ethan Nov 17
     #- cs/data_source_logs # Chris Nov 22
@@ -39,7 +37,6 @@ branches:
     - riese/multi-select-margin # Martin Jan 24
     - mk/3198-ga-custom-alerts # MK Jan 25
     - rc/hint-as-placeholder # Robert Jan 26
-    - bmb/update-langcodes-wal  # Biyeun Jan 29
     - mjr/adblock-information-edit  # Matt Jan 29
     - ze/solutions-feature-request-option # Zandre Jan 30
     - ay/deduplication-exclude-copy-cases-test # Ajeet Jan 30
