@@ -40,7 +40,6 @@ branches:
     - mk/3198-ga-custom-alerts # MK Jan 25
     - rc/hint-as-placeholder # Robert Jan 26
     - bmb/update-langcodes-wal  # Biyeun Jan 29
-    - jls/move-webforms-css # Jenny Jan 29
     - mjr/adblock-information-edit  # Matt Jan 29
     - ze/solutions-feature-request-option # Zandre Jan 30
     - ay/deduplication-exclude-copy-cases-test # Ajeet Jan 30
