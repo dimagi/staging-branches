@@ -31,8 +31,6 @@ branches:
     - riese/multi-select-margin+jls/case-tile-for-case-detail
     - jls/case-tile-for-case-detail # Jenny Jan 16
     - akj/ush-3701-n-per-row-repeat-group # Akash Jan 18
-    - akj/debug-dynamic-search-issue+jt/search_input_dd_tag # Akash Jan 22
-    - jt/search_input_dd_tag # Jonathan T. Jan 19
     - akj/debug-dynamic-search-issue # Akash Jan 22
     - dependabot/pip/requirements/jinja2-3.1.3 # Amit Jan 22
     - cs/SC-3242-export-geojson # Charl Jan 22
@@ -49,4 +47,5 @@ branches:
     - jc/fix-filter-by-submission-time # Jing Jan 30
     - ad/change-web-app-font-size # Addison Jan 30
     - gh/domains/include-snapshots # Graham Jan 31
+    - jt/persistent-case-tile-alignment # Jonathan T Jan 31
 submodules: { }
