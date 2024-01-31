@@ -26,7 +26,6 @@ branches:
     - ze/delete-in-data-dictionary # Zandre Jan 8
     - dm/sql-repeatrecord-pr1  # Daniel Jan 15
     - ad/location-api-create-update # Addison Jan 17
-    - riese/multi-select-margin+jls/case-tile-for-case-detail
     - jls/case-tile-for-case-detail # Jenny Jan 16
     - akj/ush-3701-n-per-row-repeat-group # Akash Jan 18
     - akj/debug-dynamic-search-issue # Akash Jan 22
