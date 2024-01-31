@@ -30,7 +30,7 @@ branches:
     - ad/location-api-create-update # Addison Jan 17
     - riese/multi-select-margin+jls/case-tile-for-case-detail
     - jls/case-tile-for-case-detail # Jenny Jan 16
-    #- akj/ush-3701-n-per-row-repeat-group # Akash Jan 18
+    - akj/ush-3701-n-per-row-repeat-group # Akash Jan 18
     - akj/debug-dynamic-search-issue+jt/search_input_dd_tag # Akash Jan 22
     - jt/search_input_dd_tag # Jonathan T. Jan 19
     - akj/debug-dynamic-search-issue # Akash Jan 22
@@ -39,7 +39,6 @@ branches:
     - bmb/new-fontawesome  # Biyeun Jan 22
     #- jls/web-apps-requirejs # Jenny Jan 24
     - riese/multi-select-margin # Martin Jan 24
-    - akj/ush-4126-multimedia-upload-btn-alignment # Akash Jan 25
     - mk/3198-ga-custom-alerts # MK Jan 25
     - rc/hint-as-placeholder # Robert Jan 26
     - bmb/update-langcodes-wal  # Biyeun Jan 29
