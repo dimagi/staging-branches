@@ -33,7 +33,6 @@ branches:
     - cs/SC-3242-export-geojson # Charl Jan 22
     - bmb/new-fontawesome  # Biyeun Jan 22
     #- jls/web-apps-requirejs # Jenny Jan 24
-    - riese/multi-select-margin # Martin Jan 24
     - mk/3198-ga-custom-alerts # MK Jan 25
     - rc/hint-as-placeholder # Robert Jan 26
     - mjr/adblock-information-edit  # Matt Jan 29
