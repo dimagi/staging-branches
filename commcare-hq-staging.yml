@@ -19,7 +19,7 @@ branches:
     - es/user-sidebar  # Ethan Nov 17
     #- cs/data_source_logs # Chris Nov 22
     - bmb/marketing-styling-deploy  # Biyeun Dec 13
-    - mjr/combined_dedupe # Matt Dec 13 -- For dedupe testing. Should not remain after December
+    - mjr/combined_dedupe # Matt Dec 13
     - mjr/user_importer_critical_section
     - gh/django-two-factor-auth/1.15.5 # Graham Dec 27
     # - gh/django-two-factor-auth/test # Graham Jan 11
