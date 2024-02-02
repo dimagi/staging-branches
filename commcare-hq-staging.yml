@@ -41,4 +41,5 @@ branches:
     - jc/fix-filter-by-submission-time # Jing Jan 30
     - ad/change-web-app-font-size # Addison Jan 30
     - riese/center_group_expand # Martin Feb 1
+    - em/icons-alt-text # Evan Feb 2
 submodules: { }
