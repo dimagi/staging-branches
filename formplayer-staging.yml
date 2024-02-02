@@ -2,7 +2,8 @@
 
 trunk: master
 name: autostaging
-branches: []
+branches:
+  - em/clickable-icons-alt-text # Evan Feb 1
 submodules:
   libs/commcare:
     trunk: formplayer
