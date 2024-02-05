@@ -45,4 +45,5 @@ branches:
     - riese/center_group_expand # Martin Feb 1
     - ad/change-web-app-font-size # Addison Jan 30
     - gh/html-pattern-attr # Gthaam Feb 2
+    - ze/test-case-micro-image # Zandre Feb 5
 submodules: { }
