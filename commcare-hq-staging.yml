@@ -47,4 +47,5 @@ branches:
     - ze/test-case-micro-image+cs/SC-3242-export-geojson # Zandre Feb 5
     - ze/test-case-micro-image # Zandre Feb 5
     - cs/SC-3242-export-geojson # Charl Jan 22
+    - smh/wait-for-refresh # Steph Feb 5
 submodules: { }
