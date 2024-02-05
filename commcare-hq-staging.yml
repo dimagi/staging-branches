@@ -29,7 +29,6 @@ branches:
     - akj/ush-3701-n-per-row-repeat-group # Akash Jan 18
     #- akj/debug-dynamic-search-issue # Akash Jan 22
     - dependabot/pip/requirements/jinja2-3.1.3 # Amit Jan 22
-    - cs/SC-3242-export-geojson # Charl Jan 22
     - bmb/new-fontawesome  # Biyeun Jan 22
     #- jls/web-apps-requirejs # Jenny Jan 24
     - mk/3198-ga-custom-alerts # MK Jan 25
@@ -45,5 +44,7 @@ branches:
     - riese/center_group_expand # Martin Feb 1
     - ad/change-web-app-font-size # Addison Jan 30
     - gh/html-pattern-attr # Gthaam Feb 2
+    - ze/test-case-micro-image+cs/SC-3242-export-geojson # Zandre Feb 5
     - ze/test-case-micro-image # Zandre Feb 5
+    - cs/SC-3242-export-geojson # Charl Jan 22
 submodules: { }
