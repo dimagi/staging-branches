@@ -4,7 +4,7 @@ trunk: master
 name: autostaging
 branches:
   - em/clickable-icons-alt-text # Evan Feb 2
-  - jt/jt/datadog-tag-restor # Jonathan T Feb 6
+  - jt/datadog-tag-restore # Jonathan T Feb 6
 submodules:
   libs/commcare:
     trunk: formplayer
