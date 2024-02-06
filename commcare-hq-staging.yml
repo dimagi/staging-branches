@@ -40,7 +40,6 @@ branches:
     - ay/deduplication-exclude-copy-cases-test+ml/case-deletion # Evan Feb 2
     - ay/deduplication-exclude-copy-cases-test # Ajeet Jan 30
     - ml/case-deletion # minha OCt 25
-    - riese/center_group_expand+ad/change-web-app-font-size # Evan Feb 2
     - riese/center_group_expand # Martin Feb 1
     - ad/change-web-app-font-size # Addison Jan 30
     - gh/html-pattern-attr # Gthaam Feb 2
