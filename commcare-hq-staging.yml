@@ -22,7 +22,6 @@ branches:
     - mjr/user_importer_critical_section
     - gh/django-two-factor-auth/1.15.5 # Graham Dec 27
     # - gh/django-two-factor-auth/test # Graham Jan 11
-    - ze/delete-in-data-dictionary # Zandre Jan 8
     - dm/sql-repeatrecord-pr1  # Daniel Jan 15
     - ad/location-api-create-update # Addison Jan 17
     - jls/case-tile-for-case-detail # Jenny Jan 16
@@ -53,4 +52,5 @@ branches:
     - em/web-apps-tab-navigability # Evan Feb 6
     - riese/tile_address_popup # Martin Feb 6
     - mk/3198-remove-feature-flag # MK Feb 7
+    - ze/delete-in-data-dictionary-v2 # Zandre Feb 7
 submodules: { }
