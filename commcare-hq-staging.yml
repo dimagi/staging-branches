@@ -51,6 +51,5 @@ branches:
     - jc/report-include-case-id # Jing Feb 6
     - em/web-apps-tab-navigability # Evan Feb 6
     - riese/tile_address_popup # Martin Feb 6
-    - mk/3198-remove-feature-flag # MK Feb 7
     - ze/delete-in-data-dictionary-v2 # Zandre Feb 7
 submodules: { }
