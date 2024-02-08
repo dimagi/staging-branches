@@ -42,6 +42,4 @@ branches:
     - jc/report-include-case-id # Jing Feb 6
     - em/web-apps-tab-navigability # Evan Feb 6
     - ze/delete-in-data-dictionary-v2 # Zandre Feb 7
-    - jt/suite-actions-bug-fix # Jonathan T. Feb 8
-    - revert-34008-smh/sscs-disabling-submit-button  # Ethan Feb 8
 submodules: { }
