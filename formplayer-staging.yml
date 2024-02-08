@@ -9,5 +9,6 @@ branches:
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches: []
+    branches:
+      - riese/rm_locale_log
     
