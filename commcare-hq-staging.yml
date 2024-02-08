@@ -23,10 +23,8 @@ branches:
     - gh/django-two-factor-auth/1.15.5 # Graham Dec 27
     # - gh/django-two-factor-auth/test # Graham Jan 11
     - dm/sql-repeatrecord-pr1  # Daniel Jan 15
-    - ad/location-api-create-update # Addison Jan 17
     - akj/ush-3701-n-per-row-repeat-group # Akash Jan 18
     #- akj/debug-dynamic-search-issue # Akash Jan 22
-    - dependabot/pip/requirements/jinja2-3.1.3 # Amit Jan 22
     - bmb/new-fontawesome  # Biyeun Jan 22
     #- jls/web-apps-requirejs # Jenny Jan 24
     - rc/hint-as-placeholder # Robert Jan 26
@@ -38,7 +36,6 @@ branches:
     - ay/deduplication-exclude-copy-cases-test+ml/case-deletion # Evan Feb 2
     - ay/deduplication-exclude-copy-cases-test # Ajeet Jan 30
     - ml/case-deletion # minha OCt 25
-    - ad/change-web-app-font-size # Addison Jan 30
     - gh/html-pattern-attr # Gthaam Feb 2
     - cs/SC-3242-export-geojson # Charl Jan 22
     - smh/wait-for-refresh # Steph Feb 5
