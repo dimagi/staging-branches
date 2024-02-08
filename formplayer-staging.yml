@@ -5,6 +5,7 @@ name: autostaging
 branches:
   - em/clickable-icons-alt-text # Evan Feb 2
   - jt/datadog-tag-restore # Jonathan T Feb 6
+  - riese/log_cache_key
 submodules:
   libs/commcare:
     trunk: formplayer
