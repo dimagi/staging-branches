@@ -29,8 +29,7 @@ branches:
     #- jls/web-apps-requirejs # Jenny Jan 24
     - rc/hint-as-placeholder # Robert Jan 26
     - mjr/adblock-information-edit  # Matt Jan 29
-    - ze/solutions-feature-request-option+bmb/new-fontawesome
-    - ze/solutions-feature-request-option # Zandre Jan 30
+    # - ze/solutions-feature-request-option+bmb/new-fontawesome
     - jc/fix-filter-by-submission-time # Jing Jan 30
     - em/icons-alt-text # Evan Feb 2
     - mjr/combined_dedupe+ay/deduplication-exclude-copy-cases-test # Matt Feb 8
@@ -41,7 +40,6 @@ branches:
     - cs/SC-3242-export-geojson # Charl Jan 22
     - jc/report-include-case-id # Jing Feb 6
     - em/web-apps-tab-navigability # Evan Feb 6
-    - ze/delete-in-data-dictionary-v2 # Zandre Feb 7
     - ay/copy-cases-allow-location-groups # Ajeet Feb 9
     - dm/upgrade-cryptography  # Biyeun / Daniel
     - revert-34039-riese/center_group_expand # Addison Feb 12
