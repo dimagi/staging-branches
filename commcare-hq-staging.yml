@@ -42,5 +42,4 @@ branches:
     - em/web-apps-tab-navigability # Evan Feb 6
     - ay/copy-cases-allow-location-groups # Ajeet Feb 9
     - dm/upgrade-cryptography  # Biyeun / Daniel
-    - gh/rate-limit/missing-token-error # Graham Feb 12
 submodules: { }
