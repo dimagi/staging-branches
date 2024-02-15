@@ -18,7 +18,6 @@ branches:
     - es/user-sidebar  # Ethan Nov 17
     #- cs/data_source_logs # Chris Nov 22
     - bmb/marketing-styling-deploy  # Biyeun Dec 13
-    - mjr/combined_dedupe # Matt Dec 13
     - mjr/user_importer_critical_section
     - gh/django-two-factor-auth/1.15.5 # Graham Dec 27
     # - gh/django-two-factor-auth/test # Graham Jan 11
@@ -32,7 +31,6 @@ branches:
     # - ze/solutions-feature-request-option+bmb/new-fontawesome
     - jc/fix-filter-by-submission-time # Jing Jan 30
     - em/icons-alt-text # Evan Feb 2
-    - mjr/combined_dedupe+ay/deduplication-exclude-copy-cases-test # Matt Feb 8
     - ay/deduplication-exclude-copy-cases-test+ml/case-deletion # Evan Feb 2
     - ay/deduplication-exclude-copy-cases-test # Ajeet Jan 30
     - ml/case-deletion # minha OCt 25
