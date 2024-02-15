@@ -29,7 +29,6 @@ branches:
     - rc/hint-as-placeholder # Robert Jan 26
     - mjr/adblock-information-edit  # Matt Jan 29
     # - ze/solutions-feature-request-option+bmb/new-fontawesome
-    - jc/fix-filter-by-submission-time # Jing Jan 30
     - em/icons-alt-text # Evan Feb 2
     - ml/case-deletion # minha OCt 25
     - gh/html-pattern-attr # Gthaam Feb 2
