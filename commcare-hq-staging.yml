@@ -34,8 +34,9 @@ branches:
     - gh/html-pattern-attr # Gthaam Feb 2
     - cs/SC-3242-export-geojson # Charl Jan 22
     - jc/report-include-case-id # Jing Feb 6
-    - em/web-apps-tab-navigability # Evan Feb 6
     - ay/copy-cases-allow-location-groups # Ajeet Feb 9
     - dm/upgrade-cryptography  # Biyeun / Daniel
+    - ad+riese/center_group_expand+em/web-apps-tab-navigability # Addison Feb 15
     - ad+riese/center_group_expand # Addison Feb 15
+    - em/web-apps-tab-navigability # Evan Feb 6
 submodules: { }
