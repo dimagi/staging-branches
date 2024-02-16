@@ -32,7 +32,6 @@ branches:
     - em/icons-alt-text # Evan Feb 2
     - ml/case-deletion # minha OCt 25
     - gh/html-pattern-attr # Gthaam Feb 2
-    - cs/SC-3242-export-geojson # Charl Jan 22
     - jc/report-include-case-id # Jing Feb 6
     - ay/copy-cases-allow-location-groups # Ajeet Feb 9
     - dm/upgrade-cryptography  # Biyeun / Daniel
