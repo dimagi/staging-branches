@@ -34,7 +34,7 @@ branches:
     - jc/report-include-case-id # Jing Feb 6
     - ay/copy-cases-allow-location-groups # Ajeet Feb 9
     - dm/upgrade-cryptography  # Biyeun / Daniel
-    - aad+riese/center_group_expand+em/web-apps-tab-navigability+akj/ush-3701-n-per-row-repeat-group # Addison Feb 15
+    - ad+riese/center_group_expand+em/web-apps-tab-navigability+akj/ush-3701-n-per-row-repeat-group # Addison Feb 15
     - ad+riese/center_group_expand # Addison Feb 15
     - akj/ush-3701-n-per-row-repeat-group # Akash Jan 18
     - em/web-apps-tab-navigability # Evan Feb 6
