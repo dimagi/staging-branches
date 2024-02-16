@@ -39,5 +39,4 @@ branches:
     - akj/ush-3701-n-per-row-repeat-group # Akash Jan 18
     - em/web-apps-tab-navigability # Evan Feb 6
     - smh/sscs-sidebar-padding # Steph Feb 15
-    # - em/form-title-align # Evan Feb 15
 submodules: { }
