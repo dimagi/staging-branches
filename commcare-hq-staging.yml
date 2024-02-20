@@ -37,7 +37,7 @@ branches:
     - akj/ush-3701-n-per-row-repeat-group # Akash Jan 18
     - em/web-apps-tab-navigability # Evan Feb 6
     - smh/sscs-sidebar-padding # Steph Feb 15
-    - smh/update-disable-search-button-sscs # Steph Feb 19
+    #- smh/update-disable-search-button-sscs # Steph Feb 19
     - proteusvacuum:fr/deleted-apps-2 # Amit Feb 20
     - ze/clear-dd-delete-cache # Zandre Feb 20
     - mk/add-layers-dirty # MK Feb 20
