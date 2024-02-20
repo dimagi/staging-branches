@@ -41,4 +41,5 @@ branches:
     - proteusvacuum:fr/deleted-apps-2 # Amit Feb 20
     - ze/clear-dd-delete-cache # Zandre Feb 20
     - mk/add-layers-dirty # MK Feb 20
+    - gh/django-tastypie/0.14.6
 submodules: { }
