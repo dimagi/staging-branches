@@ -23,7 +23,6 @@ branches:
     # - gh/django-two-factor-auth/test # Graham Jan 11
     - dm/sql-repeatrecord-pr1  # Daniel Jan 15
     #- akj/debug-dynamic-search-issue # Akash Jan 22
-    - bmb/new-fontawesome  # Biyeun Jan 22
     #- jls/web-apps-requirejs # Jenny Jan 24
     - rc/hint-as-placeholder # Robert Jan 26
     - mjr/adblock-information-edit  # Matt Jan 29
