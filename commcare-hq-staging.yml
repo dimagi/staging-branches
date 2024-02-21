@@ -43,4 +43,5 @@ branches:
     - mk/add-layers-dirty # MK Feb 20
     - gh/django-tastypie/0.14.6
     - em/icons-alt-text # Evan Feb 20
+    - ze/filter-by-aggregation-user-status-report # Zandre Feb 21
 submodules: { }
