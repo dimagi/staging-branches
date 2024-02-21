@@ -44,5 +44,4 @@ branches:
     - mk/3336-expire-cache-on-dd-delete # MK Feb 21
     - rc/webapps-loading-indicator # Robert Feb 21
     - mjr/dedupe_handle_restored_cases  # Matt Feb 21 -- Can be removed at end of week
-    - jt/datadog-tag-restore # Jonathan T. Feb 21
 submodules: { }
