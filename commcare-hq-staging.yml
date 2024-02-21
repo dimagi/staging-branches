@@ -44,4 +44,5 @@ branches:
     - gh/django-tastypie/0.14.6
     - em/icons-alt-text # Evan Feb 20
     - ze/filter-by-aggregation-user-status-report # Zandre Feb 21
+    - mk/3336-expire-cache-on-dd-delete # MK Feb 21
 submodules: { }
