@@ -12,5 +12,4 @@ submodules:
     trunk: formplayer
     branches:
       - riese/rm_locale_log
-      - em/icons-alt-text # Evan Feb 20
     
