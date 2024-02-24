@@ -19,8 +19,8 @@ branches:
     #- cs/data_source_logs # Chris Nov 22
     - bmb/marketing-styling-deploy  # Biyeun Dec 13
     - mjr/user_importer_critical_section
-    # - gh/django-two-factor-auth/1.15.5 # Graham Dec 27
-    # - gh/django-two-factor-auth/test # Graham Jan 11
+    - gh/django-two-factor-auth/1.15.5 # Graham Dec 27
+    - gh/django-two-factor-auth/test # Graham Jan 11
     - dm/sql-repeatrecord-pr1  # Daniel Jan 15
     #- akj/debug-dynamic-search-issue # Akash Jan 22
     #- jls/web-apps-requirejs # Jenny Jan 24
