@@ -32,7 +32,6 @@ branches:
     - jc/report-include-case-id # Jing Feb 6
     - ay/copy-cases-allow-location-groups # Ajeet Feb 9
     - dm/upgrade-cryptography  # Biyeun / Daniel
-    - smh/sscs-sidebar-padding # Steph Feb 15
     #- smh/update-disable-search-button-sscs # Steph Feb 19
     - proteusvacuum:fr/deleted-apps-2 # Amit Feb 20
     - ze/clear-dd-delete-cache # Zandre Feb 20
