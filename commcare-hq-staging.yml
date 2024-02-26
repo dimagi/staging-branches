@@ -41,6 +41,6 @@ branches:
     - em/icons-alt-text # Evan Feb 20
     - ze/filter-by-aggregation-user-status-report # Zandre Feb 21
     - mk/3336-expire-cache-on-dd-delete # MK Feb 21
-    - rc/webapps-loading-indicator-test-staging # Robert Feb 21
+    # - rc/webapps-loading-indicator-test-staging # Robert Feb 21
     - jt/interval-sync # Jonathan T. Feb 21
 submodules: { }
