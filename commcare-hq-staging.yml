@@ -41,4 +41,5 @@ branches:
     - rc/webapps-loading-indicator-test-staging # Robert Feb 21
     - jt/interval-sync # Jonathan T. Feb 21
     - ze/filter-by-app-user-aggregation-report # Zandre Feb 26
+    - riese/navigate_menu_race # Martin Feb 26
 submodules: { }
