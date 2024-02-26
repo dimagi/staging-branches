@@ -3,9 +3,9 @@
 trunk: master
 name: autostaging
 branches:
-  - jt/datadog-tag-restore # Jonathan T Feb 6
   - riese/log_cache_key
   - jt/interval-sync # Jonathan T Feb 21
+  - jt/trace-tagging-restore # Jonathan T Feb 26
 submodules:
   libs/commcare:
     trunk: formplayer
