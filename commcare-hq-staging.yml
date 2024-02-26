@@ -39,8 +39,8 @@ branches:
     - mk/add-layers-dirty # MK Feb 20
     - gh/django-tastypie/0.14.6
     - em/icons-alt-text # Evan Feb 20
-    - ze/filter-by-aggregation-user-status-report # Zandre Feb 21
     - mk/3336-expire-cache-on-dd-delete # MK Feb 21
     - rc/webapps-loading-indicator-test-staging # Robert Feb 21
     - jt/interval-sync # Jonathan T. Feb 21
+    - ze/filter-by-app-user-aggregation-report # Zandre Feb 26
 submodules: { }
