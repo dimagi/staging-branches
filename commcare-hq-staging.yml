@@ -40,6 +40,5 @@ branches:
     - jt/interval-sync # Jonathan T. Feb 21
     - ze/filter-by-app-user-aggregation-report # Zandre Feb 26
     - riese/navigate_menu_race # Martin Feb 26
-    - revert-34044-em/icons-alt-text # Evan Feb 26
     - gh/django-two-factor-auth/1.15.5 # Graham Feb 26
 submodules: { }
