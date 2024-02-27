@@ -19,7 +19,6 @@ branches:
     #- cs/data_source_logs # Chris Nov 22
     - bmb/marketing-styling-deploy  # Biyeun Dec 13
     - mjr/user_importer_critical_section
-    - dm/sql-repeatrecord-pr1  # Daniel Jan 15
     #- akj/debug-dynamic-search-issue # Akash Jan 22
     #- jls/web-apps-requirejs # Jenny Jan 24
     - rc/hint-as-placeholder # Robert Jan 26
@@ -27,14 +26,10 @@ branches:
     # - ze/solutions-feature-request-option+bmb/new-fontawesome
     - ml/case-deletion # minha OCt 25
     - gh/html-pattern-attr # Gthaam Feb 2
-    - jc/report-include-case-id # Jing Feb 6
-    - ay/copy-cases-allow-location-groups # Ajeet Feb 9
     - dm/upgrade-cryptography  # Biyeun / Daniel
     #- smh/update-disable-search-button-sscs # Steph Feb 19
     - proteusvacuum:fr/deleted-apps-2 # Amit Feb 20
-    - ze/clear-dd-delete-cache # Zandre Feb 20
     - mk/add-layers-dirty # MK Feb 20
-    - gh/django-tastypie/0.14.6
     - mk/3336-expire-cache-on-dd-delete # MK Feb 21
     - rc/webapps-loading-indicator-test-staging # Robert Feb 21
     - jt/interval-sync # Jonathan T. Feb 21
