@@ -36,4 +36,5 @@ branches:
     - ze/filter-by-app-user-aggregation-report # Zandre Feb 26
     - riese/navigate_menu_race # Martin Feb 26
     - gh/django-two-factor-auth/1.15.5 # Graham Feb 26
+    - es/web-user-data  # Ethan Feb 27
 submodules: { }
