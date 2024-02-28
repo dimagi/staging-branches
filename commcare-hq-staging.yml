@@ -37,5 +37,6 @@ branches:
     - riese/navigate_menu_race # Martin Feb 26
     - gh/django-two-factor-auth/1.15.5 # Graham Feb 26
     # - es/web-user-data  # Ethan Feb 27
+    - es/sql-user-data-migration  # Ethan Feb 28
     - gh/two-factor/infinite-redirects # Graham Feb 28
 submodules: { }
