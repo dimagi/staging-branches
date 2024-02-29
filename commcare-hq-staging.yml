@@ -37,4 +37,5 @@ branches:
     - gh/django-two-factor-auth/1.15.5 # Graham Feb 26
     # - es/web-user-data  # Ethan Feb 27
     - gh/two-factor/infinite-redirects # Graham Feb 28
+    - gh/django-cte/1.3.2 # Graham Feb 29
 submodules: { }
