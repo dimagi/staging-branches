@@ -14,7 +14,6 @@ branches:
     - es/emwf-web-users  # Ethan Sep 14
     # - mk/2900-cache-domain-case-props # MK Oct 19
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
-    - bmb/b5-styleguide  # Biyeun Nov 7
     - es/user-sidebar  # Ethan Nov 17
     #- cs/data_source_logs # Chris Nov 22
     - bmb/marketing-styling-deploy  # Biyeun Dec 13
