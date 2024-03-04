@@ -41,4 +41,5 @@ branches:
     - ad/location-api-bulk-update # Addison
     - bmb/sso-fix-misconfigured-billing-account-error  # Biyeun March 3
     - bmb/sso-report-filters  # Biyeun March 4
+    - ap/remove-es2-support # Amit March 4
 submodules: { }
