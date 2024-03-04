@@ -42,4 +42,5 @@ branches:
     - bmb/sso-report-filters  # Biyeun March 4
     - ap/remove-es2-support # Amit March 4
     - bmb/sso-fix-delete-idp  # Biyeun March 4
+    - jc/update-sso-settings-form # Jing Mar 4
 submodules: { }
