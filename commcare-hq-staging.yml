@@ -20,10 +20,10 @@ branches:
     - mjr/user_importer_critical_section
     #- jls/web-apps-requirejs+riese/navigate_menu_race+jt/interval-sync+rc/webapps-loading-indicator
     #- jls/web-apps-requirejs+riese/navigate_menu_race+jt/interval-sync
-    - jls/web-apps-requirejs+rc/webapps-loading-indicator
-    - jls/web-apps-requirejs+jt/interval-sync
-    - jls/web-apps-requirejs+riese/navigate_menu_race
-    - jls/web-apps-requirejs # Jenny Jan 24
+    #- jls/web-apps-requirejs+rc/webapps-loading-indicator
+    #- jls/web-apps-requirejs+jt/interval-sync
+    #- jls/web-apps-requirejs+riese/navigate_menu_race
+    #- jls/web-apps-requirejs # Jenny Jan 24
     - mjr/adblock-information-edit  # Matt Jan 29
     # - ze/solutions-feature-request-option+bmb/new-fontawesome
     - ml/case-deletion # minha OCt 25
