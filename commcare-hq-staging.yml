@@ -39,4 +39,5 @@ branches:
     - jc/update-sso-settings-form # Jing Mar 4
     - riese/group_header_icon # Martin Mar 4
     - ap/safer-reindex-process # Amit Mar 5
+    - ap/fix-app-cues-display # Amit Mar 5
 submodules: { }
