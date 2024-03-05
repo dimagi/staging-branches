@@ -18,8 +18,7 @@ branches:
     #- cs/data_source_logs # Chris Nov 22
     - bmb/marketing-styling-deploy  # Biyeun Dec 13
     - mjr/user_importer_critical_section
-    #- akj/debug-dynamic-search-issue # Akash Jan 22
-    # - jls/web-apps-requirejs # Jenny Jan 24
+    - jls/web-apps-requirejs # Jenny Jan 24
     - mjr/adblock-information-edit  # Matt Jan 29
     # - ze/solutions-feature-request-option+bmb/new-fontawesome
     - ml/case-deletion # minha OCt 25
