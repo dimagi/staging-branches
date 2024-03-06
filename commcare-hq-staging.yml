@@ -28,7 +28,6 @@ branches:
     # - ze/solutions-feature-request-option+bmb/new-fontawesome
     - ml/case-deletion # minha OCt 25
     - gh/html-pattern-attr # Gthaam Feb 2
-    #- smh/update-disable-search-button-sscs # Steph Feb 19
     - proteusvacuum:fr/deleted-apps-2 # Amit Feb 20
     - mk/add-layers-dirty # MK Feb 20
     - rc/webapps-loading-indicator # Robert Feb 21
@@ -45,4 +44,5 @@ branches:
     - ap/fix-app-cues-display # Amit Mar 5
     - ad/fix-form-UI-issues # Addison Mar 5
     - jt/module-tag-app-aware-search # Jonathan T. March 5
+    - revert-34182-revert-34177-smh/sscs-sidebar-padding # Steph Mar 6
 submodules: { }
