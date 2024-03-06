@@ -35,6 +35,7 @@ branches:
     - riese/navigate_menu_race # Martin Feb 26
     - gh/django-two-factor-auth/1.15.5 # Graham Feb 26
     - es/web-user-data  # Ethan Feb 27
+    - es/rm-user_data-es  # Ethan Mar 6
     - gh/two-factor/infinite-redirects # Graham Feb 28
     - gh/django-cte/1.3.2 # Graham Feb 29
     - jc/update-sso-settings-form # Jing Mar 4
