@@ -44,4 +44,5 @@ branches:
     - ap/safer-reindex-process # Amit Mar 5
     - ap/fix-app-cues-display # Amit Mar 5
     - ad/fix-form-UI-issues # Addison Mar 5
+    - jt/module-tag-app-aware-search # Jonathan T. March 5
 submodules: { }
