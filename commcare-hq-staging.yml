@@ -18,9 +18,8 @@ branches:
     #- cs/data_source_logs # Chris Nov 22
     - bmb/marketing-styling-deploy  # Biyeun Dec 13
     - mjr/user_importer_critical_section
-    #- jls/web-apps-requirejs+riese/navigate_menu_race+jt/interval-sync
-    #- jls/web-apps-requirejs+jt/interval-sync
-    #- jls/web-apps-requirejs+riese/navigate_menu_race
+    - jls/web-apps-requirejs+jt/interval-sync
+    - jls/web-apps-requirejs+riese/navigate_menu_race
     - jls/web-apps-requirejs # Jenny Jan 24
     - mjr/adblock-information-edit  # Matt Jan 29
     # - ze/solutions-feature-request-option+bmb/new-fontawesome
@@ -41,7 +40,6 @@ branches:
     - ad/fix-form-UI-issues # Addison Mar 5
     - jt/module-tag-app-aware-search # Jonathan T. March 5
     - jt/repeat-group-question-tiles-check-nested-group # Jonathan T. March 6
-    - gh/django/update-langcodes-ref # Graham Mar 6
     - dm/sql-repeatrecord-pr2+ml/case-deletion # Daniel Mar 6
     - ml/case-deletion # minha OCt 25
     - dm/sql-repeatrecord-pr2 # Daniel Mar 6
