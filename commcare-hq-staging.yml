@@ -48,4 +48,5 @@ branches:
     - ml/case-deletion # minha OCt 25
     - dm/sql-repeatrecord-pr2 # Daniel Mar 6
     - bmb/case-tile-refactorings  # Biyeun Mar 6
+    - riese/geocoder_align # Martin Mar 7
 submodules: { }
