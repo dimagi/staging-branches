@@ -5,7 +5,7 @@ name: autostaging
 branches:
   - riese/log_cache_key
   - jt/interval-sync # Jonathan T Feb 21
-  - jt/trace-tagging-restore # Jonathan T Feb 26
+  - jt/module-tag-app-aware-search # Jonathan T March 7
 submodules:
   libs/commcare:
     trunk: formplayer
