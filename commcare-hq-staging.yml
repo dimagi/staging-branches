@@ -48,4 +48,5 @@ branches:
     - riese/geocoder_align # Martin Mar 7
     - rc/smart-link-breadcrumb-error # Robert March 7
     - bmb/bha-style-tweaks-001  # Biyeun March 7
+    - jt/datadog-metric-slicing # Jonathan T March 10
 submodules: { }
