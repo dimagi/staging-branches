@@ -52,6 +52,6 @@ branches:
     - jt/datadog-metric-slicing # Jonathan T. March 10
     - ap/new-indices-for-reindex # Amit, March 11
     - ap/es6/add-secondary-index-names # Amit March 11
-    - ay/date-filter-aggregate-user-report # Ajeet March 11
     - ze/filter-by-app-user-aggregation-report+ay/date-filter-aggregate-user-report    # Ajeet March 11
+    - ay/date-filter-aggregate-user-report # Ajeet March 11
 submodules: { }
