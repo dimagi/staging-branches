@@ -51,4 +51,5 @@ branches:
     - riese/navigate_menu_race # Martin Feb 26
     - jt/datadog-metric-slicing # Jonathan T. March 10
     - ap/new-indices-for-reindex # Amit, March 11
+    - ap/es6/add-secondary-index-names # Amit March 11
 submodules: { }
