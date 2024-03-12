@@ -56,4 +56,5 @@ branches:
     - jls/builds-b5 # Jenny March 11
     - es/user-importer  # Ethan March 11
     - ap/es6/minor-refactor-reindex-cmd # Amit March 12
+    - nh/oauth2clientgrant  # Norman March 12
 submodules: { }
