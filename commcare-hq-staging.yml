@@ -50,10 +50,10 @@ branches:
     - jt/datadog-metric-slicing+riese/navigate_menu_race # Jonathan T. March 10
     - riese/navigate_menu_race # Martin Feb 26
     - jt/datadog-metric-slicing # Jonathan T. March 10
-    - ap/new-indices-for-reindex # Amit, March 11
     - ap/es6/add-secondary-index-names # Amit March 11
     - ze/filter-by-app-user-aggregation-report+ay/date-filter-aggregate-user-report    # Ajeet March 11
     - ay/date-filter-aggregate-user-report # Ajeet March 11
     - jls/builds-b5 # Jenny March 11
     - es/user-importer  # Ethan March 11
+    - ap/es6/minor-refactor-reindex-cmd # Amit March 12
 submodules: { }
