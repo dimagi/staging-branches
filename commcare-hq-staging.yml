@@ -19,8 +19,8 @@ branches:
     - bmb/marketing-styling-deploy  # Biyeun Dec 13
     - mjr/user_importer_critical_section
     - jt/datadog-metric-slicing+riese/navigate_menu_race+jls/web-apps-requirejs+jt/interval-sync
-    - jls/web-apps-requirejs+jt/interval-sync
-    - jls/web-apps-requirejs+riese/navigate_menu_race
+    #- jls/web-apps-requirejs+jt/interval-sync
+    #- jls/web-apps-requirejs+riese/navigate_menu_race
     - jls/web-apps-requirejs # Jenny Jan 24
     - mjr/adblock-information-edit  # Matt Jan 29
     # - ze/solutions-feature-request-option+bmb/new-fontawesome
@@ -47,7 +47,7 @@ branches:
     - riese/geocoder_align # Martin Mar 7
     - rc/smart-link-breadcrumb-error # Robert March 7
     - bmb/bha-style-tweaks-001  # Biyeun March 7
-    - jt/datadog-metric-slicing+riese/navigate_menu_race # Jonathan T. March 10
+    #- jt/datadog-metric-slicing+riese/navigate_menu_race # Jonathan T. March 10
     - riese/navigate_menu_race # Martin Feb 26
     - jt/datadog-metric-slicing # Jonathan T. March 10
     - ap/es6/add-secondary-index-names # Amit March 11
