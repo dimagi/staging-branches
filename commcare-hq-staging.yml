@@ -18,6 +18,7 @@ branches:
     #- cs/data_source_logs # Chris Nov 22
     - bmb/marketing-styling-deploy  # Biyeun Dec 13
     - mjr/user_importer_critical_section
+    - jt/datadog-metric-slicing+riese/navigate_menu_race+jls/web-apps-requirejs+jt/interval-sync
     #- jls/web-apps-requirejs+jt/interval-sync
     - jls/web-apps-requirejs # Jenny Jan 24
     - mjr/adblock-information-edit  # Matt Jan 29
