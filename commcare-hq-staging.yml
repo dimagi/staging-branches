@@ -51,5 +51,4 @@ branches:
     - es/user-importer  # Ethan March 11
     - ap/es6/minor-refactor-reindex-cmd # Amit March 12
     - em/upload-filename-broadcast  # Evan March 12
-    - jls/reduce-hqrequire-footprint  # Jenny March 12
 submodules: { }
