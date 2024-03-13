@@ -18,9 +18,9 @@ branches:
     #- cs/data_source_logs # Chris Nov 22
     - bmb/marketing-styling-deploy  # Biyeun Dec 13
     - mjr/user_importer_critical_section
-    - jt/datadog-metric-slicing+riese/navigate_menu_race+jls/web-apps-requirejs+jt/interval-sync
+    #- jt/datadog-metric-slicing+riese/navigate_menu_race+jls/web-apps-requirejs+jt/interval-sync
     #- jls/web-apps-requirejs+jt/interval-sync
-    - jls/web-apps-requirejs # Jenny Jan 24
+    #- jls/web-apps-requirejs # Jenny Jan 24
     - mjr/adblock-information-edit  # Matt Jan 29
     # - ze/solutions-feature-request-option+bmb/new-fontawesome
     - gh/html-pattern-attr # Gthaam Feb 2
@@ -52,5 +52,5 @@ branches:
     - es/user-importer  # Ethan March 11
     - ap/es6/minor-refactor-reindex-cmd # Amit March 12
     - em/upload-filename-broadcast  # Evan March 12
-    #- jls/reduce-hqrequire-footprint  # Jenny March 12
+    - jls/reduce-hqrequire-footprint  # Jenny March 12
 submodules: { }
