@@ -36,7 +36,6 @@ branches:
     - riese/group_header_icon # Martin Mar 4
     - ap/fix-app-cues-display # Amit Mar 5
     - ad/fix-form-UI-issues # Addison Mar 5
-    - jt/module-tag-app-aware-search # Jonathan T. March 5
     - jt/repeat-group-question-tiles-check-nested-group # Jonathan T. March 6
     - dm/sql-repeatrecord-pr2+ml/case-deletion # Daniel Mar 6
     - ml/case-deletion # minha OCt 25
