@@ -4,8 +4,6 @@ trunk: master
 name: autostaging
 branches:
   - riese/log_cache_key
-  - jt/interval-sync # Jonathan T Feb 21
-  - jt/module-tag-app-aware-search # Jonathan T March 7
   - jt/datadog-metric-slicing # Jonathan T March 10
 submodules:
   libs/commcare:
