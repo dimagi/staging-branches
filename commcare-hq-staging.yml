@@ -33,7 +33,6 @@ branches:
     - es/rm-user_data-es  # Ethan Mar 6
     - gh/two-factor/infinite-redirects # Graham Feb 28
     - jc/update-sso-settings-form # Jing Mar 4
-    - riese/group_header_icon # Martin Mar 4
     - ap/fix-app-cues-display # Amit Mar 5
     - ad/fix-form-UI-issues # Addison Mar 5
     - jt/repeat-group-question-tiles-check-nested-group # Jonathan T. March 6
