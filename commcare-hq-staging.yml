@@ -40,9 +40,9 @@ branches:
     - bmb/bha-style-tweaks-001  # Biyeun March 7
     - jt/datadog-metric-slicing+jls/web-apps-requirejs # Jonathan T. March 14
     - jt/datadog-metric-slicing # Jonathan T. March 10
-    - jls/web-apps-requirejs # Jenny Jan 24
-    - rc/loading-indicator-delay # Robert March 15
     - rc/loading-indicator-delay+jls/web-apps-requirejs # Robert March 15
+    - rc/loading-indicator-delay # Robert March 15
+    - jls/web-apps-requirejs # Jenny Jan 24
     - ap/es6/add-secondary-index-names # Amit March 11
     - ze/filter-by-app-user-aggregation-report+ay/date-filter-aggregate-user-report    # Ajeet March 11
     - ay/date-filter-aggregate-user-report # Ajeet March 11
