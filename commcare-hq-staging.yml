@@ -53,5 +53,5 @@ branches:
     - revert-34279-revert-34246-ap/new-indices-for-reindex # Amit Mar 14
     - bmb/sprint-sketch-001
     - smh/long_case_search_request_mod # Steph Mar 14
-    - rc/loading-indicator-delay # Robert March 15
+    # - rc/loading-indicator-delay # Robert March 15
 submodules: { }
