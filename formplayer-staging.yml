@@ -5,7 +5,7 @@ name: autostaging
 branches:
   - riese/log_cache_key
   - jt/datadog-metric-slicing # Jonathan T March 10
-  - jt/autoselect-metric-fidelity # Jonathan T March 14
+  # - jt/autoselect-metric-fidelity # Jonathan T March 14
 submodules:
   libs/commcare:
     trunk: formplayer
