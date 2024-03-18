@@ -56,4 +56,5 @@ branches:
     - smh/long_case_search_request_mod # Steph Mar 14
     - ze/form-filter-raw-forms-report # Zandre Mar 18
     - jls/web-apps-form-validation-ui-labels # Jenny March 18
+    - gh/django-phonenumber-field/7.2.0 # Graham Mar 18
 submodules: { }
