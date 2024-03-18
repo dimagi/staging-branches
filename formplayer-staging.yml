@@ -6,7 +6,7 @@ branches:
   - riese/log_cache_key
   - jt/datadog-metric-slicing # Jonathan T March 10
   - jt/autoselect-metric-fidelity # Jonathan T March 14
-  # - jt/autoselect-metric-fidelity+jt/datadog-metric-slicing # Jonathan T March 15
+  - jt/autoselect-metric-fidelity+jt/datadog-metric-slicing # Jonathan T March 15
 submodules:
   libs/commcare:
     trunk: formplayer
