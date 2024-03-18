@@ -35,7 +35,6 @@ branches:
     - ml/case-deletion # minha OCt 25
     - dm/sql-repeatrecord-pr2 # Daniel Mar 6
     - bmb/case-tile-refactorings  # Biyeun Mar 6
-    - riese/geocoder_align # Martin Mar 7
     - bmb/bha-style-tweaks-001  # Biyeun March 7
     - jt/datadog-metric-slicing+jls/web-apps-requirejs # Jonathan T. March 14
     - jt/datadog-metric-slicing # Jonathan T. March 10
