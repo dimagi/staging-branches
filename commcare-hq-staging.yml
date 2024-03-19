@@ -34,7 +34,6 @@ branches:
     - dm/sql-repeatrecord-pr2+ml/case-deletion # Daniel Mar 6
     - ml/case-deletion # minha OCt 25
     - dm/sql-repeatrecord-pr2 # Daniel Mar 6
-    - bmb/case-tile-refactorings  # Biyeun Mar 6
     - bmb/bha-style-tweaks-001  # Biyeun March 7
     - jt/datadog-metric-slicing+jls/web-apps-requirejs # Jonathan T. March 14
     - jt/datadog-metric-slicing # Jonathan T. March 10
@@ -53,6 +52,5 @@ branches:
     - bmb/sprint-sketch-001
     - smh/long_case_search_request_mod # Steph Mar 14
     - ze/form-filter-raw-forms-report # Zandre Mar 18
-    - jls/web-apps-form-validation-ui-labels # Jenny March 18
     - ay/allow-saving-single-date-filter # Ajeet March 19
 submodules: { }
