@@ -53,4 +53,5 @@ branches:
     - smh/long_case_search_request_mod # Steph Mar 14
     - ze/form-filter-raw-forms-report # Zandre Mar 18
     - ay/allow-saving-single-date-filter # Ajeet March 19
+    - jls/disable-tempus-dominus # Jenny March 19 - unblock deploy
 submodules: { }
