@@ -54,5 +54,6 @@ branches:
     - jls/disable-tempus-dominus # Jenny March 19 - unblock deploy
     - jls/b5-hq-help-template # Jenny March 19
     - jls/b5-commtrack # Jenny March 19
-    - jls/b5-products-and-programs-views # Jenny March 19
+    #- revert-34314-revert-34294-jls/b5-products-and-programs-initial # Jenny March 20
+    #- jls/b5-products-and-programs-views # Jenny March 19
 submodules: { }
