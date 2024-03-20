@@ -35,8 +35,6 @@ branches:
     - ml/case-deletion # minha OCt 25
     - dm/sql-repeatrecord-pr2 # Daniel Mar 6
     - bmb/bha-style-tweaks-001  # Biyeun March 7
-    - jt/datadog-metric-slicing+jls/web-apps-requirejs # Jonathan T. March 14
-    - jt/datadog-metric-slicing # Jonathan T. March 10
     - rc/loading-indicator-delay+jls/web-apps-requirejs # Robert March 15
     - rc/loading-indicator-delay # Robert March 15
     - jls/web-apps-requirejs+jls/add-babel-to-b3-requirejs
