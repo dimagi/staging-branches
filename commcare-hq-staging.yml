@@ -35,7 +35,6 @@ branches:
     - ml/case-deletion # minha OCt 25
     - dm/sql-repeatrecord-pr2 # Daniel Mar 6
     - bmb/bha-style-tweaks-001  # Biyeun March 7
-    - jls/web-apps-requirejs+jls/disable-tempus-dominus
     - jls/web-apps-requirejs # Jenny Jan 24
     - ap/es6/add-secondary-index-names # Amit March 11
     - ze/filter-by-app-user-aggregation-report+ay/date-filter-aggregate-user-report    # Ajeet March 11
