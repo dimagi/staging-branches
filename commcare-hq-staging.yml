@@ -29,8 +29,6 @@ branches:
     - gh/two-factor/infinite-redirects # Graham Feb 28
     - jc/update-sso-settings-form # Jing Mar 4
     - ap/fix-app-cues-display # Amit Mar 5
-    - ad/fix-form-UI-issues # Addison Mar 5
-    - jt/repeat-group-question-tiles-check-nested-group # Jonathan T. March 6
     - dm/sql-repeatrecord-pr2+ml/case-deletion # Daniel Mar 6
     - ml/case-deletion # minha OCt 25
     - dm/sql-repeatrecord-pr2 # Daniel Mar 6
