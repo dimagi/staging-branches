@@ -48,8 +48,6 @@ branches:
     - bmb/sprint-sketch-001
     - ze/form-filter-raw-forms-report # Zandre Mar 18
     - ay/allow-saving-single-date-filter # Ajeet March 19
-    - jls/b5-hq-help-template # Jenny March 19
-    - jls/b5-products-and-programs-views # Jenny March 19
     - jc/investigate-null-values-in-calculated-properties # Jing Mar 20
     - ay/app-filter-project-performance-report # Ajeet Mar 21
     - gh/django/mark-safe-supports-lazy-strings # Graham Mar 21
