@@ -4,9 +4,9 @@ trunk: master
 name: autostaging
 branches:
   - riese/log_cache_key
-  # - jt/autoselect-metric-fidelity # Jonathan T March 14
   - riese/missing_entity_log # Martin March 21
   - rc/check-selections # Robert March 21
+  - jt/EoF-error-handling # Jonathan T. March 21
 submodules:
   libs/commcare:
     trunk: formplayer
