@@ -46,7 +46,6 @@ branches:
     - ay/allow-saving-single-date-filter # Ajeet March 19
     - jc/investigate-null-values-in-calculated-properties # Jing Mar 20
     - ay/app-filter-project-performance-report # Ajeet Mar 21
-    - gh/django/mark-safe-supports-lazy-strings # Graham Mar 21
     - ze/user-filter-raw-forms-report+ze/form-filter-raw-forms-report # Zandre Mar 25
     - ze/case-column-raw-forms-report # Zandre Mar 25
     - ad/remove-local-search-bar-when-sscs-enabled # Addison Mar 25
