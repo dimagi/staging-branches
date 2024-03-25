@@ -48,7 +48,5 @@ branches:
     - ay/app-filter-project-performance-report # Ajeet Mar 21
     - gh/django/mark-safe-supports-lazy-strings # Graham Mar 21
     - ze/user-filter-raw-forms-report+ze/form-filter-raw-forms-report # Zandre Mar 25
-    # - ze/user-filter-raw-forms-report # Zandre Mar 25
-    # - ze/form-filter-raw-forms-report # Zandre Mar 18
     - ze/case-column-raw-forms-report # Zandre Mar 25
 submodules: { }
