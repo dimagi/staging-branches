@@ -52,4 +52,5 @@ branches:
     - mk/add-migration-form-cases-location-data # MK Mar 26
     - es/location-owners  # ES Mar 26
     - dependabot/pip/requirements/jwcrypto-1.5.6 # Graham Mar 26
+    - jls/build_requirejs-b5-updates # Jenny March 26
 submodules: { }
