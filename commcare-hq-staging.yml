@@ -42,6 +42,7 @@ branches:
     - smh-accessibilty-styleguide # Steph Mar 13
     - cs/SC-3429-geojson-form-export # Charl Mar 14
     - revert-34279-revert-34246-ap/new-indices-for-reindex # Amit Mar 14
+    - jls/build_requirejs-b5-updates+bmb/sprint-sketch-001
     - bmb/sprint-sketch-001
     - ay/allow-saving-single-date-filter # Ajeet March 19
     - jc/investigate-null-values-in-calculated-properties # Jing Mar 20
@@ -52,5 +53,5 @@ branches:
     - mk/add-migration-form-cases-location-data # MK Mar 26
     - es/location-owners  # ES Mar 26
     - dependabot/pip/requirements/jwcrypto-1.5.6 # Graham Mar 26
-    #- jls/build_requirejs-b5-updates # Jenny March 26
+    - jls/build_requirejs-b5-updates # Jenny March 26
 submodules: { }
