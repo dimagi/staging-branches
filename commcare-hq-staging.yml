@@ -51,4 +51,5 @@ branches:
     - ad/remove-local-search-bar-when-sscs-enabled # Addison Mar 25
     - mk/add-migration-form-cases-location-data # MK Mar 26
     - es/location-owners  # ES Mar 26
+    - dependabot/pip/requirements/jwcrypto-1.5.6 # Graham Mar 26
 submodules: { }
