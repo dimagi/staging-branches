@@ -53,4 +53,5 @@ branches:
     - es/location-owners  # ES Mar 26
     #- jls/build_requirejs-b5-updates # Jenny March 26
     - jls/case-importer-b5-initial
+    - ze/image-case-list-format # Zandre Mar 28
 submodules: { }
