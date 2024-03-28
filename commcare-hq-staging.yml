@@ -57,4 +57,5 @@ branches:
     - ze/image-case-list-format # Zandre Mar 28
     #- bmb/fix-tempusdominus  # Biyeun Mar 28
     - es/case-search-timings  # Ethan Mar 28
+    - riese/login_as_webuser # Martin Mar 28
 submodules: { }
