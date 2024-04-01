@@ -27,7 +27,6 @@ branches:
     - es/web-user-data  # Ethan Feb 27
     - es/rm-user_data-es  # Ethan Mar 6
     - gh/two-factor/infinite-redirects # Graham Feb 28
-    - jc/update-sso-settings-form # Jing Mar 4
     - ap/fix-app-cues-display # Amit Mar 5
     - dm/sql-repeatrecord-pr2+ml/case-deletion # Daniel Mar 6
     - ml/case-deletion # minha OCt 25
