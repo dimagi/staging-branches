@@ -28,9 +28,9 @@ branches:
     - es/rm-user_data-es  # Ethan Mar 6
     - gh/two-factor/infinite-redirects # Graham Feb 28
     - ap/fix-app-cues-display # Amit Mar 5
-    - dm/sql-repeatrecord-pr2+ml/case-deletion # Daniel Mar 6
+    - dm/sql-repeatrecord-pr3+ml/case-deletion # Daniel Mar 6
     - ml/case-deletion # minha OCt 25
-    - dm/sql-repeatrecord-pr2 # Daniel Mar 6
+    - dm/sql-repeatrecord-pr3 # Daniel Apr 2
     - bmb/bha-style-tweaks-001  # Biyeun March 7
     - jls/web-apps-requirejs # Jenny Jan 24
     - jls/drop-show-breadcrumbs # Jenny April 2
