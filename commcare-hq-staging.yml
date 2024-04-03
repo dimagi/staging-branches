@@ -50,7 +50,6 @@ branches:
     - mk/add-migration-form-cases-location-data # MK Mar 26
     - jls/case-importer-b5-views # Jenny April 1
     - ze/image-case-list-format # Zandre Mar 28
-    - es/case-search-timings  # Ethan Mar 28
     - riese/login_as_webuser+es/rm-user_data-es # Martin Mar 28
     - riese/login_as_webuser # Martin Mar 28
     - ap/upgrade-to-node-20 # Amit Mar 29
