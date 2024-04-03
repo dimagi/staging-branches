@@ -45,7 +45,6 @@ branches:
     #- jls/build_requirejs-b5-updates+bmb/sprint-sketch-001
     #- bmb/sprint-sketch-001
     - ay/allow-saving-single-date-filter # Ajeet March 19
-    - jc/investigate-null-values-in-calculated-properties # Jing Mar 20
     - ay/app-filter-project-performance-report # Ajeet Mar 21
     - ze/user-filter-raw-forms-report+ze/form-filter-raw-forms-report # Zandre Mar 25
     - ze/case-column-raw-forms-report # Zandre Mar 25
@@ -59,4 +58,5 @@ branches:
     - riese/login_as_webuser # Martin Mar 28
     - ap/upgrade-to-node-20 # Amit Mar 29
     - cs/SC-3429-test-hypotesis # Charl Mar 29
+    - jc/auto-deactivate-removed-sso-users # Jing Apr 3
 submodules: { }
