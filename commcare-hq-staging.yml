@@ -45,8 +45,6 @@ branches:
     #- bmb/sprint-sketch-001
     - ay/allow-saving-single-date-filter # Ajeet March 19
     - ay/app-filter-project-performance-report # Ajeet Mar 21
-    - ze/user-filter-raw-forms-report+ze/form-filter-raw-forms-report # Zandre Mar 25
-    - ze/case-column-raw-forms-report # Zandre Mar 25
     - mk/add-migration-form-cases-location-data # MK Mar 26
     - jls/case-importer-b5-views # Jenny April 1
     - ze/image-case-list-format # Zandre Mar 28
