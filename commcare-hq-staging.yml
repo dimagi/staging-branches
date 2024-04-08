@@ -35,15 +35,12 @@ branches:
     - jls/web-apps-requirejs # Jenny Jan 24
     - jls/drop-show-breadcrumbs # Jenny April 2
     - ap/es6/add-secondary-index-names # Amit March 11
-    - ay/date-filter-aggregate-user-report # Ajeet March 11
     - es/user-importer  # Ethan March 11
     - ap/es6/minor-refactor-reindex-cmd # Amit March 12
     - smh-accessibilty-styleguide # Steph Mar 13
     - cs/SC-3429-geojson-form-export # Charl Mar 14
     - revert-34279-revert-34246-ap/new-indices-for-reindex # Amit Mar 14
     #- bmb/sprint-sketch-001
-    - ay/allow-saving-single-date-filter # Ajeet March 19
-    - ay/app-filter-project-performance-report # Ajeet Mar 21
     - mk/add-migration-form-cases-location-data # MK Mar 26
     - jls/case-importer-b5-views # Jenny April 1
     - ze/image-case-list-format # Zandre Mar 28
