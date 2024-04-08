@@ -23,7 +23,6 @@ branches:
     - gh/html-pattern-attr # Gthaam Feb 2
     - proteusvacuum:fr/deleted-apps-2 # Amit Feb 20
     - mk/add-layers-dirty # MK Feb 20
-    - ze/filter-by-app-user-aggregation-report # Zandre Feb 26
     - es/web-user-data  # Ethan Feb 27
     - es/rm-user_data-es  # Ethan Mar 6
     - gh/two-factor/infinite-redirects # Graham Feb 28
@@ -33,7 +32,6 @@ branches:
     - dm/sql-repeatrecord-pr3 # Daniel Apr 2
     - bmb/bha-style-tweaks-001  # Biyeun March 7
     - jls/web-apps-requirejs # Jenny Jan 24
-    - jls/drop-show-breadcrumbs # Jenny April 2
     - ap/es6/add-secondary-index-names # Amit March 11
     - es/user-importer  # Ethan March 11
     - ap/es6/minor-refactor-reindex-cmd # Amit March 12
