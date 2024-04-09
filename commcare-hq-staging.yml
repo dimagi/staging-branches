@@ -30,6 +30,7 @@ branches:
     - ml/case-deletion+dm/sql-repeatrecord-pr3
     - ml/case-deletion # minha OCt 25
     - dm/sql-repeatrecord-pr3 # Daniel Apr 2
+    - dm/sql-repeatrecord-state-counts-pr3 # Daniel Apr 9
     - bmb/bha-style-tweaks-001  # Biyeun March 7
     - jls/web-apps-requirejs # Jenny Jan 24
     - ap/es6/add-secondary-index-names # Amit March 11
