@@ -24,13 +24,12 @@ branches:
     - proteusvacuum:fr/deleted-apps-2 # Amit Feb 20
     - mk/add-layers-dirty # MK Feb 20
     - es/web-user-data  # Ethan Feb 27
-    - es/rm-user_data-es  # Ethan Mar 6
     - gh/two-factor/infinite-redirects # Graham Feb 28
     - ap/fix-app-cues-display # Amit Mar 5
+    - dm/sql-repeatrecord-state-counts-pr3 # Daniel Apr 9
     - ml/case-deletion+dm/sql-repeatrecord-pr3
     - ml/case-deletion # minha OCt 25
     - dm/sql-repeatrecord-pr3 # Daniel Apr 2
-    - dm/sql-repeatrecord-state-counts-pr3 # Daniel Apr 9
     - bmb/bha-style-tweaks-001  # Biyeun March 7
     - jls/web-apps-requirejs # Jenny Jan 24
     - ap/es6/add-secondary-index-names # Amit March 11
