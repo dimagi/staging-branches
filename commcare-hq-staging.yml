@@ -49,4 +49,5 @@ branches:
     - jc/auto-deactivate-removed-sso-users # Jing Apr 3
     - jc/remove-feature-flag # Jing Apr 3
     - mk/3538-restrict-rebuild # MK Apr 5
+    - es/case-search-breadcrumbs-staging  # Ethan Apr 10
 submodules: { }
