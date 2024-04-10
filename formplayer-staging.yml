@@ -6,7 +6,6 @@ branches:
   - riese/log_cache_key
   - riese/missing_entity_log # Martin March 21
   - rc/check-selections # Robert March 21
-  - jt/EoF-error-handling # Jonathan T. March 21
 submodules:
   libs/commcare:
     trunk: formplayer
