@@ -26,7 +26,6 @@ branches:
     - es/web-user-data  # Ethan Feb 27
     - gh/two-factor/infinite-redirects # Graham Feb 28
     - ap/fix-app-cues-display # Amit Mar 5
-    - dm/sql-repeatrecord-state-counts-pr3 # Daniel Apr 9
     - ml/case-deletion+dm/sql-repeatrecord-pr3
     - ml/case-deletion # minha OCt 25
     - dm/sql-repeatrecord-pr3 # Daniel Apr 2
