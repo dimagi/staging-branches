@@ -49,5 +49,4 @@ branches:
     - jc/remove-feature-flag # Jing Apr 3
     - mk/3538-restrict-rebuild # MK Apr 5
     - es/case-search-breadcrumbs-staging  # Ethan Apr 10
-    - jls/upgrade-ckeditor # Jenny April 11
 submodules: { }
