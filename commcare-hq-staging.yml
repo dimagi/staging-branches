@@ -51,4 +51,5 @@ branches:
     - es/case-search-breadcrumbs-staging  # Ethan Apr 10
     - mjr/remove-api-key-feature-flag  # Matt Apr 11
     - ze/deprecated-prop-warning-case-management # Zandre Apr 12
+    - mk/3539-confirm-rebuild # MK Apr 12
 submodules: { }
