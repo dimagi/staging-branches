@@ -53,4 +53,5 @@ branches:
     - ze/deprecated-prop-warning-case-management # Zandre Apr 12
     - mk/3539-confirm-rebuild # MK Apr 12
     - gh/django/4.2 # Graham Apr 12
+    - jc/case-search-b5-views # Jing Apr 13
 submodules: { }
