@@ -40,6 +40,7 @@ branches:
     #- bmb/sprint-sketch-001
     - mk/add-migration-form-cases-location-data # MK Mar 26
     - jls/case-importer-b5-views # Jenny April 1
+    - jls/b5-registry # Jenny April 15
     - ze/image-case-list-format # Zandre Mar 28
     - riese/login_as_webuser+es/rm-user_data-es # Martin Mar 28
     - riese/login_as_webuser # Martin Mar 28
