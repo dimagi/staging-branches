@@ -55,7 +55,8 @@ branches:
     - mk/3539-confirm-rebuild # MK Apr 12
     - gh/django/4.2 # Graham Apr 12
     - jc/case-search-b5-views # Jing Apr 13
-    - es/web-user-locations  # Addison Apr 15
     - jls/temp # Jenny April 15
+    - jt/web-user-invitation-model-setup-2+es/web-user-data # Jonathan T. April 15
     - jt/web-user-invitation-model-setup-2 # Jonathan T. April 15
+    - es/web-user-locations  # Addison Apr 15
 submodules: { }
