@@ -59,5 +59,4 @@ branches:
     - jt/web-user-invitation-model-setup-2+es/web-user-data # Jonathan T. April 15
     - jt/web-user-invitation-model-setup-2 # Jonathan T. April 15
     - es/web-user-locations  # Addison Apr 15
-    - mk/3472-add-cca-roles # MK Apr 16
 submodules: { }
