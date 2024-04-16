@@ -57,4 +57,5 @@ branches:
     - jc/case-search-b5-views # Jing Apr 13
     - es/web-user-locations  # Addison Apr 15
     - jls/temp # Jenny April 15
+    - jt/web-user-invitation-model-setup-2 # Jonathan T. April 15
 submodules: { }
