@@ -60,5 +60,5 @@ branches:
     - es/web-user-locations  # Addison Apr 15
     - jls/web-apps-specific-permissions # Jenny April 16
     - ap/enable-apm-on-ota-views # Amit April 16
-    - smh/web-invite-update # Steph April 16
+    # - smh/web-invite-update # Steph April 16
 submodules: { }
