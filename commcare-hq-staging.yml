@@ -43,8 +43,6 @@ branches:
     - jls/case-importer-b5-views # Jenny April 1
     - jls/b5-registry # Jenny April 15
     - ze/image-case-list-format # Zandre Mar 28
-    - riese/login_as_webuser+es/rm-user_data-es # Martin Mar 28
-    - riese/login_as_webuser # Martin Mar 28
     - ap/upgrade-to-node-20 # Amit Mar 29
     - cs/SC-3429-test-hypotesis # Charl Mar 29
     - jc/auto-deactivate-removed-sso-users # Jing Apr 3
