@@ -17,7 +17,6 @@ branches:
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
     - jls/web-apps-specific-permissions+es/user-sidebar+es/web-user-data+jt/web-user-invitation-model-setup-2
     - jls/web-apps-specific-permissions+es/user-sidebar
-    - es/user-sidebar  # Ethan Nov 17
     #- cs/data_source_logs # Chris Nov 22
     - bmb/marketing-styling-deploy  # Biyeun Dec 13
     - mjr/user_importer_critical_section
@@ -26,7 +25,6 @@ branches:
     - gh/html-pattern-attr # Gthaam Feb 2
     - proteusvacuum:fr/deleted-apps-2 # Amit Feb 20
     - mk/add-layers-dirty # MK Feb 20
-    - es/web-user-data  # Ethan Feb 27
     - gh/two-factor/infinite-redirects # Graham Feb 28
     - ap/fix-app-cues-display # Amit Mar 5
     - ml/case-deletion+dm/sql-repeatrecord-pr3
