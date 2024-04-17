@@ -12,7 +12,6 @@ branches:
     - es/redirect-domain  # Ethan Nov 21
     - gh/remove-duplicate-kafka-seq-code # Graham Dec 26
     - sr/gis-select # Sravan 7 Aug
-    - es/emwf-web-users  # Ethan Sep 14
     # - mk/2900-cache-domain-case-props # MK Oct 19
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
     - jls/web-apps-specific-permissions+es/user-sidebar+es/web-user-data+jt/web-user-invitation-model-setup-2
