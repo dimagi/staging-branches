@@ -14,7 +14,6 @@ branches:
     - sr/gis-select # Sravan 7 Aug
     # - mk/2900-cache-domain-case-props # MK Oct 19
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
-    - jls/web-apps-specific-permissions+es/user-sidebar
     #- cs/data_source_logs # Chris Nov 22
     - bmb/marketing-styling-deploy  # Biyeun Dec 13
     - mjr/user_importer_critical_section
