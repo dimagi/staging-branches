@@ -38,7 +38,7 @@ branches:
     - revert-34279-revert-34246-ap/new-indices-for-reindex # Amit Mar 14
     #- bmb/sprint-sketch-001
     - mk/add-migration-form-cases-location-data # MK Mar 26
-    - jls/case-importer-b5-views # Jenny April 1
+    - jls/case-importer-b5-cleanup # Jenny April 17
     - jls/b5-registry # Jenny April 15
     - ze/image-case-list-format # Zandre Mar 28
     - ap/upgrade-to-node-20 # Amit Mar 29
