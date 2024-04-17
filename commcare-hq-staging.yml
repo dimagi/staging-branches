@@ -51,6 +51,7 @@ branches:
     - jc/case-search-b5-views # Jing Apr 13
     - jt/web-user-invitation-model-setup-2 # Jonathan T. April 15
     - es/web-user-locations  # Addison Apr 15
-    - jls/web-apps-specific-permissions # Jenny April 16
+    - smh/web-invite-update+jls/web-apps-specific-permissions #Steph April 17
     - smh/web-invite-update # Steph April 16
+    - jls/web-apps-specific-permissions # Jenny April 16
 submodules: { }
