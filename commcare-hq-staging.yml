@@ -52,5 +52,5 @@ branches:
     - jt/web-user-invitation-model-setup-2 # Jonathan T. April 15
     - es/web-user-locations  # Addison Apr 15
     - jls/web-apps-specific-permissions # Jenny April 16
-    # - smh/web-invite-update # Steph April 16
+    - smh/web-invite-update # Steph April 16
 submodules: { }
