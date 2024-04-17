@@ -49,7 +49,6 @@ branches:
     - gh/django/4.2 # Graham Apr 12
     - jls/case-importer-b5-cleanup+jc/case-search-b5-views
     - jc/case-search-b5-views # Jing Apr 13
-    - jls/web-apps-specific-permissions+jt/web-user-invitation-model-setup-2
     - jt/web-user-invitation-model-setup-2 # Jonathan T. April 15
     - es/web-user-locations  # Addison Apr 15
     - jls/web-apps-specific-permissions # Jenny April 16
