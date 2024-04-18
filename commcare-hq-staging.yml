@@ -47,7 +47,6 @@ branches:
     - ze/deprecated-prop-warning-case-management # Zandre Apr 12
     - mk/3539-confirm-rebuild # MK Apr 12
     - gh/django/4.2 # Graham Apr 12
-    - jls/case-importer-b5-cleanup+jc/case-search-b5-views
     - es/web-user-locations  # Addison Apr 15
     - smh/web-invite-update+jls/web-apps-specific-permissions #Steph April 17
     - smh/web-invite-update # Steph April 16
