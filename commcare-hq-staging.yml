@@ -53,4 +53,5 @@ branches:
     #- mk/3472-add-cca-roles # MK Apr 18
     - es/doc_ids_query  # Ethan Apr 18
     - es/cache-app-stuff  # Ethan Apr 18
+    - jc/migrate-profile-case-search-view # Jing Apr 18
 submodules: { }
