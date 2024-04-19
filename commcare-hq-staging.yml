@@ -53,4 +53,5 @@ branches:
     - es/doc_ids_query  # Ethan Apr 18
     - es/cache-app-stuff  # Ethan Apr 18
     - jc/migrate-profile-case-search-view # Jing Apr 18
+    - nh/redirect_url  # Norman Apr 19
 submodules: { }
