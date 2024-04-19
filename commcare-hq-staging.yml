@@ -47,6 +47,7 @@ branches:
     - mk/3539-confirm-rebuild # MK Apr 12
     - gh/django/4.2 # Graham Apr 12
     - smh/web-invite-update+jls/web-apps-specific-permissions #Steph April 17
+    - smh/web-invite-update+jls/web-apps-specific-permissions+mk/3472-add-cca-roles # MK Apr 19
     - smh/web-invite-update # Steph April 16
     - jls/web-apps-specific-permissions # Jenny April 16
     - mk/3472-add-cca-roles # MK Apr 18
