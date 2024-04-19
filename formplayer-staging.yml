@@ -6,6 +6,7 @@ branches:
   - riese/log_cache_key
   - riese/missing_entity_log # Martin March 21
   - rc/check-selections # Robert March 21
+  - ctsims/LazyNodesetFix # Graham Apr 19
 submodules:
   libs/commcare:
     trunk: formplayer
