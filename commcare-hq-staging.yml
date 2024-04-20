@@ -53,7 +53,6 @@ branches:
     - mk/3472-add-cca-roles # MK Apr 18
     - es/doc_ids_query  # Ethan Apr 18
     - es/cache-app-stuff  # Ethan Apr 18
-    - jc/migrate-profile-case-search-view # Jing Apr 18
     - nh/redirect_url  # Norman Apr 19
     - jls/b5-my-projects # Jenny April 20
 submodules: { }
