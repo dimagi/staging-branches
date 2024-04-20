@@ -54,5 +54,4 @@ branches:
     - es/doc_ids_query  # Ethan Apr 18
     - es/cache-app-stuff  # Ethan Apr 18
     - nh/redirect_url  # Norman Apr 19
-    - jls/b5-my-projects # Jenny April 20
 submodules: { }
