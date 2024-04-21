@@ -50,6 +50,7 @@ branches:
     - smh/web-invite-update+jls/web-apps-specific-permissions+mk/3472-add-cca-roles # MK Apr 19
     - smh/web-invite-update # Steph April 16
     - jls/web-apps-specific-permissions # Jenny April 16
+    - jls/b5-change-my-password # Jenny April 21
     - mk/3472-add-cca-roles # MK Apr 18
     - es/doc_ids_query  # Ethan Apr 18
     - es/cache-app-stuff  # Ethan Apr 18
