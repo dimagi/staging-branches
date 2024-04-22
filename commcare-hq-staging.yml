@@ -55,7 +55,6 @@ branches:
     - es/doc_ids_query  # Ethan Apr 18
     - es/cache-app-stuff  # Ethan Apr 18
     - nh/redirect_url  # Norman Apr 19
-    - jc/migrate-case-search-view # Jing Apr 22
     - ze/view-by-groups-case-activity-report # Zandre Apr 22
     - dependabot/pip/requirements/gunicorn-22.0.0 # Amit Apr 22
     - dependabot/pip/requirements/idna-3.7 # Amit Apr 22
