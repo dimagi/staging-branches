@@ -56,5 +56,6 @@ branches:
     - dependabot/pip/requirements/idna-3.7 # Amit Apr 22
     - dependabot/pip/requirements/sqlparse-0.5.0 # Amit Apr 22
     - dependabot/npm_and_yarn/tar-6.2.1 # Amit Apr 22
+    - dmr/remove-css-grid-polyfill  # Danny Apr 22
     
 submodules: { }
