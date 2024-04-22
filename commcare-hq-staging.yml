@@ -57,4 +57,5 @@ branches:
     - nh/redirect_url  # Norman Apr 19
     - jc/migrate-case-search-view # Jing Apr 22
     - ze/view-by-groups-case-activity-report # Zandre Apr 22
+    - dependabot/pip/requirements/gunicorn-22.0.0 # Amit Apr 22
 submodules: { }
