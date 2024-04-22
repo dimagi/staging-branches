@@ -35,6 +35,7 @@ branches:
     #- bmb/sprint-sketch-001
     - mk/add-migration-form-cases-location-data # MK Mar 26
     - jls/b5-registry # Jenny April 15
+    - jls/b5-registry-temp
     - ze/image-case-list-format # Zandre Mar 28
     - ap/upgrade-to-node-20 # Amit Mar 29
     - cs/SC-3429-test-hypotesis # Charl Mar 29
