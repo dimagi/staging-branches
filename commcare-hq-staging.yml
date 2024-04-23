@@ -58,6 +58,5 @@ branches:
     - ze/revert-application-error-report-ga # Zandre Apr 23
     - ad/location-restore-file-restriction-SQL # Addison Apr 23
     - riese/restrict_to_ui # Addison Apr 23
-    - jls/build_requirejs-reosurce-version-fix # Jenny April 23
     
 submodules: { }
