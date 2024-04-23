@@ -58,5 +58,7 @@ branches:
     - gh/case-search/sticky # Graham Apr 22
     - es/system-field-filters  # Ethan Apr 22
     - ze/revert-application-error-report-ga # Zandre Apr 23
+    - ad/location-restore-file-restriction-SQL # Addison Apr 23
+    - riese/restrict_to_ui # Addison Apr 23
     
 submodules: { }
