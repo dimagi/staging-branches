@@ -3,12 +3,9 @@
 trunk: master
 name: autostaging
 branches:
-  - riese/log_cache_key
-  - riese/missing_entity_log # Martin March 21
-  - rc/check-selections # Robert March 21
+  - httpClient5 // Shubham Apr 24
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches:
-      - riese/rm_locale_log
+    branches: []
     
