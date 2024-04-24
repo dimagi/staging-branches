@@ -47,7 +47,6 @@ branches:
     - smh/web-invite-update+jls/web-apps-specific-permissions
     - smh/web-invite-update # Steph April 16
     - jls/web-apps-specific-permissions # Jenny April 16
-    - nh/redirect_url  # Norman Apr 19
     - ze/view-by-groups-case-activity-report # Zandre Apr 22
     - dependabot/pip/requirements/gunicorn-22.0.0 # Amit Apr 22
     - dependabot/pip/requirements/idna-3.7 # Amit Apr 22
