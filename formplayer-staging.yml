@@ -3,7 +3,7 @@
 trunk: master
 name: autostaging
 branches:
-  - httpClient5 // Shubham Apr 24
+  - httpClient5 # Shubham Apr 24
 submodules:
   libs/commcare:
     trunk: formplayer
