@@ -58,5 +58,6 @@ branches:
     - em/transifex-api-upgrade-v3+dependabot/pip/requirements/gunicorn-22.0.0 # Minha Apr 24
     - em/transifex-api-upgrade-v3 # Minha Apr 24
     - dependabot/pip/requirements/gunicorn-22.0.0 # Amit Apr 22
+    - nh/redirect_app_dl  # Norman Apr 25
     
 submodules: { }
