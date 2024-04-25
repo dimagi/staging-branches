@@ -48,7 +48,6 @@ branches:
     - dependabot/pip/requirements/sqlparse-0.5.0 # Amit Apr 22
     - dependabot/npm_and_yarn/tar-6.2.1 # Amit Apr 22
     - dmr/remove-css-grid-polyfill  # Danny Apr 22
-    - es/system-field-filters  # Ethan Apr 22
     - ze/revert-application-error-report-ga # Zandre Apr 23
     - ad/location-restore-file-restriction-SQL # Addison Apr 23
     - riese/restrict_to_ui # Addison Apr 23
