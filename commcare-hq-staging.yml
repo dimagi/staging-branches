@@ -60,5 +60,5 @@ branches:
     - mk/3451-case-exports-order-columns # MK Apr 26
     #- jls/b5-api-keys # Jenny April 25
     - jls/b5-custom-data-fields # Jenny April 29
-    - jls/b5-web-apps-html-split # Jenny April 29
+    #- jls/b5-web-apps-html-split # Jenny April 29
 submodules: { }
