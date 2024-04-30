@@ -37,7 +37,6 @@ branches:
     - ap/upgrade-to-node-20 # Amit Mar 29
     - cs/SC-3429-test-hypotesis # Charl Mar 29
     - ze/deprecated-prop-warning-case-management # Zandre Apr 12
-    - gh/django/4.2 # Graham Apr 12
     - smh/web-invite-update+jls/web-apps-specific-permissions
     - smh/web-invite-update # Steph April 16
     - ze/view-by-groups-case-activity-report # Zandre Apr 22
