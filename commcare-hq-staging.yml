@@ -33,8 +33,6 @@ branches:
     - revert-34279-revert-34246-ap/new-indices-for-reindex # Amit Mar 14
     #- bmb/sprint-sketch-001
     - mk/add-migration-form-cases-location-data # MK Mar 26
-    - jls/b5-registry+riese/style-anchored-submit
-    - jls/b5-registry # Jenny April 15
     - ze/image-case-list-format # Zandre Mar 28
     - ap/upgrade-to-node-20 # Amit Mar 29
     - cs/SC-3429-test-hypotesis # Charl Mar 29
@@ -42,7 +40,6 @@ branches:
     - gh/django/4.2 # Graham Apr 12
     - smh/web-invite-update+jls/web-apps-specific-permissions
     - smh/web-invite-update # Steph April 16
-    - jls/web-apps-specific-permissions # Jenny April 16
     - ze/view-by-groups-case-activity-report # Zandre Apr 22
     - dependabot/npm_and_yarn/tar-6.2.1 # Amit Apr 22
     - dmr/remove-css-grid-polyfill  # Danny Apr 22
