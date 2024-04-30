@@ -44,11 +44,8 @@ branches:
     - smh/web-invite-update # Steph April 16
     - jls/web-apps-specific-permissions # Jenny April 16
     - ze/view-by-groups-case-activity-report # Zandre Apr 22
-    - dependabot/pip/requirements/idna-3.7 # Amit Apr 22
-    - dependabot/pip/requirements/sqlparse-0.5.0 # Amit Apr 22
     - dependabot/npm_and_yarn/tar-6.2.1 # Amit Apr 22
     - dmr/remove-css-grid-polyfill  # Danny Apr 22
-    - ze/revert-application-error-report-ga # Zandre Apr 23
     - ad/location-restore-file-restriction-SQL # Addison Apr 23
     - riese/restrict_to_ui # Addison Apr 23
     - jc/deactivation-button-for-internal # Jing Apr 23
@@ -56,7 +53,6 @@ branches:
     - riese/style-anchored-submit # Martin Apr 24
     - ml/transifex-api-upgrade-clone+dependabot/pip/requirements/gunicorn-22.0.0 # Minha Apr 25
     - ml/transifex-api-upgrade-clone # Minha Apr 24
-    - dependabot/pip/requirements/gunicorn-22.0.0 # Amit Apr 22
     - mk/3451-case-exports-order-columns # MK Apr 26
     #- jls/b5-api-keys # Jenny April 25
     - jls/b5-custom-data-fields # Jenny April 29
