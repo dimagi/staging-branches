@@ -54,4 +54,5 @@ branches:
     - ml/translations-ui # Minha Apr 30
     - es/access-web-apps  # Ethan May 1
     - ze/revert-application-error-report-migration # Zandre May 1
+    - jc/remove-ops-email-from-sso-alert # Jing May 1
 submodules: { }
