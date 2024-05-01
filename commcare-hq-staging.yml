@@ -55,4 +55,5 @@ branches:
     - ze/revert-application-error-report-migration # Zandre May 1
     - jc/remove-ops-email-from-sso-alert # Jing May 1
     - gh/restore/limit-included-ucrs # Graham May 1
+    - gh/django-bug/save-role-in-linked-domains # Graham May 1
 submodules: { }
