@@ -53,5 +53,5 @@ branches:
     - ml/translations-ui # Minha Apr 30
     - jc/remove-ops-email-from-sso-alert # Jing May 1
     - gh/web-apps/extract-accessible-web-apps # Graham May 2
-    #- gh/restore/only-include-accessible-ucrs # Graham May 2
+    - gh/restore/only-include-accessible-ucrs # Graham May 2
 submodules: { }
