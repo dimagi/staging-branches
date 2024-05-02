@@ -56,4 +56,5 @@ branches:
     - bmb/b5-finish-hqwebapp-split  # Biyeun May 2
     - gh/web-apps/extract-accessible-web-apps # Graham May 2
     - gh/restore/only-include-accessible-ucrs # Graham May 2
+    - em/defaultproductplan-is_annual_plan # Evan May 2
 submodules: { }
