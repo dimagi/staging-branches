@@ -52,7 +52,6 @@ branches:
     #- jls/b5-api-keys # Jenny April 25
     - jls/b5-custom-data-fields # Jenny April 29
     - ml/translations-ui # Minha Apr 30
-    - ze/revert-application-error-report-migration # Zandre May 1
     - jc/remove-ops-email-from-sso-alert # Jing May 1
     - gh/django-bug/save-role-in-linked-domains # Graham May 1
 submodules: { }
