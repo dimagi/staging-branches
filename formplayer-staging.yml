@@ -2,9 +2,11 @@
 
 trunk: master
 name: autostaging
-branches: []
+branches: 
+    - inlineSearchEofIssue # May 2, Shubham
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches: []
+    branches:
+        - stackFrameExtras # May 2, Shubham
     
