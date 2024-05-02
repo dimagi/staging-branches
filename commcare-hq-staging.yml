@@ -50,6 +50,7 @@ branches:
     - ml/transifex-api-upgrade-clone # Minha Apr 24
     - mk/3451-case-exports-order-columns # MK Apr 26
     #- jls/b5-api-keys # Jenny April 25
+    - jls/b5-edit-my-account # Jenny May 2
     - jls/b5-custom-data-fields # Jenny April 29
     - ml/translations-ui # Minha Apr 30
     - jc/remove-ops-email-from-sso-alert # Jing May 1
