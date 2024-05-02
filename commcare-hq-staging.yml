@@ -53,6 +53,5 @@ branches:
     - jls/b5-custom-data-fields # Jenny April 29
     - ml/translations-ui # Minha Apr 30
     - jc/remove-ops-email-from-sso-alert # Jing May 1
-    - gh/django-bug/save-role-in-linked-domains # Graham May 1
     - bmb/b5-finish-hqwebapp-split  # Biyeun May 2
 submodules: { }
