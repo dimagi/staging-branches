@@ -4,6 +4,7 @@ trunk: master
 name: autostaging
 branches: 
     - inlineSearchEofIssue # May 2, Shubham
+    - riese/web_user_name # May 2, Martin
 submodules:
   libs/commcare:
     trunk: formplayer
