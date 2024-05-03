@@ -56,4 +56,5 @@ branches:
     - gh/restore/only-include-accessible-ucrs # Graham May 2
     - rc/assigned-locations-invite-migration # Jonathan T. May 3
     - smh/web-invite-update # Jonathan T. May 3
+    - mjr/react-testing # Matt May 3
 submodules: { }
