@@ -54,5 +54,4 @@ branches:
     - jc/remove-ops-email-from-sso-alert # Jing May 1
     - gh/web-apps/extract-accessible-web-apps # Graham May 2
     - gh/restore/only-include-accessible-ucrs # Graham May 2
-    - mjr/react-testing # Matt May 2
 submodules: { }
