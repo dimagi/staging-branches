@@ -57,4 +57,5 @@ branches:
     - rc/assigned-locations-invite-migration # Jonathan T. May 3
     - smh/web-invite-update # Jonathan T. May 3
     - mjr/react-testing # Matt May 3
+    - ad/include-assigned-locations-in-invitation-backend  # Jonathan T. May 3
 submodules: { }
