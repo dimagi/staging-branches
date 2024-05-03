@@ -8,6 +8,5 @@ branches:
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches:
-        - stackFrameExtras # May 2, Shubham
+    branches: []
     
