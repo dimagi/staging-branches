@@ -3,7 +3,6 @@
 trunk: master
 name: autostaging
 branches: 
-    - inlineSearchEofIssue # May 2, Shubham
     - riese/web_user_name # May 2, Martin
     - sk/auth-session # May 3, Simon
 submodules:
