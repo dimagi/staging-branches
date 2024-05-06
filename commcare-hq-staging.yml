@@ -54,9 +54,9 @@ branches:
     - jc/remove-ops-email-from-sso-alert # Jing May 1
     - gh/restore/only-include-accessible-ucrs # Graham May 2
     - rc/assigned-locations-invite-migration # Jonathan T. May 3
-    - smh/web-invite-update+ad/allow-restricted-web-users-manage-users-UI # Jonathan T. May 3
-    - smh/web-invite-update # Jonathan T. May 3
-    - ad/allow-restricted-web-users-manage-users-UI # Jonathan T. May 3
+    # - smh/web-invite-update+ad/allow-restricted-web-users-manage-users-UI # Jonathan T. May 3
+    # - smh/web-invite-update # Jonathan T. May 3
+    # - ad/allow-restricted-web-users-manage-users-UI # Jonathan T. May 3
     - mjr/react-testing # Matt May 3
     - bmb/b5-reports-split  # Biyeun May 6
 submodules: { }
