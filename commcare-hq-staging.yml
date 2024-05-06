@@ -58,5 +58,4 @@ branches:
     # - smh/web-invite-update # Jonathan T. May 3
     # - ad/allow-restricted-web-users-manage-users-UI # Jonathan T. May 3
     - mjr/react-testing # Matt May 3
-    - bmb/b5-reports-split  # Biyeun May 6
 submodules: { }
