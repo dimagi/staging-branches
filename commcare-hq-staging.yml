@@ -59,5 +59,4 @@ branches:
     - ad/allow-restricted-web-users-manage-users-UI # Jonathan T. May 3
     - mjr/react-testing # Matt May 3
     - ay/google-tag-manager # Ajeet May 7
-    - gh/django/cleanup # Graham May 7
 submodules: { }
