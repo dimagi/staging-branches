@@ -60,5 +60,4 @@ branches:
     - clearSelectionOnSearch # Shubham May 8
     - em/transifex-api-upgrade-v3 # Minha May 8
     - gh/web-apps/remove-view # Graham May 8
-    - jls/drop-app-preview-mixins # Jenny May 8
 submodules: { }
