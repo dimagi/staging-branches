@@ -44,8 +44,6 @@ branches:
     - riese/restrict_to_ui # Addison Apr 23
     - jc/deactivation-button-for-internal # Jing Apr 23
     - cs/SC-3569-geojson-form-exports-improvement # Charl Apr 24
-    - ml/transifex-api-upgrade-clone+dependabot/pip/requirements/gunicorn-22.0.0 # Minha Apr 25
-    - ml/transifex-api-upgrade-clone # Minha Apr 24
     - mk/3451-case-exports-order-columns # MK Apr 26
     #- jls/b5-api-keys # Jenny April 25
     - jls/b5-edit-my-account # Jenny May 2
@@ -61,4 +59,5 @@ branches:
     - ay/google-tag-manager # Ajeet May 7
     - ay/data-dictionary-analytics # Ajeet May 8
     - clearSelectionOnSearch # Shubham May 8
+    - em/transifex-api-upgrade-v3 # Minha May 8
 submodules: { }
