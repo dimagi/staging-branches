@@ -47,7 +47,6 @@ branches:
     - jls/b5-custom-data-fields # Jenny April 29
     - ml/translations-ui # Minha Apr 30
     - jc/remove-ops-email-from-sso-alert # Jing May 1
-    - gh/restore/only-include-accessible-ucrs # Graham May 2
     - mjr/react-testing # Matt May 3
     - ay/google-tag-manager # Ajeet May 7
     - ay/data-dictionary-analytics # Ajeet May 8
