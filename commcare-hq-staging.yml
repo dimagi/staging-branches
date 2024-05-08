@@ -60,4 +60,5 @@ branches:
     - mjr/react-testing # Matt May 3
     - ay/google-tag-manager # Ajeet May 7
     - ay/data-dictionary-analytics # Ajeet May 8
+    - clearSelectionOnSearch # Shubham May 8
 submodules: { }
