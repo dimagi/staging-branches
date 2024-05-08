@@ -42,7 +42,6 @@ branches:
     - dmr/remove-css-grid-polyfill  # Danny Apr 22
     - jc/deactivation-button-for-internal # Jing Apr 23
     - cs/SC-3569-geojson-form-exports-improvement # Charl Apr 24
-    - mk/3451-case-exports-order-columns # MK Apr 26
     #- jls/b5-api-keys # Jenny April 25
     - jls/b5-edit-my-account # Jenny May 2
     - jls/b5-custom-data-fields # Jenny April 29
@@ -55,4 +54,5 @@ branches:
     - clearSelectionOnSearch # Shubham May 8
     - em/transifex-api-upgrade-v3 # Minha May 8
     - gh/web-apps/remove-view # Graham May 8
+    - mk/3451-case-exports-order-columns-followup # MK May 9
 submodules: { }
