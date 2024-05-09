@@ -44,7 +44,6 @@ branches:
     #- jls/b5-api-keys # Jenny April 25
     - jls/b5-edit-my-account # Jenny May 2
     - jls/b5-custom-data-fields # Jenny April 29
-    - ml/translations-ui # Minha Apr 30
     - jc/remove-ops-email-from-sso-alert # Jing May 1
     - mjr/react-testing # Matt May 3
     - ay/google-tag-manager # Ajeet May 7
@@ -53,7 +52,6 @@ branches:
     - em/transifex-api-upgrade-v3 # Minha May 8
     - gh/web-apps/remove-view # Graham May 8
     - mk/3451-case-exports-order-columns-followup # MK May 9
-    - nh/disable_endpoints  # Norman May 9
     - jls/b5-auto-logout  # Jenny May 9
     - jc/query-member-in-entra-group # Jing May 9
 submodules: { }
