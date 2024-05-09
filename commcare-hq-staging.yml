@@ -54,4 +54,5 @@ branches:
     - gh/web-apps/remove-view # Graham May 8
     - mk/3451-case-exports-order-columns-followup # MK May 9
     - nh/disable_endpoints  # Norman May 9
+    - jls/b5-auto-logout  # Jenny May 9
 submodules: { }
