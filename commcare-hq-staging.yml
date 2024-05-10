@@ -30,7 +30,6 @@ branches:
     - ap/es6/add-secondary-index-names # Amit March 11
     - ap/es6/minor-refactor-reindex-cmd # Amit March 12
     - cs/SC-3429-geojson-form-export # Charl Mar 14
-    - revert-34279-revert-34246-ap/new-indices-for-reindex # Amit Mar 14
     #- bmb/sprint-sketch-001
     - mk/add-migration-form-cases-location-data # MK Mar 26
     - ze/image-case-list-format # Zandre Mar 28
