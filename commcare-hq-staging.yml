@@ -27,13 +27,11 @@ branches:
     - ml/case-deletion # minha OCt 25
     - dm/sql-repeatrecord-pr3 # Daniel Apr 2
     - bmb/bha-style-tweaks-001  # Biyeun March 7
-    - ap/es6/add-secondary-index-names # Amit March 11
     - ap/es6/minor-refactor-reindex-cmd # Amit March 12
     - cs/SC-3429-geojson-form-export # Charl Mar 14
     #- bmb/sprint-sketch-001
     - mk/add-migration-form-cases-location-data # MK Mar 26
     - ze/image-case-list-format # Zandre Mar 28
-    - ap/upgrade-to-node-20 # Amit Mar 29
     - cs/SC-3429-test-hypotesis # Charl Mar 29
     # - smh/web-invite-update # Steph April 16
     - dependabot/npm_and_yarn/tar-6.2.1 # Amit Apr 22
