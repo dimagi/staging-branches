@@ -41,7 +41,6 @@ branches:
     - jls/b5-api-keys # Jenny April 25
     - jls/b5-custom-data-fields # Jenny April 29
     - jls/b5-enterprise # Jenny May 13
-    - jls/b5-groups # Jenny May 14
     - jc/remove-ops-email-from-sso-alert # Jing May 1
     - mjr/react-testing # Matt May 3
     - ay/google-tag-manager # Ajeet May 7
