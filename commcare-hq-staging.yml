@@ -45,7 +45,6 @@ branches:
     - mjr/react-testing # Matt May 3
     - ay/google-tag-manager # Ajeet May 7
     - ay/data-dictionary-analytics # Ajeet May 8
-    - clearSelectionOnSearch # Shubham May 8
     - em/transifex-api-upgrade-v3 # Minha May 8
     - gh/web-apps/remove-view # Graham May 8
     - jls/b5-auto-logout  # Jenny May 9
