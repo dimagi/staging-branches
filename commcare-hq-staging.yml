@@ -49,4 +49,5 @@ branches:
     - em/transifex-api-upgrade-v3 # Minha May 8
     - jls/b5-auto-logout  # Jenny May 9
     - jc/query-member-in-entra-group # Jing May 9
+    - ad/allow-restricted-web-users-manage-users-bulk # Addison May 14
 submodules: { }
