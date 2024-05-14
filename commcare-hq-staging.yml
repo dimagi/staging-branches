@@ -49,4 +49,5 @@ branches:
     - jc/query-member-in-entra-group # Jing May 9
     - ad/allow-restricted-web-users-manage-users-bulk # Addison May 14
     - es/alt-es-index-2  # Ethan May 14
+    - rc/add-tableau-role-group-import-columns # Robert May 14
 submodules: { }
