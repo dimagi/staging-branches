@@ -38,7 +38,6 @@ branches:
     - dmr/remove-css-grid-polyfill  # Danny Apr 22
     - cs/SC-3569-geojson-form-exports-improvement # Charl Apr 24
     - jls/b5-api-keys # Jenny April 25
-    - jls/b5-errors # Jenny May 16
     - mjr/react-testing # Matt May 3
     - ay/google-tag-manager # Ajeet May 7
     - ay/data-dictionary-analytics # Ajeet May 8
