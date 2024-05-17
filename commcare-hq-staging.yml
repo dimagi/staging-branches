@@ -46,5 +46,6 @@ branches:
     - rc/add-tableau-role-group-import-columns+ad/allow-restricted-web-users-manage-users-bulk # Robert May 14
     - rc/add-tableau-role-group-import-columns # Robert May 14
     - ad/allow-restricted-web-users-manage-users-bulk # Addison May 14
+    - ad/add-user-groups-fixtures-for-web-user-locations # Addison May 17
 
 submodules: { }
