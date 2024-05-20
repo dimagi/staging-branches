@@ -48,4 +48,5 @@ branches:
     - ad/add-user-groups-fixtures-for-web-user-locations # Addison May 17
     - rc/manage_user_tableau_permissions # Jonathan T. May 20
     - em/defaultproductplan-add-annual-plans  # Evan May 20
+    - es/debugging-tools  # Ethan May 20
 submodules: { }
