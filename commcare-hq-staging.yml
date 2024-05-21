@@ -43,7 +43,7 @@ branches:
     - jls/b5-auto-logout  # Jenny May 9
     - jls/b5-web-apps-minor-js  # Jenny May 21
     - jls/create-time-picker  # Jenny May 21
-    - jls/b5-web-apps # Jenny May 21
+    #- jls/b5-web-apps # Jenny May 21
     - rc/add-tableau-role-group-import-columns+ad/allow-restricted-web-users-manage-users-bulk # Robert May 14
     - rc/add-tableau-role-group-import-columns # Robert May 14
     - ad/allow-restricted-web-users-manage-users-bulk # Addison May 14
