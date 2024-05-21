@@ -49,4 +49,5 @@ branches:
     - rc/manage_user_tableau_permissions # Jonathan T. May 20
     - em/defaultproductplan-add-annual-plans  # Evan May 20
     - es/debugging-tools  # Ethan May 20
+    - mk/3452-group-case-export-columns # MK May 21
 submodules: { }
