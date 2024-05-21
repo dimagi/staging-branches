@@ -47,7 +47,6 @@ branches:
     - rc/add-tableau-role-group-import-columns+ad/allow-restricted-web-users-manage-users-bulk # Robert May 14
     - rc/add-tableau-role-group-import-columns # Robert May 14
     - ad/allow-restricted-web-users-manage-users-bulk # Addison May 14
-    - ad/add-user-groups-fixtures-for-web-user-locations # Addison May 17
     - rc/manage_user_tableau_permissions # Jonathan T. May 20
     - em/defaultproductplan-add-annual-plans  # Evan May 20
     - es/debugging-tools  # Ethan May 20
