@@ -40,8 +40,6 @@ branches:
     - ay/google-tag-manager # Ajeet May 7
     - em/transifex-api-upgrade-v3 # Minha May 8
     - jls/b5-auto-logout  # Jenny May 9
-    - jls/b5-web-apps-minor-js  # Jenny May 21
-    - jls/create-time-picker  # Jenny May 21
     #- jls/b5-web-apps # Jenny May 21
     - rc/add-tableau-role-group-import-columns+ad/allow-restricted-web-users-manage-users-bulk # Robert May 14
     - rc/add-tableau-role-group-import-columns # Robert May 14
