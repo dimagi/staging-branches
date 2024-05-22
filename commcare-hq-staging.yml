@@ -40,9 +40,9 @@ branches:
     - ay/google-tag-manager # Ajeet May 7
     - jls/b5-auto-logout  # Jenny May 9
     #- jls/b5-web-apps # Jenny May 21
-    - rc/add-tableau-role-group-import-columns+ad/allow-restricted-web-users-manage-users-bulk # Robert May 14
+    # - rc/add-tableau-role-group-import-columns+ad/allow-restricted-web-users-manage-users-bulk # Robert May 14
     - rc/add-tableau-role-group-import-columns # Robert May 14
-    - ad/allow-restricted-web-users-manage-users-bulk # Addison May 14
+    # - ad/allow-restricted-web-users-manage-users-bulk # Addison May 14
     - es/case-data-dead-code  # Ethan May 22
     - mk/3452-group-case-export-columns # MK May 21
     - riese/linear_repeat # Martin May 21
