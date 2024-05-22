@@ -43,7 +43,7 @@ branches:
     - rc/add-tableau-role-group-import-columns+ad/allow-restricted-web-users-manage-users-bulk # Robert May 14
     - rc/add-tableau-role-group-import-columns # Robert May 14
     - ad/allow-restricted-web-users-manage-users-bulk # Addison May 14
-    - es/debugging-tools  # Ethan May 20
+    - es/case-data-dead-code  # Ethan May 20
     - mk/3452-group-case-export-columns # MK May 21
     - riese/linear_repeat # Martin May 21
     - ad/restrict-profile-assignment-by-role-migration # Addison May 22
