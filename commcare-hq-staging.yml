@@ -51,4 +51,5 @@ branches:
     # - ap/operation-to-create-new-index # Amit May 23
     - ap/sync-sub-indices # Amit May 23
     # - redundantNavMenuOnSearch # Shubham May 23
+    - jt/invitation_add_tableau_config_setting # Jonathan T May 23
 submodules: { }
