@@ -28,7 +28,7 @@ branches:
     - ml/case-deletion # minha OCt 25
     - dm/sql-repeatrecord-pr3 # Daniel Apr 2
     - gh/django/cleanup # Graham May 27
-    - bmb/bha-style-tweaks-001  # Biyeun March 7
+    #- bmb/bha-style-tweaks-001  # Biyeun March 7
     - ap/es6/minor-refactor-reindex-cmd # Amit March 12
     - cs/SC-3429-geojson-form-export # Charl Mar 14
     #- bmb/sprint-sketch-001
