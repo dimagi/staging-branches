@@ -46,4 +46,5 @@ branches:
     - rc/translation-nonetype-attr-error # Robert May 22
     - redundantNavMenuOnSearch # Shubham May 27
     - jt/invitation_add_tableau_config_setting # Jonathan T May 23
+    - gh/django/cleanup # Graham May 27
 submodules: { }
