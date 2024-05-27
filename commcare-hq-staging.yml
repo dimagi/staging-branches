@@ -43,7 +43,6 @@ branches:
     - es/case-data-dead-code  # Ethan May 22
     - mk/3452-group-case-export-columns # MK May 21
     - riese/linear_repeat # Martin May 21
-    - ad/restrict-profile-assignment-by-role-migration # Addison May 22
     - rc/translation-nonetype-attr-error # Robert May 22
     - redundantNavMenuOnSearch # Shubham May 27
     - jt/invitation_add_tableau_config_setting # Jonathan T May 23
