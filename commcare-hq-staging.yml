@@ -49,4 +49,5 @@ branches:
     - redundantNavMenuOnSearch # Shubham May 27
     - jt/invitation_add_tableau_config_setting # Jonathan T May 23
     - em/allow-self-service-annual-renewals # Evan May 27
+    - em/self-service-renewals-updates # Evan May 28
 submodules: { }
