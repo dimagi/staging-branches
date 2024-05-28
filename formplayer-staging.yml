@@ -4,8 +4,10 @@ trunk: master
 name: autostaging
 branches: 
     - sk/auth-session # May 3, Simon
+    - mixedRepeatGroup # May 28, Martin (code by Shubham)
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches: []
+    branches:
+        - isNonCountedRepeat # May 28, Martin (code by Shubham)
     
