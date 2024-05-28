@@ -41,6 +41,7 @@ branches:
     - ay/google-tag-manager # Ajeet May 7
     - jls/b5-web-apps+riese/linear_repeat
     - jls/b5-web-apps # Jenny May 21
+    - jls/b5-reminders  # Jenny May 28
     - rc/add-tableau-role-group-import-columns # Robert May 14
     - es/case-data-dead-code  # Ethan May 22
     - mk/3452-group-case-export-columns # MK May 21
