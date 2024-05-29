@@ -45,7 +45,6 @@ branches:
     - jls/b5-motech-repeaters # Jenny May 29
     - jls/b5-motech-openmrs  # Jenny May 29
     - jls/b5-dashboard # Jenny May 29
-    - rc/add-tableau-role-group-import-columns # Robert May 14
     - es/case-data-dead-code  # Ethan May 22
     - mk/3452-group-case-export-columns # MK May 21
     - riese/linear_repeat # Martin May 21
