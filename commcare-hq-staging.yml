@@ -29,14 +29,11 @@ branches:
     - dm/sql-repeatrecord-pr3 # Daniel Apr 2
     #- bmb/bha-style-tweaks-001  # Biyeun March 7
     - ap/es6/minor-refactor-reindex-cmd # Amit March 12
-    - cs/SC-3429-geojson-form-export # Charl Mar 14
     #- bmb/sprint-sketch-001
     - mk/add-migration-form-cases-location-data # MK Mar 26
     - ze/image-case-list-format # Zandre Mar 28
-    - cs/SC-3429-test-hypotesis # Charl Mar 29
     # - smh/web-invite-update # Steph April 16
     - dmr/remove-css-grid-polyfill  # Danny Apr 22
-    - cs/SC-3569-geojson-form-exports-improvement # Charl Apr 24
     - mjr/react-testing # Matt May 3
     - ay/google-tag-manager # Ajeet May 7
     - jls/b5-web-apps+riese/linear_repeat
@@ -53,4 +50,5 @@ branches:
     - jt/invitation_add_tableau_config_setting # Jonathan T May 23
     - em/allow-self-service-annual-renewals # Evan May 27
     - em/self-service-renewals-updates # Evan May 28
+    - cs/SC-3593-geo-max-distance-and-travel # Charl May 30
 submodules: { }
