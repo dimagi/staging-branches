@@ -48,4 +48,5 @@ branches:
     - em/allow-self-service-annual-renewals # Evan May 27
     - em/self-service-renewals-updates # Evan May 28
     - cs/SC-3593-geo-max-distance-and-travel # Charl May 30
+    - riese/rm_login_as_check # Martin May 31
 submodules: { }
