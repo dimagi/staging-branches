@@ -44,11 +44,11 @@ branches:
     - mk/3452-group-case-export-columns # MK May 21
     - riese/linear_repeat # Martin May 21
     - redundantNavMenuOnSearch # Shubham May 27
-    - jt/invitation_add_tableau_config_setting # Jonathan T May 23
     - em/allow-self-service-annual-renewals # Evan May 27
     - em/self-service-renewals-updates # Evan May 28
     - cs/SC-3593-geo-max-distance-and-travel # Charl May 30
     - riese/rm_login_as_check # Martin May 31
+    - jt/profile-permission-restriction-UI+jt/invitation_add_tableau_config_setting # Jonathan T. June 1
+    - jt/invitation_add_tableau_config_setting # Jonathan T May 23
     - jt/profile-permission-restriction-UI # Jonathan T June 1
-    - jt/invitation_add_tableau_config_setting # Jonathan T June 1
-submodules: { }
+]submodules: { }
