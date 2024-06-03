@@ -52,4 +52,5 @@ branches:
     - jt/invitation_add_tableau_config_setting # Jonathan T May 23
     - jt/profile-permission-restriction-UI # Jonathan T June 1
     - bmb/deet/case-clean-issue  # Amit, Biyeun DEET Jun 3
+    - bmb/deet-case-clean-issue+dm/sql-repeatrecord-pr3
 submodules: { }
