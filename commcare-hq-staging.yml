@@ -53,4 +53,6 @@ branches:
     - jt/profile-permission-restriction-UI # Jonathan T June 1
     - bmb/deet/case-clean-issue+mk/3452-group-case-export-columns
     - bmb/deet/case-clean-issue  # Amit, Biyeun DEET Jun 3
+    - cs/SC-3385-remove-redundant-code # Charl, Jun 4
+    - cs/SC-3612-show-params-on-disbursement-run # Charl, Jun 4
 submodules: { }
