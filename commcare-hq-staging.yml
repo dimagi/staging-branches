@@ -25,7 +25,6 @@ branches:
     - ap/fix-app-cues-display # Amit Mar 5
     - ml/case-deletion+dm/sql-repeatrecord-pr3
     - gh/django/cleanup+dm/sql-repeatrecord-pr3 # Graham May 27
-    # - rc/role-ui-assign-profiles+dm/sql-repeatrecord-pr3 # Robert June 5
     - ml/case-deletion # minha OCt 25
     - dm/sql-repeatrecord-pr3 # Daniel Apr 2
     #- bmb/bha-style-tweaks-001  # Biyeun March 7
