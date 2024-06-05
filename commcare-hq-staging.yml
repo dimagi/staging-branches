@@ -25,8 +25,8 @@ branches:
     - ap/fix-app-cues-display # Amit Mar 5
     - ml/case-deletion+dm/sql-repeatrecord-pr3
     - gh/django/cleanup+dm/sql-repeatrecord-pr3 # Graham May 27
-    - ml/case-deletion # minha OCt 25
     - rc/role-ui-assign-profiles+dm/sql-repeatrecord-pr3 # Robert June 5
+    - ml/case-deletion # minha OCt 25
     - dm/sql-repeatrecord-pr3 # Daniel Apr 2
     #- bmb/bha-style-tweaks-001  # Biyeun March 7
     - ap/es6/minor-refactor-reindex-cmd # Amit March 12
@@ -46,8 +46,8 @@ branches:
     - cs/SC-3593-geo-max-distance-and-travel # Charl May 30
     - jt/profile-permission-restriction-UI+jt/invitation_add_tableau_config_setting # Jonathan T. June 1
     - jt/invitation_add_tableau_config_setting # Jonathan T May 23
-    #- rc/role-ui-assign-profiles+jt/profile-permission-restriction-UI # Robert June 5
-    #- rc/role-ui-assign-profiles # Robert June 4
+    - rc/role-ui-assign-profiles+jt/profile-permission-restriction-UI # Robert June 5
+    - rc/role-ui-assign-profiles # Robert June 4
     - jt/profile-permission-restriction-UI # Jonathan T June 1
     #- bmb/deet/case-clean-issue+mk/3452-group-case-export-columns
     #- bmb/deet/case-clean-issue  # Amit, Biyeun DEET Jun 3
