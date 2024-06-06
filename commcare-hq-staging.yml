@@ -54,5 +54,4 @@ branches:
     - jt/profile-permission-import+dm/sql-repeatrecord-pr3 # Jonathan T. June 6
     - jt/profile-permission-import+rc/role-ui-assign-profiles # Jonathan T. June 6
     #- jc/stripe-js # Jing June 6
-    - em/update-softwareplan-visibilities # Evan June 6
 submodules: { }
