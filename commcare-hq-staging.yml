@@ -43,8 +43,8 @@ branches:
     - em/allow-self-service-annual-renewals # Evan May 27
     - em/self-service-renewals-updates # Evan May 28
     - cs/SC-3593-geo-max-distance-and-travel # Charl May 30
-    - jt/profile-permission-restriction-UI+jt/invitation_add_tableau_config_setting # Jonathan T. June 1
-    - jt/invitation_add_tableau_config_setting # Jonathan T May 23
+    # - jt/profile-permission-restriction-UI+jt/invitation_add_tableau_config_setting # Jonathan T. June 1
+    # - jt/invitation_add_tableau_config_setting # Jonathan T May 23
     - rc/role-ui-assign-profiles+jt/profile-permission-restriction-UI # Robert June 5
     - rc/role-ui-assign-profiles # Robert June 4
     - jt/profile-permission-restriction-UI # Jonathan T June 1
