@@ -3,7 +3,6 @@
 trunk: master
 name: autostaging
 branches: 
-    - sk/auth-session # May 3, Simon
     - mixedRepeatGroup # May 28, Martin (code by Shubham)
     - removeGetNextScreenRedundancy # June 4, Shubham
 submodules:
