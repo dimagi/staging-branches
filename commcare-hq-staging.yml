@@ -51,7 +51,6 @@ branches:
     - bmb/deet/case-prop-schema-optimize-simple  # Amit, Biyeun DEET Jun 4
     - rc/django-validate-invitation-tableauUser # Robert June 6
     - jt/profile-permission-import # Jonathan T. June 6
-    - jt/profile-permission-restriction-UI+dm/sql-repeatrecord-pr # Jonathan T. June 6
     - jt/profile-permission-import+dm/sql-repeatrecord-pr3 # Jonathan T. June 6
     - jt/profile-permission-import+rc/role-ui-assign-profiles # Jonathan T. June 6
     - jc/stripe-js # Jing June 6
