@@ -56,4 +56,5 @@ branches:
     #- jc/stripe-js # Jing June 6
     - ay/delete-area-filter+dm/sql-repeatrecord-pr3+cs/SC-3593-geo-max-distance-and-travel # Ajeet June 7
     - ay/delete-area-filter # Ajeet June 7
+    - bmb/deet/intentional-error  # remove after DEET WEEEK
 submodules: { }
