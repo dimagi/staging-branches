@@ -55,4 +55,5 @@ branches:
     - jt/profile-permission-import+rc/role-ui-assign-profiles # Jonathan T. June 6
     #- jc/stripe-js # Jing June 6
     - ay/delete-area-filter # Ajeet June 7
+    - ay/delete-area-filter+dm/sql-repeatrecord-pr3+cs/SC-3593-geo-max-distance-and-travel # Ajeet June 7
 submodules: { }
