@@ -59,4 +59,5 @@ branches:
     - mk/3675-bulk-case-exports-order-columns # MK June 9
     - ze/add-loc-col-app-status-report # Zandre June 10
     - jc/limit-batch-size-for-entra # Jing Jun 10
+    - ay/save-export-area-case-grouping # Ajeet Jun 11
 submodules: { }
