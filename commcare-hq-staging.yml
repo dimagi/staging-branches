@@ -61,4 +61,5 @@ branches:
     - ze/add-loc-col-app-status-report # Zandre June 10
     - jc/limit-batch-size-for-entra # Jing Jun 10
     - ay/save-export-area-case-grouping # Ajeet Jun 11
+    - jt/profile-permission-import-ad-1 # Addison Jun 11
 submodules: { }
