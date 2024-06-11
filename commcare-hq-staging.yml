@@ -54,8 +54,6 @@ branches:
     - jt/profile-permission-import+dm/sql-repeatrecord-pr3 # Jonathan T. June 6
     - jt/profile-permission-import+rc/role-ui-assign-profiles # Jonathan T. June 6
     - jc/stripe-js # Jing June 6
-    - ay/delete-area-filter+dm/sql-repeatrecord-pr3+cs/SC-3593-geo-max-distance-and-travel # Ajeet June 7
-    - ay/delete-area-filter # Ajeet June 7
     - bmb/deet/intentional-error  # remove after DEET WEEEK
     - riese/stale_data # Martin June 7
     - mk/3675-bulk-case-exports-order-columns # MK June 9
