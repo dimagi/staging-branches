@@ -36,6 +36,7 @@ branches:
     - ay/google-tag-manager # Ajeet May 7
     - jls/b5-web-apps # Jenny May 21
     - jls/b5-reminders  # Jenny May 28
+    - jls/b5-appearance-auto # Jenny June 12
     - mk/3452-group-case-export-columns # MK May 21
     # - redundantNavMenuOnSearch # Shubham May 27
     - em/allow-self-service-annual-renewals # Evan May 27
