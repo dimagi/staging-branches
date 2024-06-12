@@ -58,4 +58,5 @@ branches:
     - jt/profile-permission-import-ad-1 # Addison Jun 11
     - ze/fix-solutions-feedback-request-b5 # Zandre June 12
     - es/fix-timezone  # Ethan June 12
+    - riese/repeat_groups_2 # Martin June 12
 submodules: { }
