@@ -42,8 +42,6 @@ branches:
     - em/self-service-renewals-updates # Evan May 28
     - cs/SC-3593-geo-max-distance-and-travel+master # Ajeet Jun 11
     - cs/SC-3593-geo-max-distance-and-travel # Charl May 30
-    ##- rc/role-ui-assign-profiles+jt/profile-permission-restriction-UI # Robert June 5
-    ##- rc/role-ui-assign-profiles # Robert June 4
     - jt/profile-permission-restriction-UI # Jonathan T June 1
     #- bmb/deet/case-clean-issue+mk/3452-group-case-export-columns
     #- bmb/deet/case-clean-issue  # Amit, Biyeun DEET Jun 3
@@ -51,7 +49,6 @@ branches:
     - rc/django-validate-invitation-tableauUser # Robert June 6
     - jt/profile-permission-import # Jonathan T. June 6
     - jt/profile-permission-import+dm/sql-repeatrecord-pr3 # Jonathan T. June 6
-    ##- jt/profile-permission-import+rc/role-ui-assign-profiles # Jonathan T. June 6
     - jc/stripe-js # Jing June 6
     - bmb/deet/intentional-error  # remove after DEET WEEEK
     - riese/stale_data # Martin June 7
