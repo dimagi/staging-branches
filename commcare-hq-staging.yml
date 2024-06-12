@@ -47,8 +47,6 @@ branches:
     #- bmb/deet/case-clean-issue  # Amit, Biyeun DEET Jun 3
     - bmb/deet/case-prop-schema-optimize-simple  # Amit, Biyeun DEET Jun 4
     - rc/django-validate-invitation-tableauUser # Robert June 6
-    - jt/profile-permission-import # Jonathan T. June 6
-    - jt/profile-permission-import+dm/sql-repeatrecord-pr3 # Jonathan T. June 6
     - jc/stripe-js # Jing June 6
     - bmb/deet/intentional-error  # remove after DEET WEEEK
     - riese/stale_data # Martin June 7
