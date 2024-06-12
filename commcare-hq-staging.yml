@@ -25,7 +25,6 @@ branches:
     - ml/case-deletion+dm/sql-repeatrecord-pr3
     - gh/django/cleanup+dm/sql-repeatrecord-pr3 # Graham May 27
     - ml/case-deletion # minha OCt 25
-    - dm/sql-repeatrecord-pr3 # Daniel Apr 2
     #- bmb/bha-style-tweaks-001  # Biyeun March 7
     - ap/es6/minor-refactor-reindex-cmd # Amit March 12
     #- bmb/sprint-sketch-001
