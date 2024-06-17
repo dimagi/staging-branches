@@ -55,4 +55,5 @@ branches:
     # - jls/b5-motech-dhis2 # Jenny June 13
     - jls/build_requirejs-performance # Jenny June 13
     - ml/case-tile-translations # Minha June 13
+    - ze/dd-only-save-changed-props # Zandre June 17
 submodules: { }
