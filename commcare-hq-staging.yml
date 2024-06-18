@@ -37,7 +37,7 @@ branches:
     - jls/b5-web-apps # Jenny May 21
     - mk/3452-group-case-export-columns # MK May 21
     # - redundantNavMenuOnSearch # Shubham May 27
-    - cs/SC-3593-geo-max-distance-and-travel+master # Ajeet Jun 11
+    #- cs/SC-3593-geo-max-distance-and-travel+master # Ajeet Jun 11
     - cs/SC-3593-geo-max-distance-and-travel # Charl May 30
     #- bmb/deet/case-clean-issue+mk/3452-group-case-export-columns
     #- bmb/deet/case-clean-issue  # Amit, Biyeun DEET Jun 3
