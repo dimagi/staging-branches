@@ -53,4 +53,5 @@ branches:
     - jls/build_requirejs-performance # Jenny June 13
     - ml/case-tile-translations # Minha June 13
     - ze/dd-only-save-changed-props # Zandre June 17
+    - ad/load-cookie-only-if-can-login-as # Addison Jun 18
 submodules: { }
