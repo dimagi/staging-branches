@@ -35,7 +35,6 @@ branches:
     - mjr/react-testing # Matt May 3
     - ay/google-tag-manager # Ajeet May 7
     - jls/b5-web-apps # Jenny May 21
-    - jls/b5-appearance-auto # Jenny June 12
     - mk/3452-group-case-export-columns # MK May 21
     # - redundantNavMenuOnSearch # Shubham May 27
     - cs/SC-3593-geo-max-distance-and-travel+master # Ajeet Jun 11
@@ -52,7 +51,6 @@ branches:
     - jt/profile-permission-import-ad-1 # Addison Jun 11
     - jls/b5-web-apps+riese/repeat_groups_2 # Martin June 12
     - riese/repeat_groups_2 # Martin June 12
-    # - jls/b5-motech-dhis2 # Jenny June 13
     - jls/build_requirejs-performance # Jenny June 13
     - ml/case-tile-translations # Minha June 13
     - ze/dd-only-save-changed-props # Zandre June 17
