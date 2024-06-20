@@ -53,5 +53,4 @@ branches:
     - ad/load-cookie-only-if-can-login-as # Addison Jun 18
     - ml/missing-display-translations # Minha June 18
     - mk/add-form-load-meta # MK June 19
-    - gh/ucrs/datadog-metrics # Graham Jun 19
 submodules: { }
