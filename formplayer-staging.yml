@@ -5,7 +5,6 @@ name: autostaging
 branches: 
     - mixedRepeatGroup # May 28, Martin (code by Shubham)
     - removeGetNextScreenRedundancy # June 4, Shubham
-    - em/remove-None-check # June 6 Evan
 submodules:
   libs/commcare:
     trunk: formplayer
