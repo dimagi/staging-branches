@@ -45,8 +45,6 @@ branches:
     - riese/stale_data # Martin June 7
     - mk/3675-bulk-case-exports-order-columns # MK June 9
     - ze/add-loc-col-app-status-report # Zandre June 10
-    - jls/b5-web-apps+riese/repeat_groups_2 # Martin June 12
-    - riese/repeat_groups_2 # Martin June 12
     - jls/build_requirejs-performance # Jenny June 13
     - ml/case-tile-translations # Minha June 13
     - ze/dd-only-save-changed-props # Zandre June 17
