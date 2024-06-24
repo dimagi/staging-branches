@@ -52,5 +52,4 @@ branches:
     - mk/add-form-load-meta # MK June 19
     - ap/upgrade-tornado # Amit June 21
     - rc/fix-validation-const # Robert June 21
-    - dm/fix-mobile-ucr-row-counting # Graham Jun 21
 submodules: { }
