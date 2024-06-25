@@ -36,7 +36,6 @@ branches:
     - jls/b5-web-apps # Jenny May 21
     - mk/3452-group-case-export-columns # MK May 21
     # - redundantNavMenuOnSearch # Shubham May 27
-    - cs/SC-3593-geo-max-distance-and-travel # Charl May 30
     #- bmb/deet/case-clean-issue+mk/3452-group-case-export-columns
     #- bmb/deet/case-clean-issue  # Amit, Biyeun DEET Jun 3
     - bmb/deet/case-prop-schema-optimize-simple  # Amit, Biyeun DEET Jun 4
@@ -53,4 +52,5 @@ branches:
     - ap/upgrade-tornado # Amit June 21
     - es/user-data-prep  # Ethan June 24
     - mk/3454-add-quick-case-exports # MK June 25
+    - cs/SC-3662-ucr-load-report # charl 25 June
 submodules: { }
