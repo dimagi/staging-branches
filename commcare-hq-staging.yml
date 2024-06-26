@@ -41,7 +41,6 @@ branches:
     - bmb/deet/case-prop-schema-optimize-simple  # Amit, Biyeun DEET Jun 4
     - jc/stripe-js # Jing June 6
     - bmb/deet/intentional-error  # remove after DEET WEEEK
-    - riese/stale_data # Martin June 7
     - ze/add-loc-col-app-status-report # Zandre June 10
     - jls/build_requirejs-performance # Jenny June 13
     - ml/case-tile-translations # Minha June 13
