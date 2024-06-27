@@ -33,7 +33,7 @@ branches:
     - dmr/remove-css-grid-polyfill  # Danny Apr 22
     - mjr/react-testing # Matt May 3
     - ay/google-tag-manager # Ajeet May 7
-    #- jls/b5-web-apps # Jenny May 21
+    - jls/b5-web-apps # Jenny May 21
     - mk/3452-group-case-export-columns # MK May 21
     # - redundantNavMenuOnSearch # Shubham May 27
     #- bmb/deet/case-clean-issue+mk/3452-group-case-export-columns
@@ -52,7 +52,7 @@ branches:
     - es/user-data-prep  # Ethan June 24
     - mk/3454-add-quick-case-exports # MK June 25
     - cs/SC-3662-ucr-load-report # charl 25 June
-    #- jls/b5-web-apps+riese/button # Martin June 25
+    - jls/b5-web-apps+riese/button # Martin June 25
     - riese/button # Martin June 25
     - bmb/htmx-tests+mjr/react-testing
     - bmb/htmx-tests  # Biyeun June 25  --- DO NOT DELETE PLEASE
