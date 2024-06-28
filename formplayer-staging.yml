@@ -3,11 +3,10 @@
 trunk: master
 name: autostaging
 branches: 
-    - mixedRepeatGroup # May 28, Martin (code by Shubham)
-    - removeGetNextScreenRedundancy # June 4, Shubham
+    - persistentMenu # June 28, Shubham
 submodules:
   libs/commcare:
     trunk: formplayer
     branches:
-        - isNonCountedRepeat # May 28, Martin (code by Shubham)
+        - persistentMenuChanges # June 28, Shubham
     
