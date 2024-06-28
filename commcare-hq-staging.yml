@@ -49,7 +49,7 @@ branches:
     - bmb/htmx-tests+mjr/react-testing
     - bmb/htmx-tests  # Biyeun June 25 (please alert if removed, in case of demo)
     #- add-form-load-time-to-es-v2 # Charl Jun 26
-    - ml/accessibility-fixes # Minha June 27
+    #- ml/accessibility-fixes # Minha June 27
     - ay+ze+nh/dd_chunked+mk/3452-group-case-export-columns  # Norman June 28
     - mk/3454-add-quick-case-exports # MK June 25
     # - ze/dd-only-save-changed-props # Zandre June 17 (included in ay+ze+nh/dd_chunked)
