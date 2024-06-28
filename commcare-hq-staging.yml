@@ -58,5 +58,5 @@ branches:
     - bmb/htmx-tests  # Biyeun June 25 (please alert if removed, in case of demo)
     - add-form-load-time-to-es-v2 # Charl Jun 26
     #- ml/accessibility-fixes # Minha June 27
-    - ay+ze+nh/dd_chunked  # Norman June 28
+    #- ay+ze+nh/dd_chunked  # Norman June 28
 submodules: { }
