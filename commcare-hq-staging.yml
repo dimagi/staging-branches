@@ -58,4 +58,5 @@ branches:
     - mk/3454-add-quick-case-exports # MK June 25
     # - ze/dd-only-save-changed-props # Zandre June 17 (included in ay+ze+nh/dd_chunked)
     - ay+ze+nh/dd_chunked  # Norman June 28
+    - mk/3744-update-duplicate-group-name-error # MK June 28
 submodules: { }
