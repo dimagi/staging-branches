@@ -44,13 +44,11 @@ branches:
     - ze/add-loc-col-app-status-report # Zandre June 10
     - jls/build_requirejs-performance # Jenny June 13
     - ml/case-tile-translations # Minha June 13
-    - ze/dd-only-save-changed-props # Zandre June 17
     - ad/load-cookie-only-if-can-login-as # Addison Jun 18
     - ml/missing-display-translations # Minha June 18
     - mk/add-form-load-meta # MK June 19
     - ap/upgrade-tornado # Amit June 21
     - es/user-data-prep  # Ethan June 24
-    - mk/3454-add-quick-case-exports # MK June 25
     - cs/SC-3662-ucr-load-report # charl 25 June
     - jls/b5-web-apps+riese/button # Martin June 25
     - riese/button # Martin June 25
@@ -58,5 +56,8 @@ branches:
     - bmb/htmx-tests  # Biyeun June 25 (please alert if removed, in case of demo)
     #- add-form-load-time-to-es-v2 # Charl Jun 26
     #- ml/accessibility-fixes # Minha June 27
-    #- ay+ze+nh/dd_chunked  # Norman June 28
+    - ay+ze+nh/dd_chunked+mk/3452-group-case-export-columns  # Norman June 28
+    - mk/3454-add-quick-case-exports # MK June 25
+    # - ze/dd-only-save-changed-props # Zandre June 17 (included in ay+ze+nh/dd_chunked)
+    - ay+ze+nh/dd_chunked  # Norman June 28
 submodules: { }
