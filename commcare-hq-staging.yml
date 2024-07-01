@@ -57,4 +57,6 @@ branches:
     - ay+ze+nh/dd_chunked  # Norman June 28
     - mk/3744-update-duplicate-group-name-error # MK June 28
     - rc/send-screen-size-to-fp # Robert June 28
+    - mjr/remove_bulk_import_wait # Matt Jul 1
+    - mjr/truncated-enterprise-download # Matt Jul 1
 submodules: { }
