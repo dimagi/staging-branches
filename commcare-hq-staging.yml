@@ -59,4 +59,5 @@ branches:
     - rc/send-screen-size-to-fp # Robert June 28
     - mjr/remove_bulk_import_wait # Matt Jul 1
     - mjr/truncated-enterprise-download # Matt Jul 1
+    - gh/djangorestframework/3.15.2 # Graham Jul 1
 submodules: { }
