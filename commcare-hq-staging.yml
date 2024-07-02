@@ -48,9 +48,9 @@ branches:
     - bmb/htmx-tests  # Biyeun June 25 (please alert if removed, in case of demo)
     - add-form-load-time-to-es-v2 # Charl Jul 1
     - cs/SC-3578-add-form-load-time-column # Charl Jul 1
-    - ay+ze+nh/dd_chunked+mk/3452-group-case-export-columns  # Norman June 28
+    # - ay+ze+nh/dd_chunked+mk/3452-group-case-export-columns  # Norman June 28
     - mk/3454-add-quick-case-exports # MK June 25
-    - ay+ze+nh/dd_chunked  # Norman June 28
+    # - ay+ze+nh/dd_chunked  # Norman June 28
     - mk/3744-update-duplicate-group-name-error # MK June 28
     - rc/send-screen-size-to-fp # Robert June 28
     - mjr/remove_bulk_import_wait # Matt Jul 1
