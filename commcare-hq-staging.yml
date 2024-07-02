@@ -38,7 +38,6 @@ branches:
     #- bmb/deet/case-clean-issue+mk/3452-group-case-export-columns
     #- bmb/deet/case-clean-issue  # Amit, Biyeun DEET Jun 3
     - bmb/deet/case-prop-schema-optimize-simple  # Amit, Biyeun DEET Jun 4
-    - jc/stripe-js # Jing June 6
     - bmb/deet/intentional-error  # remove after DEET WEEEK
     - ze/add-loc-col-app-status-report # Zandre June 10
     - jls/build_requirejs-performance # Jenny June 13
