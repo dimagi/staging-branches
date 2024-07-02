@@ -12,4 +12,5 @@ submodules:
     branches:
         - persistentMenuChanges # June 28, Shubham
         - rc/core-make-widowWidth-available-in-session # Robert June 28
+        - fixRepeatDeletion # Shubham July 2
     
