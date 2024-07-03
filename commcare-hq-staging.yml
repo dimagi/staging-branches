@@ -57,5 +57,5 @@ branches:
     - jls/b5-web-apps # Jenny May 21
     - ml/accessibility-fixes # Minha June 27
     - jc/auto-deactivation-with-test-mode # Jing Jul 2
-    # - szymonbalasz:sz/bulk-upload-org-structure-via-api # Jing Jul 2
+    - szymonbalasz:sz/bulk-upload-org-structure-via-api # Jing Jul 2
 submodules: { }
