@@ -44,7 +44,7 @@ branches:
     - bmb/htmx-tests+mjr/react-testing
     - bmb/htmx-tests  # Biyeun June 25 (please alert if removed, in case of demo)
     #- add-form-load-time-to-es-v2 # Charl Jul 1
-    - cs/SC-3578-add-form-load-time-meta # Charl Jul 3
+    #- cs/SC-3578-add-form-load-time-meta # Charl Jul 3
     - cs/SC-3578-add-form-load-time-column # Charl Jul 1
     - mk/3454-add-quick-case-exports # MK June 25
     - rc/send-screen-size-to-fp # Robert June 28
