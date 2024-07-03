@@ -28,7 +28,6 @@ branches:
     - ap/es6/minor-refactor-reindex-cmd # Amit March 12
     #- bmb/sprint-sketch-001
     - mk/add-migration-form-cases-location-data # MK Mar 26
-    - ze/image-case-list-format # Zandre Mar 28
     # - smh/web-invite-update # Steph April 16
     - dmr/remove-css-grid-polyfill  # Danny Apr 22
     - mjr/react-testing # Matt May 3
