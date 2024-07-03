@@ -31,7 +31,6 @@ branches:
     # - smh/web-invite-update # Steph April 16
     - dmr/remove-css-grid-polyfill  # Danny Apr 22
     - mjr/react-testing # Matt May 3
-    - ay/google-tag-manager # Ajeet May 7
     - mk/3452-group-case-export-columns # MK May 21
     # - redundantNavMenuOnSearch # Shubham May 27
     #- bmb/deet/case-clean-issue+mk/3452-group-case-export-columns
@@ -48,7 +47,6 @@ branches:
     - cs/SC-3578-add-form-load-time-meta # Charl Jul 3
     - cs/SC-3578-add-form-load-time-column # Charl Jul 1
     - mk/3454-add-quick-case-exports # MK June 25
-    - mk/3744-update-duplicate-group-name-error # MK June 28
     - rc/send-screen-size-to-fp # Robert June 28
     - mjr/remove_bulk_import_wait # Matt Jul 1
     - mjr/truncated-enterprise-download # Matt Jul 1
