@@ -56,4 +56,5 @@ branches:
     - jc/auto-deactivation-with-test-mode # Jing Jul 2
     - szymonbalasz:sz/bulk-upload-org-structure-via-api # Jing Jul 2
     - es/mobile-access  # Ethan July 3
+    - ay+ze+nh/dd_chunked  # Norman  July 4
 submodules: { }
