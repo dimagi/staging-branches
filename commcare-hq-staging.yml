@@ -52,7 +52,6 @@ branches:
     - jls/b5-web-apps # Jenny May 21
     - ml/accessibility-fixes # Minha June 27
     - szymonbalasz:sz/bulk-upload-org-structure-via-api # Jing Jul 2
-    - es/mobile-access  # Ethan July 3
     - ay+ze+nh/dd_chunked+mk/3452-group-case-export-columns  # Norman  July 4
     - mk/3452-group-case-export-columns # MK May 21
     - ay+ze+nh/dd_chunked  # Norman  July 4
