@@ -53,5 +53,5 @@ branches:
     - ay+ze+nh/dd_chunked+mk/3452-group-case-export-columns  # Norman  July 4
     - mk/3452-group-case-export-columns # MK May 21
     - ay+ze+nh/dd_chunked  # Norman  July 4
-    #- es/persistent-menu  # Ethan July 9
+    - es/persistent-menu  # Ethan July 10
 submodules: { }
