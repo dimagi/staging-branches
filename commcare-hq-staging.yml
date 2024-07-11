@@ -53,5 +53,5 @@ branches:
     - es/persistent-menu  # Ethan July 10
     - ay/domain-level-metrics # Ajeet July 10
     - jc/userdata-pull-location-from-system-fields # Jing July 11
-    - dmr/pause_data_forwarding_flag # Danny July 11
+    - nh/repeater_race  # Norman July 11
 submodules: { }
