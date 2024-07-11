@@ -44,7 +44,7 @@ branches:
     - bmb/htmx-tests  # Biyeun June 25 (please alert if removed, in case of demo)
     #- add-form-load-time-to-es-v2 # Charl Jul 1
     #- cs/SC-3578-add-form-load-time-meta # Charl Jul 3
-    - cs/SC-3578-add-form-load-time-column # Charl Jul 1
+    #- cs/SC-3578-add-form-load-time-column # Charl Jul 1
     - rc/send-screen-size-to-fp # Robert June 28
     - mjr/remove_bulk_import_wait # Matt Jul 1
     - mjr/truncated-enterprise-download # Matt Jul 1
