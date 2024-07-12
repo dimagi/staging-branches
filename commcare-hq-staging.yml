@@ -30,7 +30,6 @@ branches:
     - mk/add-migration-form-cases-location-data # MK Mar 26
     # - smh/web-invite-update # Steph April 16
     - dmr/remove-css-grid-polyfill  # Danny Apr 22
-    - mjr/react-testing # Matt May 3
     # - redundantNavMenuOnSearch # Shubham May 27
     #- bmb/deet/case-clean-issue+mk/3452-group-case-export-columns
     #- bmb/deet/case-clean-issue  # Amit, Biyeun DEET Jun 3
@@ -44,7 +43,6 @@ branches:
     - bmb/htmx-tests  # Biyeun June 25 (please alert if removed, in case of demo)
     - rc/send-screen-size-to-fp # Robert June 28
     - mjr/remove_bulk_import_wait # Matt Jul 1
-    - mjr/truncated-enterprise-download # Matt Jul 1
     - jls/b5-web-apps # Jenny May 21
     - szymonbalasz:sz/bulk-upload-org-structure-via-api # Jing Jul 2
     - ay+ze+nh/dd_chunked+mk/3452-group-case-export-columns  # Norman  July 4
