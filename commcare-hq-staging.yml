@@ -56,4 +56,5 @@ branches:
     - nh/repeater_race  # Norman July 11
     - nh/drop_unused  # Norman July 11
     - dmr/repeater-rate-limiter  # Danny July 12
+    - dmr/repeater-rate-limiter+nh/drop_unused  # Danny July 12
 submodules: { }
