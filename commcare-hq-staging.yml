@@ -44,9 +44,9 @@ branches:
     - rc/send-screen-size-to-fp # Robert June 28
     - jls/b5-web-apps # Jenny May 21
     - szymonbalasz:sz/bulk-upload-org-structure-via-api # Jing Jul 2
-    - ay+ze+nh/dd_chunked+mk/3452-group-case-export-columns  # Norman  July 4
+    #- ay+ze+nh/dd_chunked+mk/3452-group-case-export-columns  # Norman  July 4
     - mk/3452-group-case-export-columns # MK May 21
-    - ay+ze+nh/dd_chunked  # Norman  July 4
+    #- ay+ze+nh/dd_chunked  # Norman  July 4
     - es/persistent-menu  # Ethan July 10
     - ay/domain-level-metrics # Ajeet July 10
     - jc/userdata-pull-location-from-system-fields # Jing July 11
