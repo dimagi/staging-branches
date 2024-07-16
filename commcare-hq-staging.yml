@@ -51,7 +51,7 @@ branches:
     - ay/domain-level-metrics # Ajeet July 10
     - jc/userdata-pull-location-from-system-fields # Jing July 11
     - nh/repeater_race  # Norman July 11
-    # - dmr/repeater-rate-limiter+nh/drop_unused  # Danny July 12
+    - dmr/repeater-rate-limiter+nh/drop_unused  # Danny July 12
     - dmr/repeater-rate-limiter  # Danny July 12
     - nh/gps_metadata  # Norman July 16
 submodules: { }
