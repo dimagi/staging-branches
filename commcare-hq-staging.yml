@@ -52,5 +52,5 @@ branches:
     - jc/userdata-pull-location-from-system-fields # Jing July 11
     - dmr/repeater-rate-limiter  # Danny July 12
     - nh/gps_metadata  # Norman July 16
-    - dmr/enable-rate-limit-repeaters  # Danny July 12
+    - dmr/enable-rate-limit-repeaters  # Danny July 17
 submodules: { }
