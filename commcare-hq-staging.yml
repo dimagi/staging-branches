@@ -54,4 +54,6 @@ branches:
     - nh/gps_metadata  # Norman July 16
     - dmr/enable-rate-limit-repeaters  # Danny July 17
     - ay/domain-level-metrics-2    # Ajeet July 18
+    - em/form-submitting-workers-invoicing  # Evan July 18
+    - em/form-submitting-trigger-invoice  # Evan July 18
 submodules: { }
