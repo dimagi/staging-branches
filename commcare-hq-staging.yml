@@ -13,7 +13,7 @@ branches:
     # - mk/2900-cache-domain-case-props # MK Oct 19
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
     #- cs/data_source_logs # Chris Nov 22
-    - bmb/marketing-styling-deploy  # Biyeun Dec 13
+    #- bmb/marketing-styling-deploy  # Biyeun Dec 13
     - mjr/user_importer_critical_section
     - mjr/adblock-information-edit  # Matt Jan 29
     # - ze/solutions-feature-request-option+bmb/new-fontawesome
