@@ -39,7 +39,7 @@ branches:
     - ml/case-tile-translations # Minha June 13
     #- mk/add-form-load-meta # MK June 19
     - cs/SC-3662-ucr-load-report # charl 25 June
-    - bmb/htmx-tests+mjr/react-testing
+    # - bmb/htmx-tests+mjr/react-testing
     - bmb/htmx-tests  # Biyeun June 25 (please alert if removed, in case of demo)
     - rc/send-screen-size-to-fp # Robert June 28
     - jls/b5-web-apps # Jenny May 21
