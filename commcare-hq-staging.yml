@@ -59,4 +59,5 @@ branches:
     - ml/change-language-case-list-search # Minha July 19
     - jls/b5-web-apps # Jenny May 21
     - es/persistent-menu  # Ethan July 10
+    - jt/locations-incremental-sync-bug-fix # Jonathan T. July 22
 submodules: { }
