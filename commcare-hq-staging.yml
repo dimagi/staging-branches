@@ -46,10 +46,8 @@ branches:
     #- ay+ze+nh/dd_chunked+mk/3452-group-case-export-columns  # Norman  July 4
     - mk/3452-group-case-export-columns # MK May 21
     #- ay+ze+nh/dd_chunked  # Norman  July 4
-    #- ay/domain-level-metrics # Ajeet July 10
     - jc/userdata-pull-location-from-system-fields # Jing July 11
     - nh/gps_metadata  # Norman July 16
-    - ay/domain-level-metrics-2    # Ajeet July 18
     - em/form-submitting-workers-invoicing  # Evan July 18
     - em/form-submitting-trigger-invoice  # Evan July 18
     - dmr/allow-explicit-disable-in-toggles  # Danny July 19
