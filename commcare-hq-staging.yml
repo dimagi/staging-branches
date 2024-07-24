@@ -43,7 +43,6 @@ branches:
     - bmb/htmx-tests  # Biyeun June 25 (please alert if removed, in case of demo)
     - rc/send-screen-size-to-fp # Robert June 28
     - szymonbalasz:sz/bulk-upload-org-structure-via-api # Jing Jul 2
-    - mk/3452-group-case-export-columns # MK May 21
     - ay+ze+nh/dd_chunked  # Norman  July 4
     - jc/userdata-pull-location-from-system-fields # Jing July 11
     - nh/gps_metadata  # Norman July 16
@@ -52,7 +51,5 @@ branches:
     - jc/remove-location-field-in-sql-user-data # Jing July 22
     - ml/change-language-case-list-search # Minha July 19
     - es/persistent-menu  # Ethan July 10
-    - jt/locations-incremental-sync-bug-fix # Jonathan T. July 22
-    - mjr/api_auth_with_domains # Matt July 23
     - ad/warn-form-in-progress-web-apps # Addison July 24
 submodules: { }
