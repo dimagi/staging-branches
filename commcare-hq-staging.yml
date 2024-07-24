@@ -52,7 +52,6 @@ branches:
     - jc/remove-location-field-in-sql-user-data # Jing July 22
     - ml/change-language-case-list-search+jls/b5-web-apps+es/persistent-menu # Minha July 22
     - ml/change-language-case-list-search # Minha July 19
-    - jls/b5-web-apps # Jenny May 21
     - es/persistent-menu  # Ethan July 10
     - jt/locations-incremental-sync-bug-fix # Jonathan T. July 22
     - mjr/api_auth_with_domains # Matt July 23
