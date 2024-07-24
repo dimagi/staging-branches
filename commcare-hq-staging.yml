@@ -49,7 +49,6 @@ branches:
     - nh/gps_metadata  # Norman July 16
     - em/form-submitting-workers-invoicing  # Evan July 18
     - em/form-submitting-trigger-invoice  # Evan July 18
-    - dmr/allow-explicit-disable-in-toggles  # Danny July 19
     - jc/remove-location-field-in-sql-user-data # Jing July 22
     - ml/change-language-case-list-search+jls/b5-web-apps+es/persistent-menu # Minha July 22
     - ml/change-language-case-list-search # Minha July 19
