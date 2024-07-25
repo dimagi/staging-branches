@@ -52,4 +52,5 @@ branches:
     - ml/change-language-case-list-search # Minha July 19
     - es/persistent-menu  # Ethan July 10
     - ad/warn-form-in-progress-web-apps # Addison July 24
+    - riese/wait_for_serverup # Martin July 25
 submodules: { }
