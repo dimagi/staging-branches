@@ -55,4 +55,5 @@ branches:
     # - riese/wait_for_serverup # Martin July 25
     # - riese/long_query # Martin July 25
     - dependabot/pip/requirements/sentry-sdk-2.8.0 # Graham July 26
+    - revert-34682-jls/b5-web-apps # Martin July 29
 submodules: { }
