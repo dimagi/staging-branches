@@ -53,5 +53,5 @@ branches:
     - riese/wait_for_serverup # Martin July 25
     # - riese/long_query # Martin July 25
     - dependabot/pip/requirements/sentry-sdk-2.8.0 # Graham July 26
-    - gh/requirejs/2.3.7 # Graham July 26
+    # - gh/requirejs/2.3.7 # Graham July 26
 submodules: { }
