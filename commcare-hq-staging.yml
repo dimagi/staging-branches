@@ -45,9 +45,7 @@ branches:
     - gh/requirejs/2.3.7 # Graham July 26
     - rc/send-screen-size-to-fp # Robert June 28
     - szymonbalasz:sz/bulk-upload-org-structure-via-api # Jing Jul 2
-    - ay+ze+nh/dd_chunked  # Norman  July 4
     - jc/userdata-pull-location-from-system-fields # Jing July 11
-    - nh/gps_metadata  # Norman July 16
     - em/form-submitting-workers-invoicing  # Evan July 18
     - em/form-submitting-trigger-invoice  # Evan July 18    - ml/change-language-case-list-search # Minha July 19
     - es/persistent-menu  # Ethan July 10
