@@ -39,10 +39,7 @@ branches:
     - ml/case-tile-translations # Minha June 13
     #- mk/add-form-load-meta # MK June 19
     - cs/SC-3662-ucr-load-report # charl 25 June
-    - gh/requirejs/2.3.7+bmb/htmx-tests+mjr/react-testing  # Graham Jul 29
-    - bmb/htmx-tests+mjr/react-testing
     - bmb/htmx-tests  # Biyeun June 25 (please alert if removed, in case of demo)
-    - gh/requirejs/2.3.7 # Graham July 26
     - rc/send-screen-size-to-fp # Robert June 28
     - szymonbalasz:sz/bulk-upload-org-structure-via-api # Jing Jul 2
     - jc/userdata-pull-location-from-system-fields # Jing July 11
