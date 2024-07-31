@@ -48,5 +48,4 @@ branches:
     - ad/warn-form-in-progress-web-apps # Addison July 24
     # - riese/wait_for_serverup # Martin July 25
     # - riese/long_query # Martin July 25
-    - dependabot/pip/requirements/sentry-sdk-2.8.0 # Graham July 26
 submodules: { }
