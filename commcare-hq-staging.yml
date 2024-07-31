@@ -41,13 +41,13 @@ branches:
     - cs/SC-3662-ucr-load-report # charl 25 June
     - bmb/htmx-tests  # Biyeun June 25 (please alert if removed, in case of demo)
     - rc/send-screen-size-to-fp # Robert June 28
-    - szymonbalasz:sz/bulk-upload-org-structure-via-api # Jing Jul 2
     - em/form-submitting-workers-invoicing  # Evan July 18
     - em/form-submitting-trigger-invoice  # Evan July 18    - ml/change-language-case-list-search # Minha July 19
+    - es/persistent-menu+revert-34682-jls/b5-web-apps  # conflict resolution
     - es/persistent-menu  # Ethan July 10
+    - revert-34682-jls/b5-web-apps # Martin July 29
     - ad/warn-form-in-progress-web-apps # Addison July 24
     # - riese/wait_for_serverup # Martin July 25
     # - riese/long_query # Martin July 25
     - dependabot/pip/requirements/sentry-sdk-2.8.0 # Graham July 26
-    - revert-34682-jls/b5-web-apps # Martin July 29
 submodules: { }
