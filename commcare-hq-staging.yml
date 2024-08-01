@@ -45,7 +45,7 @@ branches:
     - em/form-submitting-trigger-invoice  # Evan July 18    - ml/change-language-case-list-search # Minha July 19
     - es/persistent-menu  # Ethan July 10
     - ad/warn-form-in-progress-web-apps # Addison July 24
-    # - riese/wait_for_serverup # Martin July 25
+    - riese/wait_for_serverup # Martin July 25
     # - riese/long_query # Martin July 25
     - riese/button_align # Martin July 31
     - df/remove_unicel_gateway # Dreese July 31
