@@ -43,7 +43,6 @@ branches:
     - rc/send-screen-size-to-fp # Robert June 28
     - em/form-submitting-workers-invoicing  # Evan July 18
     - em/form-submitting-trigger-invoice  # Evan July 18    - ml/change-language-case-list-search # Minha July 19
-    - es/persistent-menu+revert-34682-jls/b5-web-apps  # conflict resolution
     - es/persistent-menu  # Ethan July 10
     - ad/warn-form-in-progress-web-apps # Addison July 24
     # - riese/wait_for_serverup # Martin July 25
