@@ -46,7 +46,6 @@ branches:
     - es/persistent-menu  # Ethan July 10
     - es/webapps-navbar  # Ethan Aug 2
     - ad/warn-form-in-progress-web-apps # Addison July 24
-    - riese/wait_for_serverup # Martin July 25
     # - riese/long_query # Martin July 25
     - df/remove_unicel_gateway # Dreese July 31
     - ze/arcgis-form-repeater # Zandre Aug 1
