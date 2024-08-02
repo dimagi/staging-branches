@@ -49,7 +49,6 @@ branches:
     # - riese/long_query # Martin July 25
     - df/remove_unicel_gateway # Dreese July 31
     - ze/arcgis-form-repeater # Zandre Aug 1
-    - riese/gps_search_button # Martin Aug 1
     - jt/repeat-group-ui # Jonathan T. Aug 1
     - gh/twilio/9.2.3 # Graham Aug 1
 submodules: { }
