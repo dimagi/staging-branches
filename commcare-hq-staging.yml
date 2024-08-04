@@ -51,4 +51,5 @@ branches:
     - ze/arcgis-form-repeater # Zandre Aug 1
     - jt/repeat-group-ui # Jonathan T. Aug 1
     - gh/twilio/9.2.3 # Graham Aug 1
+    - nh/iter_repeaters  # Norman Aug 4
 submodules: { }
