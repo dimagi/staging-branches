@@ -40,7 +40,6 @@ branches:
     #- mk/add-form-load-meta # MK June 19
     - cs/SC-3662-ucr-load-report # charl 25 June
     - bmb/htmx-tests  # Biyeun June 25 (please alert if removed, in case of demo)
-    - rc/send-screen-size-to-fp # Robert June 28
     - em/form-submitting-workers-invoicing  # Evan July 18
     - em/form-submitting-trigger-invoice  # Evan July 18    - ml/change-language-case-list-search # Minha July 19
     - es/persistent-menu  # Ethan July 10
