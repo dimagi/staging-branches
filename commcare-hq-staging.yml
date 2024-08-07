@@ -43,7 +43,6 @@ branches:
     - em/form-submitting-workers-invoicing  # Evan July 18
     - em/form-submitting-trigger-invoice  # Evan July 18    - ml/change-language-case-list-search # Minha July 19
     - es/persistent-menu  # Ethan July 10
-    - es/webapps-navbar  # Ethan Aug 2
     # - riese/long_query # Martin July 25
     - df/remove_unicel_gateway # Dreese July 31
     - ze/arcgis-form-repeater # Zandre Aug 1
