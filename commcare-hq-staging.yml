@@ -51,4 +51,5 @@ branches:
     - gh/twilio/9.2.3 # Graham Aug 1
     - dependabot/pip/requirements/ddtrace-2.9.3  # Daniel Aug 6
     - riese/b5_alignment # Martin Aug 7
+    - ad/allow-LRUs-to-view-location-safe-tab-reports # Aug 7
 submodules: { }
