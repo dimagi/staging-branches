@@ -9,4 +9,4 @@ submodules:
   libs/commcare:
     trunk: formplayer
     branches:
-        - persistentMenuChanges # June 28, Shubham   
+        - persistentMenuChanges # June 28, Shubham
