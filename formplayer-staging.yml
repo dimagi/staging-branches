@@ -4,7 +4,6 @@ trunk: master
 name: autostaging
 branches: 
     - persistentMenu # June 28, Shubham
-    - errorHandling # Shubham July 3
 submodules:
   libs/commcare:
     trunk: formplayer
