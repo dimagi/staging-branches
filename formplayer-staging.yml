@@ -3,13 +3,10 @@
 trunk: master
 name: autostaging
 branches: 
-    - rc/make-widowWidth-availabel-in-session+persistentMenu # Robert June 28
-    - rc/make-widowWidth-availabel-in-session # Robert June 28
     - persistentMenu # June 28, Shubham
     - errorHandling # Shubham July 3
 submodules:
   libs/commcare:
     trunk: formplayer
     branches:
-        - persistentMenuChanges # June 28, Shubham
-        - rc/core-make-widowWidth-available-in-session # Robert June 28    
+        - persistentMenuChanges # June 28, Shubham   
