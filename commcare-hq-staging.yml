@@ -49,8 +49,6 @@ branches:
     - ze/arcgis-form-repeater # Zandre Aug 1
     - jt/repeat-group-ui # Jonathan T. Aug 1
     - gh/twilio/9.2.3 # Graham Aug 1
-    - dependabot/pip/requirements/ddtrace-2.9.3  # Daniel Aug 6
     - riese/b5_alignment # Martin Aug 7
-    - ad/allow-LRUs-to-view-location-safe-tab-reports # Addison Aug 7
     - nh/iter_repeaters  # Norman Aug 7
 submodules: { }
