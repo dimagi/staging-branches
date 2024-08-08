@@ -4,6 +4,7 @@ trunk: master
 name: autostaging
 branches:
     - persistentMenu # June 28, Shubham
+    - jt/persistentMenu-icons # Aug 8, Jonathon
 submodules:
   libs/commcare:
     trunk: formplayer
