@@ -51,4 +51,5 @@ branches:
     - gh/twilio/9.2.3 # Graham Aug 1
     - riese/b5_alignment # Martin Aug 7
     - nh/iter_repeaters  # Norman Aug 7
+    - mk/3822-add-case-external-id-lookup # MK Aug 8
 submodules: { }
