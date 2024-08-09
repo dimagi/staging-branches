@@ -37,7 +37,6 @@ branches:
     - bmb/deet/intentional-error  # remove after DEET WEEEK
     - jls/build_requirejs-performance # Jenny June 13
     #- mk/add-form-load-meta # MK June 19
-    - cs/SC-3662-ucr-load-report # charl 25 June
     - bmb/htmx-tests  # Biyeun June 25 (please alert if removed, in case of demo)
     - em/form-submitting-workers-invoicing  # Evan July 18
     - em/form-submitting-trigger-invoice  # Evan July 18   
@@ -52,4 +51,5 @@ branches:
     - nh/iter_repeaters  # Norman Aug 7
     - gh/repeaters/improve-timing-metrics
     - rc/location-names-dropdown # Robert Aug 8
+    - cs/SC-3474-cca-permissions-from-hq # Charl Aug 9
 submodules: { }
