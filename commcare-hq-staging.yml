@@ -49,6 +49,5 @@ branches:
     # - nh/iter_repeaters+gh/repeaters/improve-timing-metrics # Graham Aug 8
     # - nh/iter_repeaters  # Norman Aug 7
     - gh/repeaters/improve-timing-metrics
-    - rc/location-names-dropdown # Robert Aug 8
     - cs/SC-3474-cca-permissions-from-hq # Charl Aug 9
 submodules: { }
