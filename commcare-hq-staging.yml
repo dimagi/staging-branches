@@ -41,7 +41,7 @@ branches:
     - em/form-submitting-workers-invoicing  # Evan July 18
     - em/form-submitting-trigger-invoice  # Evan July 18   
     - es/persistent-menu  # Ethan July 10
-    - riese/long_query # Martin July 25
+    # - riese/long_query # Martin July 25
     - df/remove_unicel_gateway # Dreese July 31
     - jt/repeat-group-ui # Jonathan T. Aug 1
     - gh/twilio/9.2.3 # Graham Aug 1
