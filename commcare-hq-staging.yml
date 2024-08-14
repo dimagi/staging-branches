@@ -48,7 +48,8 @@ branches:
     - mk/3822-add-case-external-id-lookup-2 # MK Aug 8
     # - nh/iter_repeaters+gh/repeaters/improve-timing-metrics # Graham Aug 8
     # - nh/iter_repeaters  # Norman Aug 7
-    - gh/repeaters/improve-timing-metrics
+    # - gh/repeaters/improve-timing-metrics
     - cs/SC-3474-cca-permissions-from-hq # Charl Aug 9
     - ap/gauge-limiter # Amit Aug 14
+    - gh/rate-limiting/num-of-attempts
 submodules: { }
