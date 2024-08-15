@@ -38,7 +38,7 @@ branches:
     - jls/build_requirejs-performance # Jenny June 13
     #- mk/add-form-load-meta # MK June 19
     - bmb/htmx-tests  # Biyeun June 25 (please alert if removed, in case of demo)
-    - revert-34977-revert-34872-es/persistent-menu  # Ethan Aug 15
+    - es/mobile-login-as  # Ethan Aug 15
     # - riese/long_query # Martin July 25
     - df/remove_unicel_gateway # Dreese July 31
     - gh/twilio/9.2.3 # Graham Aug 1
