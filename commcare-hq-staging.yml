@@ -46,5 +46,4 @@ branches:
     # - nh/iter_repeaters  # Norman Aug 7
     - cs/SC-3474-cca-permissions-from-hq # Charl Aug 9
     - ap/gauge-limiter # Amit Aug 14
-    - gh/repeaters/rate-limit-delay # Aug 16
 submodules: { }
