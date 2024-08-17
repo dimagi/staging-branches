@@ -3,9 +3,9 @@
 trunk: master
 name: autostaging
 branches:
-    - persistentMenu # June 28, Shubham
-    - jt/persistentMenu-icons # Aug 8, Jonathon
+    - jt/support-primary-app-id-on-install # Aug 16, Jonathan
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches: []
+    branches:
+        - jt/support-canonical-app-id-in-install # Aug 16, Jonathan
