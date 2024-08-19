@@ -49,5 +49,6 @@ branches:
     #- nh/iter_repeaters_rebased+gh/repeaters/refactor-error-handling # Aug 19
     #- nh/iter_repeaters_rebased  # Norman Aug 19
     - gh/repeaters/refactor-error-handling  # Graham Aug 19
+    - bmb/webpack-tests+bmb/htmx-tests
     - bmb/webpack-tests  # Biyeun Aug 19
 submodules: { }
