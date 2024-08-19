@@ -46,6 +46,7 @@ branches:
     - cs/SC-3474-cca-permissions-from-hq # Charl Aug 9
     - ap/gauge-limiter # Amit Aug 14
     - ze/form-expression-repeater # Zandre Aug 19
+    - nh/iter_repeaters_rebased+gh/repeaters/refactor-error-handling # Aug 19
     - nh/iter_repeaters_rebased  # Norman Aug 19
     - gh/repeaters/refactor-error-handling  # Graham Aug 19
     - bmb/webpack-tests  # Biyeun Aug 19
