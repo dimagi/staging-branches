@@ -38,7 +38,6 @@ branches:
     - jls/build_requirejs-performance # Jenny June 13
     #- mk/add-form-load-meta # MK June 19
     - bmb/htmx-tests  # Biyeun June 25 (please alert if removed, in case of demo)
-    - es/mobile-login-as  # Ethan Aug 15
     # - riese/long_query # Martin July 25
     - df/remove_unicel_gateway # Dreese July 31
     - gh/twilio/9.2.3 # Graham Aug 1
@@ -50,4 +49,5 @@ branches:
     #- nh/iter_repeaters_rebased  # Norman Aug 19
     - bmb/webpack-tests+bmb/htmx-tests
     - bmb/webpack-tests  # Biyeun Aug 19
+    - es/sticky-search-button  # Ethan Aug 19
 submodules: { }
