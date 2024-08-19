@@ -50,5 +50,4 @@ branches:
     #- nh/iter_repeaters_rebased  # Norman Aug 19
     - bmb/webpack-tests+bmb/htmx-tests
     - bmb/webpack-tests  # Biyeun Aug 19
-    - gh/repeaters/log-duration # Graham Aug 19
 submodules: { }
