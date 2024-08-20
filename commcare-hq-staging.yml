@@ -44,8 +44,8 @@ branches:
     - cs/return-cca-roles-for-domain-user # Charl Aug 9
     - ap/gauge-limiter # Amit Aug 14
     - ze/form-expression-repeater # Zandre Aug 19
-    #- bmb/webpack-tests+bmb/htmx-tests
-    #- bmb/webpack-tests  # Biyeun Aug 19
     - es/sticky-search-button  # Ethan Aug 19
     - add_app_dependencies # Shubham Aug 20
+    - bmb/webpack+bmb/htmx-tests
+    - bmb/webpack  # Biyeun Aug 20
 submodules: { }
