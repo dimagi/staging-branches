@@ -3,11 +3,9 @@
 trunk: master
 name: autostaging
 branches:
-    - jt/support-primary-app-id-on-install # Aug 16, Jonathan
     - customRepeatCaptions # Aug, 20, Shubham 
 submodules:
   libs/commcare:
     trunk: formplayer
     branches:
-        - jt/support-canonical-app-id-in-install # Aug 16, Jonathan
         - customRepeatCaptions # Aug, 20, Shubham 
