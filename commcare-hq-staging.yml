@@ -48,4 +48,5 @@ branches:
     - bmb/webpack+bmb/htmx-tests
     - bmb/webpack  # Biyeun Aug 20
     - ml/broadcast-filename-bug # Minha Aug 20
+    - gh/repeaters/rate-limit-attempts-off-of-wait-time # Aug 21
 submodules: { }
