@@ -40,7 +40,6 @@ branches:
     # - riese/long_query # Martin July 25
     - df/remove_unicel_gateway # Dreese July 31
     - gh/twilio/9.2.3 # Graham Aug 1
-    - mk/3822-add-case-external-id-lookup-2 # MK Aug 8
     - cs/return-cca-roles-for-domain-user # Charl Aug 9
     - ap/gauge-limiter # Amit Aug 14
     - ze/form-expression-repeater # Zandre Aug 19
