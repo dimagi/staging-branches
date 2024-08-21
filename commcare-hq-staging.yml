@@ -49,6 +49,5 @@ branches:
     - bmb/webpack  # Biyeun Aug 20
     - ml/broadcast-filename-bug # Minha Aug 20
     - gh/repeaters/rate-limit-attempts-off-of-wait-time # Aug 21
-    - gh/repeaters/decrease-timeout # Aug 21
     - rc/link-previous-builds # Robert Aug 21
 submodules: { }
