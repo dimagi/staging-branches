@@ -51,4 +51,5 @@ branches:
     - rc/link-previous-builds # Robert Aug 21
     - mk/3822-add-case-external-id-lookup-3  # Norman Aug 22
     - gh/apm/process-repeat-record
+    - bmb/django-security-patch  # Biyeun Aug 22
 submodules: { }
