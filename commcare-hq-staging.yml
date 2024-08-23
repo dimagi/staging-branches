@@ -53,4 +53,5 @@ branches:
     - gh/apm/process-repeat-record
     - bmb/django-security-patch  # Biyeun Aug 22
     - jt/locations-display-name # Jonathan T. Aug 22
+    - ay/async-geo-case-reassignment # Ajeet Aug 23
 submodules: { }
