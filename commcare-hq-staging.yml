@@ -56,4 +56,5 @@ branches:
     - gh/repeaters/datasource-queue  # Graham Aug 23
     #- gh/repeaters/count-overdue-by-partition  # Graham Aug 23
     - ml/location-gray-out # Minha Aug 23
+    - rc/fix-location-name-truncation-bug # Robert Aug 23
 submodules: { }
