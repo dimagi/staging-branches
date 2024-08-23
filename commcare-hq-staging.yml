@@ -53,5 +53,6 @@ branches:
     - gh/apm/process-repeat-record
     - jt/locations-display-name # Jonathan T. Aug 22
     - ay/async-geo-case-reassignment # Ajeet Aug 23
-    - gh/repeaters/datasource-queue
+    - gh/repeaters/datasource-queue  # Graham Aug 23
+    - gh/repeaters/count-overdue-by-partition  # Graham Aug 23
 submodules: { }
