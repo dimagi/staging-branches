@@ -3,9 +3,8 @@
 trunk: master
 name: autostaging
 branches:
-    - customRepeatCaptions # Aug, 20, Shubham 
+    - fixPersistentMenuForEofNav # Aug, 20, Shubham 
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches:
-        - customRepeatCaptions # Aug, 20, Shubham 
+    branches: []
