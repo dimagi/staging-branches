@@ -57,4 +57,5 @@ branches:
     #- gh/repeaters/count-overdue-by-partition  # Graham Aug 23
     - ml/location-gray-out # Minha Aug 23
     - rc/fix-location-name-truncation-bug # Robert Aug 23
+    - nh/iter_repeaters_1  # Norman Aug 25
 submodules: { }
