@@ -52,11 +52,11 @@ branches:
     - mk/3822-add-case-external-id-lookup-3  # Norman Aug 22
     #- gh/apm/process-repeat-record
     - jt/locations-display-name # Jonathan T. Aug 22
-    - ay/async-geo-case-reassignment # Ajeet Aug 23
     - gh/repeaters/datasource-queue  # Graham Aug 23
     #- gh/repeaters/count-overdue-by-partition  # Graham Aug 23
     - ml/location-gray-out # Minha Aug 23
     - rc/fix-location-name-truncation-bug # Robert Aug 23
     - nh/iter_repeaters_1  # Norman Aug 25
     - bmb/fix-unable-to-resolve-field-in-domain-settings  # Aug 26
+    - ay/async-geo-case-reassignment-test # Ajeet Aug 26
 submodules: { }
