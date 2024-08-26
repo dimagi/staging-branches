@@ -18,8 +18,8 @@ branches:
     - mjr/adblock-information-edit  # Matt Jan 29
     # - ze/solutions-feature-request-option+bmb/new-fontawesome
     # - gh/html-pattern-attr # Gthaam Feb 2
+    - fr/deleted-apps-2+master  # leave until fr/deleted-apps-2 conflict with master is resolved
     - proteusvacuum:fr/deleted-apps-2 # Amit Feb 20
-    - bmb/fix-unable-to-resolve-field-in-domain-settings+fr/deleted-apps-2  # leave until fr/deleted-apps-2 conflict with master is resolved
     - mk/add-layers-dirty # MK Feb 20
     - gh/two-factor/infinite-redirects # Graham Feb 28
     - ap/fix-app-cues-display # Amit Mar 5
