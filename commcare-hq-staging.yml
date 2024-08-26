@@ -59,4 +59,5 @@ branches:
     - rc/fix-location-name-truncation-bug # Robert Aug 23
     - nh/iter_repeaters_1  # Norman Aug 25
     - ay/async-geo-case-reassignment-test # Ajeet Aug 26
+    - mjr/dedupe_location_fix  # Matt Aug 26
 submodules: { }
