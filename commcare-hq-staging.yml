@@ -49,7 +49,7 @@ branches:
     - bmb/webpack+bmb/htmx-tests
     - bmb/webpack  # Biyeun Aug 20
     - ml/broadcast-filename-bug # Minha Aug 20
-    # - rc/link-previous-builds # Robert Aug 21
+    - rc/link-previous-builds # Robert Aug 21
     - mk/3822-add-case-external-id-lookup-3  # Norman Aug 22
     - ml/location-gray-out # Minha Aug 23
     - nh/iter_repeaters_1  # Norman Aug 25
