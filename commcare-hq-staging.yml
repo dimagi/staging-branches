@@ -53,4 +53,6 @@ branches:
     - ml/location-gray-out # Minha Aug 23
     - nh/iter_repeaters_1  # Norman Aug 25
     - ay/async-geo-case-reassignment-test # Ajeet Aug 26
+    - em/repeat-record-report-bulk-actions-bugfix  # Evan Aug 27
+    - em/change-plan-check-can-change-subscription  # Evan Aug 27
 submodules: { }
