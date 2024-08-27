@@ -53,7 +53,6 @@ branches:
     - mk/3822-add-case-external-id-lookup-3  # Norman Aug 22
     - jt/locations-display-name # Jonathan T. Aug 22
     - ml/location-gray-out # Minha Aug 23
-    - rc/fix-location-name-truncation-bug # Robert Aug 23
     - nh/iter_repeaters_1  # Norman Aug 25
     - ay/async-geo-case-reassignment-test # Ajeet Aug 26
 submodules: { }
