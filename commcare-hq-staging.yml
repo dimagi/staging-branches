@@ -49,7 +49,6 @@ branches:
     - bmb/webpack+bmb/htmx-tests
     - bmb/webpack  # Biyeun Aug 20
     - ml/broadcast-filename-bug # Minha Aug 20
-    - ml/location-gray-out # Minha Aug 23
     - nh/iter_repeaters_1  # Norman Aug 25
     - ay/async-geo-case-reassignment # Ajeet Aug 26
     - em/repeat-record-report-bulk-actions-bugfix  # Evan Aug 27
