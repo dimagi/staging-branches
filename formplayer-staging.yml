@@ -3,7 +3,6 @@
 trunk: master
 name: autostaging
 branches:
-    - fixPersistentMenuForEofNav # Aug, 20, Shubham 
     - jt/smartlink-with-eof-bug # Aug 29, Jonathan T
 submodules:
   libs/commcare:
