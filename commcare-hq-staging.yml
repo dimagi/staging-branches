@@ -51,4 +51,5 @@ branches:
     - ay/adblocker-gtm-fix-local # Ajeet Aug 29
     - dm/case-import-defaults # Daniel Aug 29
     - ad/turn-on-custom-repeat-text-vellum # Addison Aug 29
+    - es/2sticky2furious  # Ethan Aug 30
 submodules: { }
