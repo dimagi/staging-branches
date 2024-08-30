@@ -31,10 +31,6 @@ branches:
     - mk/add-migration-form-cases-location-data # MK Mar 26
     # - smh/web-invite-update # Steph April 16
     - dmr/remove-css-grid-polyfill  # Danny Apr 22
-    #- bmb/deet/case-clean-issue+mk/3452-group-case-export-columns
-    #- bmb/deet/case-clean-issue  # Amit, Biyeun DEET Jun 3
-    - bmb/deet/case-prop-schema-optimize-simple  # Amit, Biyeun DEET Jun 4
-    - bmb/deet/intentional-error  # remove after DEET WEEEK
     - jls/build_requirejs-performance # Jenny June 13
     #- mk/add-form-load-meta # MK June 19
     - bmb/htmx-tests  # Biyeun June 25 (please alert if removed, in case of demo)
