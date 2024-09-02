@@ -33,7 +33,7 @@ branches:
     - dmr/remove-css-grid-polyfill  # Danny Apr 22
     - jls/build_requirejs-performance # Jenny June 13
     #- mk/add-form-load-meta # MK June 19
-    - bmb/htmx-tests  # Biyeun June 25 (please alert if removed, in case of demo)
+    #- bmb/htmx-tests  # Biyeun June 25 (new branch forthcoming)
     #- riese/long_query # Martin July 25
     - df/remove_unicel_gateway # Dreese July 31
     - gh/twilio/9.2.3 # Graham Aug 1
@@ -41,8 +41,6 @@ branches:
     - ap/gauge-limiter # Amit Aug 14
     - ze/form-expression-repeater # Zandre Aug 19
     - add_app_dependencies # Shubham Aug 20
-    - bmb/webpack+bmb/htmx-tests
-    - bmb/webpack  # Biyeun Aug 20
     - ml/broadcast-filename-bug # Minha Aug 20
     - nh/iter_repeaters_1  # Norman Aug 25
     - ay/async-geo-case-reassignment # Ajeet Aug 26
