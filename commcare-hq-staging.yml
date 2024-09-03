@@ -51,7 +51,6 @@ branches:
     - ad/turn-on-custom-repeat-text-vellum # Addison Aug 29
     - es/2sticky2furious  # Ethan Aug 30
     - riese/fuzzy_date # Martin Aug 30
-    - rc/put-locations-work-behind-ff # Robert Aug 30
     - em/renew-plan-downgrade-notices  # Evan Sep 2
     - mk/3908-reuse-tokens-for-datasource-repeaters # MK Sep 3
 submodules: { }
