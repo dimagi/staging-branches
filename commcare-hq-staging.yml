@@ -38,8 +38,6 @@ branches:
     - df/remove_unicel_gateway # Dreese July 31
     - gh/twilio/9.2.3 # Graham Aug 1
     - cs/return-cca-roles-for-domain-user # Charl Aug 9
-    - ap/gauge-limiter # Amit Aug 14
-    - ze/form-expression-repeater # Zandre Aug 19
     - add_app_dependencies # Shubham Aug 20
     - ml/broadcast-filename-bug # Minha Aug 20
     - nh/iter_repeaters_1  # Norman Aug 25
