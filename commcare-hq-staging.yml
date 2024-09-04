@@ -50,4 +50,5 @@ branches:
     # - mk/3908-reuse-tokens-for-datasource-repeaters # MK Sep 3
     - em/change-plan-remove-enterprise  # Evan Sep 3
     - rc/remove-dead-LandingPageAppView # Robert Sept 3
+    - jc/update-location-through-user-api # Jing Sep 4
 submodules: { }
