@@ -51,4 +51,5 @@ branches:
     - rc/remove-dead-LandingPageAppView # Robert Sept 3
     - jc/update-location-through-user-api # Jing Sep 4
     - gh/bulk-translations/update-default-lang  # Graham Sep 5
+    - ml/broadcast-bug # Minha Sep 5
 submodules: { }
