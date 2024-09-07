@@ -45,7 +45,7 @@ branches:
     - dm/case-import-defaults # Daniel Aug 29
     - es/2sticky2furious  # Ethan Aug 30
     - riese/fuzzy_date # Martin Aug 30
-    # - mk/3908-reuse-tokens-for-datasource-repeaters # MK Sep 3
+    - mk/3908-reuse-tokens-for-datasource-repeaters # MK Sep 3
     - rc/remove-dead-LandingPageAppView # Robert Sept 3
     - jc/update-location-through-user-api # Jing Sep 4
     - gh/bulk-translations/update-default-lang  # Graham Sep 5
