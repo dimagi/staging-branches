@@ -48,7 +48,6 @@ branches:
     - gh/bulk-translations/update-default-lang  # Graham Sep 5
     - ml/broadcast-bug # Minha Sep 5
     - bmb/webpack-help-update  # Biyeun Sep 9
-    - jls/kill-stock-status # Jenny Sept 10
     - ml/persistent-menu-whitespace # Minha Sept 10
     - em/set-correct-content-type  # Evan Sep 11
 submodules: { }
