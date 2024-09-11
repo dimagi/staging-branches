@@ -50,4 +50,5 @@ branches:
     - bmb/webpack-help-update  # Biyeun Sep 9
     - jls/kill-stock-status # Jenny Sept 10
     - ml/persistent-menu-whitespace # Minha Sept 10
+    - em/set-correct-content-type  # Evan Sep 11
 submodules: { }
