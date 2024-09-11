@@ -51,4 +51,8 @@ branches:
     - ml/persistent-menu-whitespace # Minha Sept 10
     - em/set-correct-content-type  # Evan Sep 11
     - jls/b5-export-1 # Jenny Sept 11
-submodules: { }
+submodules:
+  submodules/langcodes:
+    trunk: master
+    branches:
+        - em/return-jsonresponse  # Evan Sep 11
