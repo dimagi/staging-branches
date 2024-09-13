@@ -50,6 +50,7 @@ branches:
     - em/set-correct-content-type  # Evan Sep 11
     - jls/b5-export-1 # Jenny Sept 11
     - ze/add-review-assignment-btn-id # Zandre Sept 13
+    - jc/investigate-deactivation-from-invitation # Jing Sep 13
 submodules:
   submodules/langcodes:
     trunk: master
