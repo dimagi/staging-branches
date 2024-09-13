@@ -34,7 +34,6 @@ branches:
     - jls/build_requirejs-performance # Jenny June 13
     #- mk/add-form-load-meta # MK June 19
     #- bmb/htmx-tests  # Biyeun June 25 (new branch forthcoming)
-    #- riese/long_query # Martin July 25
     - df/remove_unicel_gateway # Dreese July 31
     - gh/twilio/9.2.3 # Graham Aug 1
     - cs/return-cca-roles-for-domain-user # Charl Aug 9
@@ -43,7 +42,6 @@ branches:
     - em/repeat-record-report-bulk-actions-bugfix  # Evan Aug 27
     - dm/case-import-defaults # Daniel Aug 29
     - es/2sticky2furious  # Ethan Aug 30
-    - riese/fuzzy_date # Martin Aug 30
     - jc/update-location-through-user-api # Jing Sep 4
     - gh/bulk-translations/update-default-lang  # Graham Sep 5
     - ml/broadcast-bug # Minha Sep 5
