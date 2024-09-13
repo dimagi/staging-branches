@@ -48,6 +48,7 @@ branches:
     - em/set-correct-content-type  # Evan Sep 11
     - ze/add-review-assignment-btn-id # Zandre Sept 13
     - jc/investigate-deactivation-from-invitation # Jing Sep 13
+    - rc/test-epic-integration # Robert Sept 13
 submodules:
   submodules/langcodes:
     trunk: master
