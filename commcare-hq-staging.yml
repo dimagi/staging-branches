@@ -49,6 +49,7 @@ branches:
     - ze/add-review-assignment-btn-id # Zandre Sept 13
     - jc/investigate-deactivation-from-invitation # Jing Sep 13
     - rc/test-epic-integration # Robert Sept 13
+    - jt/add-custom-data-web-user-invite # Jonathan Sept 13
 submodules:
   submodules/langcodes:
     trunk: master
