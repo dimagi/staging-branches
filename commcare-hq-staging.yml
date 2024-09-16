@@ -37,7 +37,6 @@ branches:
     - df/remove_unicel_gateway # Dreese July 31
     - cs/return-cca-roles-for-domain-user # Charl Aug 9
     - nh/iter_repeaters_1  # Norman Aug 25
-    - em/repeat-record-report-bulk-actions-bugfix  # Evan Aug 27
     - es/2sticky2furious  # Ethan Aug 30
     - jc/update-location-through-user-api # Jing Sep 4
     - gh/bulk-translations/update-default-lang  # Graham Sep 5
