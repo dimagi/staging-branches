@@ -51,6 +51,7 @@ branches:
     - rc/test-epic-integration # Robert Sept 13
     - jt/add-custom-data-web-user-invite # Jonathan Sept 13
     - bmb/import-status-error-toggle-fix  # Biyeun sep 15
+    - dependabot/npm_and_yarn/leaflet-1.9.4 # Jenny Sept 16
 submodules:
   submodules/langcodes:
     trunk: master
