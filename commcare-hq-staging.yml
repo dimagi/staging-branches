@@ -35,7 +35,6 @@ branches:
     #- mk/add-form-load-meta # MK June 19
     #- bmb/htmx-tests  # Biyeun June 25 (new branch forthcoming)
     - df/remove_unicel_gateway # Dreese July 31
-    - gh/twilio/9.2.3 # Graham Aug 1
     - cs/return-cca-roles-for-domain-user # Charl Aug 9
     - nh/iter_repeaters_1  # Norman Aug 25
     - em/repeat-record-report-bulk-actions-bugfix  # Evan Aug 27
