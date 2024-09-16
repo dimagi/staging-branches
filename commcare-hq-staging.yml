@@ -53,6 +53,7 @@ branches:
     - bmb/import-status-error-toggle-fix  # Biyeun sep 15
     - dependabot/npm_and_yarn/leaflet-1.9.4 # Jenny Sept 16
     - dependabot/pip/requirements/msal-1.28.0 # Jenny Sept 16
+    - dependabot/pip/requirements/lxml-5.3.0 # Jenny Sept 16
 submodules:
   submodules/langcodes:
     trunk: master
