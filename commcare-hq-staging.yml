@@ -49,6 +49,7 @@ branches:
     - dependabot/npm_and_yarn/leaflet-1.9.4 # Jenny Sept 16
     #- dependabot/pip/requirements/msal-1.28.0 # Jenny Sept 16
     - dependabot/pip/requirements/lxml-5.3.0 # Jenny Sept 16
+    - jls/standardize-multimedia-bulk-upload # Jenny Sept 17
     - ze/trigger-es-index-geospatial-enable # Zandre Sept 17
     - jc/log-out-deactivated-user # Jing Sep 17
     - jc/investigate-deactivation-when-invited # Jing Sep 17
