@@ -52,6 +52,7 @@ branches:
     #- dependabot/pip/requirements/msal-1.28.0 # Jenny Sept 16
     - dependabot/pip/requirements/lxml-5.3.0 # Jenny Sept 16
     - ze/trigger-es-index-geospatial-enable # Zandre Sept 17
+    - gh/dedupe/fix-metric # Graham Sep 17
 submodules:
   submodules/langcodes:
     trunk: master
