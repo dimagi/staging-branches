@@ -43,7 +43,6 @@ branches:
     - ml/persistent-menu-whitespace # Minha Sept 10
     - em/set-correct-content-type  # Evan Sep 11
     - ze/add-review-assignment-btn-id # Zandre Sept 13
-    - jc/investigate-deactivation-from-invitation # Jing Sep 13
     - rc/test-epic-integration # Robert Sept 13
     - jt/add-custom-data-web-user-invite # Jonathan Sept 13
     - bmb/import-status-error-toggle-fix  # Biyeun sep 15
@@ -52,6 +51,7 @@ branches:
     - dependabot/pip/requirements/lxml-5.3.0 # Jenny Sept 16
     - ze/trigger-es-index-geospatial-enable # Zandre Sept 17
     - jc/log-out-deactivated-user # Jing Sep 17
+    - jc/investigate-deactivation-when-invited # Jing Sep 17
 submodules:
   submodules/langcodes:
     trunk: master
