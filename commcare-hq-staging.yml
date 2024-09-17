@@ -38,9 +38,6 @@ branches:
     - cs/return-cca-roles-for-domain-user # Charl Aug 9
     - nh/iter_repeaters_1  # Norman Aug 25
     - es/2sticky2furious  # Ethan Aug 30
-    - jc/update-location-through-user-api # Jing Sep 4
-    - ml/broadcast-bug # Minha Sep 5
-    - ml/persistent-menu-whitespace # Minha Sept 10
     - em/set-correct-content-type  # Evan Sep 11
     - ze/add-review-assignment-btn-id # Zandre Sept 13
     - rc/test-epic-integration # Robert Sept 13
