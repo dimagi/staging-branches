@@ -50,6 +50,7 @@ branches:
     - ze/trigger-es-index-geospatial-enable # Zandre Sept 17
     - jc/log-out-deactivated-user # Jing Sep 17
     - jc/investigate-deactivation-when-invited # Jing Sep 17
+    - gh/repeaters/count-overdue-by-partition # Graham Sep 18
 submodules:
   submodules/langcodes:
     trunk: master
