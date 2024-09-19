@@ -48,7 +48,7 @@ branches:
     - jls/upgrade-some-stuff # Jenny Sept 18
     - jls/standardize-multimedia-bulk-upload # Jenny Sept 17
     - ze/trigger-es-index-geospatial-enable # Zandre Sept 17
-    - jc/log-out-deactivated-user # Jing Sep 17
+    # - jc/log-out-deactivated-user # Jing Sep 17
     - jc/investigate-deactivation-when-invited # Jing Sep 17
     - gh/repeaters/count-overdue-by-partition # Graham Sep 18
     - em/lookup-tables-access  # Evan Sep 19
