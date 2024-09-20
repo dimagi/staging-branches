@@ -6,5 +6,4 @@ branches: []
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches:
-        - jt/sync-screen-session-status # Sept 5, Jonathan T
+    branches: []
