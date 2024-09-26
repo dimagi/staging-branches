@@ -52,6 +52,7 @@ branches:
     - jc/investigate-deactivation-when-invited # Jing Sep 17
     - gh/repeaters/count-overdue-by-partition # Graham Sep 18
     - em/formplayer-session-cookie-headers  # Evan Sep 20
+    - ad/allow-web-user-case-property-recipient # Addison Sep 26
 submodules:
   submodules/langcodes:
     trunk: master
