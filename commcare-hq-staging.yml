@@ -53,6 +53,7 @@ branches:
     - gh/repeaters/count-overdue-by-partition # Graham Sep 18
     - ad/allow-web-user-case-property-recipient # Addison Sep 26
     - gh/dedupe/no-matching-case-metric # Graham Oct 1
+    - jls/b5-export-list  # Jenny Oct 1
 submodules:
   submodules/langcodes:
     trunk: master
