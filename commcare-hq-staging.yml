@@ -52,6 +52,7 @@ branches:
     - jc/investigate-deactivation-when-invited # Jing Sep 17
     - gh/repeaters/count-overdue-by-partition # Graham Sep 18
     - ad/allow-web-user-case-property-recipient # Addison Sep 26
+    - gh/dedupe/no-matching-case-metric # Graham Oct 1
 submodules:
   submodules/langcodes:
     trunk: master
