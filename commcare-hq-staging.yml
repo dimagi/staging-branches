@@ -54,7 +54,6 @@ branches:
     - ad/allow-web-user-case-property-recipient # Addison Sep 26
     - gh/dedupe/no-matching-case-metric # Graham Oct 1
     - jls/b5-export-list  # Jenny Oct 1
-    - ap+js/b5-migration # Jenny Oct 1
 submodules:
   submodules/langcodes:
     trunk: master
