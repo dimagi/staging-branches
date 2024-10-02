@@ -41,7 +41,7 @@ branches:
     - em/set-correct-content-type  # Evan Sep 11
     - ze/add-review-assignment-btn-id # Zandre Sept 13
     - rc/test-epic-integration # Robert Sept 13
-    - jt/add-custom-data-web-user-invite # Jonathan Sept 13
+    # - jt/add-custom-data-web-user-invite # Jonathan Sept 13
     - bmb/import-status-error-toggle-fix  # Biyeun sep 15
     - dependabot/npm_and_yarn/leaflet-1.9.4 # Jenny Sept 16
     - dependabot/pip/requirements/lxml-5.3.0 # Jenny Sept 16
