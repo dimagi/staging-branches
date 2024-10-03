@@ -55,6 +55,8 @@ branches:
     - ap+js/b5-migration # Jenny Oct 3
     - mk/disable-browser-download-from-menu # MK Oct 3
     - ze/error-handling-reverting-mobile-ucr-version # Zandre Oct 3
+    - es/2sticky2furious #Addison Oct 3
+    - ad/open-persistent-menu # Addison Oct 3
 submodules:
   submodules/langcodes:
     trunk: master
