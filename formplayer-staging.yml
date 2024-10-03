@@ -2,7 +2,8 @@
 
 trunk: master
 name: autostaging
-branches: []
+branches:
+  - jt/smartlink-with-eof # Jonathan T. Oct 3
 submodules:
   libs/commcare:
     trunk: formplayer
