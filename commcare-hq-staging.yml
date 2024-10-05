@@ -57,6 +57,7 @@ branches:
     - ze/error-handling-reverting-mobile-ucr-version # Zandre Oct 3
     - es/2sticky2furious #Addison Oct 3
     - ad/open-persistent-menu # Addison Oct 3
+    - mk/fix-case-grouping-page # MK Oct 6
 submodules:
   submodules/langcodes:
     trunk: master
