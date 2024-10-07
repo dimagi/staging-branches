@@ -4,7 +4,9 @@ trunk: master
 name: autostaging
 branches:
   - jt/smartlink-with-eof # Jonathan T. Oct 3
+  - ml/lang-slug-metadata # Minha Oct 7
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches: []
+    branches:
+      - ml/lang_slug_metadata_commcare # Minha Oct 7
