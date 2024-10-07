@@ -54,6 +54,7 @@ branches:
     - jls/b5-export-list  # Jenny Oct 1
     - ap+js/b5-migration # Jenny Oct 3
     - mk/disable-browser-download-from-menu # MK Oct 3
+    - mk/disable-browser-download-from-menu-followup # MK Oct 7
     - ze/error-handling-reverting-mobile-ucr-version # Zandre Oct 3
     - es/2sticky2furious #Addison Oct 3
     - ad/open-persistent-menu # Addison Oct 3
