@@ -38,7 +38,6 @@ branches:
     - cs/return-cca-roles-for-domain-user # Charl Aug 9
     - nh/iter_repeaters_1  # Norman Aug 25
     - es/2sticky2furious  # Ethan Aug 30
-    - em/set-correct-content-type  # Evan Sep 11
     - rc/test-epic-integration # Robert Sept 13
     - bmb/import-status-error-toggle-fix  # Biyeun sep 15
     - jls/upgrade-some-stuff # Jenny Sept 18
