@@ -45,7 +45,7 @@ branches:
     - jls/standardize-multimedia-bulk-upload # Jenny Sept 17
     - ze/trigger-es-index-geospatial-enable # Zandre Sept 17
     # - jc/log-out-deactivated-user # Jing Sep 17
-    - jc/investigate-deactivation-when-invited # Jing Sep 17
+    # - jc/investigate-deactivation-when-invited # Jing Sep 17
     - gh/repeaters/count-overdue-by-partition # Graham Sep 18
     - ad/allow-web-user-case-property-recipient # Addison Sep 26
     - jls/b5-export-list  # Jenny Oct 1
