@@ -57,8 +57,5 @@ branches:
     - ay/geocase-case-property-for-assignment+ze/trigger-es-index-geospatial-enable # Ajeet Oct 9
     - ay/geocase-case-property-for-assignment # Ajeet Oct 9
     - gh/case-import/tag-with-domain # Graham Oct 9
-submodules:
-  submodules/langcodes:
-    trunk: master
-    branches:
-        - em/return-jsonresponse  # Evan Sep 11
+    - em/fix-enterprise-components.ko  # Evan Oct 9
+submodules: { }
