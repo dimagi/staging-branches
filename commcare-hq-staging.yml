@@ -54,6 +54,7 @@ branches:
     - ad/open-persistent-menu # Addison Oct 3
     - jc/resolve-resource-conflict-for-couchuser # Jing Oct 8
     - jc/caught-validation-error-when-update-group-via-api # Jing Oct 8
+    - ay/geocase-case-property-for-assignment+ze/trigger-es-index-geospatial-enable # Ajeet Oct 9
     - ay/geocase-case-property-for-assignment # Ajeet Oct 9
 submodules:
   submodules/langcodes:
