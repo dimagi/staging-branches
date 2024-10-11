@@ -57,4 +57,5 @@ branches:
     - ay/geocase-case-property-for-assignment+ze/trigger-es-index-geospatial-enable # Ajeet Oct 9
     - ay/geocase-case-property-for-assignment # Ajeet Oct 9
     - gh/xmlsec/1.3.14 # Graham Oct 9
+    - ml/proper-long-text-wrap-case-list # Minha Oct 11
 submodules: { }
