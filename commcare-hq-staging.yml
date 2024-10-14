@@ -46,7 +46,6 @@ branches:
     # - jc/log-out-deactivated-user # Jing Sep 17
     # - jc/investigate-deactivation-when-invited # Jing Sep 17
     - gh/repeaters/count-overdue-by-partition # Graham Sep 18
-    - ad/allow-web-user-case-property-recipient # Addison Sep 26
     - jls/b5-export-list  # Jenny Oct 1
     - ap+js/b5-migration # Jenny Oct 3
     - ze/error-handling-reverting-mobile-ucr-version # Zandre Oct 3
@@ -55,7 +54,6 @@ branches:
     - jc/resolve-resource-conflict-for-couchuser # Jing Oct 8
     - jc/caught-validation-error-when-update-group-via-api # Jing Oct 8
     - ay/geocase-case-property-for-assignment+ze/trigger-es-index-geospatial-enable # Ajeet Oct 9
-    - ay/geocase-case-property-for-assignment # Ajeet Oct 9
     - gh/xmlsec/1.3.14 # Graham Oct 9
     - ml/proper-long-text-wrap-case-list # Minha Oct 11
     - jt/escape-input # Jonathan T. Oct 11
