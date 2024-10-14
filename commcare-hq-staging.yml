@@ -59,4 +59,6 @@ branches:
     - gh/xmlsec/1.3.14 # Graham Oct 9
     - ml/proper-long-text-wrap-case-list # Minha Oct 11
     - jt/escape-input # Jonathan T. Oct 11
+    - ap/update-django
+    - ap/upgrade-DOMpurify
 submodules: { }
