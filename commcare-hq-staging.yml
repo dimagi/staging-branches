@@ -59,4 +59,5 @@ branches:
     - jt/escape-input # Jonathan T. Oct 11
     - ap/update-django
     - ap/upgrade-DOMpurify
+    - ap/add-domain-in-sumologic-task
 submodules: { }
