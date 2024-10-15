@@ -52,7 +52,6 @@ branches:
     - es/2sticky2furious #Addison Oct 3
     - ad/open-persistent-menu # Addison Oct 3
     - jc/resolve-resource-conflict-for-couchuser # Jing Oct 8
-    - jc/caught-validation-error-when-update-group-via-api # Jing Oct 8
     - ay/geocase-case-property-for-assignment+ze/trigger-es-index-geospatial-enable # Ajeet Oct 9
     - jt/escape-input # Jonathan T. Oct 11
     - ap/update-django
