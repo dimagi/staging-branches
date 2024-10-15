@@ -44,8 +44,8 @@ branches:
     # - jc/log-out-deactivated-user # Jing Sep 17
     # - jc/investigate-deactivation-when-invited # Jing Sep 17
     - gh/repeaters/count-overdue-by-partition # Graham Sep 18
-    #- jls/b5-export-list  # Jenny Oct 1
-    #- ap+js/b5-migration # Jenny Oct 3
+    - jls/b5-export-list  # Jenny Oct 1
+    - ap+js/b5-migration # Jenny Oct 3
     - ze/error-handling-reverting-mobile-ucr-version # Zandre Oct 3
     - es/2sticky2furious #Addison Oct 3
     - ad/open-persistent-menu # Addison Oct 3
