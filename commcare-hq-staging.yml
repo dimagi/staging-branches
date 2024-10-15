@@ -60,4 +60,5 @@ branches:
     - ap/upgrade-DOMpurify
     - ap/add-domain-in-sumologic-task
     - jls/fragment-ko-components # Jenny Oct 14
+    - jls/requirejs-drop-subprocess # Jenny Oct 15
 submodules: { }
