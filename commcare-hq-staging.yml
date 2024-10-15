@@ -59,4 +59,5 @@ branches:
     - ap/update-django
     - ap/upgrade-DOMpurify
     - ap/add-domain-in-sumologic-task
+    - jls/fragment-ko-components # Jenny Oct 14
 submodules: { }
