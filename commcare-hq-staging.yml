@@ -31,7 +31,7 @@ branches:
     - mk/add-migration-form-cases-location-data # MK Mar 26
     # - smh/web-invite-update # Steph April 16
     - dmr/remove-css-grid-polyfill  # Danny Apr 22
-    - jls/build_requirejs-performance # Jenny June 13
+    #- jls/build_requirejs-performance # Jenny June 13
     #- mk/add-form-load-meta # MK June 19
     #- bmb/htmx-tests  # Biyeun June 25 (new branch forthcoming)
     - df/remove_unicel_gateway # Dreese July 31
