@@ -58,4 +58,5 @@ branches:
     - ap/add-domain-in-sumologic-task
     - jls/fragment-ko-components # Jenny Oct 14
     - es/shaded-z-index  # Ethan Oct 15
+    - jt/user_data_field_targeted_require # Jonathan T. Oct 15
 submodules: { }
