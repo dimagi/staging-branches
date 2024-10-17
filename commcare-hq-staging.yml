@@ -39,7 +39,6 @@ branches:
     - rc/test-epic-integration # Robert Sept 13
     - bmb/import-status-error-toggle-fix  # Biyeun sep 15
     - jls/upgrade-some-stuff # Jenny Sept 18
-    - jls/standardize-multimedia-bulk-upload # Jenny Sept 17
     - ze/trigger-es-index-geospatial-enable # Zandre Sept 17
     # - jc/log-out-deactivated-user # Jing Sep 17
     # - jc/investigate-deactivation-when-invited # Jing Sep 17
@@ -58,4 +57,5 @@ branches:
     - jt/user_data_field_targeted_require # Jonathan T. Oct 15
     - bmb/htmx-and-alpine  # Biyeun Oct 16
     - ze/trigger-es-index-geospatial-enable # Zandre Oct 17
+    - jls/drop-MediaUploader # Jenny Oct 17
 submodules: { }
