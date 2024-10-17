@@ -50,7 +50,6 @@ branches:
     - es/2sticky2furious #Addison Oct 3
     - ad/open-persistent-menu # Addison Oct 3
     - jc/resolve-resource-conflict-for-couchuser # Jing Oct 8
-    - ay/geocase-case-property-for-assignment+ze/trigger-es-index-geospatial-enable # Ajeet Oct 9
     - jt/escape-input # Jonathan T. Oct 11
     - ap/update-django
     - ap/upgrade-DOMpurify
@@ -58,4 +57,5 @@ branches:
     - es/shaded-z-index  # Ethan Oct 15
     - jt/user_data_field_targeted_require # Jonathan T. Oct 15
     - bmb/htmx-and-alpine  # Biyeun Oct 16
+    - ze/trigger-es-index-geospatial-enable # Zandre Oct 17
 submodules: { }
