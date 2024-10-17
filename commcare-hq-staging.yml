@@ -48,7 +48,7 @@ branches:
     - ze/error-handling-reverting-mobile-ucr-version # Zandre Oct 3
     - es/2sticky2furious #Addison Oct 3
     - ad/open-persistent-menu # Addison Oct 3
-    - jc/resolve-resource-conflict-for-couchuser # Jing Oct 8
+    # - jc/resolve-resource-conflict-for-couchuser # Jing Oct 8
     - jt/escape-input # Jonathan T. Oct 11
     - ap/update-django
     - ap/upgrade-DOMpurify
