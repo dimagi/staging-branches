@@ -58,4 +58,5 @@ branches:
     - bmb/htmx-and-alpine  # Biyeun Oct 16
     - ze/trigger-es-index-geospatial-enable # Zandre Oct 17
     - jls/drop-MediaUploader # Jenny Oct 17
+    - ml/empty-element-multimedia-bug # Minha Oct 17
 submodules: { }
