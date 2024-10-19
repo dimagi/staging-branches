@@ -53,10 +53,8 @@ branches:
     - ap/update-django
     - ap/upgrade-DOMpurify
     - ap/add-domain-in-sumologic-task
-    - es/shaded-z-index  # Ethan Oct 15
     - jt/user_data_field_targeted_require # Jonathan T. Oct 15
     - bmb/htmx-and-alpine  # Biyeun Oct 16
     - ze/trigger-es-index-geospatial-enable # Zandre Oct 17
     - jls/drop-MediaUploader # Jenny Oct 17
-    - ml/empty-element-multimedia-bug # Minha Oct 17
 submodules: { }
