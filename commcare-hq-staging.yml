@@ -57,4 +57,7 @@ branches:
     - bmb/htmx-and-alpine  # Biyeun Oct 16
     - ze/trigger-es-index-geospatial-enable # Zandre Oct 17
     - jls/drop-MediaUploader # Jenny Oct 17
+    - ay/enable-tagmanager-india-env # Ajeet Oct 21
+    - ay/default-to-v2-ucr # Ajeet Oct 21
+    - ay/remove-mobile-ucr-dropdown # Ajeet Oct 21
 submodules: { }
