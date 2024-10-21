@@ -39,7 +39,7 @@ branches:
     - rc/test-epic-integration # Robert Sept 13
     - bmb/import-status-error-toggle-fix  # Biyeun sep 15
     - jls/upgrade-some-stuff # Jenny Sept 18
-    - ze/trigger-es-index-geospatial-enable # Zandre Sept 17
+    # - ze/trigger-es-index-geospatial-enable # Zandre Sept 17
     # - jc/log-out-deactivated-user # Jing Sep 17
     # - jc/investigate-deactivation-when-invited # Jing Sep 17
     - gh/repeaters/count-overdue-by-partition # Graham Sep 18
