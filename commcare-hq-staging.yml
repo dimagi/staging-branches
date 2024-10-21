@@ -55,6 +55,7 @@ branches:
     - ap/add-domain-in-sumologic-task
     - jt/user_data_field_targeted_require # Jonathan T. Oct 15
     - bmb/htmx-and-alpine  # Biyeun Oct 16
+    - ze/trigger-es-index-geospatial-enable+master
     - ze/trigger-es-index-geospatial-enable # Zandre Oct 17
     - jls/drop-MediaUploader # Jenny Oct 17
     - ay/enable-tagmanager-india-env # Ajeet Oct 21
