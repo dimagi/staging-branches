@@ -60,4 +60,5 @@ branches:
     - ay/enable-tagmanager-india-env # Ajeet Oct 21
     - ay/default-to-v2-ucr # Ajeet Oct 21
     - ay/remove-mobile-ucr-dropdown # Ajeet Oct 21
+    - gh/webpack/data-interfaces # Graham Oct 21
 submodules: { }
