@@ -43,18 +43,14 @@ branches:
     # - jc/log-out-deactivated-user # Jing Sep 17
     # - jc/investigate-deactivation-when-invited # Jing Sep 17
     - gh/repeaters/count-overdue-by-partition # Graham Sep 18
-    - jls/b5-export-list  # Jenny Oct 1
     - ap+js/b5-migration # Jenny Oct 3
     - ze/error-handling-reverting-mobile-ucr-version # Zandre Oct 3
     - es/2sticky2furious #Addison Oct 3
     - ad/open-persistent-menu # Addison Oct 3
     # - jc/resolve-resource-conflict-for-couchuser # Jing Oct 8
-    - jt/escape-input # Jonathan T. Oct 11
-    - ap/update-django
     - ap/upgrade-DOMpurify
     - ap/add-domain-in-sumologic-task
     - jt/user_data_field_targeted_require # Jonathan T. Oct 15
-    - bmb/htmx-and-alpine  # Biyeun Oct 16
     - ze/trigger-es-index-geospatial-enable # Zandre Oct 17
     - jls/drop-MediaUploader # Jenny Oct 17
     - ay/enable-tagmanager-india-env # Ajeet Oct 21
