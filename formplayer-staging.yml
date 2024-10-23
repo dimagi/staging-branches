@@ -3,7 +3,6 @@
 trunk: master
 name: autostaging
 branches:
-  - jt/smartlink-with-eof # Jonathan T. Oct 3
   - ml/lang-slug-metadata # Minha Oct 7
 submodules:
   libs/commcare:
