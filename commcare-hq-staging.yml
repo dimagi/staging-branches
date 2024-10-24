@@ -50,7 +50,8 @@ branches:
     - ap/upgrade-DOMpurify
     - ap/add-domain-in-sumologic-task
     - jt/user_data_field_targeted_require # Jonathan T. Oct 15
-    - ze/trigger-es-index-geospatial-enable # Zandre Oct 17
+    # - ze/trigger-es-index-geospatial-enable # Zandre Oct 17
+    - ze/trigger-es-index-geospatial-enable-test # Zandre Oct 24
     - jls/drop-MediaUploader # Jenny Oct 17
     - ay/enable-tagmanager-india-env # Ajeet Oct 21
     - ay/default-to-v2-ucr # Ajeet Oct 21
