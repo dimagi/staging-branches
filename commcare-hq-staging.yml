@@ -43,7 +43,7 @@ branches:
     # - jc/log-out-deactivated-user # Jing Sep 17
     # - jc/investigate-deactivation-when-invited # Jing Sep 17
     - gh/repeaters/count-overdue-by-partition # Graham Sep 18
-    - ze/error-handling-reverting-mobile-ucr-version # Zandre Oct 3
+    # - ze/error-handling-reverting-mobile-ucr-version # Zandre Oct 3
     - es/2sticky2furious #Addison Oct 3
     - ad/open-persistent-menu # Addison Oct 3
     # - jc/resolve-resource-conflict-for-couchuser # Jing Oct 8
@@ -54,8 +54,8 @@ branches:
     - ze/trigger-es-index-geospatial-enable-test # Zandre Oct 24
     - jls/drop-MediaUploader # Jenny Oct 17
     - ay/enable-tagmanager-india-env # Ajeet Oct 21
-    - ay/default-to-v2-ucr # Ajeet Oct 21
-    - ay/remove-mobile-ucr-dropdown # Ajeet Oct 21
+    # - ay/default-to-v2-ucr # Ajeet Oct 21
+    # - ay/remove-mobile-ucr-dropdown # Ajeet Oct 21
     - gh/webpack/data-interfaces # Graham Oct 21
     - es/api-v1  # Ethan Oct 22
     - ml/multimedia-bug-lang-change # Minha Oct 22
