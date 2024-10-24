@@ -64,4 +64,5 @@ branches:
     - jt/user_data_field_targeted_require_import_export # Jonathan T. Oct 23
     - ce/connect-messaging-base # Cal Oct 23
     - rc/require-profile-on-invite-webuser # Robert Oct 24
+    - jls/b5-locations # Jenny Oct 24
 submodules: { }
