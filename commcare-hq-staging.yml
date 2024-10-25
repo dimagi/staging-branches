@@ -40,13 +40,11 @@ branches:
     - bmb/import-status-error-toggle-fix  # Biyeun sep 15
     - jls/upgrade-some-stuff # Jenny Sept 18
     # - ze/trigger-es-index-geospatial-enable # Zandre Sept 17
-    # - jc/log-out-deactivated-user # Jing Sep 17
     # - jc/investigate-deactivation-when-invited # Jing Sep 17
     - gh/repeaters/count-overdue-by-partition # Graham Sep 18
     # - ze/error-handling-reverting-mobile-ucr-version # Zandre Oct 3
     - es/2sticky2furious #Addison Oct 3
     - ad/open-persistent-menu # Addison Oct 3
-    # - jc/resolve-resource-conflict-for-couchuser # Jing Oct 8
     - ap/upgrade-DOMpurify
     - ap/add-domain-in-sumologic-task
     # - ze/trigger-es-index-geospatial-enable # Zandre Oct 17
