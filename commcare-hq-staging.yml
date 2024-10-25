@@ -49,7 +49,6 @@ branches:
     # - jc/resolve-resource-conflict-for-couchuser # Jing Oct 8
     - ap/upgrade-DOMpurify
     - ap/add-domain-in-sumologic-task
-    - jt/user_data_field_targeted_require # Jonathan T. Oct 15
     # - ze/trigger-es-index-geospatial-enable # Zandre Oct 17
     - ze/trigger-es-index-geospatial-enable-test # Zandre Oct 24
     - jls/drop-MediaUploader # Jenny Oct 17
@@ -65,4 +64,5 @@ branches:
     - ce/connect-messaging-base # Cal Oct 23
     - rc/require-profile-on-invite-webuser # Robert Oct 24
     #- jls/b5-locations # Jenny Oct 24
+    - jt/invite-page-custom-data-bug # Jonathan T. Oct 24
 submodules: { }
