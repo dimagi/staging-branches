@@ -55,7 +55,6 @@ branches:
     - ay/enable-tagmanager-india-env # Ajeet Oct 21
     # - ay/default-to-v2-ucr # Ajeet Oct 21
     # - ay/remove-mobile-ucr-dropdown # Ajeet Oct 21
-    - gh/webpack/data-interfaces # Graham Oct 21
     - es/api-v1  # Ethan Oct 22
     - ml/multimedia-bug-lang-change # Minha Oct 22
     - ml/remove-profile-on-user-deactivation-removal # Minha Oct 22
