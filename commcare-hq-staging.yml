@@ -38,7 +38,6 @@ branches:
     - es/2sticky2furious  # Ethan Aug 30
     - rc/test-epic-integration # Robert Sept 13
     - bmb/import-status-error-toggle-fix  # Biyeun sep 15
-    - jls/upgrade-some-stuff # Jenny Sept 18
     # - ze/trigger-es-index-geospatial-enable # Zandre Sept 17
     # - jc/investigate-deactivation-when-invited # Jing Sep 17
     - gh/repeaters/count-overdue-by-partition # Graham Sep 18
@@ -63,6 +62,5 @@ branches:
     #- jls/b5-locations # Jenny Oct 24
     - jt/custom_user_data_UI_change # Jonathan T. Oct 25
     - ap/add-client-for-es-6 # Amit Oct 28
-    - jls/remove-enable-js-function # Jenny Oct 28
     - jc/catch-tenant-id-error # Jing Oct 28
 submodules: { }
