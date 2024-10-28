@@ -60,6 +60,7 @@ branches:
     - jt/user_data_field_targeted_require_import_export # Jonathan T. Oct 23
     - rc/require-profile-on-invite-webuser # Robert Oct 24
     - jls/b5-locations # Jenny Oct 24
+    - jls/webpack-finish-data-interfaces # Jenny Oct 28
     - ap/add-client-for-es-6 # Amit Oct 28
     - jc/catch-tenant-id-error # Jing Oct 28
 submodules: { }
