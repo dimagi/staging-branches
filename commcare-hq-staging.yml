@@ -63,4 +63,5 @@ branches:
     #- jls/b5-locations # Jenny Oct 24
     - jt/custom_user_data_UI_change # Jonathan T. Oct 25
     - ap/add-client-for-es-6 # Amit Oct 28
+    - jls/remove-enable-js-function # Jenny Oct 28
 submodules: { }
