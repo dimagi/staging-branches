@@ -63,4 +63,5 @@ branches:
     - jls/webpack-finish-data-interfaces # Jenny Oct 28
     - ap/add-client-for-es-6 # Amit Oct 28
     - jc/catch-tenant-id-error # Jing Oct 28
+    - mk/3942-ga-app-dependencies # MK Oct 29
 submodules: { }
