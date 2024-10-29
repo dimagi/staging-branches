@@ -48,7 +48,6 @@ branches:
     - ap/add-domain-in-sumologic-task
     # - ze/trigger-es-index-geospatial-enable # Zandre Oct 17
     - ze/trigger-es-index-geospatial-enable-test # Zandre Oct 24
-    - jls/drop-MediaUploader # Jenny Oct 17
     - ay/enable-tagmanager-india-env # Ajeet Oct 21
     - es/api-v1  # Ethan Oct 22
     - ml/multimedia-bug-lang-change # Minha Oct 22
@@ -62,5 +61,4 @@ branches:
     - ap/add-client-for-es-6 # Amit Oct 28
     - jc/catch-tenant-id-error # Jing Oct 28
     - mk/3942-ga-app-dependencies # MK Oct 29
-    - orangejenny-patch-16 # Jenny Oct 29
 submodules: { }
