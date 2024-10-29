@@ -37,7 +37,6 @@ branches:
     - nh/iter_repeaters_1  # Norman Aug 25
     - es/2sticky2furious  # Ethan Aug 30
     - rc/test-epic-integration # Robert Sept 13
-    - bmb/import-status-error-toggle-fix  # Biyeun sep 15
     # - ze/trigger-es-index-geospatial-enable # Zandre Sept 17
     # - jc/investigate-deactivation-when-invited # Jing Sep 17
     - gh/repeaters/count-overdue-by-partition # Graham Sep 18
