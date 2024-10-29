@@ -64,4 +64,5 @@ branches:
     - ap/add-client-for-es-6 # Amit Oct 28
     - jc/catch-tenant-id-error # Jing Oct 28
     - mk/3942-ga-app-dependencies # MK Oct 29
+    - orangejenny-patch-16 # Jenny Oct 29
 submodules: { }
