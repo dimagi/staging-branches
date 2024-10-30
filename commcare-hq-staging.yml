@@ -60,4 +60,5 @@ branches:
     - jc/catch-tenant-id-error # Jing Oct 28
     - mk/3942-ga-app-dependencies # MK Oct 29
     - ad/module-badges-UI # Addison Oct 29
+    - ay/fix-clear-polygon-filter # Ajeet Oct 30
 submodules: { }
