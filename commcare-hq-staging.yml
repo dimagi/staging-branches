@@ -43,7 +43,6 @@ branches:
     # - ze/error-handling-reverting-mobile-ucr-version # Zandre Oct 3
     - es/2sticky2furious #Addison Oct 3
     - ad/open-persistent-menu # Addison Oct 3
-    - ap/upgrade-DOMpurify
     - ap/add-domain-in-sumologic-task
     # - ze/trigger-es-index-geospatial-enable # Zandre Oct 17
     - ay/ix-clear-polygon-filter+ze/trigger-es-index-geospatial-enable-test # Ajeet Oct 30
