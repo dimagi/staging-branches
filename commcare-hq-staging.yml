@@ -54,7 +54,6 @@ branches:
     - ce/connect-messaging-base # Cal Oct 23   
     - rc/require-profile-on-invite-webuser # Robert Oct 24
     - jls/b5-locations # Jenny Oct 24
-    - ap/add-client-for-es-6 # Amit Oct 28
     - jc/catch-tenant-id-error # Jing Oct 28
     - mk/3942-ga-app-dependencies # MK Oct 29
     - ad/module-badges-UI # Addison Oct 29
