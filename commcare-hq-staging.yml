@@ -48,7 +48,6 @@ branches:
     - ay/ix-clear-polygon-filter+ze/trigger-es-index-geospatial-enable-test # Ajeet Oct 30
     - ze/trigger-es-index-geospatial-enable-test # Zandre Oct 24
     # - ay/enable-tagmanager-india-env # Ajeet Oct 21
-    - es/api-v1  # Ethan Oct 22
     - ml/multimedia-bug-lang-change # Minha Oct 22
     - ml/remove-profile-on-user-deactivation-removal # Minha Oct 22
     - temp-api-fix # Charl Oct 23
