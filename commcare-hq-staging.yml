@@ -56,4 +56,5 @@ branches:
     - jc/catch-tenant-id-error # Jing Oct 28
     - ad/module-badges-UI # Addison Oct 29
     - ay/fix-clear-polygon-filter # Ajeet Oct 30
+    - jls/webpack-easiest-20-percent # Jenny Oct 30
 submodules: { }
