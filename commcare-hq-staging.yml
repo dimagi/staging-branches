@@ -56,4 +56,5 @@ branches:
     - ad/module-badges-UI # Addison Oct 29
     - ay/fix-clear-polygon-filter # Ajeet Oct 30
     - jls/webpack-easiest-20-percent # Jenny Oct 30
+    - riese/recipient_filter_source # Martin Halloween
 submodules: { }
