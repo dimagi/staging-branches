@@ -3,10 +3,8 @@
 trunk: master
 name: autostaging
 branches:
-  - ml/lang-slug-metadata # Minha Oct 7
   - sb3 # Shubham Nov 2
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches:
-      - ml/partially-reverse-lang-slug-metadata-work # Minha Oct 22
+    branches: []
