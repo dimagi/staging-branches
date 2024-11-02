@@ -4,6 +4,7 @@ trunk: master
 name: autostaging
 branches:
   - ml/lang-slug-metadata # Minha Oct 7
+  - sb3 # Shubham Nov 2
 submodules:
   libs/commcare:
     trunk: formplayer
