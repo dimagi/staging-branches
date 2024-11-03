@@ -58,4 +58,5 @@ branches:
     - ce/connect-messaging-base+riese/recipient_filter_source
     - riese/recipient_filter_source # Martin Halloween
     - em/self-signup-for-paid-plan  # Evan Oct 31
+    - update-resource-url # MK/CS Nov 3
 submodules: { }
