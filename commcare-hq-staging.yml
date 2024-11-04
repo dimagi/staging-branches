@@ -57,4 +57,5 @@ branches:
     - update-resource-url # MK/CS Nov 3
     - bmb/toggle-case-importer-fix-2  # Biyeun Nov 4
     - ad/fix-map-pin-scroll-bug # Addison Nov 4
+    - es/module-badges  # Ethan Nov 4
 submodules: { }
