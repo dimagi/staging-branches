@@ -55,4 +55,5 @@ branches:
     - riese/recipient_filter_source # Martin Halloween
     - em/self-signup-for-paid-plan  # Evan Oct 31
     - update-resource-url # MK/CS Nov 3
+    - bmb/toggle-case-importer-fix-2  # Biyeun Nov 4
 submodules: { }
