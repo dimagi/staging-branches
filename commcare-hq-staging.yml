@@ -56,4 +56,5 @@ branches:
     - em/self-signup-for-paid-plan  # Evan Oct 31
     - update-resource-url # MK/CS Nov 3
     - bmb/toggle-case-importer-fix-2  # Biyeun Nov 4
+    - ad/fix-map-pin-scroll-bug # Addison Nov 4
 submodules: { }
