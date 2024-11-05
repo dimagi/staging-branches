@@ -57,4 +57,5 @@ branches:
     - ad/fix-map-pin-scroll-bug # Addison Nov 4
     - es/module-badges  # Ethan Nov 4
     - jls/invalid-select2-icon-and-x # Jenny Nov 5
+    - revert-35325-revert-35286-jls/b5-locations # Jenny Nov 5
 submodules: { }
