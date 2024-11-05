@@ -46,13 +46,11 @@ branches:
     # - ay/enable-tagmanager-india-env # Ajeet Oct 21
     - ml/remove-profile-on-user-deactivation-removal # Minha Oct 22
     - ce/connect-messaging-base # Cal Oct 23   
-    - jc/catch-tenant-id-error # Jing Oct 28
     - ad/module-badges-UI # Addison Oct 29
     - ay/fix-clear-polygon-filter # Ajeet Oct 30
     - ce/connect-messaging-base+riese/recipient_filter_source
     - riese/recipient_filter_source # Martin Halloween
     - em/self-signup-for-paid-plan  # Evan Oct 31
-    - update-resource-url # MK/CS Nov 3
     - bmb/toggle-case-importer-fix-2  # Biyeun Nov 4
     - es/module-badges  # Ethan Nov 4
     - jls/invalid-select2-icon-and-x # Jenny Nov 5
