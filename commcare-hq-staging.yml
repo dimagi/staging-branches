@@ -46,7 +46,6 @@ branches:
     # - ay/enable-tagmanager-india-env # Ajeet Oct 21
     - ml/remove-profile-on-user-deactivation-removal # Minha Oct 22
     - ce/connect-messaging-base # Cal Oct 23   
-    - jls/b5-locations # Jenny Oct 24
     - jc/catch-tenant-id-error # Jing Oct 28
     - ad/module-badges-UI # Addison Oct 29
     - ay/fix-clear-polygon-filter # Ajeet Oct 30
