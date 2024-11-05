@@ -58,4 +58,5 @@ branches:
     - es/module-badges  # Ethan Nov 4
     - jls/invalid-select2-icon-and-x # Jenny Nov 5
     - revert-35325-revert-35286-jls/b5-locations # Jenny Nov 5
+    - redundantNavMenuOnSearch # Robert Nov 5
 submodules: { }
