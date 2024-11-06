@@ -43,11 +43,9 @@ branches:
     # - ze/trigger-es-index-geospatial-enable # Zandre Oct 17
     - ay/ix-clear-polygon-filter+ze/trigger-es-index-geospatial-enable-test # Ajeet Oct 30
     - ze/trigger-es-index-geospatial-enable-test # Zandre Oct 24
-    # - ay/enable-tagmanager-india-env # Ajeet Oct 21
     - ml/remove-profile-on-user-deactivation-removal # Minha Oct 22
     - ce/connect-messaging-base # Cal Oct 23   
     - ad/module-badges-UI # Addison Oct 29
-    - ay/fix-clear-polygon-filter # Ajeet Oct 30
     - ce/connect-messaging-base+riese/recipient_filter_source
     - riese/recipient_filter_source # Martin Halloween
     - em/self-signup-for-paid-plan  # Evan Oct 31
