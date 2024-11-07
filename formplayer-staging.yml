@@ -3,7 +3,7 @@
 trunk: master
 name: autostaging
 branches:
-  # - sb3 # Shubham Nov 2
+  - sb3 # Shubham Nov 2
   - persistentMenuAutoSelectFix # Shubham Nov 5
 submodules:
   libs/commcare:
