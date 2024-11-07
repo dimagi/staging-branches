@@ -45,7 +45,6 @@ branches:
     - ze/trigger-es-index-geospatial-enable-test # Zandre Oct 24
     - ml/remove-profile-on-user-deactivation-removal # Minha Oct 22
     - ce/connect-messaging-base # Cal Oct 23   
-    - ad/module-badges-UI # Addison Oct 29
     - ce/connect-messaging-base+riese/recipient_filter_source
     - riese/recipient_filter_source # Martin Halloween
     - em/self-signup-for-paid-plan  # Evan Oct 31
