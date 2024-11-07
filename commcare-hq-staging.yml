@@ -55,4 +55,5 @@ branches:
     - revert-35325-revert-35286-jls/b5-locations # Jenny Nov 5
     - redundantNavMenuOnSearch # Robert Nov 5
     - ad/module-badge-accessibility # Addison Nov 6
+    - jls/styleguide-crispy # Jenny Nov 7
 submodules: { }
