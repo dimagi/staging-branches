@@ -50,7 +50,7 @@ branches:
     - riese/recipient_filter_source # Martin Halloween
     - em/self-signup-for-paid-plan  # Evan Oct 31
     - bmb/toggle-case-importer-fix-2  # Biyeun Nov 4
-    - es/module-badges  # Ethan Nov 4
+    # - es/module-badges  # Ethan Nov 4
     - jls/invalid-select2-icon-and-x # Jenny Nov 5
     - revert-35325-revert-35286-jls/b5-locations # Jenny Nov 5
     - redundantNavMenuOnSearch # Robert Nov 5
