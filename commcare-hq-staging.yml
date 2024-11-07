@@ -56,4 +56,5 @@ branches:
     - ad/module-badge-accessibility # Addison Nov 6
     - jls/styleguide-crispy # Jenny Nov 7
     - rc/validate-required-profile-api-bulk-upload # Robert Nov7
+    - riese/read_only_select_toggle # Martin Nov 7
 submodules: { }
