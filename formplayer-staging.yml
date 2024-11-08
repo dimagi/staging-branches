@@ -5,6 +5,7 @@ name: autostaging
 branches:
   - sb3 # Shubham Nov 2
   - persistentMenuAutoSelectFix # Shubham Nov 5
+  - make-form-title-translatable # Ahmad Nov 8
 submodules:
   libs/commcare:
     trunk: formplayer
