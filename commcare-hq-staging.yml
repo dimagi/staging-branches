@@ -52,7 +52,6 @@ branches:
     # - es/module-badges  # Ethan Nov 4
     - redundantNavMenuOnSearch # Robert Nov 5
     - ad/module-badge-accessibility # Addison Nov 6
-    - rc/validate-required-profile-api-bulk-upload # Robert Nov7
     - riese/read_only_select_toggle # Martin Nov 7
     #- jls/b5-domain-split # Jenny Nov 7
 submodules: { }
