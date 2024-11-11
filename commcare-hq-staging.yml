@@ -55,4 +55,5 @@ branches:
     - jls/webpack-bx  # Jenny Nov 11
     - jls/b5-domain-split # Jenny Nov 7
     - jls/delete-toggles-deleted-domains # Jenny Nov 11
+    - riese/location_ids_fix # Martin Nov 11
 submodules: { }
