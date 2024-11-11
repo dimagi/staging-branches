@@ -51,7 +51,6 @@ branches:
     # - es/module-badges  # Ethan Nov 4
     - redundantNavMenuOnSearch # Robert Nov 5
     - ad/module-badge-accessibility # Addison Nov 6
-    - jls/webpack-bx  # Jenny Nov 11
     - jls/b5-domain-split # Jenny Nov 7
     - riese/location_ids_fix # Martin Nov 11
 submodules: { }
