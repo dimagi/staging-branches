@@ -53,5 +53,5 @@ branches:
     - ad/module-badge-accessibility # Addison Nov 6
     - jls/b5-domain-split # Jenny Nov 7
     - riese/location_ids_fix # Martin Nov 11
-    - ze/geospatial-renaming # Zandre Nov 12
+    # - ze/geospatial-renaming # Zandre Nov 12
 submodules: { }
