@@ -43,6 +43,7 @@ branches:
     # - ze/trigger-es-index-geospatial-enable # Zandre Oct 17
     - ay/ix-clear-polygon-filter+ze/trigger-es-index-geospatial-enable-test # Ajeet Oct 30
     - ze/trigger-es-index-geospatial-enable-test # Zandre Oct 24
+    - ze/geospatial-renaming # Zandre Nov 12
     - ce/connect-messaging-base # Cal Oct 23   
     - ce/connect-messaging-base+riese/recipient_filter_source
     - riese/recipient_filter_source # Martin Halloween
@@ -53,5 +54,4 @@ branches:
     - ad/module-badge-accessibility # Addison Nov 6
     - jls/b5-domain-split # Jenny Nov 7
     - riese/location_ids_fix # Martin Nov 11
-    # - ze/geospatial-renaming # Zandre Nov 12
 submodules: { }
