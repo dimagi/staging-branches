@@ -53,6 +53,5 @@ branches:
     - redundantNavMenuOnSearch # Robert Nov 5
     - ad/module-badge-accessibility # Addison Nov 6
     - jls/b5-domain-split # Jenny Nov 7
-    - jls/webpack-next-20-percent # Jenny Nov 12
     - jls/webpack-alwaysIncludeApps # Jenny Nov 12
 submodules: { }
