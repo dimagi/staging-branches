@@ -44,8 +44,6 @@ branches:
     - ay/ix-clear-polygon-filter+ze/trigger-es-index-geospatial-enable-test # Ajeet Oct 30
     - ze/trigger-es-index-geospatial-enable-test # Zandre Oct 24
     - ze/geospatial-renaming # Zandre Nov 12
-    - ce/connect-messaging-base # Cal Oct 23   
-    - ce/connect-messaging-base+riese/recipient_filter_source
     - riese/recipient_filter_source # Martin Halloween
     - em/self-signup-for-paid-plan  # Evan Oct 31
     - bmb/toggle-case-importer-fix-2  # Biyeun Nov 4
@@ -54,4 +52,5 @@ branches:
     - ad/module-badge-accessibility # Addison Nov 6
     - jls/b5-domain-split # Jenny Nov 7
     - jls/webpack-b5-jquery-fix  # Jenny Nov 14
+    - ce/connect-messaging-base # Cal Nov 14
 submodules: { }
