@@ -53,6 +53,6 @@ branches:
     - redundantNavMenuOnSearch # Robert Nov 5
     - ad/module-badge-accessibility # Addison Nov 6
     - jls/b5-domain-split # Jenny Nov 7
-    - jls/webpack-alwaysIncludeApps # Jenny Nov 12
+    - jls/webpack-b5-jquery-fix  # Jenny Nov 14
     - jt/signature_pad-update # Jonathan T. Nov 12
 submodules: { }
