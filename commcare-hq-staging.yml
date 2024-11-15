@@ -55,4 +55,5 @@ branches:
     - jls/webpack-tempus-dominus  # Jenny Nov 14
     - ce/connect-messaging # Cal Nov 14
     - jc/location-safe-multimedia-exports # Jing Nov 15
+    - rc/location-update-warnings # Robert Nov 15
 submodules: { }
