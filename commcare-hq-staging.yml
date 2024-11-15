@@ -52,5 +52,6 @@ branches:
     - ad/module-badge-accessibility # Addison Nov 6
     - jls/b5-domain-split # Jenny Nov 7
     - jls/webpack-translations-app  # Jenny Nov 14
+    - jls/webpack-tempus-dominus  # Jenny Nov 14
     - ce/connect-messaging # Cal Nov 14
 submodules: { }
