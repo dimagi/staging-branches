@@ -53,4 +53,5 @@ branches:
     - ce/connect-messaging # Cal Nov 14
     - jc/location-safe-multimedia-exports # Jing Nov 15
     - rc/location-update-warnings # Robert Nov 15
+    - em/gtm-restrict-tag-types  # Evan Nov 15
 submodules: { }
