@@ -32,7 +32,6 @@ branches:
     #- jls/build_requirejs-performance # Jenny June 13
     #- mk/add-form-load-meta # MK June 19
     #- bmb/htmx-tests  # Biyeun June 25 (new branch forthcoming)
-    - df/remove_unicel_gateway # Dreese July 31
     - nh/iter_repeaters_1  # Norman Aug 25
     - rc/test-epic-integration # Robert Sept 13
     # - ze/trigger-es-index-geospatial-enable # Zandre Sept 17
