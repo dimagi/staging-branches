@@ -40,9 +40,8 @@ branches:
     - gh/repeaters/count-overdue-by-partition # Graham Sep 18
     # - ze/error-handling-reverting-mobile-ucr-version # Zandre Oct 3
     - ap/add-domain-in-sumologic-task
-    # - ze/trigger-es-index-geospatial-enable # Zandre Oct 17
-    - ay/ix-clear-polygon-filter+ze/trigger-es-index-geospatial-enable-test # Ajeet Oct 30
-    - ze/trigger-es-index-geospatial-enable-test # Zandre Oct 24
+    # - ay/ix-clear-polygon-filter+ze/trigger-es-index-geospatial-enable-test # Ajeet Oct 30
+    - ze/trigger-es-index-geospatial-enable # Zandre Oct 17
     - ze/geospatial-renaming # Zandre Nov 12
     - em/self-signup-for-paid-plan  # Evan Oct 31
     - bmb/toggle-case-importer-fix-2  # Biyeun Nov 4
