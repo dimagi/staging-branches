@@ -43,7 +43,6 @@ branches:
     - ze/trigger-es-index-geospatial-enable+ze/geospatial-renaming # Zandre Nov 18
     - ze/trigger-es-index-geospatial-enable # Zandre Oct 17
     - ze/geospatial-renaming # Zandre Nov 12
-    - em/self-signup-for-paid-plan  # Evan Oct 31
     - bmb/toggle-case-importer-fix-2  # Biyeun Nov 4
     # - es/module-badges  # Ethan Nov 4
     - redundantNavMenuOnSearch # Robert Nov 5
@@ -56,6 +55,5 @@ branches:
     - riese/rm_enterprise_user_management # Martin Nov 18
     - riese/rm_dont_close_patient_ext # Martin Nov 18
     - ad/app-could-not-be-found-logging # Addison Nov 18
-    - gh/case-import/row-limit # Graham Nov 18
     - es/csql-datetimes  # Ethan Nov 19
 submodules: { }
