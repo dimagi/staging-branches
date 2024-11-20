@@ -44,6 +44,7 @@ branches:
     - bmb/toggle-case-importer-fix-2  # Biyeun Nov 4
     # - es/module-badges  # Ethan Nov 4
     - redundantNavMenuOnSearch # Robert Nov 5
+    - jls/webpack-jquery-ui+jls/b5-domain-split
     - jls/b5-domain-split # Jenny Nov 7
     - ce/connect-messaging # Cal Nov 14
     - jc/location-safe-multimedia-exports # Jing Nov 15
