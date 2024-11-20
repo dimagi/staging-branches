@@ -45,7 +45,6 @@ branches:
     # - es/module-badges  # Ethan Nov 4
     - redundantNavMenuOnSearch # Robert Nov 5
     - jls/b5-domain-split # Jenny Nov 7
-    - jls/webpack-tempus-dominus  # Jenny Nov 14
     - ce/connect-messaging # Cal Nov 14
     - jc/location-safe-multimedia-exports # Jing Nov 15
     - rc/location-update-warnings # Robert Nov 15
@@ -54,4 +53,5 @@ branches:
     - riese/rm_dont_close_patient_ext # Martin Nov 18
     - ad/app-could-not-be-found-logging # Addison Nov 18
     - es/csql-datetimes  # Ethan Nov 19
+    - jls/webpack-jquery-ui # Jenny Nov 20
 submodules: { }
