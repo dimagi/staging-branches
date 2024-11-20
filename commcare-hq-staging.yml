@@ -48,7 +48,6 @@ branches:
     - jls/b5-domain-split # Jenny Nov 7
     - ce/connect-messaging # Cal Nov 14
     - jc/location-safe-multimedia-exports # Jing Nov 15
-    - rc/location-update-warnings # Robert Nov 15
     - ml/upgrade-ckeditor # Minha Nov 15
     - riese/rm_enterprise_user_management # Martin Nov 18
     - riese/rm_dont_close_patient_ext # Martin Nov 18
