@@ -54,4 +54,5 @@ branches:
     - ad/app-could-not-be-found-logging # Addison Nov 18
     - es/csql-datetimes  # Ethan Nov 19
     - jls/webpack-jquery-ui # Jenny Nov 20
+    - jls/webpack-reminders # Jenny Nov 20
 submodules: { }
