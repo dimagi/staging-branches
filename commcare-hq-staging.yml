@@ -25,13 +25,11 @@ branches:
     - ml/case-deletion # minha OCt 25
     #- bmb/bha-style-tweaks-001  # Biyeun March 7
     - ap/es6/minor-refactor-reindex-cmd # Amit March 12
-    #- bmb/sprint-sketch-001
     - mk/add-migration-form-cases-location-data # MK Mar 26
     # - smh/web-invite-update # Steph April 16
     - dmr/remove-css-grid-polyfill  # Danny Apr 22
     #- jls/build_requirejs-performance # Jenny June 13
     #- mk/add-form-load-meta # MK June 19
-    #- bmb/htmx-tests  # Biyeun June 25 (new branch forthcoming)
     - nh/iter_repeaters_1  # Norman Aug 25
     - rc/test-epic-integration # Robert Sept 13
     # - ze/trigger-es-index-geospatial-enable # Zandre Sept 17
@@ -53,4 +51,5 @@ branches:
     - riese/log_in_as_scroll # Martin Nov 21
     - es/skip-fixtures  # Ethan Nov 21
     - rc/fix-replace-call-to-missing-fp-func # Robert Nov 21
+    - bmb/data-cleaning-prototype  # Biyeun Nov 21
 submodules: { }
