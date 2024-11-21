@@ -51,4 +51,5 @@ branches:
     - riese/rm_enterprise_user_management # Martin Nov 18
     - riese/rm_dont_close_patient_ext # Martin Nov 18
     - riese/log_in_as_scroll # Martin Nov 21
+    - es/skip-fixtures  # Ethan Nov 21
 submodules: { }
