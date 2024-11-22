@@ -51,4 +51,5 @@ branches:
     - riese/log_in_as_scroll # Martin Nov 21
     - es/skip-fixtures  # Ethan Nov 21
     - bmb/data-cleaning-prototype  # Biyeun Nov 21
+    - es/use-dedicated-index  # Ethan Nov 22
 submodules: { }
