@@ -43,7 +43,6 @@ branches:
     # - es/module-badges  # Ethan Nov 4
     # - redundantNavMenuOnSearch # Robert Nov 5
     - jls/b5-domain-split # Jenny Nov 7
-    - jls/webpack-multiselect # Jenny Nov 21
     - ce/connect-messaging # Cal Nov 14
     - jc/location-safe-multimedia-exports # Jing Nov 15
     - riese/rm_enterprise_user_management # Martin Nov 18
