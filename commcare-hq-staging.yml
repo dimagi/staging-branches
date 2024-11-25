@@ -43,7 +43,6 @@ branches:
     # - es/module-badges  # Ethan Nov 4
     # - redundantNavMenuOnSearch # Robert Nov 5
     - jls/webpack-groups # Jenny Nov 22
-    - jls/helpers-cookie # Jenny Nov 25
     - jls/webpack-hqmedia # Jenny Nov 25
     - ce/connect-messaging # Cal Nov 14
     - jc/location-safe-multimedia-exports # Jing Nov 15
