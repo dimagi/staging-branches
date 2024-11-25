@@ -44,6 +44,7 @@ branches:
     # - redundantNavMenuOnSearch # Robert Nov 5
     - jls/webpack-groups # Jenny Nov 22
     - jls/webpack-hqmedia # Jenny Nov 25
+    - jls/remove-redundant-ace-scripts # Jenny Nov 25
     - ce/connect-messaging # Cal Nov 14
     - jc/location-safe-multimedia-exports # Jing Nov 15
     - riese/rm_enterprise_user_management # Martin Nov 18
