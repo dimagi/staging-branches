@@ -42,14 +42,11 @@ branches:
     - bmb/toggle-case-importer-fix-2  # Biyeun Nov 4
     # - es/module-badges  # Ethan Nov 4
     # - redundantNavMenuOnSearch # Robert Nov 5
-    - jls/webpack-groups # Jenny Nov 22
-    - jls/webpack-hqmedia # Jenny Nov 25
-    - jls/remove-redundant-ace-scripts # Jenny Nov 25
+    - jls/webpack-more-misc # Jenny Nov 25
     - ce/connect-messaging # Cal Nov 14
     - jc/location-safe-multimedia-exports # Jing Nov 15
     - riese/rm_enterprise_user_management # Martin Nov 18
     - riese/rm_dont_close_patient_ext # Martin Nov 18
-    - es/skip-fixtures  # Ethan Nov 21
     - bmb/data-cleaning-prototype  # Biyeun Nov 21
     - riese/filename_broadcast # Martin Nov 25
 submodules: { }
