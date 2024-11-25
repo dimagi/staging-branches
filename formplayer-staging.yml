@@ -5,6 +5,7 @@ name: autostaging
 branches:
   - sb3 # Shubham Nov 2
   - make-form-title-translatable # Ahmad Nov 8
+  - reinstateAutoSelectRevert # Shubham Nov 25
 submodules:
   libs/commcare:
     trunk: formplayer
