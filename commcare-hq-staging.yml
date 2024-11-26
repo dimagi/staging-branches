@@ -49,4 +49,5 @@ branches:
     - riese/rm_dont_close_patient_ext # Martin Nov 18
     - bmb/data-cleaning-prototype  # Biyeun Nov 21
     - riese/filename_broadcast # Martin Nov 25
+    - ay/restrict-datasource-rebuild-uat # Ajeet Nov 26
 submodules: { }
