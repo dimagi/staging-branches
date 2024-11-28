@@ -42,7 +42,6 @@ branches:
     - bmb/toggle-case-importer-fix-2  # Biyeun Nov 4
     # - es/module-badges  # Ethan Nov 4
     # - redundantNavMenuOnSearch # Robert Nov 5
-    - jls/clashing-bundle-template-tags # Jenny Nov 27
     - ce/connect-messaging # Cal Nov 14
     - jc/location-safe-multimedia-exports # Jing Nov 15
     - riese/rm_enterprise_user_management # Martin Nov 18
