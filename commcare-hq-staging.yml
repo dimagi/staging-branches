@@ -37,7 +37,6 @@ branches:
     - ap/add-domain-in-sumologic-task
     # - ay/ix-clear-polygon-filter+ze/trigger-es-index-geospatial-enable-test # Ajeet Oct 30
     - ze/trigger-es-index-geospatial-enable # Zandre Oct 17
-    - bmb/toggle-case-importer-fix-2  # Biyeun Nov 4
     # - es/module-badges  # Ethan Nov 4
     # - redundantNavMenuOnSearch # Robert Nov 5
     - ce/connect-messaging # Cal Nov 14
