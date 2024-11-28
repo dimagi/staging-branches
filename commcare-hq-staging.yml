@@ -32,10 +32,8 @@ branches:
     #- mk/add-form-load-meta # MK June 19
     - nh/iter_repeaters_1  # Norman Aug 25
     - rc/test-epic-integration # Robert Sept 13
-    # - ze/trigger-es-index-geospatial-enable # Zandre Sept 17
     # - jc/investigate-deactivation-when-invited # Jing Sep 17
     - gh/repeaters/count-overdue-by-partition # Graham Sep 18
-    # - ze/error-handling-reverting-mobile-ucr-version # Zandre Oct 3
     - ap/add-domain-in-sumologic-task
     # - ay/ix-clear-polygon-filter+ze/trigger-es-index-geospatial-enable-test # Ajeet Oct 30
     - ze/trigger-es-index-geospatial-enable # Zandre Oct 17
