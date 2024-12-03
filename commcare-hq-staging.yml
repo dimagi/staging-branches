@@ -36,7 +36,6 @@ branches:
     - gh/repeaters/count-overdue-by-partition # Graham Sep 18
     - ap/add-domain-in-sumologic-task
     # - ay/ix-clear-polygon-filter+ze/trigger-es-index-geospatial-enable-test # Ajeet Oct 30
-    - ze/trigger-es-index-geospatial-enable # Zandre Oct 17
     # - es/module-badges  # Ethan Nov 4
     # - redundantNavMenuOnSearch # Robert Nov 5
     - ce/connect-messaging # Cal Nov 14
