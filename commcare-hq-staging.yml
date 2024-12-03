@@ -42,9 +42,9 @@ branches:
     - riese/filename_broadcast # Martin Nov 25
     - ay/restrict-datasource-rebuild-uat # Ajeet Nov 26
     - cs/SC-4053-add-metric-to-datadog # Charl Nov 28
-    - jt/create-user-api-validation # Jonathan T. Nov 29
     - jc/commcare_client_version_compliance_report # Jing Dec 2
     - mk/4001-force-async-processing # MK Dec 3
     - gh/lookup-tables/row-limit  # Graham Dec 3
     - riese/case_owner_with_sec_location # Martin Dec 3
+    - jt/encrypt-api-key # Jonathan T. Dec 3
 submodules: { }
