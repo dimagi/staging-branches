@@ -8,7 +8,6 @@ branches:
     # see https://confluence.dimagi.com/display/GTD/Deploy+Process#DeployProcess-vellum
     - vellum-staging  # DO NOT REMOVE this is similar to "autostaging", but for vellum
     - ce/bulk-case-search # Cal July 6
-    - gh/remove-duplicate-kafka-seq-code # Graham Dec 26
     - sr/gis-select # Sravan 7 Aug
     # - mk/2900-cache-domain-case-props # MK Oct 19
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
