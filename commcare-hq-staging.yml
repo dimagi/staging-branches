@@ -40,13 +40,12 @@ branches:
     # - es/module-badges  # Ethan Nov 4
     # - redundantNavMenuOnSearch # Robert Nov 5
     - ce/connect-messaging # Cal Nov 14
-    - jc/location-safe-multimedia-exports # Jing Nov 15
     - riese/rm_enterprise_user_management # Martin Nov 18
     - riese/rm_dont_close_patient_ext # Martin Nov 18
     - bmb/data-cleaning-prototype  # Biyeun Nov 21
     - riese/filename_broadcast # Martin Nov 25
     - ay/restrict-datasource-rebuild-uat # Ajeet Nov 26
     - cs/SC-4053-add-metric-to-datadog # Charl Nov 28
-    - jc/upgrade-tornado # Jing Nov 28
     - jt/create-user-api-validation # Jonathan T. Nov 29
+    - jc/commcare_client_version_compliance_report # Jing Dec 2
 submodules: { }
