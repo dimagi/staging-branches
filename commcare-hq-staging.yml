@@ -35,7 +35,6 @@ branches:
     # - ay/ix-clear-polygon-filter+ze/trigger-es-index-geospatial-enable-test # Ajeet Oct 30
     # - es/module-badges  # Ethan Nov 4
     # - redundantNavMenuOnSearch # Robert Nov 5
-    - ce/connect-messaging # Cal Nov 14
     - riese/rm_enterprise_user_management # Martin Nov 18
     - riese/rm_dont_close_patient_ext # Martin Nov 18
     - bmb/data-cleaning-prototype  # Biyeun Nov 21
@@ -46,5 +45,7 @@ branches:
     - mk/4001-force-async-processing # MK Dec 3
     - gh/lookup-tables/row-limit  # Graham Dec 3
     - riese/case_owner_with_sec_location # Martin Dec 3
+    - jt/encrypt-api-key+ce/connect-messaging #Jonathan T. Dec 3
+    - ce/connect-messaging # Cal Nov 14
     - jt/encrypt-api-key # Jonathan T. Dec 3
 submodules: { }
