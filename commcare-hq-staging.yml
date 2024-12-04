@@ -44,7 +44,6 @@ branches:
     - jc/commcare_client_version_compliance_report # Jing Dec 2
     - mk/4001-force-async-processing # MK Dec 3
     - gh/lookup-tables/row-limit  # Graham Dec 3
-    - riese/case_owner_with_sec_location # Martin Dec 3
     - jt/encrypt-api-key+ce/connect-messaging #Jonathan T. Dec 3
     - ce/connect-messaging # Cal Nov 14
     - jt/encrypt-api-key # Jonathan T. Dec 3
