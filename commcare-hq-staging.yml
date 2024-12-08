@@ -47,4 +47,5 @@ branches:
     - ce/connect-messaging # Cal Nov 14
     - jt/encrypt-api-key # Jonathan T. Dec 3
     - ml/editable-webuser-invite # Minha Dec 4
+    - jc/enterprise-console-metric # Jing Dec 7
 submodules: { }
