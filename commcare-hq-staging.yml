@@ -33,7 +33,6 @@ branches:
     # - jc/investigate-deactivation-when-invited # Jing Sep 17
     - ap/add-domain-in-sumologic-task
     # - ay/ix-clear-polygon-filter+ze/trigger-es-index-geospatial-enable-test # Ajeet Oct 30
-    # - es/module-badges  # Ethan Nov 4
     # - redundantNavMenuOnSearch # Robert Nov 5
     - riese/rm_enterprise_user_management # Martin Nov 18
     - riese/rm_dont_close_patient_ext # Martin Nov 18
@@ -48,4 +47,5 @@ branches:
     - jt/encrypt-api-key # Jonathan T. Dec 3
     - ml/editable-webuser-invite # Minha Dec 4
     - gh/django/4.2.17 # Graham Dec 9
+    - es/mobile-ucr  # Ethan Dec 9
 submodules: { }
