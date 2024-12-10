@@ -44,5 +44,6 @@ branches:
     - ce/connect-messaging # Cal Nov 14
     - ml/editable-webuser-invite # Minha Dec 4
     - es/mobile-ucr  # Ethan Dec 9
+    - jls/webpack-scheduling-old # Jenny Dec 10
     - cs/SC-4053-datadog-metric-for-feature-historic-usage-management-cmd # Charl Dec 10
 submodules: { }
