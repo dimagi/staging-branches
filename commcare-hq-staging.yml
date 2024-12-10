@@ -41,9 +41,7 @@ branches:
     - ay/restrict-datasource-rebuild-uat # Ajeet Nov 26
     - jc/commcare_client_version_compliance_report # Jing Dec 2
     - mk/4001-force-async-processing # MK Dec 3
-    - jt/encrypt-api-key+ce/connect-messaging #Jonathan T. Dec 3
     - ce/connect-messaging # Cal Nov 14
-    - jt/encrypt-api-key # Jonathan T. Dec 3
     - ml/editable-webuser-invite # Minha Dec 4
     - es/mobile-ucr  # Ethan Dec 9
     - cs/SC-4053-datadog-metric-for-feature-historic-usage-management-cmd # Charl Dec 10
