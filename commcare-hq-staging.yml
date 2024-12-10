@@ -46,4 +46,5 @@ branches:
     - es/mobile-ucr  # Ethan Dec 9
     - jls/webpack-scheduling-old # Jenny Dec 10
     - cs/SC-4053-datadog-metric-for-feature-historic-usage-management-cmd # Charl Dec 10
+    - riese/log_filter # Martin Dec 10
 submodules: { }
