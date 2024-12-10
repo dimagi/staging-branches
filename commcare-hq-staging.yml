@@ -39,7 +39,6 @@ branches:
     - bmb/data-cleaning-prototype  # Biyeun Nov 21
     - riese/filename_broadcast # Martin Nov 25
     - ay/restrict-datasource-rebuild-uat # Ajeet Nov 26
-    - cs/SC-4053-add-metric-to-datadog # Charl Nov 28
     - jc/commcare_client_version_compliance_report # Jing Dec 2
     - mk/4001-force-async-processing # MK Dec 3
     - jt/encrypt-api-key+ce/connect-messaging #Jonathan T. Dec 3
