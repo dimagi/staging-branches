@@ -43,7 +43,6 @@ branches:
     - mk/4001-force-async-processing # MK Dec 3
     - ce/connect-messaging # Cal Nov 14
     - ml/editable-webuser-invite # Minha Dec 4
-    - es/mobile-ucr  # Ethan Dec 9
     - jls/webpack-someuserreports  # Jenny Dec 11
     - cs/SC-4053-datadog-metric-for-feature-historic-usage-management-cmd # Charl Dec 10
     - riese/log_filter # Martin Dec 10
