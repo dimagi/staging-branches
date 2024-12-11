@@ -47,4 +47,5 @@ branches:
     - jls/webpack-someuserreports  # Jenny Dec 11
     - cs/SC-4053-datadog-metric-for-feature-historic-usage-management-cmd # Charl Dec 10
     - riese/log_filter # Martin Dec 10
+    - rc/only-block-conditonal-alerts-with-ff # Robert Dec 11
 submodules: { }
