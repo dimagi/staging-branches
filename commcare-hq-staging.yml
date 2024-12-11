@@ -39,7 +39,7 @@ branches:
     - bmb/data-cleaning-prototype  # Biyeun Nov 21
     - riese/filename_broadcast # Martin Nov 25
     - ay/restrict-datasource-rebuild-uat # Ajeet Nov 26
-    # - jc/commcare_client_version_compliance_report # Jing Dec 2
+    - jc/commcare_client_version_compliance_report # Jing Dec 2
     - mk/4001-force-async-processing # MK Dec 3
     - ce/connect-messaging # Cal Nov 14
     - ml/editable-webuser-invite # Minha Dec 4
