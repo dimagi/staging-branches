@@ -41,7 +41,6 @@ branches:
     - ay/restrict-datasource-rebuild-uat # Ajeet Nov 26
     - jc/commcare_client_version_compliance_report # Jing Dec 2
     - mk/4001-force-async-processing # MK Dec 3
-    - ce/connect-messaging # Cal Nov 14
     - ml/editable-webuser-invite # Minha Dec 4
     - jls/webpack-someuserreports  # Jenny Dec 11
     - jls/js-renames # Jenny Dec 11
@@ -49,5 +48,7 @@ branches:
     - cs/SC-4053-datadog-metric-for-feature-historic-usage-management-cmd # Charl Dec 10
     - riese/log_filter # Martin Dec 10
     - rc/only-block-conditonal-alerts-with-ff # Robert Dec 11
+    - sr/connectid+ce/connect-messaging # Sravan Dec 12
     - sr/connectid # Sravan Dec 12
+    - ce/connect-messaging # Cal Nov 14
 submodules: { }
