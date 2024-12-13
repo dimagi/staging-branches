@@ -32,7 +32,6 @@ branches:
     - rc/test-epic-integration # Robert Sept 13
     # - jc/investigate-deactivation-when-invited # Jing Sep 17
     - ap/add-domain-in-sumologic-task
-    # - ay/ix-clear-polygon-filter+ze/trigger-es-index-geospatial-enable-test # Ajeet Oct 30
     # - redundantNavMenuOnSearch # Robert Nov 5
     - riese/rm_enterprise_user_management # Martin Nov 18
     - riese/rm_dont_close_patient_ext # Martin Nov 18
@@ -49,4 +48,6 @@ branches:
     - dm/responsive-forms # Daniel Dec 12
     - es/mobile-ucr  # Ethan Dec 12
     - jls/inddex-js-file # Jenny Dec 12
+    - ay/ucr-metrics-datadog+/mk/4001-force-async-processing # Ajeet Dec 13
+    - ay/optmise-disbursement-layer-creation # Ajeet Dec 13
 submodules: { }
