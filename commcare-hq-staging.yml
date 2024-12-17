@@ -45,6 +45,5 @@ branches:
     - dm/responsive-forms # Daniel Dec 12
     - jls/inddex-js-file # Jenny Dec 12
     - ay/ucr-metrics-datadog+/mk/4001-force-async-processing # Ajeet Dec 13
-    - ay/optmise-disbursement-layer-creation # Ajeet Dec 13
     - jt+jc/encryption_improvement_migration # Jonathan T. Dec 16
 submodules: { }
