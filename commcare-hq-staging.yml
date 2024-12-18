@@ -47,6 +47,4 @@ branches:
     - jls/inddex-js-file # Jenny Dec 12
     - ay/ucr-metrics-datadog+/mk/4001-force-async-processing # Ajeet Dec 13
     - jt+jc/encryption_improvement_migration # Jonathan T. Dec 16
-    - jc/enterprise-2fa-report # Jing Dec 17
-    - jc/remove-enterprise-console-ff # Jing Dec 17
 submodules: { }
