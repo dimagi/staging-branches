@@ -3,8 +3,7 @@
 trunk: master
 name: autostaging
 branches:
-  - make-form-title-translatable # Ahmad Nov 8
-  - reinstateAutoSelectRevert # Shubham Nov 27
+  - sb3 # Shubham 18 Dec
 submodules:
   libs/commcare:
     trunk: formplayer
