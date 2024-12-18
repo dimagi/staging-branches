@@ -44,7 +44,7 @@ branches:
     - ce/connect-messaging # Cal Nov 14
     - dm/responsive-forms # Daniel Dec 12
     - jls/responsive-forms # Jenny Dec 17
-    - jls/inddex-js-file # Jenny Dec 12
+    - jls/webpack-reports-dependencies # Jenny Dec 18
     - ay/ucr-metrics-datadog+/mk/4001-force-async-processing # Ajeet Dec 13
     - jt+jc/encryption_improvement_migration # Jonathan T. Dec 16
     - jc/fix-logic-in-is-out-of-date # Jing Dec 18
