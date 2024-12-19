@@ -48,5 +48,4 @@ branches:
     - ay/ucr-metrics-datadog+/mk/4001-force-async-processing # Ajeet Dec 13
     - jt+jc/encryption_improvement_migration # Jonathan T. Dec 16
     - em/remove_ensure_full_coverage  # Evan Dec 19
-    - gh/redis/5.2.1  # Graham Dec 19
 submodules: { }
