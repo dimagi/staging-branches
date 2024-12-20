@@ -44,10 +44,11 @@ branches:
     - ce/connect-messaging # Cal Nov 14
     - dm/responsive-forms # Daniel Dec 12
     - jls/responsive-forms # Jenny Dec 17
+    - ze/microplanning-markers-layer+jls/webpack-reports-dependencies # Zandre Dec 20
+    - ze/microplanning-markers-layer # Zandre Dec 20
     - jls/webpack-reports-dependencies # Jenny Dec 18 - please notify QA before removing this: QA-7353
     - ay/ucr-metrics-datadog+/mk/4001-force-async-processing # Ajeet Dec 13
     - jt+jc/encryption_improvement_migration # Jonathan T. Dec 16
     - em/remove_ensure_full_coverage  # Evan Dec 19
     - em/reg-email-on-template-apps-failure  # Evan Dec 19
-    - ze/microplanning-markers-layer # Zandre Dec 20
 submodules: { }
