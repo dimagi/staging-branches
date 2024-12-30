@@ -55,4 +55,5 @@ branches:
     - es/mobile-ucr  # Ethan Dec 23
     - es/case-search-vars  # Ethan Dec 23
     - jc/app_version_compliance_report # Jing Dec 24
+    - ad/persistent-menu-mouseover # Robert Dec 30
 submodules: { }
