@@ -56,6 +56,5 @@ branches:
     - es/case-search-vars  # Ethan Dec 23
     - jc/app_version_compliance_report # Jing Dec 24
     - ad/persistent-menu-mouseover # Robert Dec 30
-    - jc/fix-total-display-in-enterprise-tile # Dec 31
     - em/sign-up-page  # Evan Dec 31
 submodules: { }
