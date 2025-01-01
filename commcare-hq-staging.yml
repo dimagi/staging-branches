@@ -49,7 +49,6 @@ branches:
     - ay/ucr-metrics-datadog+/mk/4001-force-async-processing # Ajeet Dec 13
     - jt+jc/encryption_improvement_migration # Jonathan T. Dec 16
     - em/remove_ensure_full_coverage  # Evan Dec 19
-    - em/reg-email-on-template-apps-failure  # Evan Dec 19
     - riese/filename_break_text # Martin Dec 23
     - es/mobile-ucr  # Ethan Dec 23
     - es/case-search-vars  # Ethan Dec 23
