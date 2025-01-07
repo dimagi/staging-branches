@@ -39,7 +39,7 @@ branches:
     - sr/connectid+ce/connect-messaging # Sravan Dec 12
     - sr/connectid # Sravan Dec 12
     - ce/connect-messaging # Cal Nov 14
-    - ze/microplanning-markers-layer+jls/webpack-reports-dependencies # Zandre Dec 20
+    #- ze/microplanning-markers-layer+jls/webpack-reports-dependencies # Zandre Dec 20
     - ze/microplanning-markers-layer # Zandre Dec 20
     - jls/webpack-reports-dependencies # Jenny Dec 18 - please notify QA before removing this: QA-7353
     - jls/unfilter-device-logs-report # Jenny Jan 6
