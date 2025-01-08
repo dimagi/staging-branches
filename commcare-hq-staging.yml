@@ -41,7 +41,6 @@ branches:
     - ce/connect-messaging # Cal Nov 14
     - ze/microplanning-markers-layer # Zandre Dec 20
     - jls/webpack-reports-dependencies # Jenny Dec 18 - please notify QA before removing this: QA-7353
-    - jls/unfilter-device-logs-report # Jenny Jan 6
     - ay/ucr-metrics-datadog+/mk/4001-force-async-processing # Ajeet Dec 13
     - jt+jc/encryption_improvement_migration # Jonathan T. Dec 16
     - es/mobile-ucr  # Ethan Dec 23
