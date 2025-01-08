@@ -26,7 +26,6 @@ branches:
     - mk/add-migration-form-cases-location-data # MK Mar 26
     # - smh/web-invite-update # Steph April 16
     - dmr/remove-css-grid-polyfill  # Danny Apr 22
-    #- mk/add-form-load-meta # MK June 19
     - nh/iter_repeaters_1  # Norman Aug 25
     - rc/test-epic-integration # Robert Sept 13
     # - jc/investigate-deactivation-when-invited # Jing Sep 17
@@ -48,5 +47,4 @@ branches:
     - jc/app_version_compliance_report # Jing Dec 24
     - ad/persistent-menu-mouseover # Robert Dec 30
     - jls/webpack-web-apps # Jenny Jan 8
-    - mk/lower-limit-temp # Jan 8
 submodules: { }
