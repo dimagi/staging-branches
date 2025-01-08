@@ -50,5 +50,4 @@ branches:
     - ad/persistent-menu-mouseover # Robert Dec 30
     - jls/populate-inddex # Jenny Jan 7
     - jls/webpack-web-apps # Jenny Jan 8
-    - em/bugfix-calced-props-toggle  # Evan Jan 7
 submodules: { }
