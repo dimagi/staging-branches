@@ -48,4 +48,5 @@ branches:
     - ad/persistent-menu-mouseover # Robert Dec 30
     - jls/webpack-web-apps # Jenny Jan 8
     - jls/inddex-front-to-back # Jenny Jan 9
+    - riese/ga_form_submit # Martin Jan 9
 submodules: { }
