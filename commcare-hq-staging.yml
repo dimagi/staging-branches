@@ -39,7 +39,7 @@ branches:
     - sr/connectid # Sravan Dec 12
     - ce/connect-messaging # Cal Nov 14
     - ze/microplanning-markers-layer # Zandre Dec 20
-    - jls/inddex-js-options+jls/webpack-reports-dependencies
+    - jls/inddex-front-to-back+jls/webpack-reports-dependencies
     - jls/webpack-reports-dependencies # Jenny Dec 18 - please notify QA before removing this: QA-7353
     - ay/ucr-metrics-datadog+/mk/4001-force-async-processing # Ajeet Dec 13
     - jt+jc/encryption_improvement_migration # Jonathan T. Dec 16
