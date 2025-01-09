@@ -47,4 +47,5 @@ branches:
     - jc/app_version_compliance_report # Jing Dec 24
     - ad/persistent-menu-mouseover # Robert Dec 30
     - jls/webpack-web-apps # Jenny Jan 8
+    - jls/inddex-js-options # Jenny Jan 9
 submodules: { }
