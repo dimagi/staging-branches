@@ -46,5 +46,4 @@ branches:
     - jc/app_version_compliance_report # Jing Dec 24
     - jls/webpack-web-apps # Jenny Jan 8
     - riese/ga_form_submit # Martin Jan 9
-    - rc/app-not-found-error-on-cancel-alert # Robert Jan 10
 submodules: { }
