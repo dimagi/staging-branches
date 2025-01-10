@@ -39,15 +39,12 @@ branches:
     - sr/connectid # Sravan Dec 12
     - ce/connect-messaging # Cal Nov 14
     - ze/microplanning-markers-layer # Zandre Dec 20
-    #- jls/inddex-front-to-back+jls/webpack-reports-dependencies
-    #- jls/webpack-reports-dependencies # Jenny Dec 18 - please notify QA before removing this: QA-7353
+    - jls/webpack-reports-dependencies # Jenny Dec 18 - please notify QA before removing this: QA-7353
     - ay/ucr-metrics-datadog+/mk/4001-force-async-processing # Ajeet Dec 13
     - jt+jc/encryption_improvement_migration # Jonathan T. Dec 16
     - es/case-search-vars  # Ethan Dec 23
     - jc/app_version_compliance_report # Jing Dec 24
     - ad/persistent-menu-mouseover # Robert Dec 30
     - jls/webpack-web-apps # Jenny Jan 8
-    #- jls/inddex-front-to-back # Jenny Jan 9
-    - revert-35586-jls/inddex-js-file # Jenny Jan 10
     - riese/ga_form_submit # Martin Jan 9
 submodules: { }
