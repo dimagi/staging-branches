@@ -47,6 +47,7 @@ branches:
     - jc/app_version_compliance_report # Jing Dec 24
     - ad/persistent-menu-mouseover # Robert Dec 30
     - jls/webpack-web-apps # Jenny Jan 8
-    - jls/inddex-front-to-back # Jenny Jan 9
+    #- jls/inddex-front-to-back # Jenny Jan 9
+    - revert-35586-jls/inddex-js-file # Jenny Jan 10
     - riese/ga_form_submit # Martin Jan 9
 submodules: { }
