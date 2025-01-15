@@ -44,7 +44,7 @@ branches:
     - es/case-search-vars  # Ethan Dec 23
     - jc/app_version_compliance_report # Jing Dec 24
     - jls/webpack-web-apps # Jenny Jan 8
-    # - jls/webpack-mocha # Jenny Jan 13
+    - jls/mocha-experimental # Jenny Jan 15
     - riese/ga_form_submit # Martin Jan 9
     - ay/poc-celery-chain-clustering # Ajeet Jan 13
     - riese/invite_save_email # Martin Jan 15
