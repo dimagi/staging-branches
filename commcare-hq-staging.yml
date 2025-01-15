@@ -47,4 +47,5 @@ branches:
     - jls/webpack-mocha # Jenny Jan 13
     - riese/ga_form_submit # Martin Jan 9
     - ay/poc-celery-chain-clustering # Ajeet Jan 13
+    - riese/invite_save_email # Martin Jan 15
 submodules: { }
