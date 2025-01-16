@@ -44,7 +44,7 @@ branches:
     - jc/app_version_compliance_report # Jing Dec 24
     - jls/webpack-web-apps+riese/ga_form_submit
     - jls/webpack-web-apps # Jenny Jan 8
-    - jls/ucr-maps-test # Jenny Jan 16
+    - jls/ucr-maps # Jenny Jan 16
     - riese/ga_form_submit # Martin Jan 9
     - ay/poc-celery-chain-clustering # Ajeet Jan 13
     - es/tempus-dominus  # Ethan Jan 16
