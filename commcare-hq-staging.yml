@@ -47,4 +47,5 @@ branches:
     - es/tempus-dominus  # Ethan Jan 16
     - bmb/marketing-updates-round-003  # Biyeun Jan 17
     - ap/upgrade-stripe # Amit Jan 20
+    - cs/SC-4113-check-for-custom-callouts # Charl Jan 20
 submodules: { }
