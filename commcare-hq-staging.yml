@@ -21,14 +21,12 @@ branches:
     - ml/case-deletion+dm/sql-repeatrecord-pr3
     - ml/case-deletion # minha OCt 25
     #- bmb/bha-style-tweaks-001  # Biyeun March 7
-    - ap/es6/minor-refactor-reindex-cmd # Amit March 12
     - mk/add-migration-form-cases-location-data # MK Mar 26
     # - smh/web-invite-update # Steph April 16
     - dmr/remove-css-grid-polyfill  # Danny Apr 22
     - nh/iter_repeaters_1  # Norman Aug 25
     - rc/test-epic-integration # Robert Sept 13
     # - jc/investigate-deactivation-when-invited # Jing Sep 17
-    - ap/add-domain-in-sumologic-task
     - riese/rm_enterprise_user_management # Martin Nov 18
     - riese/rm_dont_close_patient_ext # Martin Nov 18
     - bmb/data-cleaning-prototype  # Biyeun Nov 21
@@ -48,4 +46,5 @@ branches:
     - ay/poc-celery-chain-clustering # Ajeet Jan 13
     - es/tempus-dominus  # Ethan Jan 16
     - bmb/marketing-updates-round-003  # Biyeun Jan 17
+    - ap/upgrade-stripe # Amit Jan 20
 submodules: { }
