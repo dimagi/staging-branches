@@ -48,5 +48,5 @@ branches:
     - bmb/marketing-updates-round-003  # Biyeun Jan 17
     - ap/upgrade-stripe # Amit Jan 20
     - cs/SC-4113-check-for-custom-callouts # Charl Jan 20
-    - bmb/reports-b5-003  # Biyeun Jan 21 (should only affect CaseListReport and AppliationStatusReport)
+    - bmb/b5-reports-staging  # Biyeun Jan 21 (should not affect any reports...background updates to infra)
 submodules: { }
