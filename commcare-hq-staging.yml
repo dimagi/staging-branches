@@ -50,4 +50,5 @@ branches:
     - bmb/b5-reports-staging  # Biyeun Jan 21
     - gh/rate-limiting/devices-per-user  # Graham Jan 21
     - gh/project-settings/b5-bug  # Graham Jan 22
+    - rc/ui-tweaks-persistent-menu-nav # Robert Jam 22
 submodules: { }
