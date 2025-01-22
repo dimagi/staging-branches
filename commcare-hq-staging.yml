@@ -47,6 +47,7 @@ branches:
     - bmb/b5-reports-staging  # Biyeun Jan 21
     - gh/rate-limiting/devices-per-user  # Graham Jan 21
     - rc/ui-tweaks-persistent-menu-nav # Robert Jam 22
+    - jls/webpack-app-manager-tests+jls/lint-app-manager
     - jls/lint-app-manager  # Jenny Jan 22
     - jls/webpack-app-manager-tests  # Jenny Jan 22
     - jls/reduce-app-manager-base-templates  # Jenny Jan 22
