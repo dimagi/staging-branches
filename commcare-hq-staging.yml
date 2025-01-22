@@ -39,8 +39,6 @@ branches:
     - ay/ucr-metrics-datadog+/mk/4001-force-async-processing # Ajeet Dec 13
     - es/case-search-vars  # Ethan Dec 23
     - jc/app_version_compliance_report # Jing Dec 24
-    - jls/webpack-web-apps+riese/ga_form_submit
-    - jls/webpack-web-apps # Jenny Jan 8
     - riese/ga_form_submit # Martin Jan 9
     - ay/poc-celery-chain-clustering # Ajeet Jan 13
     - es/tempus-dominus  # Ethan Jan 16
@@ -50,4 +48,7 @@ branches:
     - bmb/b5-reports-staging  # Biyeun Jan 21
     - gh/rate-limiting/devices-per-user  # Graham Jan 21
     - rc/ui-tweaks-persistent-menu-nav # Robert Jam 22
+    - jls/lint-app-manager  # Jenny Jan 22
+    - jls/webpack-app-manager-tests  # Jenny Jan 22
+    - jls/reduce-app-manager-base-templates  # Jenny Jan 22
 submodules: { }
