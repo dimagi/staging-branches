@@ -49,5 +49,4 @@ branches:
     - jls/lint-app-manager  # Jenny Jan 22
     - jls/webpack-app-manager-tests  # Jenny Jan 22
     - jls/reduce-app-manager-base-templates  # Jenny Jan 22
-    - jc/fix-slug # Jing Jan 22
 submodules: { }
