@@ -40,7 +40,6 @@ branches:
     - ay/poc-celery-chain-clustering # Ajeet Jan 13
     - es/tempus-dominus  # Ethan Jan 16
     - bmb/marketing-updates-round-003  # Biyeun Jan 17
-    - ap/upgrade-stripe # Amit Jan 20
     - cs/SC-4113-check-for-custom-callouts # Charl Jan 20
     - bmb/b5-reports-staging  # Biyeun Jan 21
     - gh/rate-limiting/devices-per-user  # Graham Jan 21
