@@ -24,7 +24,6 @@ branches:
     - mk/add-migration-form-cases-location-data # MK Mar 26
     # - smh/web-invite-update # Steph April 16
     - dmr/remove-css-grid-polyfill  # Danny Apr 22
-    - nh/iter_repeaters_1  # Norman Aug 25
     - rc/test-epic-integration # Robert Sept 13
     - riese/rm_enterprise_user_management # Martin Nov 18
     - riese/rm_dont_close_patient_ext # Martin Nov 18
@@ -39,13 +38,10 @@ branches:
     - riese/ga_form_submit # Martin Jan 9
     - ay/poc-celery-chain-clustering # Ajeet Jan 13
     - es/tempus-dominus  # Ethan Jan 16
-    - bmb/marketing-updates-round-003  # Biyeun Jan 17
     - cs/SC-4113-check-for-custom-callouts # Charl Jan 20
     - bmb/b5-reports-staging  # Biyeun Jan 21
     - gh/rate-limiting/devices-per-user  # Graham Jan 21
     - rc/ui-tweaks-persistent-menu-nav # Robert Jam 22
-    - jls/lint-app-manager  # Jenny Jan 22
-    - jls/webpack-app-manager-tests  # Jenny Jan 22
     - jls/reduce-app-manager-base-templates  # Jenny Jan 22
     - mjr/analytics-testing  # Matt Jan 23
 submodules: { }
