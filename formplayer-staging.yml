@@ -4,6 +4,7 @@ trunk: master
 name: autostaging
 branches:
   - sb3 # Shubham 18 Dec
+  - riese/rm_skip_fixtures # Martin Jan 24
 submodules:
   libs/commcare:
     trunk: formplayer
