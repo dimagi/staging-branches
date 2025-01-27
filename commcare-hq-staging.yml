@@ -44,5 +44,5 @@ branches:
     - rc/ui-tweaks-persistent-menu-nav # Robert Jam 22
     - jls/reduce-app-manager-base-templates  # Jenny Jan 22
     - mjr/analytics-testing  # Matt Jan 23
-    - nh/iter_repeaters_3  # Norman Jan 27
+    - nh/iter_repeaters_2  # Norman Jan 27
 submodules: { }
