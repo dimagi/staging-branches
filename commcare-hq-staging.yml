@@ -45,5 +45,6 @@ branches:
     - jls/reduce-app-manager-base-templates  # Jenny Jan 22
     - mjr/analytics-testing  # Matt Jan 23
     - nh/iter_repeaters_3  # Norman Jan 27
+    - riese/riese/persistent_menu_interaction+rc/ui-tweaks-persistent-menu-nav # Martin Jan 27
     - riese/persistent_menu_interaction # Martin Jan 27
 submodules: { }
