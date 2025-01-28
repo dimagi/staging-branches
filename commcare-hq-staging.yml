@@ -39,7 +39,6 @@ branches:
     - gh/rate-limiting/devices-per-user  # Graham Jan 21
     - mjr/analytics-testing  # Matt Jan 23
     - nh/iter_repeaters_3  # Norman Jan 27
-    - riese/riese/persistent_menu_interaction+rc/ui-tweaks-persistent-menu-nav # Martin Jan 27
     - riese/persistent_menu_interaction # Martin Jan 27
     - mk/4091-better-message
     - jc/debug-excel-integration # Jing Jan 28
