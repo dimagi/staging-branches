@@ -38,7 +38,6 @@ branches:
     - bmb/b5-reports-staging  # Biyeun Jan 21
     - gh/rate-limiting/devices-per-user  # Graham Jan 21
     - rc/ui-tweaks-persistent-menu-nav # Robert Jam 22
-    - jls/reduce-app-manager-base-templates  # Jenny Jan 22
     - mjr/analytics-testing  # Matt Jan 23
     - nh/iter_repeaters_3  # Norman Jan 27
     - riese/riese/persistent_menu_interaction+rc/ui-tweaks-persistent-menu-nav # Martin Jan 27
