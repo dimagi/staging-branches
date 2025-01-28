@@ -36,7 +36,6 @@ branches:
     - ay/ucr-metrics-datadog+/mk/4001-force-async-processing # Ajeet Dec 13
     - es/case-search-vars  # Ethan Dec 23
     - riese/ga_form_submit # Martin Jan 9
-    - ay/poc-celery-chain-clustering # Ajeet Jan 13
     - es/tempus-dominus  # Ethan Jan 16
     - cs/SC-4113-check-for-custom-callouts # Charl Jan 20
     - bmb/b5-reports-staging  # Biyeun Jan 21
