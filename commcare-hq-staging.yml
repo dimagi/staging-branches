@@ -44,4 +44,6 @@ branches:
     - jc/debug-excel-integration # Jing Jan 28
     - riese/quill+es/tempus-dominus+bmb/data-cleaning-prototype
     - riese/quill # Martin Jan 28
+    - jls/jls/app-manager-dependencies-hqwebapp # Jenny Jan 28
+    - jls/app-manager-dependencies-innocent # Jenny Jan 28
 submodules: { }
