@@ -46,5 +46,6 @@ branches:
     - riese/quill # Martin Jan 28
     - jls/jls/app-manager-dependencies-hqwebapp # Jenny Jan 28
     - jls/app-manager-dependencies-innocent # Jenny Jan 28
+    - jls/webpack-ui-element-remnants # Jenny Jan 29
     - gh/auth/api-key-as-password  # Graham Jan 28
 submodules: { }
