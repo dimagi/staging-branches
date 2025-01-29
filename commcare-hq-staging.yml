@@ -45,5 +45,4 @@ branches:
     - jls/webpack-ui-element-remnants # Jenny Jan 29
     - jls/kill-nvd3-decorators # Jenny Jan 29
     - gh/auth/api-key-as-password  # Graham Jan 28
-    - gh/auth/testing  # Graham Jan 28
 submodules: { }
