@@ -41,6 +41,7 @@ branches:
     - riese/persistent_menu_interaction # Martin Jan 27
     - mk/4091-better-message
     - jc/debug-excel-integration # Jing Jan 28
+    - riese/quill+es/tempus-dominus+bmb/data-cleaning-prototype+jls/kill-nvd3-decorators
     - riese/quill+es/tempus-dominus+bmb/data-cleaning-prototype
     - riese/quill # Martin Jan 28
     - jls/jls/app-manager-dependencies-hqwebapp # Jenny Jan 28
