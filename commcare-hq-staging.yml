@@ -36,7 +36,7 @@ branches:
     - es/tempus-dominus  # Ethan Jan 16
     - cs/SC-4113-check-for-custom-callouts # Charl Jan 20
     - bmb/b5-reports-staging  # Biyeun Jan 21
-    - mjr/analytics-testing  # Matt Jan 23
+    # - mjr/analytics-testing  # Matt Jan 23
     - nh/iter_repeaters_3  # Norman Jan 27
     - riese/quill+es/tempus-dominus+bmb/data-cleaning-prototype+jls/kill-nvd3-decorators
     - riese/quill+es/tempus-dominus+bmb/data-cleaning-prototype
