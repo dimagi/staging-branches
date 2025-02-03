@@ -45,6 +45,6 @@ branches:
     - gh/auth/api-key-as-password  # Graham Jan 28
     - mk/4092-avoid-parallel-builds # MK Feb 30
     - bmb/data-clean-cases-staging  # Biyeun Jan 30
-    - revert-35666-jt/cbc-migration-pt2  # Sravan Feb 2
+    # - revert-35666-jt/cbc-migration-pt2  # Sravan Feb 2
     - ze/kyc-config-page # Zandre Feb 3
 submodules: { }
