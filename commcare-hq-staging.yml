@@ -40,7 +40,7 @@ branches:
     - nh/iter_repeaters_3  # Norman Jan 27
     - riese/quill+es/tempus-dominus+bmb/data-cleaning-prototype+jls/kill-nvd3-decorators
     - riese/quill+es/tempus-dominus+bmb/data-cleaning-prototype
-    - riese/quill # Martin Jan 28
+    # - riese/quill # Martin Jan 28
     - jls/webpack-ui-element-remnants # Jenny Jan 29
     - gh/auth/api-key-as-password  # Graham Jan 28
     - mk/4092-avoid-parallel-builds # MK Feb 30
