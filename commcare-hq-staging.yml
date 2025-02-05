@@ -47,5 +47,5 @@ branches:
     # - revert-35666-jt/cbc-migration-pt2  # Sravan Feb 2
     - mk/better-table-exists # Feb 3
     # - ml/log-changes-to-invite-edits # Feb 4
-    - ap/es-translations # Feb 5
+    # - ap/es-translations # Feb 5
 submodules: { }
