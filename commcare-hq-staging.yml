@@ -29,7 +29,6 @@ branches:
     - cs/SC-4053-datadog-metric-for-feature-historic-usage-management-cmd # Charl Dec 10
     - sr/connectid+ce/connect-messaging # Sravan Dec 12
     - sr/connectid # Sravan Dec 12
-    - ce/connect-messaging # Cal Nov 14
     - ay/ucr-metrics-datadog+/mk/4001-force-async-processing # Ajeet Dec 13
     - es/case-search-vars  # Ethan Dec 23
     - riese/ga_form_submit # Martin Jan 9
@@ -45,7 +44,7 @@ branches:
     - bmb/data-clean-cases-staging  # Biyeun Jan 30
     # - revert-35666-jt/cbc-migration-pt2  # Sravan Feb 2
     - mk/better-table-exists # Feb 3
-    # - ml/log-changes-to-invite-edits # Feb 4
+    - ml/log-changes-to-invite-edits # Feb 4
     # - ap/es-translations # Amit Feb 5
     # - jc/fix-configurable-report # Jing Feb 5
 submodules: { }
