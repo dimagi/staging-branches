@@ -48,4 +48,5 @@ branches:
     - mk/better-table-exists # Feb 3
     # - ml/log-changes-to-invite-edits # Feb 4
     # - ap/es-translations # Feb 5
+    - jc/fix-configurable-report # Jing Feb 5
 submodules: { }
