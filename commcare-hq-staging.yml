@@ -27,6 +27,7 @@ branches:
     - bmb/data-cleaning-prototype  # Biyeun Nov 21
     # - ml/editable-webuser-invite # Minha Dec 4
     - cs/SC-4053-datadog-metric-for-feature-historic-usage-management-cmd # Charl Dec 10
+    - sr/connectid+ce/connect-messaging+ml/log-changes-to-invite-edits # Minha Feb 10
     - sr/connectid+ce/connect-messaging # Sravan Dec 12
     - sr/connectid # Sravan Dec 12
     - ay/ucr-metrics-datadog+/mk/4001-force-async-processing # Ajeet Dec 13
