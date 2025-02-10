@@ -32,7 +32,6 @@ branches:
     - ay/ucr-metrics-datadog+/mk/4001-force-async-processing # Ajeet Dec 13
     - es/case-search-vars  # Ethan Dec 23
     - riese/ga_form_submit # Martin Jan 9
-    - es/tempus-dominus  # Ethan Jan 16
     - bmb/b5-reports-staging  # Biyeun Jan 21
     # - mjr/analytics-testing  # Matt Jan 23
     - nh/iter_repeaters_3  # Norman Jan 27
