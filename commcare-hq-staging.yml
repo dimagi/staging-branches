@@ -45,5 +45,4 @@ branches:
     - ml/log-changes-to-invite-edits # Feb 4
     - ap/es-translations # Amit Feb 5
     # - jc/fix-configurable-report # Jing Feb 5
-    - gh/project-limits/data-model  # Graham Feb 10
 submodules: { }
