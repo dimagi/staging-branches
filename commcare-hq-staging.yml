@@ -48,5 +48,5 @@ branches:
     - jls/fix-standard-hq-report # Jenny Feb 10
     - dependabot/pip/requirements/reportlab-4.3.0  # Jenny Feb 11
     - dependabot/pip/requirements/greenlet-3.1.1  # Jenny Feb 11
-    #- dependabot/npm_and_yarn/nanoid-3.3.8  # Jenny Feb 11
+    - dependabot/npm_and_yarn/nanoid-3.3.8  # Jenny Feb 11
 submodules: { }
