@@ -24,8 +24,8 @@ branches:
     - rc/test-epic-integration # Robert Sept 13
     - riese/rm_enterprise_user_management # Martin Nov 18
     - riese/rm_dont_close_patient_ext # Martin Nov 18
-    - dependabot/npm_and_yarn/nanoid-3.3.8+bmb/data-cleaning-prototype+sr/connectid+riese/quill
-    - bmb/data-cleaning-prototype  # Biyeun Nov 21
+    #- dependabot/npm_and_yarn/nanoid-3.3.8+bmb/data-cleaning-prototype+sr/connectid+riese/quill
+    # - bmb/data-cleaning-prototype  # Biyeun Nov 21
     # - ml/editable-webuser-invite # Minha Dec 4
     - cs/SC-4053-datadog-metric-for-feature-historic-usage-management-cmd # Charl Dec 10
     - sr/connectid+ml/log-changes-to-invite-edits
