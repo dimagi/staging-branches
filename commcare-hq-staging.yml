@@ -46,9 +46,8 @@ branches:
     - ap/es-translations # Amit Feb 5
     # - jc/fix-configurable-report # Jing Feb 5
     - jls/fix-standard-hq-report # Jenny Feb 10
-    - dependabot/pip/requirements/reportlab-4.3.0  # Jenny Feb 11
+    - jls/reportlab  # Jenny Feb 12
     - dependabot/pip/requirements/greenlet-3.1.1  # Jenny Feb 11
     - dependabot/npm_and_yarn/nanoid-3.3.8 # Jenny Feb 11
-    #- dependabot/npm_and_yarn/intl-tel-input-25.3.0 # Jenny Feb 12
     - mk/4060-case-list-optimizations # MK Feb 12
 submodules: { }
