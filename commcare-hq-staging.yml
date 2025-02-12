@@ -36,7 +36,7 @@ branches:
     # - mjr/analytics-testing  # Matt Jan 23
     - nh/iter_repeaters_3  # Norman Jan 27
     - riese/quill # Martin Jan 28
-    - riese/quill+dependabot/npm_and_yarn/nanoid-3.3.8
+    #- riese/quill+dependabot/npm_and_yarn/nanoid-3.3.8
     - dependabot/npm_and_yarn/nanoid-3.3.8  # Jenny Feb 11
     - gh/auth/api-key-as-password  # Graham Jan 28
     - mk/4092-avoid-parallel-builds # MK Feb 30
