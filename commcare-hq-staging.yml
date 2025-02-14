@@ -31,7 +31,6 @@ branches:
     - es/case-search-vars  # Ethan Dec 23
     - bmb/b5-reports-staging  # Biyeun Jan 21
     # - mjr/analytics-testing  # Matt Jan 23
-    - nh/iter_repeaters_3  # Norman Jan 27
     - riese/quill # Martin Jan 28
     - riese/quill+dependabot/npm_and_yarn/nanoid-3.3.8
     - gh/auth/api-key-as-password  # Graham Jan 28
