@@ -47,4 +47,5 @@ branches:
     - dependabot/npm_and_yarn/nanoid-3.3.8 # Jenny Feb 11
     - mk/4060-case-list-optimizations # MK Feb 12
     - dm/hqcases-experiment # Daniel Feb 14
+    - dm/hqcases-experiment-errors # Daniel Feb 14
 submodules: { }
