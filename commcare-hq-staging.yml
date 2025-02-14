@@ -22,7 +22,6 @@ branches:
     # - smh/web-invite-update # Steph April 16
     - dmr/remove-css-grid-polyfill  # Danny Apr 22
     - rc/test-epic-integration # Robert Sept 13
-    - riese/rm_enterprise_user_management # Martin Nov 18
     - riese/rm_dont_close_patient_ext # Martin Nov 18
     # - bmb/data-cleaning-prototype  # Biyeun Nov 21
     # - ml/editable-webuser-invite # Minha Dec 4
@@ -30,7 +29,6 @@ branches:
     - sr/connectid+ml/log-changes-to-invite-edits
     - sr/connectid # Sravan Dec 12
     - es/case-search-vars  # Ethan Dec 23
-    - riese/ga_form_submit # Martin Jan 9
     - bmb/b5-reports-staging  # Biyeun Jan 21
     # - mjr/analytics-testing  # Matt Jan 23
     - nh/iter_repeaters_3  # Norman Jan 27
