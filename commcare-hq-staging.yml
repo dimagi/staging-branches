@@ -46,5 +46,4 @@ branches:
     - mk/4060-case-list-optimizations # MK Feb 12
     - dm/hqcases-experiment # Daniel Feb 14
     - dm/hqcases-experiment-errors # Daniel Feb 14
-    - jc/allow-advanced-plan-for-sso # Jing Feb 14
 submodules: { }
