@@ -45,6 +45,5 @@ branches:
     - dm/hqcases-experiment-errors # Daniel Feb 14
     - gh/device-limit/use-system-limit  # Graham Feb 17
     - riese/ics # Martin Feb 18
-    - revert-35725-revert-35666-jt/cbc-migration-pt2 # Jonathan T. Feb 18
     - em/remove-template-apps  # Evan Feb 19
 submodules: { }
