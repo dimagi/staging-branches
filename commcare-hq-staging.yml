@@ -37,7 +37,7 @@ branches:
     - bmb/data-clean-cases-staging  # Biyeun Jan 30
     # - revert-35666-jt/cbc-migration-pt2  # Sravan Feb 2
     - mk/better-table-exists # Feb 3
-    - ap/es-translations # Amit Feb 5
+    # - ap/es-translations # Amit Feb 5
     # - jc/fix-configurable-report # Jing Feb 5
     - dependabot/npm_and_yarn/nanoid-3.3.8 # Jenny Feb 11
     - mk/4060-case-list-optimizations # MK Feb 12
