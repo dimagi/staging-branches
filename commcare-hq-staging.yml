@@ -40,7 +40,7 @@ branches:
     # - ap/es-translations # Amit Feb 5
     # - jc/fix-configurable-report # Jing Feb 5
     - dependabot/npm_and_yarn/nanoid-3.3.8 # Jenny Feb 11
-    # - mk/4060-case-list-optimizations # MK Feb 12
+    - mk/4060-case-list-optimizations # MK Feb 12
     - dm/hqcases-experiment # Daniel Feb 14
     - dm/hqcases-experiment-errors # Daniel Feb 14
     - gh/device-limit/use-system-limit  # Graham Feb 17
