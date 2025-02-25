@@ -45,4 +45,5 @@ branches:
     - em/signup-org-field  # Evan Feb 20
     - ml/remove-unsupported-banner-safari # Minha Feb 24
     - dependabot/pip/requirements/pillow-11.1.0 # Jenny Feb 24
+    - jls/update-ddtrace # Jenny Feb 24
 submodules: { }
