@@ -47,4 +47,5 @@ branches:
     - dependabot/pip/requirements/pillow-11.1.0 # Jenny Feb 24
     - jls/update-ddtrace # Jenny Feb 24
     - jls/update-gevent # Jenny Feb 24
+    - jls/update-psycopg2 # Jenny Feb 24
 submodules: { }
