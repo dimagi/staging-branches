@@ -33,10 +33,8 @@ branches:
     # - mjr/analytics-testing  # Matt Jan 23
     - riese/quill+dependabot/npm_and_yarn/nanoid-3.3.8
     - riese/quill # Martin Jan 28
-    - gh/auth/api-key-as-password  # Graham Jan 28
     - bmb/data-clean-cases-staging  # Biyeun Jan 30
     # - revert-35666-jt/cbc-migration-pt2  # Sravan Feb 2
-    - mk/better-table-exists # Feb 3
     # - ap/es-translations # Amit Feb 5
     # - jc/fix-configurable-report # Jing Feb 5
     - mk/4060-case-list-optimizations # MK Feb 12
