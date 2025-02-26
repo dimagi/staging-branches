@@ -38,11 +38,9 @@ branches:
     # - ap/es-translations # Amit Feb 5
     # - jc/fix-configurable-report # Jing Feb 5
     - mk/4060-case-list-optimizations # MK Feb 12
-    - dm/hqcases-experiment # Daniel Feb 14
     - dm/hqcases-experiment-errors # Daniel Feb 14
     - gh/device-limit/use-system-limit  # Graham Feb 17
     - riese/ics # Martin Feb 18
-    - em/signup-org-field  # Evan Feb 20
     - ml/remove-unsupported-banner-safari # Minha Feb 24
     - jls/update-ddtrace # Jenny Feb 24
     - jls/update-gevent # Jenny Feb 24
