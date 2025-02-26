@@ -31,7 +31,6 @@ branches:
     - es/case-search-vars  # Ethan Dec 23
     - bmb/b5-reports-staging  # Biyeun Jan 21
     # - mjr/analytics-testing  # Matt Jan 23
-    # - riese/quill+dependabot/npm_and_yarn/nanoid-3.3.8
     - bmb/data-clean-cases-staging  # Biyeun Jan 30
     # - revert-35666-jt/cbc-migration-pt2  # Sravan Feb 2
     # - ap/es-translations # Amit Feb 5
