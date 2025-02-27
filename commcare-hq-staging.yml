@@ -45,4 +45,5 @@ branches:
     - jls/update-psycopg2 # Jenny Feb 24
     - jls/update-markupsafe # Jenny Feb 24
     - cs/SC-4181-report-to-sentry # Charl Feb 26
+    - riese/quill_strong # Martin Feb 27
 submodules: { }
