@@ -47,4 +47,5 @@ branches:
     - cs/SC-4181-report-to-sentry # Charl Feb 26
     - riese/quill_strong # Martin Feb 27
     - riese/quill_unused_images # Martin Feb 27
+    - cs/Sc-4181-staging-test # Charl Mar 3
 submodules: { }
