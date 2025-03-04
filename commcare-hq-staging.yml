@@ -43,7 +43,6 @@ branches:
     - jls/update-markupsafe # Jenny Feb 24
     #- jls/remove-websockets # Jenny March 4
     - cs/SC-4181-report-to-sentry # Charl Feb 26
-    - riese/quill_strong # Martin Feb 27
     - cs/Sc-4181-staging-test # Charl Mar 3
     - em/commcare-version-dropdown  # Evan Mar 4
     - jt/web-user-api-last-modified-field # Jonathan T Mar 4
