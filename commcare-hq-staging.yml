@@ -46,4 +46,6 @@ branches:
     - cs/Sc-4181-staging-test # Charl Mar 3
     - em/commcare-version-dropdown  # Evan Mar 4
     - ml/version-info-extra-space # Minha Mar 4
+    - jt/web-user-api-last-modified-field # Jonathan T Mar 5
+    - jt/web-user-api-bulk-user-data-lookup # Jonathan T Mar 5
 submodules: { }
