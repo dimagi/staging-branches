@@ -44,5 +44,5 @@ branches:
     #- cs/Sc-4181-staging-test # Charl Mar 3
     - ml/version-info-extra-space # Minha Mar 4
     - jt/web-user-api-bulk-user-data-lookup # Jonathan T Mar 5
-    - revert-35872-mjr/norwegian-date-fix # Minha Mar 6
+    - dm/revert-two-factor-setup-field
 submodules: { }
