@@ -40,7 +40,7 @@ branches:
     - gh/device-limit/use-system-limit  # Graham Feb 17
     - riese/ics # Martin Feb 18
     - ml/remove-unsupported-banner-safari # Minha Feb 24
-    - jls/update-markupsafe # Jenny Feb 24
+    #- jls/update-markupsafe # Jenny Feb 24
     #- jls/remove-websockets # Jenny March 4
     #- cs/SC-4181-report-to-sentry # Charl Feb 26
     #- cs/Sc-4181-staging-test # Charl Mar 3
