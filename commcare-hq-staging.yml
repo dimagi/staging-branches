@@ -48,4 +48,5 @@ branches:
     - ml/version-info-extra-space # Minha Mar 4
     - jt/web-user-api-last-modified-field # Jonathan T Mar 5
     - jt/web-user-api-bulk-user-data-lookup # Jonathan T Mar 5
+    - revert-35872-mjr/norwegian-date-fix # Minha Mar 6
 submodules: { }
