@@ -37,11 +37,9 @@ branches:
     - dm/hqcases-experiment-errors # Daniel Feb 14
     - gh/device-limit/use-system-limit  # Graham Feb 17
     - riese/ics # Martin Feb 18
-    - ml/remove-unsupported-banner-safari # Minha Feb 24
     - jls/remove-websockets # Jenny March 4
     #- cs/SC-4181-report-to-sentry # Charl Feb 26
     #- cs/Sc-4181-staging-test # Charl Mar 3
-    - ml/version-info-extra-space # Minha Mar 4
     - jt/web-user-api-bulk-user-data-lookup # Jonathan T Mar 5
     - em/two-factor-setup-field-redux   # Evan Mar 6
     - riese/ga_2 # Martin Mar 7
