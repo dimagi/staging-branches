@@ -43,4 +43,5 @@ branches:
     - jt/web-user-api-bulk-user-data-lookup # Jonathan T Mar 5
     - em/two-factor-setup-field-redux   # Evan Mar 6
     - riese/ga_2 # Martin Mar 7
+    - jc/fix-log-in-with-edge # Jing Mar 10
 submodules: { }
