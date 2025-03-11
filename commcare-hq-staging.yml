@@ -44,4 +44,5 @@ branches:
     - em/two-factor-setup-field-redux   # Evan Mar 6
     - riese/ga_2 # Martin Mar 7
     - jc/fix-log-in-with-edge # Jing Mar 10
+    - cs/SC-3414-payment-bulk-save # Charl Mar 11
 submodules: { }
