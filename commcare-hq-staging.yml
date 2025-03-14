@@ -46,5 +46,4 @@ branches:
     - cs/SC-4336-show-errors-in-table # Charl Mar 11
     - em/deid-export-method  # Evan Mar 12
     - mjr/case-property-tooltip  # Matt March 14 intended to go through QA
-    - em/dashboard-icon-tweaks  # Evan Mar 14
 submodules: { }
