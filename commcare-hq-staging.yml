@@ -45,6 +45,5 @@ branches:
     - jc/fix-log-in-with-edge # Jing Mar 10
     - cs/SC-4336-show-errors-in-table # Charl Mar 11
     - em/deid-export-method  # Evan Mar 12
-    - jt/disable-sync-interval # Jonathan T March 12
     - mjr/case-property-tooltip  # Matt March 14 intended to go through QA
 submodules: { }
