@@ -24,8 +24,8 @@ branches:
     # - bmb/data-cleaning-prototype  # Biyeun Nov 21
     # - ml/editable-webuser-invite # Minha Dec 4
     - cs/SC-4053-datadog-metric-for-feature-historic-usage-management-cmd # Charl Dec 10
-    - sr/connectid+ml/log-changes-to-invite-edits
-    - sr/connectid # Sravan Dec 12
+    #- sr/connectid+ml/log-changes-to-invite-edits
+    #- sr/connectid # Sravan Dec 12
     - es/case-search-vars  # Ethan Dec 23
     - bmb/b5-reports-staging  # Biyeun Jan 21
     # - mjr/analytics-testing  # Matt Jan 23
