@@ -49,5 +49,5 @@ branches:
     - ap/translations-es-por-fra # Amit Mar 18
     # - mjr/case-property-tooltip+jls/webpack-app-manager
     - mjr/case-property-tooltip  # Matt March 14 intended to go through QA
-    # - jls/webpack-app-manager # Jenny March 18
+    - jls/webpack-app-manager # Jenny March 18
 submodules: { }
