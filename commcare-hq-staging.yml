@@ -37,6 +37,7 @@ branches:
     - riese/ics # Martin Feb 18
     #- jls/remove-websockets # Jenny March 4
     - jls/turn-off-form-notification  # Jenny March 13
+    - jls/webpack-app-manager # Jenny March 18
     #- cs/SC-4181-report-to-sentry # Charl Feb 26
     #- cs/Sc-4181-staging-test # Charl Mar 3
     - jt/web-user-api-bulk-user-data-lookup # Jonathan T Mar 5
