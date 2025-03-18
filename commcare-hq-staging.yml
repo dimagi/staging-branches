@@ -50,4 +50,5 @@ branches:
     - cs/SC-4278-execute-payments-task # Charl Mar 17
     - em/prepayment-invoice-email  # Evan Mar 17
     - gh/sort-on-keyword  # Graham Mar 17
+    - ap/translations-es-por-fra # Amit Mar 18
 submodules: { }
