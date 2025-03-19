@@ -4,6 +4,7 @@ trunk: master
 name: autostaging
 branches:
   - sb3 # Shubham 18 Dec
+  - ml/more-supported-filetypes # Minha Mar 19
 submodules:
   libs/commcare:
     trunk: formplayer
