@@ -48,6 +48,5 @@ branches:
     - ap/translations-es-por-fra # Amit Mar 18. This can be removed if conflicts are seen in translation file
     - mjr/case-property-tooltip  # Matt March 14 intended to go through QA
     - jls/webpack-app-manager # Jenny March 18
-    - riese/daily_schedule # Martin March 19
     - ml/more-multimedia-file-types # Minha Mar 19
 submodules: { }
