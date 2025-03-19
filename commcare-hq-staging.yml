@@ -48,4 +48,5 @@ branches:
     - ap/translations-es-por-fra # Amit Mar 18
     - mjr/case-property-tooltip  # Matt March 14 intended to go through QA
     - jls/webpack-app-manager # Jenny March 18
+    - riese/daily_schedule # Martin March 19
 submodules: { }
