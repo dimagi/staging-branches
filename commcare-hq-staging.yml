@@ -49,5 +49,6 @@ branches:
     - mjr/case-property-tooltip  # Matt March 14 intended to go through QA
     - jls/webpack-app-manager # Jenny March 18
     - ml/more-multimedia-file-types # Minha Mar 19
-    - dm/upgrade-botocore
+    - dm/upgrade-botocore # Daniel Mar 20
+    - dm/upgrade-kombu # Daniel Mar 20
 submodules: { }
