@@ -23,7 +23,6 @@ branches:
     - rc/test-epic-integration # Robert Sept 13
     # - bmb/data-cleaning-prototype  # Biyeun Nov 21
     # - ml/editable-webuser-invite # Minha Dec 4
-    - cs/SC-4053-datadog-metric-for-feature-historic-usage-management-cmd # Charl Dec 10
     #- sr/connectid+ml/log-changes-to-invite-edits
     #- sr/connectid # Sravan Dec 12
     - es/case-search-vars  # Ethan Dec 23
@@ -37,8 +36,8 @@ branches:
     - riese/ics # Martin Feb 18
     #- jls/remove-websockets # Jenny March 4
     - jls/turn-off-form-notification  # Jenny March 13
-    #- cs/SC-4181-report-to-sentry # Charl Feb 26
-    #- cs/Sc-4181-staging-test # Charl Mar 3
+    - cs/SC-4181-report-to-sentry # Charl Feb 26
+    - cs/Sc-4181-staging-test # Charl Mar 3
     - jt/web-user-api-bulk-user-data-lookup # Jonathan T Mar 5
     - cs/SC-4336-show-errors-in-table # Charl Mar 11
     - em/deid-export-method  # Evan Mar 12
