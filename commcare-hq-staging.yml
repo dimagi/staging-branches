@@ -50,5 +50,4 @@ branches:
     - dm/upgrade-kombu # Daniel Mar 20
     - cs/SC-4315-payment-verification-filters # Charl Mar 21
     - riese/hide_columns # Martin Mar 21
-    - bmb/data-cleaning-working  # Biyeun - working branch for data cleaning, rebased often - Mar 24
 submodules: { }
