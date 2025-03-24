@@ -21,14 +21,12 @@ branches:
     # - smh/web-invite-update # Steph April 16
     - dmr/remove-css-grid-polyfill  # Danny Apr 22
     - rc/test-epic-integration # Robert Sept 13
-    # - bmb/data-cleaning-prototype  # Biyeun Nov 21
     # - ml/editable-webuser-invite # Minha Dec 4
     #- sr/connectid+ml/log-changes-to-invite-edits
     #- sr/connectid # Sravan Dec 12
     - es/case-search-vars  # Ethan Dec 23
     - bmb/b5-reports-staging  # Biyeun Jan 21
     # - mjr/analytics-testing  # Matt Jan 23
-    - bmb/data-clean-cases-staging  # Biyeun Jan 30
     # - revert-35666-jt/cbc-migration-pt2  # Sravan Feb 2
     # - ap/es-translations # Amit Feb 5
     # - jc/fix-configurable-report # Jing Feb 5
@@ -52,4 +50,5 @@ branches:
     - dm/upgrade-kombu # Daniel Mar 20
     - cs/SC-4315-payment-verification-filters # Charl Mar 21
     - riese/hide_columns # Martin Mar 21
+    - bmb/data-cleaning-working  # Biyeun - working branch for data cleaning, rebased often - Mar 24
 submodules: { }
