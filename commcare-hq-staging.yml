@@ -37,7 +37,7 @@ branches:
     #- jls/remove-websockets # Jenny March 4
     - jls/turn-off-form-notification  # Jenny March 13
     - cs/SC-4181-report-to-sentry # Charl Feb 26
-    - cs/Sc-4181-staging-test # Charl Mar 3 - staging only!
+    - cs/Sc-4181-staging-test_decrease-const # Charl Mar 3 - staging only!
     - jt/web-user-api-bulk-user-data-lookup # Jonathan T Mar 5
     - cs/SC-4336-show-errors-in-table # Charl Mar 11
     - em/deid-export-method  # Evan Mar 12
