@@ -40,7 +40,7 @@ branches:
     #- cs/SC-4181-report-to-sentry # Charl Feb 26
     #- cs/Sc-4181-staging-test # Charl Mar 3
     - jt/web-user-api-bulk-user-data-lookup # Jonathan T Mar 5
-    - cs/SC-4336-show-errors-in-table # Charl Mar 11
+    #- cs/SC-4336-show-errors-in-table # Charl Mar 11
     - em/deid-export-method  # Evan Mar 12
     - cs/SC-4278-execute-payments-task # Charl Mar 17
     - em/prepayment-invoice-email  # Evan Mar 17
