@@ -37,11 +37,12 @@ branches:
     #- jls/remove-websockets # Jenny March 4
     - jls/turn-off-form-notification  # Jenny March 13
     - cs/SC-4181-report-to-sentry # Charl Feb 26
-    - cs/Sc-4181-staging-test # Charl Mar 3
+    - cs/Sc-4181-staging-test # Charl Mar 3 - staging only!
     - jt/web-user-api-bulk-user-data-lookup # Jonathan T Mar 5
     - cs/SC-4336-show-errors-in-table # Charl Mar 11
     - em/deid-export-method  # Evan Mar 12
     - cs/SC-4278-execute-payments-task # Charl Mar 17
+    - cs/SC-4278-staging-only_decrease-task-wait # Charl Mar 24 - staging only!
     - em/prepayment-invoice-email  # Evan Mar 17
     #- ap/translations-es-por-fra # Amit Mar 18. This can be removed if conflicts are seen in translation file
     - mjr/case-property-tooltip  # Matt March 14 intended to go through QA
