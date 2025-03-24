@@ -15,7 +15,6 @@ branches:
     - mjr/adblock-information-edit  # Matt Jan 29
     # - ze/solutions-feature-request-option+bmb/new-fontawesome
     - gh/two-factor/infinite-redirects # Graham Feb 28
-    - ap/fix-app-cues-display # Amit Mar 5
     - ml/case-deletion # minha OCt 25
     #- bmb/bha-style-tweaks-001  # Biyeun March 7
     # - smh/web-invite-update # Steph April 16
