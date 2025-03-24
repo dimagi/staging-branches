@@ -53,4 +53,5 @@ branches:
     - mjr/handle_empty_deid_date  # Matt March 24
     - gh/repeaters/easier-buckets # Graham March 24
     - dm/upgrade-kafka-python # Daniel Mar 24
+    - gh/repeat-record-report  # Graham March 24
 submodules: { }
