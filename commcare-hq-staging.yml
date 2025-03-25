@@ -31,8 +31,7 @@ branches:
     # - jc/fix-configurable-report # Jing Feb 5
     - dm/hqcases-experiment-errors # Daniel Feb 14
     - riese/ics # Martin Feb 18
-    #- jls/remove-websockets # Jenny March 4
-    - jls/turn-off-form-notification  # Jenny March 13
+    - jls/remove-websockets # Jenny March 4
     - cs/SC-4181-report-to-sentry # Charl Feb 26
     - cs/Sc-4181-staging-test_decrease-const # Charl Mar 3 - staging only!
     - jt/web-user-api-bulk-user-data-lookup # Jonathan T Mar 5
@@ -45,7 +44,6 @@ branches:
     - mjr/case-property-tooltip  # Matt March 14 intended to go through QA
     - jls/webpack-app-manager # Jenny March 18
     - ml/more-multimedia-file-types # Minha Mar 19
-    - dm/upgrade-botocore # Daniel Mar 20
     - dm/upgrade-kombu # Daniel Mar 20
     - cs/SC-4315-payment-verification-filters # Charl Mar 21
     - riese/hide_columns # Martin Mar 21
