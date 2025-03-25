@@ -49,7 +49,6 @@ branches:
     - riese/hide_columns # Martin Mar 21
     - dependabot/npm_and_yarn/babel/helpers-7.26.10 # Amit March 24
     - mjr/handle_empty_deid_date  # Matt March 24
-    - gh/repeaters/easier-buckets # Graham March 24
     - dm/upgrade-kafka-python # Daniel Mar 24
     - gh/repeat-record-report  # Graham March 24
     - jls/webpack-stripe # Jenny March 24
