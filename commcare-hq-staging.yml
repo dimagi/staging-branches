@@ -44,14 +44,11 @@ branches:
     - mjr/case-property-tooltip  # Matt March 14 intended to go through QA
     - jls/webpack-app-manager # Jenny March 18
     - ml/more-multimedia-file-types # Minha Mar 19
-    - dm/upgrade-kombu # Daniel Mar 20
     - cs/SC-4315-payment-verification-filters # Charl Mar 21
     - riese/hide_columns # Martin Mar 21
     - dependabot/npm_and_yarn/babel/helpers-7.26.10 # Amit March 24
-    - mjr/handle_empty_deid_date  # Matt March 24
     - dm/upgrade-kafka-python # Daniel Mar 24
     - gh/repeat-record-report  # Graham March 24
     - jls/webpack-stripe # Jenny March 24
-    - jls/sms-js-chat # Jenny March 24
     - em/deid-export-method-bugfix  # Evan March 25
 submodules: { }
