@@ -53,6 +53,7 @@ branches:
     - jls/webpack-stripe # Jenny March 24
     - jls/webpack-soil # Jenny March 25
     - jls/prune-websockets # Jenny March 26
+    - jls/webpack-cache # Jenny March 26
     - em/deid-export-method-bugfix  # Evan March 25
     - add-device-info-to-device-logs # Ahmad March 25
 submodules: { }
