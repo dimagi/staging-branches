@@ -40,19 +40,15 @@ branches:
     - em/deid-export-method  # Evan Mar 12
     - cs/SC-4278-execute-payments-task # Charl Mar 17
     - cs/SC-4278-staging-only_decrease-task-wait # Charl Mar 24 - staging only!
-    - em/prepayment-invoice-email  # Evan Mar 17
     #- ap/translations-es-por-fra # Amit Mar 18. This can be removed if conflicts are seen in translation file
     - mjr/case-property-tooltip  # Matt March 14 intended to go through QA
     - jls/webpack-app-manager # Jenny March 18
     - ml/more-multimedia-file-types # Minha Mar 19
     - cs/SC-4315-payment-verification-filters # Charl Mar 21
     - riese/hide_columns # Martin Mar 21
-    - dependabot/npm_and_yarn/babel/helpers-7.26.10 # Amit March 24
     - dm/upgrade-kafka-python # Daniel Mar 24
     - gh/repeat-record-report  # Graham March 24
     - jls/webpack-stripe # Jenny March 24
-    - jls/webpack-soil # Jenny March 25
-    - jls/prune-websockets # Jenny March 26
     - jls/webpack-cache # Jenny March 26
     - em/deid-export-method-bugfix  # Evan March 25
     - add-device-info-to-device-logs # Ahmad March 25
