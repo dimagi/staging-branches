@@ -6,6 +6,5 @@ branches:
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches: [
-      - ml/document-upload-question # Minha Mar 27
-    ]
+    branches:
+      - ml/document-upload-question # Minha Mar 2
