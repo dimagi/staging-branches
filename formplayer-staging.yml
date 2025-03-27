@@ -2,7 +2,7 @@
 
 trunk: master
 name: autostaging
-branches:
+branches: []
 submodules:
   libs/commcare:
     trunk: formplayer
