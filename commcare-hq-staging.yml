@@ -52,4 +52,8 @@ branches:
     - em/signup-redirect-banner  # Evan March 26
     - em/prepayment-invoice-details  # Evan March 27
     - es/ip-blocking # Minha Mar 27
+    - nh/dash/report_ids # Mar 28
+    - nh/dash/report_url # Mar 28
+    - ay/edit-dashboard-widget # Mar 28
+    - mk/4288-add-gauges-to-campaign # Mar 28
 submodules: { }
