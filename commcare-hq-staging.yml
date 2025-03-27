@@ -35,8 +35,6 @@ branches:
     - cs/SC-4181-report-to-sentry # Charl Feb 26
     - cs/Sc-4181-staging-test_decrease-const # Charl Mar 3 - staging only!
     - jt/web-user-api-bulk-user-data-lookup # Jonathan T Mar 5
-    - cs/SC-4336-show-errors-in-table # Charl Mar 11
-    - cs/SC-4336-generate-random-errors-for-qa # Charl Mar 26 - staging only!
     - em/deid-export-method  # Evan Mar 12
     - cs/SC-4278-execute-payments-task # Charl Mar 17
     - cs/SC-4278-staging-only_decrease-task-wait # Charl Mar 24 - staging only!
