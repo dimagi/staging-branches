@@ -52,4 +52,5 @@ branches:
     - add-device-info-to-device-logs # Ahmad March 25
     - em/signup-redirect-banner  # Evan March 26
     - em/prepayment-invoice-details  # Evan March 27
+    - es/ip-blocking # Minha Mar 27
 submodules: { }
