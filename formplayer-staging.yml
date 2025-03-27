@@ -3,8 +3,9 @@
 trunk: master
 name: autostaging
 branches:
-  - ml/document-upload-question # Minha Mar 27
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches: []
+    branches: [
+      - ml/document-upload-question # Minha Mar 27
+    ]
