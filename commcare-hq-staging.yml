@@ -26,7 +26,6 @@ branches:
     - es/case-search-vars  # Ethan Dec 23
     - bmb/b5-reports-staging  # Biyeun Jan 21
     # - mjr/analytics-testing  # Matt Jan 23
-    # - revert-35666-jt/cbc-migration-pt2  # Sravan Feb 2
     # - ap/es-translations # Amit Feb 5
     # - jc/fix-configurable-report # Jing Feb 5
     - dm/hqcases-experiment-errors # Daniel Feb 14
