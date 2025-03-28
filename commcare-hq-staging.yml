@@ -47,7 +47,6 @@ branches:
     - em/deid-export-method-bugfix  # Evan March 25
     - add-device-info-to-device-logs # Ahmad March 25
     - em/signup-redirect-banner  # Evan March 26
-    - em/prepayment-invoice-details  # Evan March 27
     - es/ip-blocking # Minha Mar 27
     - nh/dash/report_ids # Mar 28
     - nh/dash/report_url # Mar 28
