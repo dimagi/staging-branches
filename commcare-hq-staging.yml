@@ -49,7 +49,6 @@ branches:
     - em/signup-redirect-banner  # Evan March 26
     - es/ip-blocking # Minha Mar 27
     - nh/dash/report_ids # Mar 28
-    - nh/dash/report_url # Mar 28
     - mk/4288-add-gauges-to-campaign # Mar 28
     - jt/lookup-table-smart-sync # Mar 27
     - mjr/form-xss-experiment  # Matt Mar 28
