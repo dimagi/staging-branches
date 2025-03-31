@@ -42,7 +42,7 @@ branches:
     - riese/hide_columns # Martin Mar 21
     - dm/upgrade-kafka-python # Daniel Mar 24
     - gh/repeat-record-report  # Graham March 24
-    - jls/webpack-stripe # Jenny March 24
+    - revert-36121-revert-36073-jls/webpack-stripe # Jenny March 31
     - jls/webpack-cache # Jenny March 26
     - orangejenny-patch-16 # Jennt March 31
     - em/deid-export-method-bugfix  # Evan March 25
