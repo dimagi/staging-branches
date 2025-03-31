@@ -43,7 +43,6 @@ branches:
     - dm/upgrade-kafka-python # Daniel Mar 24
     - gh/repeat-record-report  # Graham March 24
     - revert-36121-revert-36073-jls/webpack-stripe # Jenny March 31
-    - orangejenny-patch-16 # Jenny March 31
     - em/deid-export-method-bugfix  # Evan March 25
     - add-device-info-to-device-logs # Ahmad March 25
     - em/signup-redirect-banner  # Evan March 26
