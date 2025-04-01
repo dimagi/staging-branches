@@ -50,4 +50,6 @@ branches:
     - nh/dash/report_ids # Mar 28
     - jt/lookup-table-smart-sync # Mar 27
     - mjr/form-xss-experiment  # Matt Mar 28
+    - dm/upgrade-celery # Daniel Apr 1
+    - dm/upgrade-simpleeval # Daniel Apr 1
 submodules: { }
