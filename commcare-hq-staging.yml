@@ -47,7 +47,6 @@ branches:
     - add-device-info-to-device-logs # Ahmad March 25
     - em/signup-redirect-banner  # Evan March 26
     - es/ip-blocking # Minha Mar 27
-    - nh/dash/report_ids # Mar 28
     - jt/lookup-table-smart-sync # Mar 27
     - mjr/form-xss-experiment  # Matt Mar 28
     - dm/upgrade-celery # Daniel Apr 1
