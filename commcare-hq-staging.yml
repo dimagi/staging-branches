@@ -43,11 +43,11 @@ branches:
     - gh/repeat-record-report  # Graham March 24
     - em/deid-export-method-bugfix  # Evan March 25
     - add-device-info-to-device-logs # Ahmad March 25
-    - em/signup-redirect-banner  # Evan March 26
     - es/ip-blocking # Minha Mar 27
     - jt/lookup-table-smart-sync # Mar 27
     - mjr/form-xss-experiment  # Matt Mar 28
     - dm/upgrade-celery # Daniel Apr 1
     - dm/upgrade-simpleeval # Daniel Apr 1
     - mk/4397-add-kyc-status-to-payment-report # MK Apr 2
+    - ejp/gate-wire-payment-option  # Evan Apr 2
 submodules: { }
