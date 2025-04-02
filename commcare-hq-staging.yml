@@ -50,5 +50,4 @@ branches:
     - dm/upgrade-simpleeval # Daniel Apr 1
     - mk/4397-add-kyc-status-to-payment-report # MK Apr 2
     - ejp/gate-wire-payment-option  # Evan Apr 2
-    - ap/add-translations-for-es-fra-por # Amit Apr 2
 submodules: { }
