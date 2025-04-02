@@ -36,7 +36,7 @@ branches:
     - cs/SC-4278-staging-only_decrease-task-wait # Charl Mar 24 - staging only!
     #- ap/translations-es-por-fra # Amit Mar 18. This can be removed if conflicts are seen in translation file
     - mjr/case-property-tooltip  # Matt March 14 intended to go through QA
-    - jls/webpack-app-manager+jls/remove-websockets
+    - jls/webpack-app-manager+jls/remove-websockets-js
     - jls/webpack-app-manager # Jenny March 18
     - jls/remove-hqwebapp-js-django # Jenny April 1
     - jls/removed-websockets-js # Jenny April 1
