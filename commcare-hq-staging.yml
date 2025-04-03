@@ -53,6 +53,4 @@ branches:
     - revert-36141-revert-35849-riese/hide_columns # Martin Apr 2
     - cs/SC-4336-generate-random-errors-for-qa # Ajeet Apr 3 - staging only!
     - ay/fix-missing-kyc-status # Ajeet Apr 3
-    - ze/refresh-payment-table-on-verify # Ajeet Apr 3
-    - ay/simplify-widget-form # Ajeet Apr 3
 submodules: { }
