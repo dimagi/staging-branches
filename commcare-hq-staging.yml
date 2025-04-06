@@ -52,5 +52,4 @@ branches:
     - cs/SC-4336-generate-random-errors-for-qa # Ajeet Apr 3 - staging only!
     - ay/fix-missing-kyc-status # Ajeet Apr 3
     - nh/dash/report_highlander  # Norman Apr 4
-    - gh/pillows/useful-logs  # Graham Apr 4
 submodules: { }
