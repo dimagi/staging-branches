@@ -50,6 +50,5 @@ branches:
     - ejp/gate-wire-payment-option  # Evan Apr 2
     - revert-36141-revert-35849-riese/hide_columns # Martin Apr 2
     - cs/SC-4336-generate-random-errors-for-qa # Ajeet Apr 3 - staging only!
-    - ay/fix-missing-kyc-status # Ajeet Apr 3
     - nh/dash/report_highlander  # Norman Apr 4
 submodules: { }
