@@ -52,4 +52,5 @@ branches:
     - cs/SC-4336-generate-random-errors-for-qa # Ajeet Apr 3 - staging only!
     - nh/dash/report_highlander  # Norman Apr 4
     - ay/kyc-refresh-on-verify # Ajeet Apr 7
+    - gh/device-rate-limiter/ignore-demo-user  # Graham Apr 7
 submodules: { }
