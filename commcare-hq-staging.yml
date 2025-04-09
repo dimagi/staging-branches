@@ -36,9 +36,6 @@ branches:
     - cs/SC-4278-staging-only_decrease-task-wait # Charl Mar 24 - staging only!
     #- ap/translations-es-por-fra # Amit Mar 18. This can be removed if conflicts are seen in translation file
     - mjr/case-property-tooltip  # Matt March 14 intended to go through QA
-    - jls/remove-requirejs-main+jls/webpack-app-manager
-    - jls/webpack-app-manager # Jenny March 18
-    - jls/remove-requirejs-main # Jenny April 3
     - jls/case-mgmt-pagination # Jenny April 7
     - ml/more-multimedia-file-types # Minha Mar 19
     - dm/upgrade-kafka-python # Daniel Mar 24
