@@ -31,7 +31,6 @@ branches:
     - dm/hqcases-experiment-errors # Daniel Feb 14
     - riese/ics # Martin Feb 18
     - jls/remove-websockets # Jenny March 4
-    - jls/remove-hqRequire # Jenny April 9
     - jls/remove-build_requirejs # Jenny April 9
     - jls/remove-es6-prefix # Jenny April 9
     - cs/Sc-4181-staging-test_decrease-const # Charl Mar 3 - staging only!
