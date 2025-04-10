@@ -42,7 +42,6 @@ branches:
     - em/deid-export-method-bugfix  # Evan March 25
     - es/ip-blocking # Minha Mar 27
     - jt/lookup-table-smart-sync # Mar 27
-    - mjr/form-xss-experiment  # Matt Mar 28
     - dm/upgrade-celery # Daniel Apr 1
     - mk/4288-gauge-metric-add-case-query # MK Apr 3
     - cs/SC-4336-generate-random-errors-for-qa # Ajeet Apr 3 - staging only!
@@ -51,4 +50,5 @@ branches:
     - bmb/dc/fake-data-001  # Biyeun April 8
     - mk/4060-case-list-optimizations-adv-module # MK April 8
     - jt/prominent_load_bar_bug_fix # Jonathan T April 10
+    - mjr/case-contact-location  # Matt April 10
 submodules: { }
