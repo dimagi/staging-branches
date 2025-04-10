@@ -37,9 +37,7 @@ branches:
     - em/deid-export-method  # Evan Mar 12
     - cs/SC-4278-staging-only_decrease-task-wait # Charl Mar 24 - staging only!
     #- ap/translations-es-por-fra # Amit Mar 18. This can be removed if conflicts are seen in translation file
-    - mjr/case-property-tooltip  # Matt March 14 intended to go through QA
     - ml/more-multimedia-file-types # Minha Mar 19
-    - dm/upgrade-kafka-python # Daniel Mar 24
     - gh/repeat-record-report  # Graham March 24
     - em/deid-export-method-bugfix  # Evan March 25
     - es/ip-blocking # Minha Mar 27
@@ -47,11 +45,8 @@ branches:
     - mjr/form-xss-experiment  # Matt Mar 28
     - dm/upgrade-celery # Daniel Apr 1
     - mk/4288-gauge-metric-add-case-query # MK Apr 3
-    - ejp/gate-wire-payment-option  # Evan Apr 2
-    - revert-36141-revert-35849-riese/hide_columns # Martin Apr 2
     - cs/SC-4336-generate-random-errors-for-qa # Ajeet Apr 3 - staging only!
     - nh/dash/report_highlander  # Norman Apr 4
-    - ay/kyc-refresh-on-verify # Ajeet Apr 7
     - gh/remove-user-data  # Graham Apr 7
     - bmb/dc/fake-data-001  # Biyeun April 8
     - mk/4060-case-list-optimizations-adv-module # MK April 8
