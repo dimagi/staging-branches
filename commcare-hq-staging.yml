@@ -55,4 +55,5 @@ branches:
     - gh/remove-user-data  # Graham Apr 7
     - bmb/dc/fake-data-001  # Biyeun April 8
     - mk/4060-case-list-optimizations-adv-module # MK April 8
+    - jt/prominent_load_bar_bug_fix # Jonathan T April 10
 submodules: { }
