@@ -51,4 +51,5 @@ branches:
     - mk/4060-case-list-optimizations-adv-module # MK April 8
     - jt/prominent_load_bar_bug_fix # Jonathan T April 10
     - mjr/case-contact-location  # Matt April 10
+    - ejp/free-edition-banners  # Evan April 11
 submodules: { }
