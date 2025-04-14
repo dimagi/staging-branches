@@ -52,4 +52,5 @@ branches:
     - jt/prominent_load_bar_bug_fix # Jonathan T April 10
     - mjr/case-contact-location  # Matt April 10
     - ejp/free-edition-banners  # Evan April 11
+    - jc/case-type-modal # Jing Apr 13
 submodules: { }
