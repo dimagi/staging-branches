@@ -39,7 +39,6 @@ branches:
     - gh/repeat-record-report  # Graham March 24
     - em/deid-export-method-bugfix  # Evan March 25
     - es/ip-blocking # Minha Mar 27
-    - jt/lookup-table-smart-sync # Mar 27
     - dm/upgrade-celery # Daniel Apr 1
     - mk/4288-gauge-metric-add-case-query # MK Apr 3
     - cs/SC-4336-generate-random-errors-for-qa # Ajeet Apr 3 - staging only!
@@ -47,8 +46,6 @@ branches:
     - gh/remove-user-data  # Graham Apr 7
     - bmb/dc/fake-data-001  # Biyeun April 8
     - mk/4060-case-list-optimizations-adv-module # MK April 8
-    - jt/prominent_load_bar_bug_fix # Jonathan T April 10
-    - mjr/case-contact-location  # Matt April 10
     - ejp/free-edition-banners  # Evan April 11
     - jc/case-type-modal # Jing Apr 13
 submodules: { }
