@@ -49,4 +49,5 @@ branches:
     - ejp/free-edition-banners  # Evan April 11
     - jc/case-type-modal # Jing Apr 13
     - jls/better-selector # Jenny April 14
+    - jt/view-form-analytics # Jonathan April 15
 submodules: { }
