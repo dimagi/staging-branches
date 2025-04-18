@@ -29,7 +29,6 @@ branches:
     # - jc/fix-configurable-report # Jing Feb 5
     - dm/hqcases-experiment-errors # Daniel Feb 14
     - riese/ics # Martin Feb 18
-    - jls/remove-websockets # Jenny March 4
     - cs/Sc-4181-staging-test_decrease-const # Charl Mar 3 - staging only!
     - em/deid-export-method  # Evan Mar 12
     - cs/SC-4278-staging-only_decrease-task-wait # Charl Mar 24 - staging only!
@@ -37,18 +36,13 @@ branches:
     - ml/more-multimedia-file-types # Minha Mar 19
     - gh/repeat-record-report  # Graham March 24
     - em/deid-export-method-bugfix  # Evan March 25
-    - es/ip-blocking # Minha Mar 27
     - dm/upgrade-celery # Daniel Apr 1
     - mk/4288-gauge-metric-add-case-query # MK Apr 3
     - cs/SC-4336-generate-random-errors-for-qa # Ajeet Apr 3 - staging only!
-    - nh/dash/report_highlander  # Norman Apr 4
     - gh/remove-user-data  # Graham Apr 7
     - bmb/dc/fake-data-001  # Biyeun April 8
-    - mk/4060-case-list-optimizations-adv-module # MK April 8
     - ejp/free-edition-banners  # Evan April 11
     - jc/case-type-modal # Jing Apr 13
-    - jls/better-selector # Jenny April 14
-    - jt/view-form-analytics # Jonathan April 15
     - gh/pass-case-id # Graham Apr 17
     - es/tempus-dominus-2  # Ethan Apr 18
 submodules: { }
