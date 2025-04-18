@@ -23,7 +23,6 @@ branches:
     # - ml/editable-webuser-invite # Minha Dec 4
     #- sr/connectid+ml/log-changes-to-invite-edits
     #- sr/connectid # Sravan Dec 12
-    - es/case-search-vars  # Ethan Dec 23
     - bmb/b5-reports-staging  # Biyeun Jan 21
     # - mjr/analytics-testing  # Matt Jan 23
     # - ap/es-translations # Amit Feb 5
@@ -51,4 +50,5 @@ branches:
     - jls/better-selector # Jenny April 14
     - jt/view-form-analytics # Jonathan April 15
     - gh/pass-case-id # Graham Apr 17
+    - es/tempus-dominus-2  # Ethan Apr 18
 submodules: { }
