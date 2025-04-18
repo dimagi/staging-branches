@@ -43,6 +43,5 @@ branches:
     - bmb/dc/fake-data-001  # Biyeun April 8
     - ejp/free-edition-banners  # Evan April 11
     - jc/case-type-modal # Jing Apr 13
-    - gh/pass-case-id # Graham Apr 17
     - es/tempus-dominus-2  # Ethan Apr 18
 submodules: { }
