@@ -47,4 +47,5 @@ branches:
     - ejp/free-edition-banners  # Evan April 11
     - ejp/standard-plan-price-change  # Evan Apr 21
     - ejp/update-community-to-free   # Evan Apr 21
+    - jls/swan-song  # Jenny April 21
 submodules: { }
