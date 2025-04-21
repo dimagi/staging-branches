@@ -41,7 +41,9 @@ branches:
     - cs/SC-4336-generate-random-errors-for-qa # Ajeet Apr 3 - staging only!
     - gh/remove-user-data  # Graham Apr 7
     - bmb/dc/fake-data-001  # Biyeun April 8
-    - ejp/free-edition-banners  # Evan April 11
     - jc/case-type-modal # Jing Apr 13
     - es/tempus-dominus-2  # Ethan Apr 18
+    - ejp/free-edition-banners  # Evan April 11
+    - ejp/standard-plan-price-change  # Evan Apr 21
+    - ejp/update-community-to-free   # Evan Apr 21
 submodules: { }
