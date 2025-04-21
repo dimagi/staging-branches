@@ -43,9 +43,6 @@ branches:
     - bmb/dc/fake-data-001  # Biyeun April 8
     - jc/case-type-modal # Jing Apr 13
     - es/tempus-dominus-2  # Ethan Apr 18
-    - ejp/update-community-to-free+ejp/free-edition-banners  # Evan Apr 21
-    - ejp/free-edition-banners  # Evan April 11
-    - ejp/standard-plan-price-change  # Evan Apr 21
     - ejp/update-community-to-free   # Evan Apr 21
     - jls/swan-song  # Jenny April 21
 submodules: { }
