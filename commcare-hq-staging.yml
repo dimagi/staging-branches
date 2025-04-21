@@ -43,5 +43,5 @@ branches:
     - bmb/dc/fake-data-001  # Biyeun April 8
     - jc/case-type-modal # Jing Apr 13
     - es/tempus-dominus-2  # Ethan Apr 18
-    - jls/swan-song  # Jenny April 21
+    - jls/swan-song  # Jenny April 21 - feel free to remove, but please let me know if you do
 submodules: { }
