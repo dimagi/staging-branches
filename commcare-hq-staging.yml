@@ -44,6 +44,5 @@ branches:
     - jc/case-type-modal # Jing Apr 13
     - es/tempus-dominus-2  # Ethan Apr 18
     - jls/swan-song  # Jenny April 21 - feel free to remove, but please let me know if you do
-    - ay/fix-payments-report-not-visible # Ajeet Apr 22
     - mk/4421-restrict-optimizations-to-calculated # MK Apr 22
 submodules: { }
