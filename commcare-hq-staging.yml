@@ -33,7 +33,8 @@ branches:
     - em/deid-export-method  # Evan Mar 12
     - cs/SC-4278-staging-only_decrease-task-wait # Charl Mar 24 - staging only!
     #- ap/translations-es-por-fra # Amit Mar 18. This can be removed if conflicts are seen in translation file
-    - ml/more-multimedia-file-types # Minha Mar 19
+    #- ml/more-multimedia-file-types # Minha Mar 19
+    - ml/more-multimedia-file-types-test # Minha Apr 23
     - gh/repeat-record-report  # Graham March 24
     - em/deid-export-method-bugfix  # Evan March 25
     - dm/upgrade-celery # Daniel Apr 1
