@@ -2,9 +2,9 @@
 
 trunk: master
 name: autostaging
-branches: []
+branches:
+  - jt/dd-tracking-fidelity-submit-all # Jonathan April 24
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches:
-      - jt/dd-tracking-fidelity-submit-all # Jonathan April 24
+    branches: []
