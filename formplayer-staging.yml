@@ -7,5 +7,4 @@ submodules:
   libs/commcare:
     trunk: formplayer
     branches:
-      - ml/document-upload-question-2 # Minha Mar 2
       - jt/dd-tracking-fidelity-submit-all # Jonathan April 24
