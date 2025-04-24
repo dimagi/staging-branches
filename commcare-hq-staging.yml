@@ -47,4 +47,5 @@ branches:
     - revert-36240-revert-36228-jt/lookup-fixture-bug-fix # Jonathan T. April 22
     - jc/migration-to-fix-truncation # Jing Apr 23
     - gh/elasticsearch/slowlog-migration  # Graham Apr 24
+    - gh/define-parent-for-select-in-case-type  # Graham Apr 24
 submodules: { }
