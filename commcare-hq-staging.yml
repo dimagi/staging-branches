@@ -10,10 +10,8 @@ branches:
     - ce/bulk-case-search # Cal July 6
     - sr/gis-select # Sravan 7 Aug
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
-    #- cs/data_source_logs # Chris Nov 22
     - mjr/user_importer_critical_section
     - mjr/adblock-information-edit  # Matt Jan 29
-    # - ze/solutions-feature-request-option+bmb/new-fontawesome
     - gh/two-factor/infinite-redirects # Graham Feb 28
     - ml/case-deletion # minha OCt 25
     #- bmb/bha-style-tweaks-001  # Biyeun March 7
@@ -46,4 +44,5 @@ branches:
     - mk/4421-restrict-optimizations-to-calculated # MK Apr 22.
     - revert-36240-revert-36228-jt/lookup-fixture-bug-fix # Jonathan T. April 22
     - jc/migration-to-fix-truncation # Jing Apr 23
+    - nh/cle/show_timing  # Norman Apr 25
 submodules: { }
