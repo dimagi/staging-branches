@@ -44,4 +44,6 @@ branches:
     - mk/4421-restrict-optimizations-to-calculated # MK Apr 22.
     - revert-36240-revert-36228-jt/lookup-fixture-bug-fix # Jonathan T. April 22
     - jc/migration-to-fix-truncation # Jing Apr 23
+    - jt/clean-up-priming-restore # Jonathan T. April 25
+    - jt/automate-include-sync-in-priming # Jonathan T. April 25
 submodules: { }
