@@ -3,7 +3,6 @@
 trunk: master
 name: autostaging
 branches:
-  - jt/dd-tracking-fidelity-submit-all # Jonathan April 24
   - jt/submitForm-timing-logging # Jonathan April 28
 submodules:
   libs/commcare:
