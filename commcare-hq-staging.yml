@@ -45,4 +45,5 @@ branches:
     - es/loc-api  # Ethan Apr 29
     - ay/ff-access-ui # Ajeet Apr 30
     - gh/data-dict/remove-v2  # Graham Apr 30
+    - riese/scale_signature # Martin Apr 30
 submodules: { }
