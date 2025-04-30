@@ -4,4 +4,5 @@ branches:  # list of branches to merge into final branch
   - sr/ui-base-table  # Sravan April 30
   - sr/worker-lists  # Sravan April 30
   - sr/worker-visits  # Sravan April 30
+  - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
 submodules:
