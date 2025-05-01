@@ -41,7 +41,6 @@ branches:
     - jls/swan-song  # Jenny April 21
     - revert-36240-revert-36228-jt/lookup-fixture-bug-fix # Jonathan T. April 22
     - jc/migration-to-fix-truncation # Jing Apr 23
-    - es/loc-api  # Ethan Apr 29
     - ay/ff-access-ui # Ajeet Apr 30
     - riese/scale_signature # Martin Apr 30
     - ay/payments-verify-case-owner-filter  # Ajeet May 1
