@@ -5,4 +5,5 @@ branches:  # list of branches to merge into final branch
   - sr/worker-lists  # Sravan April 30
   - sr/worker-visits  # Sravan April 30
   - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
+  - pkv/fix-notification-payload # Pawan May 1
 submodules:
