@@ -1,7 +1,7 @@
 trunk: main
 name: autostaging  # name of the branch to build
 branches:  # list of branches to merge into final branch
-  - sr/ui-base-table  # Sravan April 30
+  - ui-main # Hemant May 2
   - sr/worker-lists  # Sravan April 30
   - sr/worker-visits  # Sravan April 30
   - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
