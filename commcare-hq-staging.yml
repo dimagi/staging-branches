@@ -35,7 +35,7 @@ branches:
     - mk/4288-gauge-metric-add-case-query # MK Apr 3
     - cs/SC-4336-generate-random-errors-for-qa # Ajeet Apr 3 - staging only!
     - gh/remove-user-data  # Graham Apr 7
-    - jls/swan-song  # Jenny April 21
+    #- jls/swan-song  # Jenny April 21 # If you comment this out, also comment out vellum-staging
     - jc/migration-to-fix-truncation # Jing Apr 23
     - ay/ff-access-ui # Ajeet Apr 30
     - ay/payments-verify-case-owner-filter  # Ajeet May 1
