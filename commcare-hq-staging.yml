@@ -42,11 +42,7 @@ branches:
     - gh/restores/406  # Graham May 1
     - ap/add-more-languages # Amit - May the 4th
     - bmb/dc/bulk-change-creation-refinement  # Biyeun - remove after PR is merged
-    - jls/esm-export # Jenny May 5
-    - jls/esm-users # Jenny May 5
     #- jls/esm-domain # Jenny May 5
-    - jls/esm-sms # Jenny May 5
-    - jls/esm-events # Jenny May 5
     - jls/esm-flagged # Jenny May 5
     - jls/esm-ga # Jenny May 5
     - jls/esm-admin # Jenny May 5
