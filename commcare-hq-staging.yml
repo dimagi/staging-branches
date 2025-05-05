@@ -38,7 +38,7 @@ branches:
     - gh/remove-user-data  # Graham Apr 7
     - bmb/dc/fake-data-001  # Biyeun April 8
     - es/tempus-dominus-2  # Ethan Apr 18
-    - jls/swan-song  # Jenny April 21
+    # - jls/swan-song  # Jenny April 21
     - revert-36240-revert-36228-jt/lookup-fixture-bug-fix # Jonathan T. April 22
     - jc/migration-to-fix-truncation # Jing Apr 23
     - ay/ff-access-ui # Ajeet Apr 30
