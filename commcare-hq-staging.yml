@@ -44,7 +44,7 @@ branches:
     - bmb/dc/bulk-change-creation-refinement  # Biyeun - remove after PR is merged
     - jls/esm-export # Jenny May 5
     - jls/esm-users # Jenny May 5
-    - jls/esm-domain # Jenny May 5
+    #- jls/esm-domain # Jenny May 5
     - jls/esm-sms # Jenny May 5
     - jls/esm-events # Jenny May 5
     - jls/esm-flagged # Jenny May 5
