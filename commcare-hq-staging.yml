@@ -21,7 +21,6 @@ branches:
     # - ml/editable-webuser-invite # Minha Dec 4
     #- sr/connectid+ml/log-changes-to-invite-edits
     #- sr/connectid # Sravan Dec 12
-    - bmb/b5-reports-staging  # Biyeun Jan 21
     # - mjr/analytics-testing  # Matt Jan 23
     # - ap/es-translations # Amit Feb 5
     # - jc/fix-configurable-report # Jing Feb 5
@@ -36,7 +35,6 @@ branches:
     - mk/4288-gauge-metric-add-case-query # MK Apr 3
     - cs/SC-4336-generate-random-errors-for-qa # Ajeet Apr 3 - staging only!
     - gh/remove-user-data  # Graham Apr 7
-    - bmb/dc/fake-data-001  # Biyeun April 8
     - es/tempus-dominus-2  # Ethan Apr 18
     # - jls/swan-song  # Jenny April 21
     - revert-36240-revert-36228-jt/lookup-fixture-bug-fix # Jonathan T. April 22
@@ -45,4 +43,5 @@ branches:
     - ay/payments-verify-case-owner-filter  # Ajeet May 1
     - gh/restores/406  # Graham May 1
     - ap/add-more-languages # Amit - May the 4th
+    - bmb/dc/bulk-change-creation-refinement  # Biyeun - remove after PR is merged
 submodules: { }
