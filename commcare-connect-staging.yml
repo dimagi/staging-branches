@@ -8,4 +8,5 @@ branches:  # list of branches to merge into final branch
   - sr/staging-deploy # Hemant May 2
   - pkv/ui-login-signup-pages # Pawan May 6
   - hy/ui/dashboard-opportunity  # Hemant May 6
+  - pkv/ui-program-dashboard # Pawan May 6
 submodules:
