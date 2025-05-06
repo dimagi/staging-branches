@@ -46,6 +46,5 @@ branches:
     - jls/esm-flagged # Jenny May 5
     - jls/esm-ga # Jenny May 5
     - jls/esm-admin # Jenny May 5
-    - jls/esm-internal-pages # Jenny May 5
     - ay/ff-script-enable-all-superusers # Ajeet May 6
 submodules: { }
