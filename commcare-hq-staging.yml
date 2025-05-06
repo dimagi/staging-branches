@@ -30,7 +30,6 @@ branches:
     - em/deid-export-method  # Evan Mar 12
     - cs/SC-4278-staging-only_decrease-task-wait # Charl Mar 24 - staging only!
     #- ap/translations-es-por-fra # Amit Mar 18. This can be removed if conflicts are seen in translation file
-    - ml/more-multimedia-file-types # Minha Mar 19
     - gh/repeat-record-report  # Graham March 24
     - mk/4288-gauge-metric-add-case-query # MK Apr 3
     - cs/SC-4336-generate-random-errors-for-qa # Ajeet Apr 3 - staging only!
