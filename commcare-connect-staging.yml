@@ -6,4 +6,5 @@ branches:  # list of branches to merge into final branch
   - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
   - pkv/fix-notification-payload # Pawan May 1
   - sr/staging-deploy # Hemant May 2
+  - pkv/ui-login-signup-pages # Pawan May 6
 submodules:
