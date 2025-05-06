@@ -40,12 +40,12 @@ branches:
     - ay/payments-verify-case-owner-filter  # Ajeet May 1
     - gh/restores/406  # Graham May 1
     - ap/add-more-languages # Amit - May the 4th
-    - bmb/dc/bulk-change-creation-refinement  # Biyeun - remove after PR is merged
     #- jls/esm-domain # Jenny May 5
     - jls/esm-flagged # Jenny May 5
     - jls/esm-ga # Jenny May 5
     - jls/esm-admin # Jenny May 5
     - ay/ff-script-enable-all-superusers # Ajeet May 6
     - gh/device-rate-limiter/translatable-msg # Graham May 6
+    - bmb/dc/commit-task-improvements  # Biyeun May 6 - remove after PR is merged
     
 submodules: { }
