@@ -48,6 +48,5 @@ branches:
     - jls/esm-admin # Jenny May 5
     - ay/ff-script-enable-all-superusers # Ajeet May 6
     - gh/device-rate-limiter/translatable-msg # Graham May 6
-    - gh/restores/406 # Graham May 6
     
 submodules: { }
