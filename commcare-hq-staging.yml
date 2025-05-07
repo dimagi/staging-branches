@@ -44,5 +44,9 @@ branches:
     - gh/device-rate-limiter/translatable-msg # Graham May 6
     - bmb/dc/commit-task-improvements  # Biyeun May 6 - remove after PR is merged
     - jls/esm-app-manager-3 # Jenny May 7
+    - jls/esm-remaining-domain # Jenny May 7
+    - jls/accounting # Jenny May 7
+    - jls/geospatial # Jenny May 7
+    - jls/data-interfaces # Jenny May 7
     
 submodules: { }
