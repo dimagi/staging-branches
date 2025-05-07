@@ -43,7 +43,6 @@ branches:
     - ay/ff-script-enable-all-superusers # Ajeet May 6
     - gh/device-rate-limiter/translatable-msg # Graham May 6
     - bmb/dc/commit-task-improvements  # Biyeun May 6 - remove after PR is merged
-    - ejp/bugfix-credit-not-applied  # Evan May 7
     - jls/esm-app-manager-3 # Jenny May 7
     
 submodules: { }
