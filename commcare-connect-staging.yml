@@ -10,4 +10,5 @@ branches:  # list of branches to merge into final branch
   - hy/staging-dashboard  # Hemant May 6
   - pkv/ui-program-dashboard # Pawan May 6
   - hy/org-memeber-pages # Hemant May 7
+  - sr/invoices # Sravan May 7
 submodules:
