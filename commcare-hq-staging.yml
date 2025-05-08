@@ -41,7 +41,6 @@ branches:
     - gh/restores/406  # Graham May 1
     - ay/ff-script-enable-all-superusers # Ajeet May 6
     - gh/device-rate-limiter/translatable-msg # Graham May 6
-    - jls/esm-accounting # Jenny May 7
     - jls/esm-geospatial # Jenny May 7
     - jls/esm-data-interfaces # Jenny May 7
     - jt/file-system-db-align-with-s3 # Jonathan May 7
