@@ -17,7 +17,6 @@ branches:
     #- bmb/bha-style-tweaks-001  # Biyeun March 7
     # - smh/web-invite-update # Steph April 16
     - dmr/remove-css-grid-polyfill  # Danny Apr 22
-    - rc/test-epic-integration # Robert Sept 13
     # - ml/editable-webuser-invite # Minha Dec 4
     #- sr/connectid+ml/log-changes-to-invite-edits
     #- sr/connectid # Sravan Dec 12
