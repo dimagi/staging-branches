@@ -33,6 +33,10 @@ branches:
     - cs/SC-4336-generate-random-errors-for-qa # Ajeet Apr 3 - staging only!
     - gh/remove-user-data  # Graham Apr 7
     - jls/swan-song  # Jenny April 21 # If you comment this out, also comment out vellum-staging
+    - jls/esm-reports # Jenny May 12
+    - jls/esm-registration # Jenny May 12
+    - jls/esm-dhis2 # Jenny May 12
+    - jls/esm-hqwebapp # Jenny May 12
     - jc/migration-to-fix-truncation # Jing Apr 23
     - ay/ff-access-ui # Ajeet Apr 30
     - ay/payments-verify-case-owner-filter  # Ajeet May 1
