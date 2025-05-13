@@ -39,7 +39,6 @@ branches:
     - jls/esm-hqwebapp # Jenny May 12
     - jc/migration-to-fix-truncation # Jing Apr 23
     - ay/ff-access-ui # Ajeet Apr 30
-    - ay/payments-verify-case-owner-filter  # Ajeet May 1
     - gh/restores/406  # Graham May 1
     - ay/ff-script-enable-all-superusers # Ajeet May 6
     - gh/device-rate-limiter/translatable-msg # Graham May 6
