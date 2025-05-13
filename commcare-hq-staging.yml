@@ -35,7 +35,6 @@ branches:
     - jls/swan-song  # Jenny April 21 # If you comment this out, also comment out vellum-staging
     - jls/esm-reports # Jenny May 12
     - jls/esm-dhis2 # Jenny May 12
-    - jls/esm-hqwebapp # Jenny May 12
     - jc/migration-to-fix-truncation # Jing Apr 23
     - ay/ff-access-ui # Ajeet Apr 30
     - gh/restores/406  # Graham May 1
