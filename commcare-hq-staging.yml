@@ -45,5 +45,6 @@ branches:
     - jt/file-system-db-align-with-s3 # Jonathan May 7
     - bmb/dc/improve-table-performance-record-row  # Biyeun May 7
     - bmb/dc/table-performance-change-counts  # Biyeun May 7
+    - gh/data-dictionary/wait-to-query-props-usage  # Graham May 13
     
 submodules: { }
