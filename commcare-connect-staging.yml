@@ -13,5 +13,6 @@ branches:  # list of branches to merge into final branch
   - pkv/ui-program-dashboard # Pawan May 6
   - hy/org-memeber-pages # Hemant May 7
   - pkv/ui-worker-visit-verification-fixes # Pawan May 12
+  - hy/staging-deploy+ui-main+staging-deploy+worker-pulldowns+opp-dashboard+ui-program-dashboard+ui-worker-visit-verification-fixes+new-ui-forms # Hemant May 14
   - hy/new-ui-forms #  Hemant May 14
 submodules:
