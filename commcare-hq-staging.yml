@@ -42,6 +42,5 @@ branches:
     - gh/device-rate-limiter/translatable-msg # Graham May 6
     - jt/file-system-db-align-with-s3 # Jonathan May 7
     - bmb/dc/working  # Biyeun - the working branch for data cleaning, rebased OFTEN --- if you run into conflicts, please 'git branch -D bmb/dc/working' locally and re-run rebuildstaging. thanks  May 13
-    - ap/add-translations # Amit May 14
     
 submodules: { }
