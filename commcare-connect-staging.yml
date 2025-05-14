@@ -14,4 +14,5 @@ branches:  # list of branches to merge into final branch
   - sr/invoices # Sravan May 7
   - pkv/ui-worker-visit-verification-fixes # Pawan May 12
   - hy/ui-fix-invite-user # Hemant May 14
+  - hy/staging-deploy+ui-main+staging-deploy+worker-pulldowns+dashboard-opportunity # Hemant May 14
 submodules:
