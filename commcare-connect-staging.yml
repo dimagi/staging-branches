@@ -13,4 +13,6 @@ branches:  # list of branches to merge into final branch
   - hy/org-memeber-pages # Hemant May 7
   - sr/invoices # Sravan May 7
   - pkv/ui-worker-visit-verification-fixes # Pawan May 12
+  - hy/sr/worker-pulldowns+pkv/ui-program-dashboard+hy/org-memeber-pages # Hemant May 14
+  - hy/ui-fix-invite-user # Hemant May 14
 submodules:
