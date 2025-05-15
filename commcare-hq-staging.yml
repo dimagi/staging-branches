@@ -19,7 +19,7 @@ branches:
     - dmr/remove-css-grid-polyfill  # Danny Apr 22
     # - ml/editable-webuser-invite # Minha Dec 4
     #- sr/connectid+ml/log-changes-to-invite-edits
-    - sr/connectid # Sravan Dec 12
+    # - sr/connectid # Sravan Dec 12
     # - mjr/analytics-testing  # Matt Jan 23
     # - ap/es-translations # Amit Feb 5
     # - jc/fix-configurable-report # Jing Feb 5
