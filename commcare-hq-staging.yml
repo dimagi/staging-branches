@@ -34,7 +34,6 @@ branches:
     - gh/remove-user-data  # Graham Apr 7
     - jls/swan-song  # Jenny April 21 # If you comment this out, also comment out vellum-staging and jls/kill-use_js_bundler
     #- jls/kill-use_js_bundler # Jenny May 14
-    - orangejenny-patch-16 # Jenny May 14
     - jc/migration-to-fix-truncation # Jing Apr 23
     - ay/ff-access-ui # Ajeet Apr 30
     - gh/restores/406  # Graham May 1
