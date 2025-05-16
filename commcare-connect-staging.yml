@@ -16,6 +16,7 @@ branches:  # list of branches to merge into final branch
   - hy/new-ui-forms #  Hemant May 14
   - sr/avtar # Sravan May 16
   - sr/tooltip # Sravan May 16
+  - hy/pulldown+ui-dashboard+tooltip_verification+delivery-progress # Hemant May 16
   - hy/ui/delivery-progress # Hemant May 16
   - hy/ui/fix-worker-list-issues  # Hemant May 16
 submodules:
