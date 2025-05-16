@@ -9,6 +9,7 @@ branches:  # list of branches to merge into final branch
   - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
   - pkv/fix-notification-payload # Pawan May 1
   - pkv/ui-login-signup-pages # Pawan May 6
+  - hy/ui/fix-worker-list-issues # Hemant May 16
   - hy/staging-deploy+ui-main+staging-deploy+worker-pulldowns+opp-dashboard  #Hemant May 14 + hy/auto/ui-main+pulldown May 15
   - hy/ui/dashboard-opportunity  # Hemant May 14
   - pkv/ui-program-dashboard # Pawan May 6
@@ -17,5 +18,4 @@ branches:  # list of branches to merge into final branch
   - hy/staging-deploy+ui-main+staging-deploy+worker-pulldowns+opp-dashboard+ui-program-dashboard+ui-worker-visit-verification-fixes+new-ui-forms # May 15 pulled conflicted branches changes
   - hy/new-ui-forms #  Hemant May 14
   - sr/avtar # Sravan May 16
-  - hy/ui/fix-worker-list-issues # Hemant May 16
 submodules:
