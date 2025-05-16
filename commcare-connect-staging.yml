@@ -16,5 +16,4 @@ branches:  # list of branches to merge into final branch
   - hy/staging-deploy+ui-main+staging-deploy+worker-pulldowns+opp-dashboard+ui-program-dashboard+ui-worker-visit-verification-fixes+new-ui-forms # May 15 pulled conflicted branches changes
   - hy/new-ui-forms #  Hemant May 14
   - sr/avtar # Sravan May 16
-  - hy/ui/fix-worker-list-issues # Hemant May 16
 submodules:
