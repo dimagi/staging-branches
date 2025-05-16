@@ -16,4 +16,5 @@ branches:  # list of branches to merge into final branch
   - pkv/ui-worker-visit-verification-fixes # Pawan May 12
   - hy/staging-deploy+ui-main+staging-deploy+worker-pulldowns+opp-dashboard+ui-program-dashboard+ui-worker-visit-verification-fixes+new-ui-forms # May 15 pulled conflicted branches changes
   - hy/new-ui-forms #  Hemant May 14
+  - sr/avtar # Sravan May 16
 submodules:
