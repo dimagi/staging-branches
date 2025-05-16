@@ -14,4 +14,5 @@ branches:  # list of branches to merge into final branch
   - pkv/ui-worker-visit-verification-fixes # Pawan May 12
   - hy/new-ui-forms #  Hemant May 14
   - sr/avtar # Sravan May 16
+  - sr/tooltip # Sravan May 16
 submodules:
