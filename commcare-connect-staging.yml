@@ -4,8 +4,8 @@ branches:  # list of branches to merge into final branch
   - sr/staging-deploy+ui-main # Pawan May 13
   - sr/staging-deploy # Hemant May 2
   - ui-main # Hemant May 2
-  - pkv/sr/worker-pulldowns+pkv/ui-worker-visit-verification-fixes+sr/tooltip+hy/ui/dashboard-opportunity # Pawan May 16
   - hy/pulldown+ui-dashboard+tooltip_verification+delivery-progress # Hemant May 16
+  - pkv/sr/worker-pulldowns+pkv/ui-worker-visit-verification-fixes+sr/tooltip+hy/ui/dashboard-opportunity # Pawan May 16
   - sr/worker-pulldowns  # May 5
   - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
   - pkv/fix-notification-payload # Pawan May 1
