@@ -26,7 +26,6 @@ branches:
     - dm/hqcases-experiment-errors # Daniel Feb 14
     - riese/ics # Martin Feb 18
     - cs/Sc-4181-staging-test_decrease-const # Charl Mar 3 - staging only!
-    - em/deid-export-method  # Evan Mar 12
     - cs/SC-4278-staging-only_decrease-task-wait # Charl Mar 24 - staging only!
     #- ap/translations-es-por-fra # Amit Mar 18. This can be removed if conflicts are seen in translation file
     - mk/4288-gauge-metric-add-case-query # MK Apr 3
@@ -39,9 +38,8 @@ branches:
     - gh/restores/406  # Graham May 1
     - ay/ff-script-enable-all-superusers # Ajeet May 6
     - gh/device-rate-limiter/translatable-msg # Graham May 6
-    - es/location-fixture  # Ethan May 14
     - bmb/dc/working  # Biyeun - the working branch for data cleaning, rebased OFTEN --- if you run into conflicts, please 'git branch -D bmb/dc/working' locally and re-run rebuildstaging. thanks  May 13
     - ay/fix-es-missing-userdata-property # Ajeet May 15
-    - ay/fix-verify-all # Ajeet May 15
     - mk/4080-fix-ds-set-rebuild-flag # MK May 16
+    - dm/python313 # Daniel May 20
 submodules: { }
