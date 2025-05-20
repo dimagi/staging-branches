@@ -11,5 +11,4 @@ branches:  # list of branches to merge into final branch
   - pkv/ui-program-dashboard # Pawan May 6
   - sr/tooltip # Sravan May 16
   - hy/ui/delivery-progress # Hemant May 20
-  - hy/ui/budget-and-import-fixes # Hemant May 20
 submodules:
