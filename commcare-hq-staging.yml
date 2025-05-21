@@ -42,4 +42,5 @@ branches:
     - dm/python313 # Daniel May 20
     - jt/separate-fixture-by-indicator # Jonathan May 20
     - jls/fix-vellum-template-loader # Jenny May 21
+    - jls/remove-hqdefine # Jenny May 21
 submodules: { }
