@@ -30,7 +30,6 @@ branches:
     #- ap/translations-es-por-fra # Amit Mar 18. This can be removed if conflicts are seen in translation file
     - mk/4288-gauge-metric-add-case-query # MK Apr 3
     - cs/SC-4336-generate-random-errors-for-qa # Ajeet Apr 3 - staging only!
-    - gh/remove-user-data  # Graham Apr 7
     #- jls/kill-use_js_bundler # Jenny May 14
     - jc/migration-to-fix-truncation # Jing Apr 23
     - ay/ff-access-ui # Ajeet Apr 30
