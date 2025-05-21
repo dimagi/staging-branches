@@ -43,4 +43,5 @@ branches:
     - jt/separate-fixture-by-indicator # Jonathan May 20
     - gh/experiment/exports  # Graham May 21
     - gh/date-picker/dont-translate  # Graham May 21
+    - jls/fix-vellum-template-loader # Jenny May 21
 submodules: { }
