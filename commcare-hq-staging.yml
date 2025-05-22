@@ -30,14 +30,11 @@ branches:
     #- ap/translations-es-por-fra # Amit Mar 18. This can be removed if conflicts are seen in translation file
     - mk/4288-gauge-metric-add-case-query # MK Apr 3
     - cs/SC-4336-generate-random-errors-for-qa # Ajeet Apr 3 - staging only!
-    - jc/migration-to-fix-truncation # Jing Apr 23
     - ay/ff-access-ui # Ajeet Apr 30
     - gh/restores/406  # Graham May 1
     - ay/ff-script-enable-all-superusers # Ajeet May 6
     - gh/device-rate-limiter/translatable-msg # Graham May 6
     - bmb/dc/working  # Biyeun - the working branch for data cleaning, rebased OFTEN --- if you run into conflicts, please 'git branch -D bmb/dc/working' locally and re-run rebuildstaging. thanks  May 13
-    - ay/fix-es-missing-userdata-property # Ajeet May 15
-    - mk/4080-fix-ds-set-rebuild-flag # MK May 16
     - dm/python313 # Daniel May 20
     - jt/separate-fixture-by-indicator # Jonathan May 20
     - jls/remove-hqdefine+jls/kill-use_js_bundler
