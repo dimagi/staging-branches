@@ -6,7 +6,5 @@ branches:  # list of branches to merge into final branch
   - ui-main # Hemant May 2
   - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
   - pkv/fix-notification-payload # Pawan May 1
-  - pkv/ui-login-signup-pages # Pawan May 6
-  - pkv/ui-program-dashboard # Pawan May 6
   - hy/ui/delivery-progress # Hemant May 20
 submodules:
