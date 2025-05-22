@@ -41,6 +41,7 @@ branches:
     - jls/kill-use_js_bundler # Jenny May 14
     - jls/fix-vellum-template-loader # Jenny May 21
     - jls/remove-hqdefine # Jenny May 21
+    - jls/fix-vellum-template-loader
     - ml/is-active-es # Minha May 22
     - ml/web-user-deactivation-manual # Minha May 22
 submodules: { }
