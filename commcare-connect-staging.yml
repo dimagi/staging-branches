@@ -5,6 +5,5 @@ branches:  # list of branches to merge into final branch
   - sr/staging-deploy # Hemant May 2
   - ui-main # Hemant May 2
   - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
-  - pkv/fix-notification-payload # Pawan May 1
   - hy/ui/budget-and-import-fixes  # Hemant May 22
 submodules:
