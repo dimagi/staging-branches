@@ -6,4 +6,5 @@ branches:  # list of branches to merge into final branch
   - ui-main # Hemant May 2
   - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
   - sr/oplist-query  # Sravan May 22
+  - hy/ui/minor-fixes-worker-opp # Hemant May 22
 submodules:
