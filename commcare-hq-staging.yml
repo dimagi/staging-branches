@@ -36,10 +36,10 @@ branches:
     - bmb/dc/working  # Biyeun - the working branch for data cleaning, rebased OFTEN --- if you run into conflicts, please 'git branch -D bmb/dc/working' locally and re-run rebuildstaging. thanks  May 13
     - dm/python313 # Daniel May 20
     - jt/separate-fixture-by-indicator # Jonathan May 20
-    # - jls/remove-hqdefine+jls/kill-use_js_bundler
-    # - jls/kill-use_js_bundler # Jenny May 14
+    - jls/remove-hqdefine+jls/kill-use_js_bundler
+    - jls/kill-use_js_bundler # Jenny May 14
     - jls/fix-vellum-template-loader # Jenny May 21
-    # - jls/remove-hqdefine # Jenny May 21
+    - jls/remove-hqdefine # Jenny May 21
     - jls/fix-vellum-template-loader
     - ml/is-active-es # Minha May 22
     - ml/web-user-deactivation-manual # Minha May 22
