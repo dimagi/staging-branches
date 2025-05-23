@@ -1,7 +1,7 @@
 trunk: main
 name: autostaging  # name of the branch to build
 branches:  # list of branches to merge into final branch
-  - hy/staging-deploy-ui-main+completed-learn
+  - hy/staging-deploy-ui-main+completed-learn # Hemant May 23
   - sr/staging-deploy+ui-main # Pawan May 13
   - sr/staging-deploy # Hemant May 2
   - ui-main # Hemant May 2
@@ -9,4 +9,5 @@ branches:  # list of branches to merge into final branch
   - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
   - sr/oplist-query  # Sravan May 22
   - hy/ui/minor-fixes-worker-opp # Hemant May 22
+  - hy/ui/optz # Hemant May 23
 submodules:
