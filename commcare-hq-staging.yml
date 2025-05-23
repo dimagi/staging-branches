@@ -39,7 +39,7 @@ branches:
     - jls/fix-vellum-template-loader # Jenny May 21
     - jls/remove-hqdefine # Jenny May 21
     - jls/fix-vellum-template-loader# Jenny May 22
-    - jls/esm-app-manager-dregs # Jenny May 23
+    #- jls/esm-app-manager-dregs # Jenny May 23
     - ml/is-active-es # Minha May 22
     - ml/web-user-deactivation-manual # Minha May 22
     - mk/4468-caching-warning # MK May 23
