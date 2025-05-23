@@ -1,6 +1,7 @@
 trunk: main
 name: autostaging  # name of the branch to build
 branches:  # list of branches to merge into final branch
+  - hy/staging-deploy-ui-main+completed-learn
   - sr/staging-deploy+ui-main # Pawan May 13
   - sr/staging-deploy # Hemant May 2
   - ui-main # Hemant May 2
