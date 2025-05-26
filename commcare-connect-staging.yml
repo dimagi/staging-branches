@@ -10,8 +10,8 @@ branches:  # list of branches to merge into final branch
   - sr/oplist-query  # Sravan May 22
   - hy/sr-oplist-query+optz  # Hemant May 23
   - hy/ui/optz # Hemant May 23
+  - hy/auto/page-size+optz # hemant May 26
   - hy/ui/row-per-page # hemant May 26
   - pkv/ui-qa-fixes # Pawan May 23
   - pkv/ui-terms-and-conditions # Pawan May 26
-  - hy/auto/page-size+optz # hemant May 26
 submodules:
