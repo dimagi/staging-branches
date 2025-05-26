@@ -3,7 +3,7 @@
 trunk: master
 name: autostaging
 branches:
-  - jt/submitForm-timing-logging # Jonathan April 28
+  - jt/apm_by_domain # Jonathan May 26
 submodules:
   libs/commcare:
     trunk: formplayer
