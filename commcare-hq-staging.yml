@@ -43,4 +43,6 @@ branches:
     - ml/web-user-deactivation-manual # Minha May 22
     - mk/4468-caching-warning # MK May 23
     - dependabot/npm_and_yarn/dompurify-3.2.4  # Biyeun May 26...testing on staging
+    - ejp/pay-annually-ui-selection  # Evan May 27
+    - ejp/pay-annually-flag-for-ops  # Evan May 27
 submodules: { }
