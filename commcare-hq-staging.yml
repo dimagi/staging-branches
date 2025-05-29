@@ -21,7 +21,6 @@ branches:
     # - sr/connectid # Sravan Dec 12
     # - mjr/analytics-testing  # Matt Jan 23
     # - ap/es-translations # Amit Feb 5
-    # - jc/fix-configurable-report # Jing Feb 5
     - dm/hqcases-experiment-errors # Daniel Feb 14
     - riese/ics # Martin Feb 18
     - cs/Sc-4181-staging-test_decrease-const # Charl Mar 3 - staging only!
@@ -45,4 +44,5 @@ branches:
     - dependabot/npm_and_yarn/dompurify-3.2.4  # Biyeun May 26...testing on staging
     - ejp/pay-annually-ui-selection  # Evan May 27
     - ejp/pay-annually-flag-for-ops  # Evan May 27
+    - jc/command-to-refresh-data-dictionary # Jing May 28
 submodules: { }
