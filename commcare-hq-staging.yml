@@ -36,7 +36,6 @@ branches:
     - dm/python313 # Daniel May 20
     #- ml/is-active-es # Minha May 22
     #- ml/web-user-deactivation-manual # Minha May 22
-    - riese/deactivate_user_migration # Martin May 28
     - mk/4468-caching-warning # MK May 23
     - ejp/pay-annually-ui-selection  # Evan May 27
     - ejp/pay-annually-flag-for-ops  # Evan May 27
