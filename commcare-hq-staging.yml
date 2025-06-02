@@ -34,9 +34,6 @@ branches:
     - gh/device-rate-limiter/translatable-msg # Graham May 6
     - bmb/dc/working  # Biyeun - the working branch for data cleaning, rebased OFTEN --- if you run into conflicts, please 'git branch -D bmb/dc/working' locally and re-run rebuildstaging. thanks  May 13
     - dm/python313 # Daniel May 20
-    - jls/fix-vellum-template-loader # Jenny May 21
-    - jls/remove-hqdefine # Jenny May 21
-    - jls/fix-vellum-template-loader # Jenny May 22
     #- ml/is-active-es # Minha May 22
     #- ml/web-user-deactivation-manual # Minha May 22
     - riese/deactivate_user_migration # Martin May 28
