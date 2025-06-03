@@ -4,4 +4,5 @@ branches:  # list of branches to merge into final branch
   - sr/staging-deploy # Hemant May 2 # DO NOT REMOVE!!
   - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
   - pkv/fcm-analytics-label # Pawan June 2
+  - pkv/add-updated-favicon # Pawan June 3
 submodules:
