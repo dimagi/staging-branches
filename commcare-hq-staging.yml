@@ -40,5 +40,6 @@ branches:
     - jc/command-to-refresh-data-dictionary # Jing May 28
     - ay/ff-manage-edit-access # Ajeet June 2
     - jls/back-to-85-percent # Jenny June 3
+    #- jls/remove-use_js_bundler # Jenny June 3
     - gh/dd-trace/default-to-false  # Graham Jun 3
 submodules: { }
