@@ -5,4 +5,5 @@ branches:  # list of branches to merge into final branch
   - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
   - pkv/fcm-analytics-label # Pawan June 2
   - pkv/add-updated-favicon # Pawan June 3
+  - sr/uibugs  # Sravan June 4
 submodules:
