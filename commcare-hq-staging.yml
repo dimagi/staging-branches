@@ -44,5 +44,4 @@ branches:
     - orangejenny-patch-16 # Jenny June 4
     #- jls/almost-90-percent # Jenny June 3
     - gh/dd-trace/default-to-false  # Graham Jun 3
-    - gh/orphaned-user-data  # Graham Jun 4
 submodules: { }
