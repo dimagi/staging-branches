@@ -26,7 +26,6 @@ branches:
     - cs/Sc-4181-staging-test_decrease-const # Charl Mar 3 - staging only!
     - cs/SC-4278-staging-only_decrease-task-wait # Charl Mar 24 - staging only!
     #- ap/translations-es-por-fra # Amit Mar 18. This can be removed if conflicts are seen in translation file
-    - mk/4288-gauge-metric-add-case-query # MK Apr 3
     - cs/SC-4336-generate-random-errors-for-qa # Ajeet Apr 3 - staging only!
     - ay/ff-access-ui # Ajeet Apr 30
     - gh/restores/406  # Graham May 1
@@ -41,4 +40,5 @@ branches:
     - ay/ff-manage-edit-access # Ajeet June 2
     - jls/almost-90-percent # Jenny June 3
     - gh/case-v2/search-after  # Graham Jun 5
+    - mk/report-builder-walkthrough # MK Jun 5
 submodules: { }
