@@ -38,6 +38,5 @@ branches:
     - ejp/pay-annually-flag-for-ops  # Evan May 27
     - jc/command-to-refresh-data-dictionary # Jing May 28
     - ay/ff-manage-edit-access # Ajeet June 2
-    - revert-36544-jls/remove-use_js_bundler # Jenny June 5
     - mk/report-builder-walkthrough # MK Jun 5
 submodules: { }
