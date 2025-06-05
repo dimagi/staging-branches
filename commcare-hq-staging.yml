@@ -39,6 +39,5 @@ branches:
     - jc/command-to-refresh-data-dictionary # Jing May 28
     - ay/ff-manage-edit-access # Ajeet June 2
     - jls/almost-90-percent # Jenny June 3
-    - gh/case-v2/search-after  # Graham Jun 5
     - mk/report-builder-walkthrough # MK Jun 5
 submodules: { }
