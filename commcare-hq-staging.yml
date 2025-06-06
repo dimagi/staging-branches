@@ -34,6 +34,7 @@ branches:
     - bmb/dc/working  # Biyeun - the working branch for data cleaning, rebased OFTEN --- if you run into conflicts, please 'git branch -D bmb/dc/working' locally and re-run rebuildstaging. thanks  May 13
     - dm/python313 # Daniel May 20
     #- ml/web-user-deactivation-manual  # Ethan/Martin/Minha June 3
+    - riese/deactivate_webuser_ui # Ethan/Martin/Minha June 6
     - ejp/pay-annually-ui-selection  # Evan May 27
     - ejp/pay-annually-flag-for-ops  # Evan May 27
     - jc/command-to-refresh-data-dictionary # Jing May 28
