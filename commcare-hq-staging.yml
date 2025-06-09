@@ -40,4 +40,5 @@ branches:
     - jc/command-to-refresh-data-dictionary # Jing May 28
     - ay/ff-manage-edit-access # Ajeet June 2
     - mk/report-builder-walkthrough # MK Jun 5
+    - revert-36548-jls/almost-90-percent # Jenny June 9
 submodules: { }
