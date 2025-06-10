@@ -42,5 +42,4 @@ branches:
     - mk/report-builder-walkthrough # MK Jun 5
     #- gh/case-v2/decode-error  # Graham Jun 9
     - gh/case-v2/remove-backwards-compat  # Graham Jun 9
-    - gh/system-limit/create-defaults  # Graham Jun 10
 submodules: { }
