@@ -35,11 +35,8 @@ branches:
     - dm/python313 # Daniel May 20
     #- ml/web-user-deactivation-manual  # Ethan/Martin/Minha June 3
     - riese/deactivate_webuser_ui # Ethan/Martin/Minha June 6
-    - ejp/pay-annually-ui-selection  # Evan May 27
-    - ejp/pay-annually-flag-for-ops  # Evan May 27
     - ay/ff-manage-edit-access # Ajeet June 2
     - mk/report-builder-walkthrough # MK Jun 5
     #- gh/case-v2/decode-error  # Graham Jun 9
     - gh/case-v2/remove-backwards-compat  # Graham Jun 9
-    - dmr/limit-hubspot  # Danny Jun 11
 submodules: { }
