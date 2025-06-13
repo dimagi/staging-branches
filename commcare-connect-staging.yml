@@ -7,4 +7,5 @@ branches:  # list of branches to merge into final branch
   - pkv/fcm-analytics-label # Pawan June 2
   - sr/uibugs  # Sravan June 4
   - pkv/verification-payment-fixes # Pawan June 5
+  - hy/currency
 submodules:
