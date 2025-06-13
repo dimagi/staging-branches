@@ -6,6 +6,5 @@ branches:  # list of branches to merge into final branch
   - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
   - pkv/fcm-analytics-label # Pawan June 2
   - sr/uibugs  # Sravan June 4
-  - pkv/verification-payment-fixes # Pawan June 5
-  - hy/currency
+  - hy/currency # Hemant June 13
 submodules:
