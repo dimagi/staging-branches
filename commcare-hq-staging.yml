@@ -40,4 +40,5 @@ branches:
     - gh/limits/case-properties  # Jun 13
     - nh/datasource_updates  # Norman Jun 14
     - dmr/remove-appcues  # Danny Jun 16
+    - dmr/remove-kissmetrics  # Danny Jun 16
 submodules: { }
