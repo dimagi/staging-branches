@@ -16,7 +16,6 @@ branches:
     - ml/case-deletion # minha OCt 25
     #- bmb/bha-style-tweaks-001  # Biyeun March 7
     # - smh/web-invite-update # Steph April 16
-    - dmr/remove-css-grid-polyfill  # Danny Apr 22
     #- sr/connectid+ml/log-changes-to-invite-edits
     # - sr/connectid # Sravan Dec 12
     # - mjr/analytics-testing  # Matt Jan 23
@@ -40,4 +39,5 @@ branches:
     #- gh/case-v2/decode-error  # Graham Jun 9
     - gh/limits/case-properties  # Jun 13
     - nh/datasource_updates  # Norman Jun 14
+    - dmr/remove-appcues  # Danny Jun 16
 submodules: { }
