@@ -38,9 +38,7 @@ branches:
     #- gh/case-v2/decode-error  # Graham Jun 9
     - gh/limits/case-properties  # Graham Jun 13
     - nh/datasource_updates  # Norman Jun 14
-    - dmr/remove-appcues  # Danny Jun 16
     - dmr/remove-kissmetrics  # Danny Jun 16
-    - ejp/pay-annually-prorated-invoice  # Evan June 16
     - ejp/select-plan-from-pay-annually  # Evan June 16
     - gh/clean-case/data-dict  # Graham Jun 17
 submodules: { }
