@@ -45,4 +45,5 @@ branches:
     - ejp/pay-annually-prorated-invoice  # Evan June 16
     - ejp/select-plan-from-pay-annually  # Evan June 16
     - gh/clean-case/data-dict  # Graham Jun 17
+    - gh/data-dict/ko-template  # Graham Jun 17
 submodules: { }
