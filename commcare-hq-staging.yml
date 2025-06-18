@@ -38,7 +38,8 @@ branches:
     # - ay/ff-manage-edit-access # Ajeet June 2 (commented out by Graham Jun 17)
     - mk/report-builder-walkthrough # MK Jun 5
     #- gh/case-v2/decode-error  # Graham Jun 9
-    - gh/limits/case-properties  # Jun 13
+    - gh/limits/case-properties+gh/data-dict/ko-template  # Graham Jun 17
+    - gh/limits/case-properties  # Graham Jun 13
     - nh/datasource_updates  # Norman Jun 14
     - dmr/remove-appcues  # Danny Jun 16
     - dmr/remove-kissmetrics  # Danny Jun 16
