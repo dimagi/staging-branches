@@ -42,4 +42,5 @@ branches:
     - ejp/select-plan-from-pay-annually  # Evan June 16
     - gh/clean-case/data-dict  # Graham Jun 17
     - update-app-preview-web-apps-ui # Ahmad Jun 20
+    - jc/add-view-submissions-button # Jing Jun 20
 submodules: { }
