@@ -46,4 +46,5 @@ branches:
     - ejp/debugger-to-esm+dmr/remove-kissmetrics  # Evan June 23
     - ejp/debugger-to-esm  # Evan June 23
     - dmr/remove-kissmetrics  # Danny Jun 16
+    - gh/bitly/remove-v3-code  # Graham Jun 23
 submodules: { }
