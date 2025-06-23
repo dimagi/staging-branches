@@ -43,4 +43,5 @@ branches:
     - gh/clean-case/data-dict  # Graham Jun 17
     - update-app-preview-web-apps-ui # Ahmad Jun 20
     - jc/add-view-submissions-button # Jing Jun 20
+    - ejp/debugger-to-esm  # Evan June 23
 submodules: { }
