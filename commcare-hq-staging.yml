@@ -42,7 +42,9 @@ branches:
     - gh/clean-case/data-dict  # Graham Jun 17
     - update-app-preview-web-apps-ui # Ahmad Jun 20
     - jc/add-view-submissions-button # Jing Jun 20
+    - ml/re-add-searchFields+dmr/remove-kissmetrics # Minha Jun 24
+    - ml/re-add-searchFields # Minha Jun 24
     - dmr/remove-kissmetrics  # Danny Jun 16
     - gh/bitly/remove-v3-code  # Graham Jun 23
-    - ml/re-add-searchFields # Minha Jun 24
+    
 submodules: { }
