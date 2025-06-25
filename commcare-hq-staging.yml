@@ -40,6 +40,6 @@ branches:
     - update-app-preview-web-apps-ui # Ahmad Jun 20
     - gh/bitly/remove-v3-code  # Graham Jun 23
     - ml/re-add-searchFields # Minha Jun 24
-    - ml/case-search-index-cc-perf # Minha Jun 25
+    # - ml/case-search-index-cc-perf # Minha Jun 25
     - dm/bulk-case-reassign # Daniel Jun 26
 submodules: { }
