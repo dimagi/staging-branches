@@ -36,12 +36,10 @@ branches:
     # - ay/ff-manage-edit-access # Ajeet June 2 (commented out by Graham Jun 17)
     - mk/report-builder-walkthrough # MK Jun 5
     #- gh/case-v2/decode-error  # Graham Jun 9
-    - nh/datasource_updates  # Norman Jun 14
     - gh/clean-case/data-dict  # Graham Jun 17
     - update-app-preview-web-apps-ui # Ahmad Jun 20
     - jc/add-view-submissions-button # Jing Jun 20
     - gh/bitly/remove-v3-code  # Graham Jun 23
-    - ejp/webapps-checkbox-print  # Evan June 24
     - ml/re-add-searchFields # Minha Jun 24
     - ml/case-search-index-cc-perf # Minha Jun 25
 submodules: { }
