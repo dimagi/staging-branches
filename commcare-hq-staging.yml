@@ -38,6 +38,6 @@ branches:
     #- gh/case-v2/decode-error  # Graham Jun 9
     - gh/clean-case/data-dict  # Graham Jun 17
     - update-app-preview-web-apps-ui # Ahmad Jun 20
-    - ml/case-search-index-cc-perf # Minha Jun 25
+    #- ml/case-search-index-cc-perf # Minha Jun 25
     - gh/update-info-on-language-change  # Graham Jun 25
 submodules: { }
