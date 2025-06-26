@@ -41,4 +41,5 @@ branches:
     - ml/re-add-searchFields # Minha Jun 24
     # - ml/case-search-index-cc-perf # Minha Jun 25
     - dm/bulk-case-reassign # Daniel Jun 26
+    - gh/update-info-on-language-change  # Graham Jun 25
 submodules: { }
