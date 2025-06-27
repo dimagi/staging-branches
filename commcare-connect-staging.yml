@@ -2,7 +2,7 @@ trunk: main
 name: autostaging  # name of the branch to build
 branches:  # list of branches to merge into final branch
   - main
-  - pkv/mutliple-hq+sr/staging-deploy # Pawan June 25Add commentMore actions
+  - pkv/mutliple-hq+sr/staging-deploy # Pawan June 27
   - sr/staging-deploy # Hemant May 2 # DO NOT REMOVE!!
   - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
   - pkv/fcm-analytics-label # Pawan June 2
