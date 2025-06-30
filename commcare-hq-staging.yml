@@ -40,4 +40,5 @@ branches:
     - update-app-preview-web-apps-ui # Ahmad Jun 20
     - ml/case-search-index-cc-perf # Minha Jun 25
     - dm/reassign-cases-one-way # Daniel Jun 27
+    - bmb/simulate-htmx-errors  # Biyeun Jun 30
 submodules: { }
