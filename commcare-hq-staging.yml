@@ -30,7 +30,6 @@ branches:
     # - ay/ff-script-enable-all-superusers # Ajeet May 6 (commented out by Graham Jun 17)
     - gh/device-rate-limiter/translatable-msg # Graham May 6
     - bmb/dc/working  # Biyeun - the working branch for data cleaning, rebased OFTEN --- if you run into conflicts, please 'git branch -D bmb/dc/working' locally and re-run rebuildstaging. thanks  May 13
-    - dm/python313 # Daniel May 20
     - riese/web-user-deactivation-es # Ethan/Martin/Minha June 3
     # - ay/ff-manage-edit-access # Ajeet June 2 (commented out by Graham Jun 17)
     - mk/report-builder-walkthrough # MK Jun 5
