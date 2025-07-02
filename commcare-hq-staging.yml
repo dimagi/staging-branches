@@ -21,7 +21,6 @@ branches:
     # - sr/connectid # Sravan Dec 12
     # - mjr/analytics-testing  # Matt Jan 23
     # - ap/es-translations # Amit Feb 5
-    - riese/ics # Martin Feb 18
     - cs/Sc-4181-staging-test_decrease-const # Charl Mar 3 - staging only!
     - cs/SC-4278-staging-only_decrease-task-wait # Charl Mar 24 - staging only!
     #- ap/translations-es-por-fra # Amit Mar 18. This can be removed if conflicts are seen in translation file
@@ -40,4 +39,5 @@ branches:
     - update-app-preview-web-apps-ui # Ahmad Jun 20
     - ml/case-search-index-cc-perf # Minha Jun 25
     - dm/reassign-cases-one-way # Daniel Jun 27
+    - riese/user_by_domain # Martin Jul 2
 submodules: { }
