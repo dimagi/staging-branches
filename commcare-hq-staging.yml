@@ -36,7 +36,6 @@ branches:
     #- gh/case-v2/decode-error  # Graham Jun 9
     - gh/clean-case/data-dict  # Graham Jun 17
     - update-app-preview-web-apps-ui # Ahmad Jun 20
-    - ml/case-search-index-cc-perf # Minha Jun 25
     - dm/reassign-cases-one-way # Daniel Jun 27
     - riese/user_by_domain # Martin Jul 2
 submodules: { }
