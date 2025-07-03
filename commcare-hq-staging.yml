@@ -40,4 +40,5 @@ branches:
     - riese/user_by_domain # Martin Jul 2
     - gh/repeaters/backoff-repeater-ff  # Graham Jul 3
     - ml/mobile-user-confirmation-api # Minha Jul 3
+    - ejp/signup-persona-textsize  # Evan July 3
 submodules: { }
