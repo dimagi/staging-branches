@@ -44,4 +44,5 @@ branches:
     - update-app-preview-web-apps-ui-final # Ahmad July 4
     - gh/ddtrace/3.10.0  # Graham Jul 7
     - gh/attrs/25.3.0  # Graham Jul 7
+    - gh/cryptography/45.0.5  # Graham Jul 7
 submodules: { }
