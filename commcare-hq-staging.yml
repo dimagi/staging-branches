@@ -19,7 +19,6 @@ branches:
     # - smh/web-invite-update # Steph April 16
     #- sr/connectid+ml/log-changes-to-invite-edits
     # - sr/connectid # Sravan Dec 12
-    # - mjr/analytics-testing  # Matt Jan 23
     # - ap/es-translations # Amit Feb 5
     - cs/Sc-4181-staging-test_decrease-const # Charl Mar 3 - staging only!
     - cs/SC-4278-staging-only_decrease-task-wait # Charl Mar 24 - staging only!
@@ -45,4 +44,5 @@ branches:
     - gh/ddtrace/3.10.0  # Graham Jul 7
     - gh/attrs/25.3.0  # Graham Jul 7
     - gh/cryptography/45.0.5  # Graham Jul 7
+    - mjr/barcode-hack  # Matt Jul 7
 submodules: { }
