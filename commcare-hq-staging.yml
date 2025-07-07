@@ -42,4 +42,6 @@ branches:
     - ejp/signup-persona-textsize  # Evan July 3
     - bmb/update-icon-process # Biyeun July 3
     - update-app-preview-web-apps-ui-final # Ahmad July 4
+    - gh/ddtrace/3.10.0  # Graham Jul 7
+    - gh/attrs/25.3.0  # Graham Jul 7
 submodules: { }
