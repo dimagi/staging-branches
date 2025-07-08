@@ -35,7 +35,6 @@ branches:
     #- gh/case-v2/decode-error  # Graham Jun 9
     - gh/clean-case/data-dict  # Graham Jun 17
     - dm/reassign-cases-one-way # Daniel Jun 27
-    - riese/user_by_domain # Martin Jul 2
     - gh/repeaters/backoff-repeater-ff  # Graham Jul 3
     - ml/mobile-user-confirmation-api # Minha Jul 3
     - bmb/update-icon-process # Biyeun July 3
@@ -44,4 +43,5 @@ branches:
     - gh/attrs/25.3.0  # Graham Jul 7
     - gh/cryptography/45.0.5  # Graham Jul 7
     - mjr/barcode-hack  # Matt Jul 7
+    - riese/users_by_domain_view # Martin Jul 8
 submodules: { }
