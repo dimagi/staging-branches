@@ -41,5 +41,5 @@ branches:
     - gh/attrs/25.3.0  # Graham Jul 7
     - gh/cryptography/45.0.5  # Graham Jul 7
     - riese/users_by_domain_view # Martin Jul 8
-    - gh/redis/6.2.0  # Graham Jul 9
+    # - gh/redis/6.2.0  # Graham Jul 9
 submodules: { }
