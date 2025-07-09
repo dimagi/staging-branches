@@ -6,6 +6,5 @@ branches:  # list of branches to merge into final branch
   - sr/staging-deploy # Hemant May 2 # DO NOT REMOVE!!
   - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
   - pkv/multiple-hq # Pawan June 25
-  - hy/fix-dir-struc # Hemant Jul 2
   - hy/fix-pm-permission # Hemant Jul 8
 submodules:
