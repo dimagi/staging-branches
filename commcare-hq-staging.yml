@@ -38,7 +38,6 @@ branches:
     - gh/repeaters/backoff-repeater-ff  # Graham Jul 3
     - ml/mobile-user-confirmation-api # Minha Jul 3
     - update-app-preview-web-apps-ui-final # Ahmad July 4
-    - gh/attrs/25.3.0  # Graham Jul 7
     - gh/cryptography/45.0.5  # Graham Jul 7
     - riese/users_by_domain_view # Martin Jul 8
     # - gh/redis/6.2.0  # Graham Jul 9
