@@ -43,4 +43,5 @@ branches:
     - gh/redis/6.2.0  # Graham Jul 9
     - jt/two-stage-workflow-UI-improvement # Jonathan T July 9
     - jc/htmx-import-app # Jing July 9
+    - gh/sso/handle-entra-error  # Graham July 10
 submodules: { }
