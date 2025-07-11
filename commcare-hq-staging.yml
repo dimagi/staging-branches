@@ -12,7 +12,6 @@ branches:
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
     - mjr/user_importer_critical_section
     - mjr/adblock-information-edit  # Matt Jan 29
-    - gh/two-factor/infinite-redirects # Graham Feb 28
     - gh/clean-case/data-dict+ml/case-deletion  # Graham Jun 17
     - ml/case-deletion # minha OCt 25
     #- bmb/bha-style-tweaks-001  # Biyeun March 7
@@ -41,5 +40,7 @@ branches:
     - gh/redis/6.2.0  # Graham Jul 9
     - jt/two-stage-workflow-UI-improvement # Jonathan T July 9
     - jc/htmx-import-app # Jing July 9
+    - ejp/server-location-selection+gh/two-factor/infinite-redirects  # Evan July 11
     - ejp/server-location-selection  # Evan July 10
+    - gh/two-factor/infinite-redirects # Graham Feb 28
 submodules: { }
