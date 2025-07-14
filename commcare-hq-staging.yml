@@ -28,14 +28,11 @@ branches:
     # - ay/ff-script-enable-all-superusers # Ajeet May 6 (commented out by Graham Jun 17)
     - gh/device-rate-limiter/translatable-msg # Graham May 6
     - bmb/dc/working  # Biyeun - the working branch for data cleaning, rebased OFTEN --- if you run into conflicts, please 'git branch -D bmb/dc/working' locally and re-run rebuildstaging. thanks  May 13
-    - riese/web-user-deactivation-es # Ethan/Martin/Minha June 3
     # - ay/ff-manage-edit-access # Ajeet June 2 (commented out by Graham Jun 17)
     - mk/report-builder-walkthrough # MK Jun 5
     #- gh/case-v2/decode-error  # Graham Jun 9
     - gh/clean-case/data-dict  # Graham Jun 17
-    - dm/reassign-cases-one-way # Daniel Jun 27
     - gh/repeaters/backoff-repeater-ff  # Graham Jul 3
-    - update-app-preview-web-apps-ui-final # Ahmad July 4
     - riese/users_by_domain_view # Martin Jul 8
     - gh/redis/6.2.0  # Graham Jul 9
     - jt/two-stage-workflow-UI-improvement # Jonathan T July 9
