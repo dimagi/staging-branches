@@ -41,4 +41,5 @@ branches:
     - ejp/server-location-selection  # Evan July 10
     - gh/two-factor/infinite-redirects # Graham Feb 28
     - ml/success-messages # Minha July 14
+    - riese/deactivate_user_gtm # Martin July 14
 submodules: { }
