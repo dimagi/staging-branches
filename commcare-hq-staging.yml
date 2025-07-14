@@ -43,4 +43,5 @@ branches:
     - ejp/server-location-selection+gh/two-factor/infinite-redirects  # Evan July 11
     - ejp/server-location-selection  # Evan July 10
     - gh/two-factor/infinite-redirects # Graham Feb 28
+    - ml/success-messages # Minha July 14
 submodules: { }
