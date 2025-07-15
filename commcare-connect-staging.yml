@@ -7,4 +7,5 @@ branches:  # list of branches to merge into final branch
   - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
   - hy/fix-pm-permission # Hemant Jul 8
   - pkv/remove-bootstrap-code # Pawan Jul 10
+  - hy/fa-icons # Hemant Jul 15
 submodules:
