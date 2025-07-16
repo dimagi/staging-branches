@@ -36,12 +36,8 @@ branches:
     - riese/users_by_domain_view # Martin Jul 8
     - gh/redis/6.2.0  # Graham Jul 9
     - jt/two-stage-workflow-UI-improvement # Jonathan T July 9
-    - jc/htmx-import-app # Jing July 9
     - ejp/server-location-selection+gh/two-factor/infinite-redirects  # Evan July 11
     - ejp/server-location-selection  # Evan July 10
     - gh/two-factor/infinite-redirects # Graham Feb 28
-    - ml/success-messages # Minha July 14
     - riese/deactivate_user_gtm # Martin July 14
-    - jc/add-multimedia-import-instruction # Jing July 15
-    - ap/stop-es-5-support # Amit July 15
 submodules: { }
