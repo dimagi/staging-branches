@@ -5,7 +5,7 @@ branches:  # list of branches to merge into final branch
   - pkv/mutliple-hq+sr/staging-deploy # Pawan June 27
   - sr/staging-deploy # Hemant May 2 # DO NOT REMOVE!!
   - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
-  - hy/fa-icons # Hemant Jul 15
   - pkv/remove-bootstrap-code # Pawan Jul 10
+  - hy/fa-icons # Hemant Jul 15
   - sr/removeattrs # Sravan Jul 17
 submodules:
