@@ -40,7 +40,6 @@ branches:
     - gh/two-factor/infinite-redirects # Graham Feb 28
     - riese/deactivate_user_gtm # Martin July 14
     - ejp/pre-login-translations  # Evan July 16
-    - gh/collect-owner-id-counts  # Graham July 17
     - nh/ff/hide_hq  # Norman Jul 17
     - ejp/web-user-set-language  # Evan July 17
 submodules: { }
