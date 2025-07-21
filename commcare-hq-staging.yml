@@ -32,14 +32,11 @@ branches:
     #- gh/case-v2/decode-error  # Graham Jun 9
     - gh/clean-case/data-dict  # Graham Jun 17
     - gh/repeaters/backoff-repeater-ff  # Graham Jul 3
-    - riese/users_by_domain_view # Martin Jul 8
     - gh/redis/6.2.0  # Graham Jul 9
-    - jt/two-stage-workflow-UI-improvement # Jonathan T July 9
     - ejp/server-location-selection+gh/two-factor/infinite-redirects  # Evan July 11
     - ejp/server-location-selection  # Evan July 10
     - gh/two-factor/infinite-redirects # Graham Feb 28
-    - riese/deactivate_user_gtm # Martin July 14
     - ejp/pre-login-translations  # Evan July 16
-    - nh/ff/hide_hq  # Norman Jul 17
     - ejp/web-user-set-language  # Evan July 17
+    - dm/pillow-fixes  # Daniel July 21
 submodules: { }
