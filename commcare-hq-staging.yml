@@ -18,10 +18,8 @@ branches:
     # - smh/web-invite-update # Steph April 16
     #- sr/connectid+ml/log-changes-to-invite-edits
     # - sr/connectid # Sravan Dec 12
-    # - ap/es-translations # Amit Feb 5
     - cs/Sc-4181-staging-test_decrease-const # Charl Mar 3 - staging only!
     - cs/SC-4278-staging-only_decrease-task-wait # Charl Mar 24 - staging only!
-    #- ap/translations-es-por-fra # Amit Mar 18. This can be removed if conflicts are seen in translation file
     - cs/SC-4336-generate-random-errors-for-qa # Ajeet Apr 3 - staging only!
     # - ay/ff-access-ui # Ajeet Apr 30 (commented out by Graham Jun 17)
     - gh/restores/406  # Graham May 1
@@ -39,4 +37,5 @@ branches:
     - ejp/pre-login-translations  # Evan July 16
     - ejp/web-user-set-language  # Evan July 17
     - dm/pillow-fixes  # Daniel July 21
+    - ap/update-form-data # Amit July 23
 submodules: { }
