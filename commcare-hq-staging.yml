@@ -39,4 +39,5 @@ branches:
     - dm/pillow-fixes  # Daniel July 21
     - ap/update-form-data # Amit July 23
     - es/is_active_in_domain  # Ethan July 23
+    - jt/track-confirmation-email-sent-time # Jonathan July 23
 submodules: { }
