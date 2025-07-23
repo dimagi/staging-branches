@@ -41,5 +41,6 @@ branches:
     - es/is_active_in_domain  # Ethan July 23
     - jt/track-confirmation-email-sent-time # Jonathan July 23
     - jt/mobile-worker-pending-confirmation-panel # Jonathan July 23
-    - ml/mobile_worker_confirm_active # Minha  Jul 23
+    - ml/mobile_worker_confirm_active # Minha Jul 23
+    - ml/str-to-bool # Minha Jul 23
 submodules: { }
