@@ -34,9 +34,6 @@ branches:
     - ejp/server-location-selection+gh/two-factor/infinite-redirects  # Evan July 11
     - ejp/server-location-selection  # Evan July 10
     - gh/two-factor/infinite-redirects # Graham Feb 28
-    - ejp/pre-login-translations  # Evan July 16
-    - ejp/web-user-set-language  # Evan July 17
-    - dm/pillow-fixes  # Daniel July 21
     - ap/update-form-data # Amit July 23
     - es/is_active_in_domain  # Ethan July 23
     - jt/track-confirmation-email-sent-time # Jonathan July 23
