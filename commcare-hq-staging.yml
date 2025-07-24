@@ -40,5 +40,4 @@ branches:
     - jt/mobile-worker-pending-confirmation-panel # Jonathan July 23
     - ml/mobile_worker_confirm_active # Minha Jul 23
     - ml/str-to-bool # Minha Jul 23
-    - jt/sync-commcareuser-is_account_confirmed-field # Jonathan July 23
 submodules: { }
