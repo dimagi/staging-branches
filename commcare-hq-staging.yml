@@ -40,4 +40,5 @@ branches:
     - ay/ff-access-ui # Ajeet Jul 25
     - ay/ff-manage-edit-access # Ajeet Jul 25
     - ay/ff-edit-access-migration # Ajeet Jul 25
+    - nh/ff/split_screen_ui  # Norman Jul 25
 submodules: { }
