@@ -8,5 +8,5 @@ branches:  # list of branches to merge into final branch
   - hy/fa+boot #Hemant Jul 18
   - pkv/remove-bootstrap-code # Pawan Jul 10
   - hy/fa-icons # Hemant Jul 15
-  - sr/removeattrs # Sravan Jul 17
+  - sr/uvexport # Sravan Jul 17
 submodules:
