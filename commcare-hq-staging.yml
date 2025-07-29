@@ -40,4 +40,5 @@ branches:
     - ay/ff-edit-access-migration # Ajeet Jul 25
     - nh/ff/split_screen_ui  # Norman Jul 25
     - es/numeric-inputs  # Ethan Jul 28
+    - mk/18095-remove-case-detail-print # MK Jul 29
 submodules: { }
