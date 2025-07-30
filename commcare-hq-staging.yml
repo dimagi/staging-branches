@@ -42,5 +42,6 @@ branches:
     - es/numeric-inputs  # Ethan Jul 28
     - mk/18095-remove-case-detail-print # MK Jul 29
     - gh/reports/deleted-users  # Graham Jul 29
-    - riese/page_scroll
+    - riese/page_scroll # Martin Jul 29
+    - riese/keep_map_hidden # Martin Jul 30
 submodules: { }
