@@ -33,13 +33,11 @@ branches:
     - gh/two-factor/infinite-redirects # Graham Feb 28
     - ap/update-form-data # Amit July 23
     - es/is_active_in_domain  # Ethan July 23
-    - jt/track-confirmation-email-sent-time # Jonathan July 23
     - jt/mobile-worker-pending-confirmation-panel # Jonathan July 23
     - ay/ff-access-ui # Ajeet Jul 25
     - ay/ff-manage-edit-access # Ajeet Jul 25
-    - ay/ff-edit-access-migration # Ajeet Jul 25
+    #- ay/ff-edit-access-migration # Ajeet Jul 25
     - nh/ff/split_screen_ui  # Norman Jul 25
-    - es/numeric-inputs  # Ethan Jul 28
     - mk/18095-remove-case-detail-print # MK Jul 29
     - gh/reports/deleted-users  # Graham Jul 29
     - riese/page_scroll # Martin Jul 29
