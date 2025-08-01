@@ -39,6 +39,6 @@ branches:
     - nh/ff/split_screen_ui  # Norman Jul 25
     - mk/18095-remove-case-detail-print # MK Jul 29
     - riese/drag_image # Martin Jul 30
-    - ejp/login-set-language  # Evan Jul 31
+    # - ejp/login-set-language  # Evan Jul 31
     - gh/cle/limit-owner-ids
 submodules: { }
