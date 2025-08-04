@@ -2,7 +2,6 @@ trunk: main
 name: autostaging  # name of the branch to build
 branches:  # list of branches to merge into final branch
   - main
-  - hy/fix-conflicts-main-statging # Hemant Aug 4
   - sr/staging-deploy # Hemant May 2 # DO NOT REMOVE!!
   - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
   - sr/uvexport # Sravan Jul 17
