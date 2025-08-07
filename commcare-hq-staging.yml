@@ -33,8 +33,6 @@ branches:
     - gh/two-factor/infinite-redirects # Graham Feb 28
     - es/is_active_in_domain  # Ethan July 23
     - jt/mobile-worker-pending-confirmation-panel # Jonathan July 23
-    - ay/ff-access-ui # Ajeet Jul 25
-    - ay/ff-manage-edit-access # Ajeet Jul 25
     #- ay/ff-edit-access-migration # Ajeet Jul 25
     - mk/18095-remove-case-detail-print # MK Jul 29
     - riese/drag_image # Martin Jul 30
