@@ -6,4 +6,5 @@ branches:  # list of branches to merge into final branch
   - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
   - sr/uvexport # Sravan Jul 17
   - hy/bulk-visits # Hemant Aug 4
+  - sr/oplop
 submodules:
