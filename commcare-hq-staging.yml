@@ -39,5 +39,4 @@ branches:
     # - credential-app-base+nh/ff/split_screen_ui  # Charl Aug 4
     # - nh/ff/split_screen_ui  # Norman Jul 25
     - credential-app-base  # Charl Aug 4
-    - gh/limits/exclude-deprecated-properties  # Graham Aug 6
 submodules: { }
