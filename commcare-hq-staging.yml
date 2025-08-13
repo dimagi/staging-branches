@@ -39,4 +39,5 @@ branches:
     - dm/ucr-pillow-ttl-cache # Daniel Aug 11
     - dm/django-5-removals # Daniel Aug 12
     - ejp/offboarding-list-is-contractor  # Evan Aug 12
+    - riese/index_if_pushed # Martin Aug 13
 submodules: { }
