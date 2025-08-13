@@ -31,7 +31,6 @@ branches:
     # - ejp/server-location-selection+gh/two-factor/infinite-redirects  # Evan July 11
     # - ejp/server-location-selection  # Evan July 10
     - gh/two-factor/infinite-redirects # Graham Feb 28
-    - es/is_active_in_domain  # Ethan July 23
     #- ay/ff-edit-access-migration # Ajeet Jul 25
     # - credential-app-base+nh/ff/split_screen_ui  # Charl Aug 4
     # - nh/ff/split_screen_ui  # Norman Jul 25
