@@ -8,4 +8,5 @@ branches:  # list of branches to merge into final branch
   - hy/bulk-visits # Hemant Aug 4
   - sr/oplop
   - pkv/update-total-eligible-users-calc # Pawan Aug 13
+  - hy/budget-fix # Hemant Aug 14
 submodules:
