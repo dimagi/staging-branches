@@ -42,4 +42,5 @@ branches:
     - riese/index_if_pushed # Martin Aug 13
     - ejp/add-project-page  # Evan Aug 14
     - es/web-apps-view-2  # Ethan Aug 15
+    - es/super-slow-forms  # Ethan Aug 15
 submodules: { }
