@@ -41,5 +41,5 @@ branches:
     - ejp/offboarding-list-is-contractor  # Evan Aug 12
     - riese/index_if_pushed # Martin Aug 13
     - ejp/add-project-page  # Evan Aug 14
-    - es/web-apps-view  # Ethan Aug 15
+    - es/web-apps-view-2  # Ethan Aug 15
 submodules: { }
