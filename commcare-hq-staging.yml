@@ -42,5 +42,4 @@ branches:
     - ejp/add-project-page  # Evan Aug 14
     - es/web-apps-view-2  # Ethan Aug 15
     - es/super-slow-forms  # Ethan Aug 15
-    - ay/momo-payments-report-export # Ajeet Aug 18
-submodules: { }
+\submodules: { }
