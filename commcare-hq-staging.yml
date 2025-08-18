@@ -26,7 +26,7 @@ branches:
     - mk/report-builder-walkthrough # MK Jun 5
     - gh/case-v2/decode-error  # Graham Jun 9
     - gh/clean-case/data-dict  # Graham Jun 17
-    # - gh/repeaters/backoff-repeater-ff  # Graham Jul 3
+    - gh/repeaters/backoff-repeater-ff  # Graham Jul 3
     - gh/redis/6.2.0  # Graham Jul 9
     # - ejp/server-location-selection+gh/two-factor/infinite-redirects  # Evan July 11
     # - ejp/server-location-selection  # Evan July 10
