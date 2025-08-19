@@ -42,5 +42,5 @@ branches:
     - es/super-slow-forms  # Ethan Aug 15
     - riese/cloudcare_esm # Martin Aug 18
     - ejp/basic-auth-api-key  # Evan Aug 19
-    - mjr/show_multi_updates
+    - mjr/show_multi_updates  # Mat Aug 19
 submodules: { }
