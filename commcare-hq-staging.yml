@@ -42,4 +42,5 @@ branches:
     - es/web-apps-view  # Ethan Aug 15
     - es/super-slow-forms  # Ethan Aug 15
     - riese/cloudcare_esm # Martin Aug 18
-\submodules: { }
+    - ejp/basic-auth-api-key  # Evan Aug 19
+submodules: { }
