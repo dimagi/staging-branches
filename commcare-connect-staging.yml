@@ -10,4 +10,5 @@ branches:  # list of branches to merge into final branch
   - pkv/update-total-eligible-users-calc # Pawan Aug 13
   - hy/budget-fix # Hemant Aug 14
   - cs/CCCT-1522-add-manual-otp-view # Charl Aug 15
+  - hy/bugfix-bulk-visits # Hemant Aug 19
 submodules:
