@@ -45,4 +45,5 @@ branches:
     - ejp/basic-auth-api-key  # Evan Aug 19
     - mjr/show_multi_updates  # Mat Aug 19
     - ay/momo-payments-report-export # Ajeet Aug 21
+    - es/fix-img-upload # Jing Aug 21
 submodules: { }
