@@ -37,7 +37,7 @@ branches:
     - riese/index_if_pushed # Martin Aug 13
     - es/web-apps-view  # Ethan Aug 15
     - es/super-slow-forms  # Ethan Aug 15
-    # - riese/cloudcare_esm # Martin Aug 18
+    - riese/cloudcare_esm # Martin Aug 18
     - ejp/basic-auth-api-key  # Evan Aug 19
     - mjr/show_multi_updates  # Mat Aug 19
     - ay/momo-payments-report-export # Ajeet Aug 21
