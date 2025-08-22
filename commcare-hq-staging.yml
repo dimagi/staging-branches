@@ -27,8 +27,9 @@ branches:
     - gh/clean-case/data-dict  # Graham Jun 17
     - gh/repeaters/backoff-repeater-ff  # Graham Jul 3
     - gh/redis/6.2.0  # Graham Jul 9
-    # - ejp/server-location-selection+gh/two-factor/infinite-redirects  # Evan July 11
+    - ejp/server-location-selection+gh/two-factor/infinite-redirects  # Evan July 11
     # - ejp/server-location-selection  # Evan July 10
+    - ejp/server-location-selection-staging  # Evan Aug 22
     - gh/two-factor/infinite-redirects # Graham Feb 28
     # - credential-app-base+nh/ff/split_screen_ui  # Charl Aug 4
     # - nh/ff/split_screen_ui  # Norman Jul 25
