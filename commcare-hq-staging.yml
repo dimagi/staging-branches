@@ -43,4 +43,5 @@ branches:
     - mjr/show_multi_updates  # Mat Aug 19
     - ay/momo-payments-report-export # Ajeet Aug 21
     - ejp/pre-login-hq-text  # Evan Aug 22
+    - pkv/connect-messaging-inbound-fixes # Pawan Aug 25
 submodules: { }
