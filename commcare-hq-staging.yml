@@ -39,4 +39,5 @@ branches:
     - jc/ocs-feature-preview # Jing Aug 25
     - nh/ga/geojson_2  # Norman Aug 25
     - ejp/flag-icon-library  # Evan Aug 25
+    - ejp/cloud-location-naming  # Evan Aug 25
 submodules: { }
