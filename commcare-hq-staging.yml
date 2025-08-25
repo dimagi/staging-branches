@@ -38,9 +38,9 @@ branches:
     - riese/cloudcare_esm # Martin Aug 18
     - ejp/basic-auth-api-key  # Evan Aug 19
     - mjr/show_multi_updates  # Mat Aug 19
-    - ejp/pre-login-hq-text  # Evan Aug 22
     - pkv/connect-messaging-inbound-fixes # Pawan Aug 25
     # - jc/ocs-feature-preview # Jing Aug 25
     - nh/ga/geojson_2  # Norman Aug 25
     - jc/ocs-feature-preview+jc/ocs-bot # Jing Aug 25
+    - ejp/flag-icon-library  # Evan Aug 25
 submodules: { }
