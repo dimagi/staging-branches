@@ -31,7 +31,6 @@ branches:
     - ejp/server-location-selection-staging  # Evan Aug 22
     - gh/two-factor/infinite-redirects # Graham Feb 28
     # - credential-app-base+nh/ff/split_screen_ui  # Charl Aug 4
-    # - nh/ff/split_screen_ui  # Norman Jul 25
     - jc/ocs-bot # Jing Aug 8
     - dm/ucr-pillow-ttl-cache # Daniel Aug 11
     - riese/index_if_pushed # Martin Aug 13
