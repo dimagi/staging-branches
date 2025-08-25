@@ -11,6 +11,7 @@ branches:
     - sr/gis-select # Sravan 7 Aug
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
     - mjr/user_importer_critical_section
+    - ay/momo-payments-report-export+ml/case-deletion # Ajeet Aug 21
     - gh/clean-case/data-dict+ml/case-deletion  # Graham Jun 17
     - ml/case-deletion # minha OCt 25
     #- bmb/bha-style-tweaks-001  # Biyeun March 7
