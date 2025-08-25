@@ -25,9 +25,8 @@ branches:
     - gh/device-rate-limiter/translatable-msg # Graham May 6
     - mk/report-builder-walkthrough # MK Jun 5
     - gh/clean-case/data-dict  # Graham Jun 17
-    - ejp/server-location-selection+gh/two-factor/infinite-redirects  # Evan July 11
+    # - ejp/server-location-selection+gh/two-factor/infinite-redirects  # Evan July 11
     # - ejp/server-location-selection  # Evan July 10
-    - ejp/server-location-selection-staging  # Evan Aug 22
     - gh/two-factor/infinite-redirects # Graham Feb 28
     - dm/ucr-pillow-ttl-cache # Daniel Aug 11
     - riese/index_if_pushed # Martin Aug 13
