@@ -12,8 +12,6 @@ branches:
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
     - mjr/user_importer_critical_section
     - ay/momo-payments-report-export+ml/case-deletion # Ajeet Aug 21
-    - gh/clean-case/data-dict+ml/case-deletion  # Graham Jun 17
-    - ml/case-deletion # minha OCt 25
     #- bmb/bha-style-tweaks-001  # Biyeun March 7
     # - smh/web-invite-update # Steph April 16
     #- sr/connectid+ml/log-changes-to-invite-edits
@@ -23,7 +21,6 @@ branches:
     - gh/device-rate-limiter/translatable-msg # Graham May 6
     - mk/report-builder-walkthrough # MK Jun 5
     - gh/clean-case/data-dict  # Graham Jun 17
-    - gh/two-factor/infinite-redirects # Graham Feb 28
     - dm/ucr-pillow-ttl-cache # Daniel Aug 11
     - riese/index_if_pushed # Martin Aug 13
     - es/web-apps-view  # Ethan Aug 15
@@ -34,5 +31,7 @@ branches:
     - pkv/connect-messaging-inbound-fixes # Pawan Aug 25
     - jc/ocs-feature-preview # Jing Aug 25
     - nh/ga/geojson_2  # Norman Aug 25
-    - ejp/server-location-selection-NEW
+    - ejp/server-location-selection+gh/two-factor/infinite-redirects  # Evan Aug 26
+    - gh/two-factor/infinite-redirects # Graham Feb 28
+    - ejp/server-location-selection  # Evan Aug 26
 submodules: { }
