@@ -6,7 +6,6 @@ branches:  # list of branches to merge into final branch
   - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
   - sr/uvexport # Sravan Jul 17
   - hy/budget-fix # Hemant Aug 14
-  - cs/CCCT-1522-add-manual-otp-view # Charl Aug 15
   - hy/fix-icons # Hemant Aug 22
   - sr/filters  # Sravan Aug 25
 submodules:
