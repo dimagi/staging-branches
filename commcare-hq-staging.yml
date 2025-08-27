@@ -33,4 +33,5 @@ branches:
     - ejp/server-location-selection+gh/two-factor/infinite-redirects  # Evan Aug 26
     - gh/two-factor/infinite-redirects # Graham Feb 28
     - ejp/server-location-selection  # Evan Aug 26
+    - jc/translate-ocs-widget # Jing Aug 27
 submodules: { }
