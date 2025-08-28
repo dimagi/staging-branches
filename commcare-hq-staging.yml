@@ -35,4 +35,5 @@ branches:
     - ejp/cloud-location-select-login  # Evan Aug 27
     - gh/two-factor/infinite-redirects # Graham Feb 28
     - jt/backfill-usercases-management-command # Jonathan Aug 27
+    - gh/repeaters/disable-check  # Graham Aug 28
 submodules: { }
