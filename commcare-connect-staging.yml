@@ -8,4 +8,5 @@ branches:  # list of branches to merge into final branch
   - hy/budget-fix # Hemant Aug 14
   - hy/fix-icons # Hemant Aug 22
   - sr/filters  # Sravan Aug 25
+  - hridaykedia:hk/ga_gtm_setup # Hemant Aug 28 {will removed it}
 submodules:
