@@ -36,4 +36,5 @@ branches:
     - gh/two-factor/infinite-redirects # Graham Feb 28
     - jt/backfill-usercases-management-command # Jonathan Aug 27
     - gh/repeaters/disable-check  # Graham Aug 28
+    - gh/bac/applications  # Graham Aug 29
 submodules: { }
