@@ -29,7 +29,7 @@ branches:
     - mjr/show_multi_updates  # Mat Aug 19
     - pkv/connect-messaging-inbound-fixes # Pawan Aug 25
     - nh/ga/geojson_2  # Norman Aug 25
-    - ejp/serverlocation-refactor-staging  # Evan Aug 27
+    - ejp/serverlocation-staging  # Evan Aug 28
     - ejp/cloud-location-select-signup  # Evan Aug 27
     - ejp/cloud-location-select-login+gh/two-factor/infinite-redirects  # Evan Aug 27
     - ejp/cloud-location-select-login  # Evan Aug 27
