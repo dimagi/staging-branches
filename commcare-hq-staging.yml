@@ -29,9 +29,7 @@ branches:
     - pkv/connect-messaging-inbound-fixes # Pawan Aug 25
     - nh/ga/geojson_2  # Norman Aug 25
     - ejp/serverlocation-staging  # Evan Aug 28
-    - ejp/cloud-location-select-signup  # Evan Aug 27
     - ejp/cloud-location-select-login+gh/two-factor/infinite-redirects  # Evan Aug 27
-    - ejp/cloud-location-select-login  # Evan Aug 27
     - gh/two-factor/infinite-redirects # Graham Feb 28
     - jt/backfill-usercases-management-command # Jonathan Aug 27
     - gh/repeaters/disable-check  # Graham Aug 28
@@ -39,4 +37,5 @@ branches:
     - gh/only-show-supported-languages  # Graham Sep 2
     - riese/web_user_reports # Martin Sep 2
     - jc/fix-data-picker-display # Jing Sep 2
+    - ejp/cloud-location-naming-tweaks  # Evan Sep 2
 submodules: { }
