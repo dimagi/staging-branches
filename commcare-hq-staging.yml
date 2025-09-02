@@ -37,4 +37,5 @@ branches:
     - gh/repeaters/disable-check  # Graham Aug 28
     - gh/bac/applications  # Graham Aug 29
     - gh/only-show-supported-languages  # Graham Sep 2
+    - riese/web_user_reports # Martin Sep 2
 submodules: { }
