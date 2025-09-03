@@ -27,7 +27,7 @@ branches:
     - ejp/cloud-location-select-login+gh/two-factor/infinite-redirects  # Evan Aug 27
     - gh/two-factor/infinite-redirects # Graham Feb 28
     - jt/backfill-usercases-management-command # Jonathan Aug 27
-    - gh/repeaters/disable-check  # Graham Aug 28
+    - gh/repeaters/disable-check  # Graham Aug 28 - staging only
     - gh/bac/applications  # Graham Aug 29
     - gh/only-show-supported-languages  # Graham Sep 2
     - riese/web_user_reports # Martin Sep 2
