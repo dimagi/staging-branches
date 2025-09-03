@@ -28,6 +28,9 @@ branches:
     - ejp/cloud-location-select-login+gh/two-factor/infinite-redirects  # Evan Aug 27
     - gh/two-factor/infinite-redirects # Graham Feb 28
     - jt/backfill-usercases-management-command # Jonathan Aug 27
+    - jt/allow-commcare-user-case-type-for-caselist # Jonathan Sep 3
+    - es/webusercases # Jonathan Sep 3
+    - es/usercase-subscription # Jonathan Sep 3
     - gh/bac/applications  # Graham Aug 29
     - gh/only-show-supported-languages  # Graham Sep 2
     - riese/web_user_reports # Martin Sep 2
