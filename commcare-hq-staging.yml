@@ -34,6 +34,5 @@ branches:
     - gh/bac/applications  # Graham Aug 29
     - gh/only-show-supported-languages  # Graham Sep 2
     - riese/web_user_reports # Martin Sep 2
-    - jc/fix-data-picker-display # Jing Sep 2
     - gh/forms/build-id
 submodules: { }
