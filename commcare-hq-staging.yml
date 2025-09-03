@@ -7,6 +7,7 @@ deploy_env: staging
 branches:
     # see https://dimagi.atlassian.net/wiki/spaces/GTD/pages/2145058879/Deploy+Process#Deploying-Vellum
     - vellum-staging  # DO NOT REMOVE this is similar to "autostaging", but for vellum
+    - gh/repeaters/disable-check  # Graham Aug 28 - staging only
     - sr/gis-select # Sravan 7 Aug
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
     - mjr/user_importer_critical_section
@@ -27,7 +28,6 @@ branches:
     - ejp/cloud-location-select-login+gh/two-factor/infinite-redirects  # Evan Aug 27
     - gh/two-factor/infinite-redirects # Graham Feb 28
     - jt/backfill-usercases-management-command # Jonathan Aug 27
-    - gh/repeaters/disable-check  # Graham Aug 28 - staging only
     - gh/bac/applications  # Graham Aug 29
     - gh/only-show-supported-languages  # Graham Sep 2
     - riese/web_user_reports # Martin Sep 2
