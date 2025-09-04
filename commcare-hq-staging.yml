@@ -29,11 +29,12 @@ branches:
     - gh/two-factor/infinite-redirects # Graham Feb 28
     - jt/backfill-usercases-management-command # Jonathan Aug 27
     - jt/allow-commcare-user-case-type-for-caselist # Jonathan Sep 3
-    - es/webusercases # Jonathan Sep 3
+    - es/webusercases+mk/18343-reset-user-case-location-data
+    - es/webusercases # Jonathan Sep 3'
+    - mk/18343-reset-user-case-location-data # MK Sept 4
     - es/usercase-subscription # Jonathan Sep 3
     - gh/bac/applications  # Graham Aug 29
     - gh/only-show-supported-languages  # Graham Sep 2
     - riese/web_user_reports # Martin Sep 2
     - gh/forms/build-id  # Graham Sep 3
-    - mk/18343-reset-user-case-location-data # MK Sept 4
 submodules: { }
