@@ -37,4 +37,5 @@ branches:
     - riese/web_user_reports # Martin Sep 2
     - gh/forms/build-id  # Graham Sep 3
     - gh/audit/access-logs  # Graham Sep 8
+    - jc/sso-b5-migration # Jing Sep 8
 submodules: { }
