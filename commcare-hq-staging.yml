@@ -33,8 +33,8 @@ branches:
     - mk/18343-reset-user-case-location-data # MK Sept 4
     - es/usercase-subscription # Jonathan Sep 3
     - gh/bac/applications  # Graham Aug 29
-    - riese/web_user_reports # Martin Sep 2
     - gh/forms/build-id  # Graham Sep 3
     - gh/audit/access-logs  # Graham Sep 8
     - jc/sso-b5-migration # Jing Sep 8
+    - dm/gevent-pillow # Daniel Sep 9
 submodules: { }
