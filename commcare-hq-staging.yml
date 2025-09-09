@@ -8,6 +8,7 @@ branches:
     # see https://dimagi.atlassian.net/wiki/spaces/GTD/pages/2145058879/Deploy+Process#Deploying-Vellum
     - vellum-staging  # DO NOT REMOVE this is similar to "autostaging", but for vellum
     - gh/repeaters/disable-check  # Graham Aug 28 - staging only
+    - ejp/serverlocation-staging  # Evan Aug 28 - staging only
     - sr/gis-select # Sravan 7 Aug
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
     - mjr/user_importer_critical_section
@@ -19,11 +20,10 @@ branches:
     - es/web-apps-view  # Ethan Aug 15
     - es/super-slow-forms  # Ethan Aug 15
     - riese/cloudcare_esm # Martin Aug 18
-    # - ejp/basic-auth-api-key  # Evan Aug 19
+    - ejp/basic-auth-api-key  # Evan Aug 19
     - mjr/show_multi_updates  # Mat Aug 19
     - pkv/connect-messaging-inbound-fixes # Pawan Aug 25
     - nh/ga/geojson_2  # Norman Aug 25
-    - ejp/serverlocation-staging  # Evan Aug 28
     - ejp/cloud-location-select-login+gh/two-factor/infinite-redirects  # Evan Aug 27
     - gh/two-factor/infinite-redirects # Graham Feb 28
     - jt/backfill-usercases-management-command # Jonathan Aug 27
