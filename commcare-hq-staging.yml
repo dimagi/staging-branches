@@ -15,7 +15,6 @@ branches:
     - gh/restores/406  # Graham May 1
     - gh/device-rate-limiter/translatable-msg # Graham May 6
     - mk/report-builder-walkthrough # MK Jun 5
-    # - gh/clean-case/data-dict  # Graham Jun 17
     - riese/index_if_pushed # Martin Aug 13
     - es/web-apps-view  # Ethan Aug 15
     - es/super-slow-forms  # Ethan Aug 15
