@@ -17,7 +17,6 @@ branches:
     - gh/device-rate-limiter/translatable-msg # Graham May 6
     - mk/report-builder-walkthrough # MK Jun 5
     - riese/index_if_pushed # Martin Aug 13
-    - es/web-apps-view  # Ethan Aug 15
     - es/super-slow-forms  # Ethan Aug 15
     - riese/cloudcare_esm # Martin Aug 18
     - ejp/basic-auth-api-key  # Evan Aug 19
