@@ -21,7 +21,6 @@ branches:
     - ejp/basic-auth-api-key  # Evan Aug 19
     - mjr/show_multi_updates  # Mat Aug 19
     - pkv/connect-messaging-inbound-fixes # Pawan Aug 25
-    - nh/ga/geojson_2  # Norman Aug 25
     - ejp/cloud-location-select-login+gh/two-factor/infinite-redirects  # Evan Aug 27
     - gh/two-factor/infinite-redirects # Graham Feb 28
     - jt/allow-commcare-user-case-type-for-caselist # Jonathan Sep 3
