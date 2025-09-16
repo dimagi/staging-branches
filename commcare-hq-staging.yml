@@ -33,4 +33,6 @@ branches:
     - cs/CCCT-1588-connect-messaging-with-keywords # Charl Sep 11
     - jt/remove-usercase_enabled-usage # Jonathan T. Sep 11
     - es/double-asterisk  # Ethan Sep 12
+    - nh/ff/enable_all_migration  # Norman Sep 16
+    - nh/ff/enable_all  # Norman Sep 16
 submodules: { }
