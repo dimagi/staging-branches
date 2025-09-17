@@ -7,8 +7,6 @@ branches:  # list of branches to merge into final branch
   - hy/budget-fix # Hemant Aug 14
   # - hy/fix-icons # Hemant Aug 22
   - hridaykedia:hk/ga_gtm_setup # Pawan Aug 29
-  - ze/resend-and-delete-invites+sr/staging-deploy+sr/filters # Zandre Sep 8
-  - ze/resend-and-delete-invites # Zandre Sep 8
   - sr/staging-deploy # Hemant May 2 # DO NOT REMOVE!!
   - pkv/change-verification-flags-info # Pawan Sep 15
   - sr/oppfilters  # Sravan Sept 17
