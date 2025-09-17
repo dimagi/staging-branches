@@ -12,5 +12,4 @@ branches:  # list of branches to merge into final branch
   - sr/staging-deploy # Hemant May 2 # DO NOT REMOVE!!
   - pkv/change-verification-flags-info # Pawan Sep 15
   - sr/oppfilters  # Sravan Sept 17
-  - sr/allcolumns
 submodules:
