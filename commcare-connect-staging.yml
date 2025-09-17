@@ -10,6 +10,7 @@ branches:  # list of branches to merge into final branch
   - ze/resend-and-delete-invites+sr/staging-deploy+sr/filters # Zandre Sep 8
   - ze/resend-and-delete-invites # Zandre Sep 8
   - sr/staging-deploy # Hemant May 2 # DO NOT REMOVE!!
-  - sr/filters  # Sravan Aug 25
   - pkv/change-verification-flags-info # Pawan Sep 15
+  - sr/oppfilters  # Sravan Sept 17
+  - sr/allcolumns
 submodules:
