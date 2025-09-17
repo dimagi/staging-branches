@@ -25,11 +25,11 @@ branches:
     - es/webusercases+mk/18343-reset-user-case-location-data
     - mk/18343-reset-user-case-location-data # MK Sept 4
     - gh/audit/access-logs  # Graham Sep 8
-    - jc/sso-b5-migration # Jing Sep 8
     - dm/gevent-pillow # Daniel Sep 9
     - cs/CCCT-1588-connect-messaging-with-keywords # Charl Sep 11
     - jt/remove-usercase_enabled-usage # Jonathan T. Sep 11
     - nh/ff/enable_all_migration  # Norman Sep 16
     - nh/ff/enable_all  # Norman Sep 16
     - es/pw-reset  # Ethan Sep 17
+    - jc/improve-user-audit-report # Jing Sep 17
 submodules: { }
