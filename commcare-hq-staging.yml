@@ -32,4 +32,5 @@ branches:
     - jc/improve-user-audit-report # Jing Sep 17
     - sk/chatbot-staging # Simon Sep 18
     - ay/payment-status-backend-demo # Ajeet Sep 18
+    - ay/momo-payments-multi-validations # Ajeet Sep 18
 submodules: { }
