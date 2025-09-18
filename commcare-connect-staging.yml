@@ -6,6 +6,7 @@ branches:  # list of branches to merge into final branch
   - sr/uvexport # Sravan Jul 17
   - hy/budget-fix # Hemant Aug 14
   # - hy/fix-icons # Hemant Aug 22
+  - pkv/analytics # Pawan Sep 18
   - hridaykedia:hk/ga_gtm_setup # Pawan Aug 29
   - sr/staging-deploy # Hemant May 2 # DO NOT REMOVE!!
   - pkv/change-verification-flags-info # Pawan Sep 15
