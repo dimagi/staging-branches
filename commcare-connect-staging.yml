@@ -14,4 +14,5 @@ branches:  # list of branches to merge into final branch
   - sr/oppfilters  # Sravan Sept 17
   - sr/allcolumns  # Sravan Sept 18
   - pkv/analytics-events-backend # Pawan Sep 17
+  - hy/fix-flag-call # Hemant Sep 18
 submodules:
