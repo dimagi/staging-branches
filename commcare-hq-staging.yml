@@ -34,4 +34,5 @@ branches:
     - ay/payment-status-backend-demo # Ajeet Sep 18
     - ay/momo-payments-multi-validations # Ajeet Sep 18
     - mk/15959-fix-web-user-importer-invites # MK Sep 19
+    - gh/bulk-import/serial-task  # Graham Sep 19
 submodules: { }
