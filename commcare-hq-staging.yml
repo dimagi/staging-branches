@@ -26,8 +26,6 @@ branches:
     - dm/gevent-pillow # Daniel Sep 9
     - cs/CCCT-1588-connect-messaging-with-keywords # Charl Sep 11
     - jt/remove-usercase_enabled-usage # Jonathan T. Sep 11
-    - nh/ff/enable_all_migration  # Norman Sep 16
-    - nh/ff/enable_all  # Norman Sep 16
     - es/pw-reset  # Ethan Sep 17
     - sk/chatbot-staging # Simon Sep 18
     - ay/payment-status-backend-demo # Ajeet Sep 18
