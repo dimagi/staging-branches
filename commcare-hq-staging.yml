@@ -31,6 +31,5 @@ branches:
     - ay/payment-status-backend-demo # Ajeet Sep 18
     - ay/momo-payments-multi-validations # Ajeet Sep 18
     - mk/15959-fix-web-user-importer-invites # MK Sep 19
-    - jt/asterik-wrapping-fix # Jonathan Sep 24
     - nh/ff/enable_all_3  # Norman Sep 22
 submodules: { }
