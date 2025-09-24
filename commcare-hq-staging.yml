@@ -23,7 +23,6 @@ branches:
     - ejp/cloud-location-select-login+gh/two-factor/infinite-redirects  # Evan Aug 27
     - gh/two-factor/infinite-redirects # Graham Feb 28
     - es/webusercases+mk/18343-reset-user-case-location-data
-    - dm/gevent-pillow # Daniel Sep 9
     - cs/CCCT-1588-connect-messaging-with-keywords # Charl Sep 11
     - jt/remove-usercase_enabled-usage # Jonathan T. Sep 11
     - es/pw-reset  # Ethan Sep 17
