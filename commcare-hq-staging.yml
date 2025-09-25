@@ -26,8 +26,7 @@ branches:
     - jt/remove-usercase_enabled-usage # Jonathan T. Sep 11
     - es/pw-reset  # Ethan Sep 17
     - sk/chatbot-staging # Simon Sep 18
-    - ay/payment-status-backend-demo # Ajeet Sep 18
-    - ay/momo-payments-multi-validations # Ajeet Sep 18
+    - ay/momo-payments-demo # Ajeet Sep 25
     - mk/15959-fix-web-user-importer-invites # MK Sep 19
     - nh/ff/enable_all_3  # Norman Sep 22
     - jt/help-modal-position-fix # Jonathan September 25
