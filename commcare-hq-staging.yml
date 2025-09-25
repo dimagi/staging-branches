@@ -30,4 +30,5 @@ branches:
     - mk/15959-fix-web-user-importer-invites # MK Sep 19
     - nh/ff/enable_all_3  # Norman Sep 22
     - jt/help-modal-position-fix # Jonathan September 25
+    - riese/ignore_tests_app # Martin Sep 25
 submodules: { }
