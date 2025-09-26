@@ -24,7 +24,6 @@ branches:
     - es/webusercases+mk/18343-reset-user-case-location-data
     - cs/CCCT-1588-connect-messaging-with-keywords # Charl Sep 11
     - jt/remove-usercase_enabled-usage # Jonathan T. Sep 11
-    - es/pw-reset  # Ethan Sep 17
     - sk/chatbot-staging # Simon Sep 18
     - ay/momo-payments-demo # Ajeet Sep 25
     - mk/15959-fix-web-user-importer-invites # MK Sep 19
