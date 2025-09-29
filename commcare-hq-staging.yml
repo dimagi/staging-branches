@@ -30,5 +30,6 @@ branches:
     - ejp/auto-renewal/customer-ui  # Evan Sep 26
     - ejp/sanitize-webapps-display-text  # Evan Sep 26
     - jt/fix-collapsible-group-addition-ui  # Jonathan T Sep 30
+    - gh/restores/406+gh/publish-callback/close-conns  # Graham Sep 29
     - gh/publish-callback/close-conns  # Graham Sep 29
 submodules: { }
