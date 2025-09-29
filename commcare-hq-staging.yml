@@ -21,7 +21,6 @@ branches:
     - pkv/connect-messaging-inbound-fixes # Pawan Aug 25
     # - ejp/cloud-location-select-login+gh/two-factor/infinite-redirects  # Evan Aug 27
     # - gh/two-factor/infinite-redirects # Graham Feb 28
-    - es/webusercases+mk/18343-reset-user-case-location-data
     - cs/CCCT-1588-connect-messaging-with-keywords # Charl Sep 11
     - sk/chatbot-staging # Simon Sep 18
     - ay/momo-payments-demo # Ajeet Sep 25
