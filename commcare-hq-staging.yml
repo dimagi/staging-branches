@@ -34,4 +34,5 @@ branches:
     - gh/publish-callback/close-conns  # Graham Sep 29
     - mjr/copy-app-from-staging  # Matt Sep 29
     - dm/decrease-pillow-lag  # Daniel Sep 30
+    - ze/temp-logging # Zandre Oct 1
 submodules: { }
