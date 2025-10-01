@@ -35,4 +35,5 @@ branches:
     - mjr/copy-app-from-staging  # Matt Sep 29
     #- dm/decrease-pillow-lag  # Daniel Sep 30
     - ze/temp-logging # Zandre Oct 1
+    - gh/demo-case-pillow  # Graham Oct 1
 submodules: { }
