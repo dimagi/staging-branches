@@ -27,8 +27,6 @@ branches:
     - mk/15959-fix-web-user-importer-invites # MK Sep 19
     - nh/ff/enable_all_3  # Norman Sep 22
     - riese/ignore_tests_app # Martin Sep 25
-    - ejp/auto-renewal/customer-ui  # Evan Sep 26
-    - ejp/sanitize-webapps-display-text  # Evan Sep 26
     - jt/fix-collapsible-group-addition-ui  # Jonathan T Sep 30
     - gh/restores/406+gh/publish-callback/close-conns  # Graham Sep 29
     - gh/publish-callback/close-conns  # Graham Sep 29
