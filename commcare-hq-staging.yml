@@ -35,4 +35,5 @@ branches:
     - ze/temp-logging # Zandre Oct 1
     - gh/demo-case-pillow  # Graham Oct 1
     - es/release-toggles  # Ethan Oct 2
+    - es/slow-forms  # Ethan Oct 3
 submodules: { }
