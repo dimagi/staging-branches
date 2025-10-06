@@ -18,8 +18,6 @@ branches:
     - mk/report-builder-walkthrough # MK Jun 5
     - riese/index_if_pushed # Martin Aug 13
     - mjr/show_multi_updates  # Mat Aug 19
-    - pkv/connect-messaging-inbound-fixes # Pawan Aug 25
-    # - ejp/cloud-location-select-login+gh/two-factor/infinite-redirects  # Evan Aug 27
     # - gh/two-factor/infinite-redirects # Graham Feb 28
     - cs/CCCT-1588-connect-messaging-with-keywords # Charl Sep 11
     - sk/chatbot-staging # Simon Sep 18
@@ -28,10 +26,6 @@ branches:
     - nh/ff/enable_all_3  # Norman Sep 22
     - riese/ignore_tests_app # Martin Sep 25
     - jt/fix-collapsible-group-addition-ui  # Jonathan T Sep 30
-    - gh/restores/406+gh/publish-callback/close-conns  # Graham Sep 29
-    - gh/publish-callback/close-conns  # Graham Sep 29
-    - mjr/copy-app-from-staging  # Matt Sep 29
-    - dm/decrease-pillow-lag  # Daniel Sep 30
     - ze/temp-logging # Zandre Oct 1
     - gh/demo-case-pillow  # Graham Oct 1
     - es/release-toggles  # Ethan Oct 2
