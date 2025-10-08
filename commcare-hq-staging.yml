@@ -26,9 +26,9 @@ branches:
     - nh/ff/enable_all_3  # Norman Sep 22
     - riese/ignore_tests_app # Martin Sep 25
     - jt/fix-collapsible-group-addition-ui  # Jonathan T Sep 30
-    - ze/temp-logging # Zandre Oct 1
     - gh/demo-case-pillow  # Graham Oct 1
     - es/release-toggles  # Ethan Oct 2
     - es/slow-forms  # Ethan Oct 3
     - bmb/autopay/billing-info  # Biyeun Oct 6
+    - ze/validation-for-connect-messaging # Zandre Oct 8
 submodules: { }
