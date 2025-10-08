@@ -10,7 +10,7 @@ branches:  # list of branches to merge into final branch
   - sr/oppfilters+sr/allcolumns  # Sravan sept 18
   - sr/allcolumns  # Sravan Sept 18
   - pkv/analytics-events-backend # Pawan Sep 17
-  - pkv/bulk-approval-analytics # Pawan Sep 24
+  # - pkv/bulk-approval-analytics # Pawan Sep 24
   - hy/perm-stag # Hemant Oct 2 
   - hy/permissions # Hemant Oct 2 
   - sr/nmprograms  # Sravan Oct 6
