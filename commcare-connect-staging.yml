@@ -17,4 +17,5 @@ branches:  # list of branches to merge into final branch
   - sr/filters  # Sravan Oct 6
   - pkv/data-export-apis # Pawan Oct 7
   - pkv/add-gtm-id # Pawan Oct 8
+  - hy/fix-kpi-filtering # Hemant Oct 9
 submodules:
