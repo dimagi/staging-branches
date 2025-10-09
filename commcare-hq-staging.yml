@@ -23,7 +23,6 @@ branches:
     - sk/chatbot-staging # Simon Sep 18
     - ay/momo-payments-demo # Ajeet Sep 25
     - mk/15959-fix-web-user-importer-invites # MK Sep 19
-    - nh/ff/enable_all_3  # Norman Sep 22
     - riese/ignore_tests_app # Martin Sep 25
     - jt/fix-collapsible-group-addition-ui  # Jonathan T Sep 30
     - gh/demo-case-pillow  # Graham Oct 1
