@@ -31,4 +31,5 @@ branches:
     - bmb/autopay/billing-info  # Biyeun Oct 6
     - ze/validation-for-connect-messaging # Zandre Oct 8
     - nh/ff/dd_types  # Norman Oct 9
+    - ejp/login/repeated-failure-message  # Evan Oct 9
 submodules: { }
