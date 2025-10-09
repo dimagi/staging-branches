@@ -30,6 +30,5 @@ branches:
     - es/slow-forms  # Ethan Oct 3
     - bmb/autopay/billing-info  # Biyeun Oct 6
     - ze/validation-for-connect-messaging # Zandre Oct 8
-    - revert-37013-gh/publish-callback/close-conns # Amit Oct 9
     - nh/ff/dd_types  # Norman Oct 9
 submodules: { }
