@@ -28,7 +28,6 @@ branches:
     - gh/demo-case-pillow  # Graham Oct 1
     - es/release-toggles  # Ethan Oct 2
     - es/slow-forms  # Ethan Oct 3
-    - bmb/autopay/billing-info  # Biyeun Oct 6
     - ze/validation-for-connect-messaging # Zandre Oct 8
     - nh/ff/dd_types  # Norman Oct 9
     - ejp/login/repeated-failure-message  # Evan Oct 9
