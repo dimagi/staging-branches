@@ -29,6 +29,5 @@ branches:
     - es/release-toggles  # Ethan Oct 2
     - es/slow-forms  # Ethan Oct 3
     - ze/validation-for-connect-messaging # Zandre Oct 8
-    - nh/ff/dd_types  # Norman Oct 9
     - ejp/login/repeated-failure-message  # Evan Oct 9
 submodules: { }
