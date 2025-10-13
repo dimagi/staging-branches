@@ -13,7 +13,6 @@ branches:
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
     - mjr/user_importer_critical_section
     - cs/SC-4336-generate-random-errors-for-qa # Ajeet Apr 3 - staging only!
-    - gh/restores/406  # Graham May 1
     - gh/device-rate-limiter/translatable-msg # Graham May 6
     - mk/report-builder-walkthrough # MK Jun 5
     - riese/index_if_pushed # Martin Aug 13
@@ -29,5 +28,7 @@ branches:
     - es/release-toggles  # Ethan Oct 2
     - ze/validation-for-connect-messaging # Zandre Oct 8
     - ejp/login/repeated-failure-message  # Evan Oct 9
+    - gh/restores/406+revert-37047-revert-37013-gh/publish-callback/close-conns  # Graham Oct 13
+    - gh/restores/406  # Graham May 1
     - revert-37047-revert-37013-gh/publish-callback/close-conns  # Graham Oct 13
 submodules: { }
