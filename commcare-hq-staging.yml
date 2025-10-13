@@ -29,4 +29,5 @@ branches:
     - es/release-toggles  # Ethan Oct 2
     - ze/validation-for-connect-messaging # Zandre Oct 8
     - ejp/login/repeated-failure-message  # Evan Oct 9
+    - revert-37047-revert-37013-gh/publish-callback/close-conns  # Graham Oct 13
 submodules: { }
