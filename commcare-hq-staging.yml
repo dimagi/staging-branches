@@ -33,4 +33,5 @@ branches:
     - revert-37047-revert-37013-gh/publish-callback/close-conns  # Graham Oct 13
     - bmb/autopay/signup  # Biyeun Oct 14
     - gh/xforminstance/add-composite-indexes-back  # Graham Oct 14
+    - gh/bulk-translations-bug  # Graham Oct 14
 submodules: { }
