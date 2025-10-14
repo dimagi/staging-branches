@@ -20,4 +20,5 @@ branches:  # list of branches to merge into final branch
   - hy/fix-kpi-filtering # Hemant Oct 9
   - ay/fix-CNCT-2025-03 # Ajeet Oct 9
   - ce/new-deploy # Cal Oct 13
+  - cs/CCCT-1622-update-pending-visits # Charl Oct 14
 submodules:
