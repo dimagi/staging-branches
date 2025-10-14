@@ -14,7 +14,6 @@ branches:  # list of branches to merge into final branch
   - sr/nmprograms  # Sravan Oct 6
   - sr/filters  # Sravan Oct 6
   - pkv/data-export-apis # Pawan Oct 7
-  - pkv/add-gtm-id # Pawan Oct 8
   - hy/fix-kpi-filtering # Hemant Oct 9
   - ay/fix-CNCT-2025-03 # Ajeet Oct 9
   - ce/new-deploy # Cal Oct 13
