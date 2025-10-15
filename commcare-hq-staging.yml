@@ -28,7 +28,6 @@ branches:
     - es/release-toggles  # Ethan Oct 2
     - ze/validation-for-connect-messaging # Zandre Oct 8
     - ejp/login/repeated-failure-message  # Evan Oct 9
-    - gh/restores/406+revert-37047-revert-37013-gh/publish-callback/close-conns  # Graham Oct 13
     - gh/restores/406  # Graham May 1
     - bmb/autopay/signup  # Biyeun Oct 14
     - gh/xforminstance/add-composite-indexes-back  # Graham Oct 14
