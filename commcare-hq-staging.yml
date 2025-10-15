@@ -30,7 +30,6 @@ branches:
     - ejp/login/repeated-failure-message  # Evan Oct 9
     - gh/restores/406+revert-37047-revert-37013-gh/publish-callback/close-conns  # Graham Oct 13
     - gh/restores/406  # Graham May 1
-    - revert-37047-revert-37013-gh/publish-callback/close-conns  # Graham Oct 13
     - bmb/autopay/signup  # Biyeun Oct 14
     - gh/xforminstance/add-composite-indexes-back  # Graham Oct 14
 submodules: { }
