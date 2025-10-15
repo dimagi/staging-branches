@@ -30,5 +30,4 @@ branches:
     - ejp/login/repeated-failure-message  # Evan Oct 9
     - gh/restores/406  # Graham May 1
     - bmb/autopay/signup  # Biyeun Oct 14
-    - gh/xforminstance/add-composite-indexes-back  # Graham Oct 14
 submodules: { }
