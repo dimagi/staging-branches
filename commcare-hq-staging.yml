@@ -31,4 +31,5 @@ branches:
     - bmb/autopay/signup  # Biyeun Oct 14
     - mjr/add-case-mapping-xml  # Matt Oct 16
     - mk/18611-ingest-ucr-poc-data # MK Oct 17
+    - mjr/case-management-metrics  # Matt Oct 17
 submodules: { }
