@@ -16,7 +16,6 @@ branches:
     - gh/device-rate-limiter/translatable-msg # Graham May 6
     - mk/report-builder-walkthrough # MK Jun 5
     - riese/index_if_pushed # Martin Aug 13
-    - mjr/show_multi_updates  # Mat Aug 19
     # - gh/two-factor/infinite-redirects # Graham Feb 28
     - cs/CCCT-1588-connect-messaging-with-keywords # Charl Sep 11
     - sk/chatbot-staging # Simon Sep 18
@@ -30,4 +29,5 @@ branches:
     - ejp/login/repeated-failure-message  # Evan Oct 9
     - gh/restores/406  # Graham May 1
     - bmb/autopay/signup  # Biyeun Oct 14
+    - mjr/add-case-mapping-xml  # Matt Oct 16
 submodules: { }
