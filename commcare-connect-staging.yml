@@ -17,4 +17,5 @@ branches:  # list of branches to merge into final branch
   - cs/CCCT-1622-update-pending-visits # Charl Oct 14
   - cs/CCCT-1762-fix-notifications # Charl Oct 15
   - ze/manage-credentials-ui # Zandre Oct 16
+  - ay/fix-CNCT-2025-05 # Ajeet Oct 20
 submodules:
