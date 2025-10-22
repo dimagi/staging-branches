@@ -17,4 +17,5 @@ branches:  # list of branches to merge into final branch
   - cs/CCCT-1622-update-pending-visits # Charl Oct 14
   - cs/CCCT-1762-fix-notifications # Charl Oct 15
   - ay/fix-CNCT-2025-05 # Ajeet Oct 20
+  - ay/add-method-type-decorators # Ajeet Oct 22
 submodules:
