@@ -26,4 +26,5 @@ branches:
     - mk/18611-ingest-ucr-poc-data # MK Oct 17
     - ejp/auto-renewal/emails  # Evan Oct 17
     - es/smart-links # Ethan/Martin Oct 24
+    - riese/fix_invite_2 # Martin Oct 27
 submodules: { }
