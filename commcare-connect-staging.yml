@@ -14,5 +14,6 @@ branches:  # list of branches to merge into final branch
   - cs/CCCT-1762-fix-notifications # Charl Oct 15
   # - ay/add-method-type-decorators # Ajeet Oct 22
   - sr/allworkervisits  # Sravan Oct 27
+  - ay/permission-opp-org+sr/allworkervisits # Ajeet Oct 27
   - ay/permission-opp-org  # Ajeet Oct 27
 submodules:
