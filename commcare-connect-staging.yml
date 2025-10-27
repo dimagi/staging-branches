@@ -12,7 +12,7 @@ branches:  # list of branches to merge into final branch
   - ce/new-deploy # Cal Oct 13
   - cs/CCCT-1622-update-pending-visits # Charl Oct 14
   - cs/CCCT-1762-fix-notifications # Charl Oct 15
-  - ay/add-method-type-decorators # Ajeet Oct 22
+  # - ay/add-method-type-decorators # Ajeet Oct 22
   - sr/allworkervisits  # Sravan Oct 27
   - ay/permission-opp-org  # Ajeet Oct 27
 submodules:
