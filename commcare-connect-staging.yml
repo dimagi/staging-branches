@@ -16,4 +16,5 @@ branches:  # list of branches to merge into final branch
   - sr/allworkervisits  # Sravan Oct 27
   # - ay/permission-opp-org+sr/allworkervisits # Ajeet Oct 27
   # - ay/permission-opp-org  # Ajeet Oct 27
+  - cs/CCCT-1726-submit-creds-to-personalid # Charl 28 Oct
 submodules:
