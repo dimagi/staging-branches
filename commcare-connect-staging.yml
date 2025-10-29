@@ -5,10 +5,8 @@ branches:  # list of branches to merge into final branch
   - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
   - sr/uvexport # Sravan Jul 17
   - sr/staging-deploy # Hemant May 2 # DO NOT REMOVE!!
-  # - pkv/analytics-events-backend # Pawan Sep 17
   # - pkv/bulk-approval-analytics # Pawan Sep 24
   - sr/nmprograms  # Sravan Oct 6
-  - pkv/data-export-apis # Pawan Oct 7
   - ce/new-deploy # Cal Oct 13
   - cs/CCCT-1622-update-pending-visits # Charl Oct 14
   - cs/CCCT-1762-fix-notifications # Charl Oct 15
@@ -20,4 +18,5 @@ branches:  # list of branches to merge into final branch
   - cs/update-pending-approvals # Charl Oct 28
   - hy/test-connection # Hemant Oct 28
   - ay/consistent-permission-error-status # Ajeet Oct 29
+  - pkv/duplicate-completed-work-handling # Pawan Oct 29
 submodules:
