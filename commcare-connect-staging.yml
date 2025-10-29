@@ -19,4 +19,5 @@ branches:  # list of branches to merge into final branch
   - cs/CCCT-1726-submit-creds-to-personalid # Charl 28 Oct
   - cs/update-pending-approvals # Charl Oct 28
   - hy/test-connection # Hemant Oct 28
+  - ay/consistent-permission-error-status # Ajeet Oct 29
 submodules:
