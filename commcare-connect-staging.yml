@@ -11,7 +11,7 @@ branches:  # list of branches to merge into final branch
   - cs/CCCT-1622-update-pending-visits # Charl Oct 14
   - cs/CCCT-1762-fix-notifications # Charl Oct 15
   # - ay/add-method-type-decorators # Ajeet Oct 22
-  # - pkv/duplicate-completed-work-handling+sr/allworkervisits # Pawan Oct 29
+  - pkv/duplicate-completed-work-handling+sr/allworkervisits # Pawan Oct 29
   - sr/allworkervisits  # Sravan Oct 27
   - ay/permission-opp-org+sr/allworkervisits # Ajeet Oct 27
   - ay/permission-opp-org  # Ajeet Oct 27
@@ -19,5 +19,5 @@ branches:  # list of branches to merge into final branch
   - cs/update-pending-approvals # Charl Oct 28
   - hy/test-connection # Hemant Oct 28
   - ay/consistent-permission-error-status # Ajeet Oct 29
-  # - pkv/duplicate-completed-work-handling # Pawan Oct 29
+  - pkv/duplicate-completed-work-handling # Pawan Oct 29
 submodules:
