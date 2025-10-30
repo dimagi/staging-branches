@@ -21,4 +21,5 @@ branches:  # list of branches to merge into final branch
   - hy/test-connection # Hemant Oct 28
   - ay/consistent-permission-error-status # Ajeet Oct 29
   - pkv/duplicate-completed-work-handling # Pawan Oct 29
+  - add-user-credential-to-admin # Charl Oct 30
 submodules:
