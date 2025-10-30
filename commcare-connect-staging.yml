@@ -12,6 +12,7 @@ branches:  # list of branches to merge into final branch
   - cs/CCCT-1762-fix-notifications # Charl Oct 15
   # - ay/add-method-type-decorators # Ajeet Oct 22
   - pkv/duplicate-completed-work-handling+sr/allworkervisits # Pawan Oct 29
+  - pkv/duplicate-completed-work-handling+cs/CCCT-1725-task-to-calculate-credentials # Pawan Oct 29 # MIGRATION CONFLICT FIX
   - sr/allworkervisits  # Sravan Oct 27
   - ay/permission-opp-org+sr/allworkervisits # Ajeet Oct 27
   - ay/permission-opp-org  # Ajeet Oct 27
