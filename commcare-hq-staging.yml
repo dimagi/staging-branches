@@ -18,14 +18,11 @@ branches:
     # - gh/two-factor/infinite-redirects # Graham Feb 28
     - sk/chatbot-staging # Simon Sep 18
     - ay/momo-payments-demo # Ajeet Sep 25
-    - mk/15959-fix-web-user-importer-invites # MK Sep 19
     - gh/demo-case-pillow  # Graham Oct 1
     - gh/restores/406  # Graham May 1
-    - bmb/autopay/signup  # Biyeun Oct 14
     - mjr/add-case-mapping-xml  # Matt Oct 16
     - mk/18611-ingest-ucr-poc-data # MK Oct 17
     - ejp/auto-renewal/emails  # Evan Oct 17
     - es/smart-links # Ethan/Martin Oct 24
-    - ejp/autopay-customer-invoices  # Evan Oct 27
     - revert-37095-ap/revert-37023+37086 # Martin Oct 30
 submodules: { }
