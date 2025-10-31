@@ -22,7 +22,6 @@ branches:
     - gh/restores/406  # Graham May 1
     - mjr/add-case-mapping-xml  # Matt Oct 16
     - mk/18611-ingest-ucr-poc-data # MK Oct 17
-    - ejp/auto-renewal/emails  # Evan Oct 17
     - es/smart-links # Ethan/Martin Oct 24
     - revert-37095-ap/revert-37023+37086 # Martin Oct 30
 submodules: { }
