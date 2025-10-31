@@ -20,4 +20,5 @@ branches:  # list of branches to merge into final branch
   - cs/update-pending-approvals # Charl Oct 28
   - pkv/duplicate-completed-work-handling # Pawan Oct 29
   - add-user-credential-to-admin # Charl Oct 30
+  - sr/filters-ga  # Sravan Oct 31
 submodules:
