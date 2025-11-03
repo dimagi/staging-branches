@@ -26,4 +26,5 @@ branches:
     - revert-37095-ap/revert-37023+37086 # Martin Oct 30
     - ejp/auto-renewal/auto-renew-task  # Evan Oct 31
     - mk/17928-custom-icon-badges-ga-improvements # MK Nov 1
+    - bmb/b5/new-user-registration  # Evan Nov 3
 submodules: { }
