@@ -10,8 +10,8 @@ branches:  # list of branches to merge into final branch
   # - pkv/duplicate-completed-work-handling+sr/allworkervisits # Pawan Oct 29
   # - pkv/duplicate-completed-work-handling+cs/CCCT-1725-task-to-calculate-credentials # Pawan Oct 30 # MIGRATION CONFLICT FIX
   - sr/allworkervisits  # Sravan Oct 27
-  # - ay/permission-opp-org+sr/allworkervisits # Ajeet Oct 27
-  # - ay/permission-opp-org  # Ajeet Oct 27
+  - ay/permission-opp-org+sr/allworkervisits # Ajeet Oct 27
+  - ay/permission-opp-org  # Ajeet Oct 27
   - cs/CCCT-1726-submit-creds-to-personalid # Charl 28 Oct
   - cs/update-pending-approvals # Charl Oct 28
   # - pkv/duplicate-completed-work-handling # Pawan Oct 29
