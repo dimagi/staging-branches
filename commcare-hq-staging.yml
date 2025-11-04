@@ -22,7 +22,6 @@ branches:
     - mjr/add-case-mapping-xml  # Matt Oct 16
     - mk/18611-ingest-ucr-poc-data # MK Oct 17
     - es/smart-links # Ethan/Martin Oct 24
-    - ejp/auto-renewal/auto-renew-task  # Evan Oct 31
     - mk/17928-custom-icon-badges-ga-improvements # MK Nov 1
     - bmb/b5/new-user-registration  # Evan Nov 3
 submodules: { }
