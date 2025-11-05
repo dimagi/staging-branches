@@ -24,5 +24,4 @@ branches:
     - es/smart-links # Ethan/Martin Oct 24
     - mk/17928-custom-icon-badges-ga-improvements # MK Nov 1
     - bmb/b5/new-user-registration  # Evan Nov 3
-    - gh/task-record  # Graham Nov 5
 submodules: { }
