@@ -26,4 +26,5 @@ branches:
     - bmb/b5/new-user-registration  # Evan Nov 3
     - ejp/stripe-one-time-payment-bug  # Evan Nov 6
     - riese/rm_lat_lon # Martin Nov 6
+    - mk/18743-improvements-ga-locations-app-status-report # MK Nov 7
 submodules: { }
