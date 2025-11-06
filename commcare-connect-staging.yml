@@ -18,4 +18,5 @@ branches:  # list of branches to merge into final branch
   - ay/pm-email-notifications # Ajeet Nov 5
   - cs/CCCT-1854-update-logos # Charl Nov 5
   - hy/sticky-header # Hemant Nov 6
+  - ay/email-notifications-on-invite # Ajeet Nov 6
 submodules:
