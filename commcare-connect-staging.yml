@@ -16,7 +16,7 @@ branches:  # list of branches to merge into final branch
   - cs/update-pending-approvals # Charl Oct 28
   # - pkv/duplicate-completed-work-handling # Pawan Oct 29
   - add-user-credential-to-admin # Charl Oct 30
-  - sr/oppinitedit  # Sravan Nov 2
+  - sr/initupdate  # Sravan Nov 6
   - ay/pm-email-notifications # Ajeet Nov 5
   - cs/CCCT-1854-update-logos # Charl Nov 5
 submodules:
