@@ -24,7 +24,6 @@ branches:
     - es/smart-links # Ethan/Martin Oct 24
     - mk/17928-custom-icon-badges-ga-improvements # MK Nov 1
     - bmb/b5/new-user-registration  # Evan Nov 3
-    - ejp/stripe-one-time-payment-bug  # Evan Nov 6
     - riese/rm_lat_lon # Martin Nov 6
     - mk/18743-improvements-ga-locations-app-status-report # MK Nov 7
     - gh/task-record  # Graham Nov 7
