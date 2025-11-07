@@ -19,4 +19,5 @@ branches:  # list of branches to merge into final branch
   - cs/CCCT-1854-update-logos # Charl Nov 5
   - hy/sticky-header # Hemant Nov 6
   - ay/email-notifications-on-invite # Ajeet Nov 6
+  - hridaykedia:hk/AllowCustomHTMLTag # Pawan Nov 7
 submodules:
