@@ -15,7 +15,6 @@ branches:
     - gh/device-rate-limiter/translatable-msg # Graham May 6
     - mk/report-builder-walkthrough # MK Jun 5
     # - gh/two-factor/infinite-redirects # Graham Feb 28
-    - sk/chatbot-staging # Simon Sep 18
     - ay/momo-payments-demo # Ajeet Sep 25
     - gh/demo-case-pillow  # Graham Oct 1
     - gh/restores/406  # Graham May 1
