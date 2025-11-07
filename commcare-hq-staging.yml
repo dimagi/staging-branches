@@ -26,6 +26,6 @@ branches:
     - riese/rm_lat_lon # Martin Nov 6
     - mk/18743-improvements-ga-locations-app-status-report # MK Nov 7
     - gh/task-record  # Graham Nov 7
-    - gh/durable-task  # Graham Nov 7
-    - gh/test-durable-task  # Graham Nov 7
+    #- gh/durable-task  # Graham Nov 7
+    #- gh/test-durable-task  # Graham Nov 7
 submodules: { }
