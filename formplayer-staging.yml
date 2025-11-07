@@ -4,6 +4,7 @@ trunk: master
 name: autostaging
 branches:
   - jt/breadcrumb-inline-case-search-bug-fix # Jonathan June 19
+  - riese/rm_here # Martin Nov 7
 submodules:
   libs/commcare:
     trunk: formplayer
