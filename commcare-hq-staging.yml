@@ -29,4 +29,5 @@ branches:
     - gh/durable-task  # Graham Nov 7
     - gh/test-durable-task  # Graham Nov 7
     - riese/rm_ff_invit_add_fields # Martin Nov 10
+    - gh/both-interface-errors  # Graham Nov 10
 submodules: { }
