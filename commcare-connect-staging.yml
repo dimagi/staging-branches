@@ -7,6 +7,7 @@ branches:  # list of branches to merge into final branch
   - ce/new-deploy # Cal Oct 13
   - cs/CCCT-1762-fix-notifications # Charl Oct 15
   - pkv/duplicate-completed-work-handling+sr/allworkervisits # Pawan Nov 10
+  - pkv/duplicate-completed-work-handling+cs/CCCT-1725-task-to-calculate-credentials # Pawan Nov 10 Migration Fix
   - sr/allworkervisits  # Sravan Oct 27
   - cs/CCCT-1726-submit-creds-to-personalid # Charl 28 Oct
   - cs/update-pending-approvals # Charl Oct 28
