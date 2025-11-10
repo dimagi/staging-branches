@@ -28,4 +28,5 @@ branches:
     - gh/task-record  # Graham Nov 7
     - gh/durable-task  # Graham Nov 7
     - gh/test-durable-task  # Graham Nov 7
+    - riese/rm_ff_invit_add_fields # Martin Nov 10
 submodules: { }
