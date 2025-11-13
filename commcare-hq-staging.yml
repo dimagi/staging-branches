@@ -30,4 +30,5 @@ branches:
     - riese/usage_grouping_and_sort # Martin Nov 11
     - ejp/sso-failOnAuthnContextMismatch  # Evan Nov 12
     - sk/chat-widget-auth  # Simon Nov 13
+    - dependabot/uv/gevent-25.9.1  # Daniel Nov 13
 submodules: { }
