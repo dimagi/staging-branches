@@ -19,4 +19,5 @@ branches:  # list of branches to merge into final branch
   - hy/sticky-header # Hemant Nov 6
   - ay/email-notifications-on-invite # Ajeet Nov 6
   - hridaykedia:hk/AllowCustomHTMLTag # Pawan Nov 7
+  - cs/CCCT-1880-automate-invoice-amount # Charl Nov 13
 submodules:
