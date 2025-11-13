@@ -31,4 +31,5 @@ branches:
     - ejp/sso-failOnAuthnContextMismatch  # Evan Nov 12
     - sk/chat-widget-auth  # Simon Nov 13
     - dependabot/uv/gevent-25.9.1  # Daniel Nov 13
+    - ejp/b5/registration-views  # Evan Nov 13
 submodules: { }
