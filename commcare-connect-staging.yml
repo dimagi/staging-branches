@@ -5,6 +5,7 @@ branches:  # list of branches to merge into final branch
   - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
   - sr/staging-deploy # Hemant May 2 # DO NOT REMOVE!!
   - ce/new-deploy # Cal Oct 13
+  - hy/limit-export # Hemant Nov 18
   - cs/CCCT-1762-fix-notifications # Charl Oct 15
   # - pkv/duplicate-completed-work-handling+sr/allworkervisits # Pawan Nov 10
   # - pkv/duplicate-completed-work-handling+cs/CCCT-1725-task-to-calculate-credentials # Pawan Nov 10 Migration Fix
@@ -18,7 +19,6 @@ branches:  # list of branches to merge into final branch
   - sr/initupdate  # Sravan Nov 6
   - ay/pm-email-notifications # Ajeet Nov 5
   - cs/CCCT-1854-update-logos # Charl Nov 5
-  - hy/limit-export # Hemant Nov 18
   - ay/email-notifications-on-invite # Ajeet Nov 6
   - hridaykedia:hk/AllowCustomHTMLTag # Pawan Nov 7
   - cs/CCCT-1880-automate-invoice-amount # Charl Nov 13
