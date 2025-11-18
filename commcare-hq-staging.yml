@@ -31,7 +31,6 @@ branches:
     - dependabot/uv/gevent-25.9.1  # Daniel Nov 13
     - ejp/b5/registration-views  # Evan Nov 13
     - ejp/serverlocation-staging-check  # Evan Nov 13
-    - gh/register-oauth/ssrf-waf-allow  # Graham Nov 14
     - mk/17919-sort-property-calcs-improvements-ga # MK Nov 15
     - ejp/auto-renewal/qa  # Evan Nov 17
 submodules: { }
