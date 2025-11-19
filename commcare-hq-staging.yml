@@ -23,7 +23,6 @@ branches:
     - es/smart-links # Ethan/Martin Oct 24
     - riese/rm_lat_lon # Martin Nov 6
     - gh/test-durable-task  # Graham Nov 7
-    - gh/both-interface-errors  # Graham Nov 10
     - dependabot/uv/stripe-13.0.1 # Amit Nov 11
     - sk/chat-widget-auth  # Simon Nov 13
     - dependabot/uv/gevent-25.9.1  # Daniel Nov 13
