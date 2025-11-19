@@ -9,7 +9,7 @@ branches:  # list of branches to merge into final branch
   # - pkv/duplicate-completed-work-handling+sr/allworkervisits # Pawan Nov 10
   # - pkv/duplicate-completed-work-handling+cs/CCCT-1725-task-to-calculate-credentials # Pawan Nov 10 Migration Fix
   - sr/allworkervisits  # Sravan Oct 27
-  - cs/CCCT-1880-automate-invoice-amount+cs/CCCT-1726-submit-creds-to-personalid # Nov 13
+  #- cs/CCCT-1880-automate-invoice-amount+cs/CCCT-1726-submit-creds-to-personalid # Nov 13
   - sr/initupdate+cs/CCCT-1880-automate-invoice-amount # Nov 13
   - cs/CCCT-1726-submit-creds-to-personalid # Charl 28 Oct
   - cs/update-pending-approvals # Charl Oct 28
