@@ -26,8 +26,7 @@ branches:
     - dependabot/uv/stripe-13.0.1 # Amit Nov 11
     - sk/chat-widget-auth  # Simon Nov 13
     - dependabot/uv/gevent-25.9.1  # Daniel Nov 13
-    - ejp/b5/registration-views  # Evan Nov 13
     - ejp/serverlocation-staging-check  # Evan Nov 13
     - mk/17919-sort-property-calcs-improvements-ga # MK Nov 15
-    - ejp/auto-renewal/qa  # Evan Nov 17
+    - ejp/signup-workflow-2025-q4
 submodules: { }
