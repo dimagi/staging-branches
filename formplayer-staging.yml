@@ -2,10 +2,8 @@
 
 trunk: master
 name: autostaging
-branches:
-  - riese/rm_here # Martin Nov 7
+branches: []
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches:
-      - riese/rm_here_dummy
+    branches: []
