@@ -28,5 +28,6 @@ branches:
     - dependabot/uv/gevent-25.9.1  # Daniel Nov 13
     - ejp/serverlocation-staging-check  # Evan Nov 13
     - mk/17919-sort-property-calcs-improvements-ga # MK Nov 15
-    - ejp/signup-workflow-2025-q4
+    - ejp/signup-workflow-2025-q4  # Evan Nov 21
+    - ejp/accounting/remove-autopay  # Evan Nov 24
 submodules: { }
