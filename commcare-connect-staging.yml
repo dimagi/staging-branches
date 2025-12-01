@@ -16,5 +16,5 @@ branches:  # list of branches to merge into final branch
   - cs/CCCT-1880-automate-invoice-amount # Charl Nov 13
   - hy/api-errors # Hemant Nov 24
   - hy/invoice-mail # Hemant Dec 1
-  - ay/connect-workers-country-code-improvs
+  - ay/connect-workers-country-code-improvs # Ajeet Dec 1
 submodules:
