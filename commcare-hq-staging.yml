@@ -28,7 +28,4 @@ branches:
     - dependabot/uv/gevent-25.9.1  # Daniel Nov 13
     - ejp/serverlocation-staging-check  # Evan Nov 13
     - mk/17919-sort-property-calcs-improvements-ga # MK Nov 15
-    - ejp/autopay/tos  # Evan Nov 25
-    - ejp/autopay/reminders-and-release  # Evan Dec 04
-    - ejp/sso/requestedAuthnContext  # Evan Dec 04
 submodules: { }
