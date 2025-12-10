@@ -29,4 +29,5 @@ branches:
     - ejp/serverlocation-staging-check  # Evan Nov 13
     - mk/17919-sort-property-calcs-improvements-ga # MK Nov 15
     - riese/users_to_b5_roles # Martin Dec 10
+    - ejp/remove-registration-mocha-template  # Evan Dec 10
 submodules: { }
