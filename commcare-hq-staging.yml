@@ -27,4 +27,5 @@ branches:
     - riese/users_to_b5_roles # Martin Dec 10
     - ejp/remove-registration-mocha-template  # Evan Dec 10
     - mk/18979-freeze-feature-flags # MK Dec 12
+    - bmb/ko-alpine-htmx-sg-updates  # Biyeun Dec 12
 submodules: { }
