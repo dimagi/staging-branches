@@ -30,5 +30,5 @@ branches:
     - bmb/fix-datepicker-xmodel  # Biyeun Dec 12
     - ejp/stripe-bulk-payment-bug  # Evan Dec 15
     - mk/18611-ingest-ucr-poc-data # MK Oct 17
-    - ejp/hubspot-remove-extraneous-forms  # Evan Dec 16
+    # - ejp/hubspot-remove-extraneous-forms  # Evan Dec 16
 submodules: { }
