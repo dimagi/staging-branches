@@ -11,4 +11,6 @@ branches:  # list of branches to merge into final branch
   - add-user-credential-to-admin # Charl Oct 30
   - hridaykedia:hk/AllowCustomHTMLTag # Pawan Nov 7
   - ay/monthly-invoice-generation-test # Ajeet Dec 11
+  - cs/CCCT-1966-update-invoice-list-ui # Charl Dec 17
+  - cs/CCCT-1978-send-invoice-reminder-emails # Charl Dec 17
 submodules:
