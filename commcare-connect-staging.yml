@@ -10,6 +10,7 @@ branches:  # list of branches to merge into final branch
   - cs/update-pending-approvals # Charl Oct 28
   - add-user-credential-to-admin # Charl Oct 30
   - hridaykedia:hk/AllowCustomHTMLTag # Pawan Nov 7
+  - cs/CCCT-1966-update-invoice-list-ui+ay/monthly-invoice-generation-test # Charl Dec 17
   - ay/monthly-invoice-generation-test # Ajeet Dec 11
   - cs/CCCT-1966-update-invoice-list-ui # Charl Dec 17
   - cs/CCCT-1978-send-invoice-reminder-emails # Charl Dec 17
