@@ -30,5 +30,5 @@ branches:
     - bmb/fix-datepicker-xmodel  # Biyeun Dec 12
     - mk/18611-ingest-ucr-poc-data # MK Oct 17
     - gh/celery/redis-broker  # Graham Dec 18
-    - ejp/b5/app-manager-initial-split  # Evan Dec 18
+    # - ejp/b5/app-manager-initial-split  # Evan Dec 18
 submodules: { }
