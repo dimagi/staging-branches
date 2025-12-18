@@ -29,5 +29,4 @@ branches:
     - bmb/ko-alpine-htmx-sg-updates  # Biyeun Dec 12
     - bmb/fix-datepicker-xmodel  # Biyeun Dec 12
     - mk/18611-ingest-ucr-poc-data # MK Oct 17
-    - ejp/autopay/show-next-date  # Evan Dec 17
 submodules: { }
