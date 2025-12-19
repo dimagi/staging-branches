@@ -11,7 +11,6 @@ branches:
     - sr/gis-select # Sravan 7 Aug
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
     - mjr/user_importer_critical_section
-    - cs/SC-4336-generate-random-errors-for-qa # Ajeet Apr 3 - staging only!
     - gh/device-rate-limiter/translatable-msg # Graham May 6
     - mk/report-builder-walkthrough # MK Jun 5
     # - gh/two-factor/infinite-redirects # Graham Feb 28
@@ -31,4 +30,5 @@ branches:
     - mk/18611-ingest-ucr-poc-data # MK Oct 17
     - gh/celery/redis-broker  # Graham Dec 18
     - ejp/b5/app-manager-initial-split  # Evan Dec 18
+    - ay/kyc-staging-test # Ajeet Dec 19 - Staging Only
 submodules: { }
