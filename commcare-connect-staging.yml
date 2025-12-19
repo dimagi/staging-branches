@@ -12,4 +12,5 @@ branches:  # list of branches to merge into final branch
   - hridaykedia:hk/AllowCustomHTMLTag # Pawan Nov 7
   - cs/CCCT-1978-send-invoice-reminder-emails # Charl Dec 17
   - cs/CCCT-1965-update-custom-invoice-form # Charl Dec 18
+  - ay/auth-classes-fix-ordering # Ajeet Dec 19
 submodules:
