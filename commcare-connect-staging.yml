@@ -10,7 +10,6 @@ branches:  # list of branches to merge into final branch
   - cs/update-pending-approvals # Charl Oct 28
   - add-user-credential-to-admin # Charl Oct 30
   - hridaykedia:hk/AllowCustomHTMLTag # Pawan Nov 7
-  - cs/CCCT-1978-send-invoice-reminder-emails # Charl Dec 17
   - ay/auth-classes-fix-ordering # Ajeet Dec 19
   - sr/currency_fk # Sravan Dec 22
   - sr/curfk_replace # Sravan Dec 22
