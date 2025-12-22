@@ -13,4 +13,6 @@ branches:  # list of branches to merge into final branch
   - cs/CCCT-1978-send-invoice-reminder-emails # Charl Dec 17
   - cs/CCCT-1965-update-custom-invoice-form # Charl Dec 18
   - ay/auth-classes-fix-ordering # Ajeet Dec 19
+  - sr/currency_fk # Sravan Dec 22
+  - sr/curfk_replace # Sravan Dec 22
 submodules:
