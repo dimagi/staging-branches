@@ -17,7 +17,7 @@ branches:
     - ay/momo-payments-demo # Ajeet Sep 25
     - gh/demo-case-pillow  # Graham Oct 1
     - gh/restores/406  # Graham May 1
-    # - mjr/add-case-mapping-xml  # Matt Oct 16
+    - mjr/add-case-mapping-xml  # Matt Oct 16
     - gh/test-durable-task  # Graham Nov 7
     - dependabot/uv/stripe-13.0.1 # Amit Nov 11
     - ejp/serverlocation-staging-check  # Evan Nov 13
