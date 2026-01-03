@@ -27,4 +27,5 @@ branches:
     - ay/kyc-staging-test # Ajeet Dec 19 - Staging Only
     - gh/celery/support-broker-migrations  # Graham Dec 19
     - ay/case-list-config-new-formats # Ajeet Dec 23
+    - ejp/b5/app-manager-stylesheet-split  # Evan Jan 2
 submodules: { }
