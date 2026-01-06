@@ -22,7 +22,6 @@ branches:
     - dependabot/uv/stripe-13.0.1 # Amit Nov 11
     - ejp/serverlocation-staging-check  # Evan Nov 13
     - mk/18611-ingest-ucr-poc-data # MK Oct 17
-    - gh/celery/redis-broker  # Graham Dec 18
     - ejp/b5/app-manager-initial-split  # Evan Dec 18
     - ay/kyc-staging-test # Ajeet Dec 19 - Staging Only
     - gh/celery/support-broker-migrations  # Graham Dec 19
