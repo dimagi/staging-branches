@@ -13,4 +13,6 @@ branches:  # list of branches to merge into final branch
   - ay/auth-classes-fix-ordering # Ajeet Dec 19
   - sr/currency_fk # Sravan Dec 22
   - sr/curfk_replace # Sravan Dec 22
+  - hy/inv-adm-rep # Hemant Jan 6
+  - hy/invoice-export # Hemant Jan 6
 submodules:
