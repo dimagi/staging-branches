@@ -16,7 +16,7 @@ branches:  # list of branches to merge into final branch
   - hy/inv-adm-rep # Hemant Jan 6
   - hy/invoice-export # Hemant Jan 6
   # - hy/merge-custom-invoice-ytemp # Hemant Jan 7 Temporary merge branch to resolve conflicts. to be removed once Charl is back.
-  # - cs/CCCT-1965-update-custom-invoice-form # Hemant Jan 7
+  - cs/CCCT-1965-update-custom-invoice-form # Hemant Jan 7
   - ay/add-uuid-field # Ajeet Jan 8
   - ce/traefik-compression # Cal Jan 11
 submodules:
