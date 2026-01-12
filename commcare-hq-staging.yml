@@ -24,7 +24,6 @@ branches:
     - mk/18611-ingest-ucr-poc-data # MK Oct 17
     - ejp/b5/app-manager-initial-split  # Evan Dec 18
     - ay/kyc-staging-test # Ajeet Dec 19 - Staging Only
-    - gh/celery/support-broker-migrations  # Graham Dec 19
     - ay/case-list-config-new-formats # Ajeet Dec 23
     - ejp/b5/app-manager-stylesheet-split  # Evan Jan 2
     - nh/case_api_upsert  # Norman Jan 7
