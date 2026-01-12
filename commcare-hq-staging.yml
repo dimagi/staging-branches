@@ -29,4 +29,5 @@ branches:
     - ejp/b5/app-manager-stylesheet-split  # Evan Jan 2
     - nh/case_api_upsert  # Norman Jan 7
     - ay/kyc-report-new-filters # Ajeet Jan 9
+    - riese/create_edit_role_view # Martin Jan 12
 submodules: { }
