@@ -18,6 +18,6 @@ branches:  # list of branches to merge into final branch
   - cs/CCCT-1965-update-custom-invoice-form # Hemant Jan 7
   - ay/add-uuid-field # Ajeet Jan 8
   - ce/traefik-compression # Cal Jan 11
-  - cs/CCCT-1978-send-invoice-reminder-emails
+  - cs/CCCT-1978-send-invoice-reminder-emails # Charl Jan 12
   - staging-only/CCCT-1978-decrease-task-interval # Charl Jan 12 STAGING ONLY
 submodules:
