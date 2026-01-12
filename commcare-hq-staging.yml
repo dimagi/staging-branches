@@ -27,6 +27,7 @@ branches:
     - ay/case-list-config-new-formats # Ajeet Dec 23
     - ejp/b5/app-manager-stylesheet-split  # Evan Jan 2
     - nh/case_api_upsert  # Norman Jan 7
+    - riese/riese/merge+ay/kyc-staging-test # Martin Jan 12
     - ay/kyc-report-new-filters # Ajeet Jan 9
     - riese/create_edit_role_view # Martin Jan 12
 submodules: { }
