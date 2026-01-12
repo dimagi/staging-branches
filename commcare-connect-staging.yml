@@ -15,7 +15,7 @@ branches:  # list of branches to merge into final branch
   - sr/curfk_replace # Sravan Dec 22
   - hy/inv-adm-rep # Hemant Jan 6
   - hy/invoice-export # Hemant Jan 6
-  - cs/CCCT-1965-update-custom-invoice-form # Hemant Jan 7
+  - cs/CCCT-1965-update-custom-invoice-form # Charl Jan 12
   - ay/add-uuid-field # Ajeet Jan 8
   - ce/traefik-compression # Cal Jan 11
   - cs/CCCT-1978-send-invoice-reminder-emails # Charl Jan 12
