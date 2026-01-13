@@ -30,4 +30,6 @@ branches:
     - riese/create_edit_role_view # Martin Jan 12
     - ejp/b5/app-manager-summary-exchange  # Evan Jan 12
     # - ejp/b5/app-manager-app-settings  # Evan Jan 12
+    - ejp/b5/translations-split  # Evan Jan 13
+    - ejp/b5/hqmedia-split  # Evan Jan 13
 submodules: { }
