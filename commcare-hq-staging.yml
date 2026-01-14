@@ -22,7 +22,6 @@ branches:
     - dependabot/uv/stripe-13.0.1 # Amit Nov 11
     - ejp/serverlocation-staging-check  # Evan Nov 13
     - mk/18611-ingest-ucr-poc-data # MK Oct 17
-    - riese/riese/merge+ay/kyc-staging-test # Martin Jan 12
     - ay/kyc-staging-test # Ajeet Dec 19 - Staging Only
     - ay/case-list-config-new-formats # Ajeet Dec 23
     - nh/case_api_upsert  # Norman Jan 7
