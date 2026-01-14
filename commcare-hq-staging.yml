@@ -29,4 +29,5 @@ branches:
     - riese/create_edit_role_view # Martin Jan 12
     - ejp/b5/app-manager-app-settings  # Evan Jan 12
     - sk/chat-widget-attachments  # Simon Jan 14
+    - gh/kafka-python/auto_offset_reset  # Graham Jan 14
 submodules: { }
