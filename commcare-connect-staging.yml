@@ -19,4 +19,5 @@ branches:  # list of branches to merge into final branch
   - ce/traefik-compression # Cal Jan 11
   - cs/CCCT-1978-send-invoice-reminder-emails # Charl Jan 12
   - staging-only/CCCT-1978-decrease-task-interval # Charl Jan 12 STAGING ONLY
+  - hy/down-attach # Hemant Jan 15
 submodules:
