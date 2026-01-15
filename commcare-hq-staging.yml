@@ -31,4 +31,5 @@ branches:
     - sk/chat-widget-attachments  # Simon Jan 14
     - gh/kafka-python/auto_offset_reset  # Graham Jan 14
     - ejp/b5/events  # Evan Jan 14
+    - gh/celery/test-periodic-task  # Graham Jan 15
 submodules: { }
