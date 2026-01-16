@@ -28,7 +28,6 @@ branches:
     - ay/kyc-report-new-filters # Ajeet Jan 9
     - riese/create_edit_role_view # Martin Jan 12
     - sk/chat-widget-attachments  # Simon Jan 14
-    - gh/kafka-python/auto_offset_reset  # Graham Jan 14
     - ejp/creditadjustment-payment-type  # Evan Jan 15
     - gh/tag-durable-tasks  # Graham Jan 16
 submodules: { }
