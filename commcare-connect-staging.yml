@@ -17,4 +17,5 @@ branches:  # list of branches to merge into final branch
   - staging-only/CCCT-1978-decrease-task-interval # Charl Jan 12 STAGING ONLY
   - hy/down-attach # Hemant Jan 15
   - sr/rename-currency # Sravan Jan 16
+  - pkv/update-program-card # Pawan Jan 16
 submodules:
