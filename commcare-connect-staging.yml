@@ -11,12 +11,11 @@ branches:  # list of branches to merge into final branch
   - add-user-credential-to-admin # Charl Oct 30
   - hridaykedia:hk/AllowCustomHTMLTag # Pawan Nov 7
   - ay/auth-classes-fix-ordering # Ajeet Dec 19
-  - sr/currency_fk # Sravan Dec 22
-  - sr/curfk_replace # Sravan Dec 22
   - hy/inv-adm-rep # Hemant Jan 6
   - hy/invoice-export # Hemant Jan 6
   - ce/traefik-compression # Cal Jan 11
   - cs/CCCT-1978-send-invoice-reminder-emails # Charl Jan 12
   - staging-only/CCCT-1978-decrease-task-interval # Charl Jan 12 STAGING ONLY
   - hy/down-attach # Hemant Jan 15
+  - sr/rename-currency # Sravan Jan 16
 submodules:
