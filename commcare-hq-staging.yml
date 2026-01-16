@@ -29,5 +29,6 @@ branches:
     - riese/create_edit_role_view # Martin Jan 12
     - sk/chat-widget-attachments  # Simon Jan 14
     - ejp/creditadjustment-payment-type  # Evan Jan 15
+    - gh/use-str-uuid-in-durable-task  # Graham Jan 16
     - gh/tag-durable-tasks  # Graham Jan 16
 submodules: { }
