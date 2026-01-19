@@ -31,5 +31,5 @@ branches:
     - ejp/creditadjustment-payment-type  # Evan Jan 15
     - gh/tag-durable-tasks  # Graham Jan 16
     - dependabot/uv/urllib3-2.6.3 # Amit Jan 19
-    - gh/move-lock-locs-decorator  # Graham Jan 19
+    - gh/lock-locations-use-wraps  # Graham Jan 19
 submodules: { }
