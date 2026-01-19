@@ -11,7 +11,6 @@ branches:  # list of branches to merge into final branch
   - add-user-credential-to-admin # Charl Oct 30
   - hridaykedia:hk/AllowCustomHTMLTag # Pawan Nov 7
   - ay/auth-classes-fix-ordering # Ajeet Dec 19
-  - hy/inv-adm-rep # Hemant Jan 6
   - ce/traefik-compression # Cal Jan 11
   - hy/down-attach # Hemant Jan 15
   - pkv/update-program-card # Pawan Jan 16
