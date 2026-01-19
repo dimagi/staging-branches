@@ -1,7 +1,6 @@
 trunk: main
 name: autostaging  # name of the branch to build
 branches:  # list of branches to merge into final branch
- #  - pkv/sr/staging-deploy+main # Pawan Dec 10 checking main and staging-deploy merge compatibilty
   - main
   - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
   - sr/staging-deploy # Hemant May 2 # DO NOT REMOVE!!
