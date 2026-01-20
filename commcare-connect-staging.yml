@@ -12,10 +12,8 @@ branches:  # list of branches to merge into final branch
   - cs/update-pending-approvals # Charl Oct 28
   - add-user-credential-to-admin # Charl Oct 30
   - hridaykedia:hk/AllowCustomHTMLTag # Pawan Nov 7
-  - pkv/update-program-card # Pawan Jan 16
   - cs/CCCT-1978-send-invoice-reminder-emails # Charl Jan 19
   - cs/CCCT-1978-staging-only # Charl Jan 19
   - ay/budget-allocation-validation # Ajeet Jan 19
-  - sr/task-retry # Sravan Jan 20
-  
+  - sr/task-retry # Sravan Jan 20 
 submodules:
