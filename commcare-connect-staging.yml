@@ -15,4 +15,5 @@ branches:  # list of branches to merge into final branch
   - ay/budget-allocation-validation # Ajeet Jan 19
   - sr/op-deletion # Sravan Jan 20
   - sr/task-retry # Sravan Jan 20
+  - ze/update-web-endpoints-uuid # Zandre Jan 20
 submodules:
