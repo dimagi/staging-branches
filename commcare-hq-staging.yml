@@ -33,4 +33,5 @@ branches:
     - dependabot/uv/urllib3-2.6.3 # Amit Jan 19
     - ejp/web-user-download-permission  # Evan Jan 19
     - gh/support-durable-arg  # Graham Jan 20
+    - ejp/app-preview-submit-errors  # Evan Jan 20
 submodules: { }
