@@ -2,7 +2,8 @@
 
 trunk: master
 name: autostaging
-branches: []
+branches:
+  - riese/skip_cache
 submodules:
   libs/commcare:
     trunk: formplayer
