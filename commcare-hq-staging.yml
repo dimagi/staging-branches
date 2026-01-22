@@ -30,4 +30,5 @@ branches:
     - gh/support-durable-arg  # Graham Jan 20
     - ap/datetime-filter-html5 # Amit Jan 22
     - gh/scheduled-reports-tests  # Graham Jan 22
+    - jc/google-analytics-three-times # Jing Jan 22
 submodules: { }
