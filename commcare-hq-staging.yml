@@ -19,19 +19,14 @@ branches:
     - gh/restores/406  # Graham May 1
     - mjr/add-case-mapping-xml  # Matt Oct 16
     - gh/test-durable-task  # Graham Nov 7
-    - dependabot/uv/stripe-13.0.1 # Amit Nov 11
     - ejp/serverlocation-staging-check  # Evan Nov 13
     - mk/18611-ingest-ucr-poc-data # MK Oct 17
     - ay/kyc-staging-test # Ajeet Dec 19 - Staging Only
-    - ay/case-list-config-new-formats # Ajeet Dec 23
-    - nh/case_api_upsert  # Norman Jan 7
     - ay/kyc-report-new-filters # Ajeet Jan 9
     - riese/create_edit_role_view # Martin Jan 12
-    - sk/chat-widget-attachments  # Simon Jan 14
     - ejp/creditadjustment-payment-type  # Evan Jan 15
     - gh/tag-durable-tasks  # Graham Jan 16
     - ejp/web-user-download-permission  # Evan Jan 19
     - gh/support-durable-arg  # Graham Jan 20
-    - ejp/app-preview-submit-errors  # Evan Jan 20
     - ap/datetime-filter-html5 # Amit Jan 22
 submodules: { }
