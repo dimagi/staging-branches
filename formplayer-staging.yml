@@ -6,5 +6,4 @@ branches: []
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches:
-      - masterToFormplayer2.60
+    branches: []
