@@ -29,4 +29,5 @@ branches:
     - ejp/web-user-download-permission  # Evan Jan 19
     - gh/support-durable-arg  # Graham Jan 20
     - ap/datetime-filter-html5 # Amit Jan 22
+    - gh/scheduled-reports-tests  # Graham Jan 22
 submodules: { }
