@@ -24,7 +24,6 @@ branches:
     - ay/kyc-staging-test # Ajeet Dec 19 - Staging Only
     - ay/kyc-report-new-filters # Ajeet Jan 9
     - riese/create_edit_role_view # Martin Jan 12
-    - ejp/creditadjustment-payment-type  # Evan Jan 15
     - gh/tag-durable-tasks  # Graham Jan 16
     - ejp/web-user-download-permission  # Evan Jan 19
     - gh/support-durable-arg  # Graham Jan 20
