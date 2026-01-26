@@ -29,4 +29,5 @@ branches:
     - ap/datetime-filter-html5 # Amit Jan 22
     - gh/scheduled-reports-tests  # Graham Jan 22
     - jc/google-analytics-three-times # Jing Jan 22
+    - gh/connection-settings/expand-url-length  # Jan 26
 submodules: { }
