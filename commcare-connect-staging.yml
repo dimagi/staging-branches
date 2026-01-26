@@ -3,7 +3,7 @@ name: autostaging  # name of the branch to build
 branches:  # list of branches to merge into final branch
   - main
   - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
-  - ze/update-web-endpoints-uuid+sr/staging-deploy+sr/op-deletion # Zandre Jan 20
+  # - ze/update-web-endpoints-uuid+sr/staging-deploy+sr/op-deletion # Zandre Jan 20
   - sr/staging-deploy # Hemant May 2 # DO NOT REMOVE!!
   - ze/update-web-endpoints-uuid # Zandre Jan 20
   - sr/op-deletion # Sravan Jan 20
