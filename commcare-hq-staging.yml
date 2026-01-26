@@ -30,4 +30,5 @@ branches:
     - gh/scheduled-reports-tests  # Graham Jan 22
     - jc/google-analytics-three-times # Jing Jan 22
     - gh/connection-settings/expand-url-length  # Jan 26
+    - riese/rm_creat_edit_role_modal # Martin Jan 26
 submodules: { }
