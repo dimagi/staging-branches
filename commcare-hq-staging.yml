@@ -8,22 +8,21 @@ branches:
     # see https://dimagi.atlassian.net/wiki/spaces/GTD/pages/2145058879/Deploy+Process#Deploying-Vellum
     - vellum-staging  # DO NOT REMOVE this is similar to "autostaging", but for vellum
     - gh/repeaters/disable-check  # Graham Aug 28 - staging only
+    - gh/demo-case-pillow  # Graham Oct 1 - staging only
     - sr/gis-select # Sravan 7 Aug
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
     - mjr/user_importer_critical_section
     - gh/device-rate-limiter/translatable-msg # Graham May 6
-    - mk/report-builder-walkthrough # MK Jun 5
-    # - gh/two-factor/infinite-redirects # Graham Feb 28
-    - ay/momo-payments-demo # Ajeet Sep 25
-    - gh/demo-case-pillow  # Graham Oct 1
     - gh/restores/406  # Graham May 1
+    - mk/report-builder-walkthrough # MK Jun 5
+    - ay/momo-payments-demo # Ajeet Sep 25
     - mjr/add-case-mapping-xml  # Matt Oct 16
-    - gh/test-durable-task  # Graham Nov 7
     - ejp/serverlocation-staging-check  # Evan Nov 13
     - mk/18611-ingest-ucr-poc-data # MK Oct 17
     - ay/kyc-staging-test # Ajeet Dec 19 - Staging Only
     - ay/kyc-report-new-filters # Ajeet Jan 9
     - riese/create_edit_role_view # Martin Jan 12
+    - gh/test-durable-task  # Graham Nov 7
     - gh/tag-durable-tasks  # Graham Jan 16
     - gh/support-durable-arg  # Graham Jan 20
     - ap/datetime-filter-html5 # Amit Jan 22
