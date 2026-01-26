@@ -16,5 +16,4 @@ branches:  # list of branches to merge into final branch
   - ay/budget-allocation-validation # Ajeet Jan 19
   - sr/task-retry # Sravan Jan 20
   - cs/CCCT-1908-org-pay-per-pu # Charl Jan 21
-  - fix/staging-migrations # Charl Jan 21
 submodules:
