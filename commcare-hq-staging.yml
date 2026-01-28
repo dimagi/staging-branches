@@ -29,5 +29,4 @@ branches:
     - gh/connection-settings/expand-url-length  # Jan 26
     - riese/rm_creat_edit_role_modal # Martin Jan 26
     - ejp/b5/app-manager-releases  # Evan Jan 26
-    - ejp/b5/app-manager-fixes  # Evan Jan 26
 submodules: { }
