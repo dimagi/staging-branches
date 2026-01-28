@@ -15,5 +15,5 @@ branches:  # list of branches to merge into final branch
   # - ay/budget-allocation-validation+cs/CCCT-1908-org-pay-per-pu # Charl Jan 21
   # - ay/budget-allocation-validation # Ajeet Jan 19
   - sr/task-retry # Sravan Jan 20
-  #- cs/CCCT-2046-create-base-map # Charl Jan 28
+  - cs/CCCT-2046-create-base-map # Charl Jan 28
 submodules:
