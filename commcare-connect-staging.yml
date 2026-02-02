@@ -5,7 +5,6 @@ branches:  # list of branches to merge into final branch
   - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
   - ay/budget-allocation-validation+cs/CCCT-1908-org-pay-per-pu # Ajeet Jan 30
   - sr/staging-deploy # Hemant May 2 # DO NOT REMOVE!!
-  - ze/update-web-endpoints-uuid+cs/CCCT-2046-create-base-map # Charl Jan 28
   - cs/CCCT-1908-org-pay-per-pu # Charl Jan 21
   - ce/new-deploy # Cal Oct 13
   - cs/CCCT-1762-fix-notifications # Charl Oct 15
