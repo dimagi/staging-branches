@@ -15,4 +15,5 @@ branches:  # list of branches to merge into final branch
   - ay/budget-allocation-validation # Ajeet Jan 19
   - cs/CCCT-2046-create-base-map # Charl Jan 28
   - sr/rename-fk # Sravan Feb 2
+  - sr/rename-fk+staging-migrations # Sravan Feb 2
 submodules:
