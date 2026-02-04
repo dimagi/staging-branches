@@ -11,8 +11,6 @@ branches:  # list of branches to merge into final branch
   - hridaykedia:hk/AllowCustomHTMLTag # Pawan Nov 7
   # - ay/budget-allocation-validation # Ajeet Jan 19
   - cs/CCCT-2046-create-base-map # Charl Jan 28
-  - sr/rename-fk # Sravan Feb 2
-  - sr/rename-fk+staging-migrations # Sravan Feb 2
   - ze/ocs-chat-bot-widget # Zandre Feb 2
   - sr/programbudgets  # Sravan Feb 2
 submodules:
