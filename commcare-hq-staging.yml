@@ -20,7 +20,6 @@ branches:
     - mk/18611-ingest-ucr-poc-data # MK Oct 17
     # - ay/kyc-staging-test # Ajeet Dec 19 - Staging Only
     - ay/kyc-report-new-filters # Ajeet Jan 9
-    - riese/create_edit_role_view # Martin Jan 12
     - gh/test-durable-task  # Graham Nov 7
     - gh/tag-durable-tasks  # Graham Jan 16
     - gh/support-durable-arg  # Graham Jan 20
@@ -29,4 +28,10 @@ branches:
     - riese/rm_creat_edit_role_modal # Martin Jan 26
     - ejp/b5/app-manager-releases  # Evan Jan 26
     - gh/add-domain-to-export-tasks  # Graham Feb 3
+    # migrating case search ff
+    - riese/case_search_ff_update # Martin Feb 5
+    # - riese/migrate_case_list_config_options # Martin Feb 5
+    # - es/related-queries # Ethan Feb 5
+    # - es/cs-project-settings # Ethan Feb 5
+    
 submodules: { }
