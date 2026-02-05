@@ -12,4 +12,5 @@ branches:  # list of branches to merge into final branch
   # - ay/budget-allocation-validation # Ajeet Jan 19
   - cs/CCCT-2046-create-base-map # Charl Jan 28
   - sr/programbudgets  # Sravan Feb 2
+  - pkv/ccct-2073-llo-entity # Pawan Feb 5
 submodules:
