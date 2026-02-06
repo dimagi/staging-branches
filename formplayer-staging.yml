@@ -7,4 +7,5 @@ branches:
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches: []
+    branches:
+      - riese/logging
