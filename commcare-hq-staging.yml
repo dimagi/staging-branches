@@ -30,9 +30,9 @@ branches:
     - gh/add-domain-to-export-tasks  # Graham Feb 3
     # migrating case search ff
     - riese/case_search_ff_update # Martin Feb 5
-    # - riese/migrate_case_list_config_options # Martin Feb 5
-    # - es/related-queries # Ethan Feb 5
-    # - es/cs-project-settings # Ethan Feb 5 
-    # - riese/existing_flag # Martin Feb 10
+    - riese/migrate_case_list_config_options # Martin Feb 5
+    - es/related-queries # Ethan Feb 5
+    - es/cs-project-settings # Ethan Feb 5 
+    - riese/existing_flag # Martin Feb 10
     
 submodules: { }
