@@ -3,14 +3,13 @@ name: autostaging  # name of the branch to build
 branches:  # list of branches to merge into final branch
   - main
   - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
-  # - ay/budget-allocation-validation+cs/CCCT-1908-org-pay-per-pu # Ajeet Jan 30
   - sr/staging-deploy # Hemant May 2 # DO NOT REMOVE!!
   - cs/CCCT-1908-org-pay-per-pu # Charl Jan 21
   - ce/new-deploy # Cal Oct 13
   - cs/CCCT-1762-fix-notifications # Charl Oct 15
   - hridaykedia:hk/AllowCustomHTMLTag # Pawan Nov 7
-  # - ay/budget-allocation-validation # Ajeet Jan 19
   - cs/CCCT-2046-create-base-map # Charl Jan 28
   - sr/programbudgets  # Sravan Feb 2
   - pkv/ccct-2030-payment-push-notification-text # Pawan Feb 9
+  - ay/additional-status-for-invoices # Ajeet Feb 10
 submodules:
