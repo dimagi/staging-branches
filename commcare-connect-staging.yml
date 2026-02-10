@@ -12,4 +12,5 @@ branches:  # list of branches to merge into final branch
   - sr/programbudgets  # Sravan Feb 2
   - pkv/ccct-2030-payment-push-notification-text # Pawan Feb 9
   - ay/additional-status-for-invoices # Ajeet Feb 10
+  - ze/add-payment-unit-to-serializers # Zandre Feb 10
 submodules:
