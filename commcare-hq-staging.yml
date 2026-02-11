@@ -35,5 +35,6 @@ branches:
     - es/cs-project-settings # Ethan Feb 5
     - riese/migrate_case_list_config_options+riese/existing_flag
     - riese/existing_flag # Martin Feb 10
+    - es/case-properties  # Ethan Feb 11
     
 submodules: { }
