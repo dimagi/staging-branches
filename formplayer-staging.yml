@@ -3,9 +3,8 @@
 trunk: master
 name: autostaging
 branches:
-  - riese/skip_cache
+  - riese/log_4_hashes
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches:
-      - riese/logging
+    branches: []
