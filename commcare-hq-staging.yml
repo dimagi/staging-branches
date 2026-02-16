@@ -40,5 +40,8 @@ branches:
     - ejp/delete-week/locale-id-integrity  # Evan Feb 16
     - remove-toggle/TRANSFER_DOMAIN  # Evan Feb 16
     - remove-toggle/enable_include_sms_gateway_charging  # Graham Feb 16
+    - remove-toggle/two_factor_superuser_rollout  # Graham Feb 16
+    - remove-toggle/sms_use_latest_dev_app  # Graham Feb 16
+    - remove-toggle/clean_old_formplayer_syncs  # Graham Feb 16
     
 submodules: { }
