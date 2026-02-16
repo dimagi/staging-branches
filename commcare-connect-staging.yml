@@ -15,4 +15,5 @@ branches:  # list of branches to merge into final branch
   - mk/2041-add-invoice-status-tracking # MK Feb 11
   - hy/micro-data # Hemant Feb 12
   - pkv/ccct-2143-internal-features-sidebar # Pawan Feb 16
+  - cs/CI-507-add-livesession # Charl Feb 16
 submodules:
