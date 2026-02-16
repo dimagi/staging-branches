@@ -37,5 +37,7 @@ branches:
     - es/case-properties  # Ethan Feb 11
     - es/multiselect-case-flag  # Ethan Feb 11
     - riese/migrate_sscs # Martin Feb 16
+    - ejp/delete-week/locale-id-integrity  # Evan Feb 16
+    - remove-toggle/TRANSFER_DOMAIN  # Evan Feb 16
     
 submodules: { }
