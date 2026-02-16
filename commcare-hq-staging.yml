@@ -36,5 +36,6 @@ branches:
     - riese/existing_flag # Martin Feb 10
     - es/case-properties  # Ethan Feb 11
     - es/multiselect-case-flag  # Ethan Feb 11
+    - riese/migrate_sscs # Martin Feb 16
     
 submodules: { }
