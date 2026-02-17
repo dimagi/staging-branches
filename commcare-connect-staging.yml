@@ -11,7 +11,6 @@ branches:  # list of branches to merge into final branch
   - cs/CCCT-2046-create-base-map # Charl Jan 28
   - sr/programbudgets  # Sravan Feb 2
   - ay/additional-status-for-invoices+mk/2041-add-invoice-status-tracking
-  - ay/additional-status-for-invoices # Ajeet Feb 10
   - mk/2041-add-invoice-status-tracking # MK Feb 11
   # - pkv/ccct-2143-internal-features-sidebar # Pawan Feb 16
   - cs/CI-507-add-livesession # Charl Feb 16
