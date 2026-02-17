@@ -28,8 +28,6 @@ branches:
     - ejp/b5/app-manager-releases  # Evan Jan 26
     - gh/add-domain-to-export-tasks  # Graham Feb 3
     - case_search_ff_migration # Martin, Ethan Feb 17
-    - ejp/delete-week/locale-id-integrity  # Evan Feb 16
-    - remove-toggle/TRANSFER_DOMAIN  # Evan Feb 16
     - remove-toggle/show_build_profile_in_app_status  # Graham Feb 16
     
 submodules: { }
