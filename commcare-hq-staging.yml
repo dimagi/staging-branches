@@ -39,7 +39,6 @@ branches:
     - riese/migrate_sscs # Martin Feb 16
     - ejp/delete-week/locale-id-integrity  # Evan Feb 16
     - remove-toggle/TRANSFER_DOMAIN  # Evan Feb 16
-    - remove-toggle/clean_old_formplayer_syncs  # Graham Feb 16
     - remove-toggle/show_build_profile_in_app_status  # Graham Feb 16
     
 submodules: { }
