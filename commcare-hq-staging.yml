@@ -28,6 +28,5 @@ branches:
     - ejp/b5/app-manager-releases  # Evan Jan 26
     - gh/add-domain-to-export-tasks  # Graham Feb 3
     - case_search_ff_migration # Martin, Ethan Feb 17
-    - remove-toggle/show_build_profile_in_app_status  # Graham Feb 16
     
 submodules: { }
