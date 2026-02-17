@@ -27,16 +27,7 @@ branches:
     - gh/connection-settings/expand-url-length  # Jan 26
     - ejp/b5/app-manager-releases  # Evan Jan 26
     - gh/add-domain-to-export-tasks  # Graham Feb 3
-    # migrating case search ff
-    - riese/case_search_ff_update # Martin Feb 5
-    - riese/migrate_case_list_config_options # Martin Feb 5
-    - es/related-queries # Ethan Feb 5
-    - es/cs-project-settings # Ethan Feb 5
-    - riese/migrate_case_list_config_options+riese/existing_flag
-    - riese/existing_flag # Martin Feb 10
-    - es/case-properties  # Ethan Feb 11
-    - es/multiselect-case-flag  # Ethan Feb 11
-    - riese/migrate_sscs # Martin Feb 16
+    - case_search_ff_migration # Martin, Ethan Feb 17
     - ejp/delete-week/locale-id-integrity  # Evan Feb 16
     - remove-toggle/TRANSFER_DOMAIN  # Evan Feb 16
     - remove-toggle/show_build_profile_in_app_status  # Graham Feb 16
