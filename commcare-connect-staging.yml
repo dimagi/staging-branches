@@ -10,7 +10,6 @@ branches:  # list of branches to merge into final branch
   - hridaykedia:hk/AllowCustomHTMLTag # Pawan Nov 7
   - cs/CCCT-2046-create-base-map # Charl Jan 28
   - sr/programbudgets  # Sravan Feb 2
-  # - ay/additional-status-for-invoices+mk/2041-add-invoice-status-tracking
   - mk/2041-add-invoice-status-tracking # MK Feb 11
   - cs/CI-507-add-livesession # Charl Feb 16
   - hy/micro-data # Hemant Feb 12
