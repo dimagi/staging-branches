@@ -30,4 +30,5 @@ branches:
     - es/config-cs-endpoints  # Ethan Feb 18
     - remove-toggle/fixtures_in_case_restore  # Graham Feb 18
     - remove-toggle/saas_prototype  # Graham Feb 18
+    - remove-toggle/whatsapp_messaging  # Graham Feb 18
 submodules: { }
