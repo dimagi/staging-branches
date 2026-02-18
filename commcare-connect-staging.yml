@@ -16,5 +16,4 @@ branches:  # list of branches to merge into final branch
   - hy/micro-upload # Hemant Feb 17
   - pkv/ccct-2157-payment-rollback-notification # Pawan Feb 17
   - check-for-opp-membership # Charl Feb 18
-  - improve-is_flag_active_for_request # Charl Feb 18
 submodules:
