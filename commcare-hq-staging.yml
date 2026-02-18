@@ -25,7 +25,6 @@ branches:
     - gh/support-durable-arg  # Graham Jan 20
     - ap/datetime-filter-html5 # Amit Jan 22
     - gh/connection-settings/expand-url-length  # Jan 26
-    - gh/add-domain-to-export-tasks  # Graham Feb 3
     - case_search_ff_migration # Martin, Ethan Feb 17
     - ejp/delete-week/app-trans-with-transifex  # Evan Feb 17
     - es/config-cs-endpoints  # Ethan Feb 18
