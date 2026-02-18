@@ -31,6 +31,5 @@ branches:
     - remove-toggle/fixtures_in_case_restore  # Graham Feb 18
     - remove-toggle/saas_prototype  # Graham Feb 18
     - remove-toggle/whatsapp_messaging  # Graham Feb 18
-    - gh/custom-headers-in-conn  # Graham Feb 18
     - dm/rm-hmac_callout-ff  # Graham Feb 18
 submodules: { }
