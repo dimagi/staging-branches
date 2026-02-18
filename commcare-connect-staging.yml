@@ -16,4 +16,5 @@ branches:  # list of branches to merge into final branch
   - hy/micro-data # Hemant Feb 12
   - hy/micro-upload # Hemant Feb 17
   - pkv/ccct-2157-payment-rollback-notification # Pawan Feb 17
+  - check-for-opp-membership # Charl Feb 18
 submodules:
