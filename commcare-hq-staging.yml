@@ -27,4 +27,5 @@ branches:
     - gh/connection-settings/expand-url-length  # Jan 26
     - case_search_ff_migration # Martin, Ethan Feb 17
     - es/config-cs-endpoints  # Ethan Feb 18
+    - ejp/delete-week/release-build-per-profile  # Evan Feb 19
 submodules: { }
