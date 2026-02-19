@@ -28,4 +28,5 @@ branches:
     - case_search_ff_migration # Martin, Ethan Feb 17
     - es/config-cs-endpoints  # Ethan Feb 18
     - ejp/delete-week/release-build-per-profile  # Evan Feb 19
+    - jc/disallow-basic-auth-when-sso-user # Jing Feb 19
 submodules: { }
