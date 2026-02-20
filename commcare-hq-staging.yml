@@ -24,7 +24,6 @@ branches:
     - gh/tag-durable-tasks  # Graham Jan 16
     - gh/support-durable-arg  # Graham Jan 20
     - ap/datetime-filter-html5 # Amit Jan 22
-    - gh/connection-settings/expand-url-length  # Jan 26
     - es/case-search-ffs # Martin, Ethan Feb 17
     - riese/migrate_sscs # Martin
     - es/config-cs-endpoints  # Ethan Feb 18
