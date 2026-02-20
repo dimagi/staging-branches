@@ -25,7 +25,9 @@ branches:
     - gh/support-durable-arg  # Graham Jan 20
     - ap/datetime-filter-html5 # Amit Jan 22
     - gh/connection-settings/expand-url-length  # Jan 26
-    - case_search_ff_migration # Martin, Ethan Feb 17
+    - es/case-search-ffs # Martin, Ethan Feb 17
+    - riese/existing_flag # Martin
+    - riese/migrate_sscs # Martin
     - es/config-cs-endpoints  # Ethan Feb 18
     - ejp/delete-week/release-build-per-profile  # Evan Feb 19
     - jc/disallow-basic-auth-when-sso-user # Jing Feb 19
