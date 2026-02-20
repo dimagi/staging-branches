@@ -26,7 +26,6 @@ branches:
     - ap/datetime-filter-html5 # Amit Jan 22
     - gh/connection-settings/expand-url-length  # Jan 26
     - es/case-search-ffs # Martin, Ethan Feb 17
-    - riese/existing_flag # Martin
     - riese/migrate_sscs # Martin
     - es/config-cs-endpoints  # Ethan Feb 18
     - ejp/delete-week/release-build-per-profile  # Evan Feb 19
