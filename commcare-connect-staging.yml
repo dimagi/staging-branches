@@ -12,7 +12,6 @@ branches:  # list of branches to merge into final branch
   - sr/programbudgets  # Sravan Feb 2
   - mk/2041-add-invoice-status-tracking # MK Feb 11
   - cs/CI-507-add-livesession # Charl Feb 16
-  - pkv/add-weasyprint-system-libs+hy/micro-upload # Pawan Feb 19
   - hy/micro-data # Hemant Feb 12
   - hy/micro-upload # Hemant Feb 17
   - pkv/ccct-2157-payment-rollback-notification # Pawan Feb 17
