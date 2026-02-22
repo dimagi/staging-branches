@@ -15,5 +15,6 @@ branches:  # list of branches to merge into final branch
   - hy/micro-upload # Hemant Feb 17
   - check-for-opp-membership # Charl Feb 18
   - ay/create-workspace-workflow # Ajeet Feb 19
-  - mk/2136-add-audit-to-admin # Mk Feb 21
+  - mk/2136-add-audit-to-admin # MK Feb 21
+  - mk/2012-notify-scored-assessment # MK Feb 22
 submodules:
