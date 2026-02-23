@@ -27,5 +27,4 @@ branches:
     - riese/migrate_sscs # Martin
     - es/config-cs-endpoints  # Ethan Feb 18
     - jc/disallow-basic-auth-when-sso-user # Jing Feb 19
-    - dm/setuptools # Daniel Feb 23
 submodules: { }
