@@ -8,6 +8,7 @@ branches:
     # see https://dimagi.atlassian.net/wiki/spaces/GTD/pages/2145058879/Deploy+Process#Deploying-Vellum
     - vellum-staging  # DO NOT REMOVE this is similar to "autostaging", but for vellum
     - gh/repeaters/disable-check  # Graham Aug 28 - staging only
+    - gh/demo-case-pillow+master
     - gh/demo-case-pillow  # Graham Oct 1 - staging only
     - sr/gis-select # Sravan 7 Aug
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
