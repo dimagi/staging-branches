@@ -27,4 +27,5 @@ branches:
     - es/config-cs-endpoints  # Ethan Feb 18
     - jc/disallow-basic-auth-when-sso-user # Jing Feb 19
     - gh/retry-task-records  # Graham Feb 23
+    - nh/feature_metrics*  # Norman Feb 25
 submodules: { }
