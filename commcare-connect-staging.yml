@@ -17,4 +17,5 @@ branches:  # list of branches to merge into final branch
   - mk/2012-notify-scored-assessment # MK Feb 22
   - sr/release  # Sravan Feb 23
   - hy/show-work-area # Hemant Feb 25
+  - ay/user-visit-export-filter-date # Ajeet Feb 25
 submodules:
