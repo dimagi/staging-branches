@@ -27,7 +27,7 @@ branches:
     - es/case-search-ffs # Martin, Ethan Feb 17
     - es/config-cs-endpoints  # Ethan Feb 18
     - jc/disallow-basic-auth-when-sso-user # Jing Feb 19
-    - gh/retry-task-records  # Graham Feb 23
     - nh/feature_metrics  # Norman Feb 25
     - ay/alert-connect-messaging-recipients # Ajeet Feb 26
+    - gh/serialization-bug-in-durable-task  # Graham Feb 26
 submodules: { }
