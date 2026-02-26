@@ -16,11 +16,11 @@ branches:
     - gh/device-rate-limiter/translatable-msg # Graham May 6
     - gh/restores/406  # Graham May 1
     - mk/report-builder-walkthrough # MK Jun 5
-    - ay/momo-payments-demo # Ajeet Sep 25
+    # - ay/momo-payments-demo # Ajeet Sep 25
     - ejp/serverlocation-staging-check  # Evan Nov 13
     - mk/18611-ingest-ucr-poc-data # MK Oct 17
-    - ay/kyc-staging-test # Ajeet Dec 19 - Staging Only
-    - ay/kyc-report-new-filters # Ajeet Jan 9
+    # - ay/kyc-staging-test # Ajeet Dec 19 - Staging Only
+    # - ay/kyc-report-new-filters # Ajeet Jan 9
     - gh/test-durable-task  # Graham Nov 7
     - gh/tag-durable-tasks  # Graham Jan 16
     - ap/datetime-filter-html5 # Amit Jan 22
