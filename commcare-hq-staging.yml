@@ -29,5 +29,4 @@ branches:
     - jc/disallow-basic-auth-when-sso-user # Jing Feb 19
     - nh/feature_metrics  # Norman Feb 25
     - gh/serialization-bug-in-durable-task  # Graham Feb 26
-    - gh/minimatch/3.1.5  # Graham Feb 27
 submodules: { }
