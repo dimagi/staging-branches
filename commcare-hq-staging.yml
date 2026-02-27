@@ -28,5 +28,4 @@ branches:
     - es/config-cs-endpoints  # Ethan Feb 18
     - jc/disallow-basic-auth-when-sso-user # Jing Feb 19
     - nh/feature_metrics  # Norman Feb 25
-    - gh/serialization-bug-in-durable-task  # Graham Feb 26
 submodules: { }
