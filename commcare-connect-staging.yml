@@ -19,4 +19,5 @@ branches:  # list of branches to merge into final branch
   - hy/show-work-area # Hemant Feb 25
   - ay/user-visit-export-filter-date # Ajeet Feb 25
   - cs/CI-499-update-cw-status-processing # Charl March 3
+  - ce/export-scale # Cal March 3
 submodules:
