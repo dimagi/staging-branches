@@ -23,10 +23,8 @@ branches:
     # - ay/kyc-report-new-filters # Ajeet Jan 9
     - gh/test-durable-task  # Graham Nov 7
     - gh/tag-durable-tasks  # Graham Jan 16
-    - ap/datetime-filter-html5 # Amit Jan 22
     - es/case-search-ffs # Martin, Ethan Feb 17
     - riese/ff_migration_fix # Martin Mar 3
     - es/config-cs-endpoints  # Ethan Feb 18
     - jc/disallow-basic-auth-when-sso-user # Jing Feb 19
-    - nh/feature_metrics  # Norman Feb 25
 submodules: { }
