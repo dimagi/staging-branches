@@ -21,4 +21,5 @@ branches:  # list of branches to merge into final branch
   - ce/export-scale # Cal March 3
   - ay/increase-gunicorn-timeout+pkv/fix-staging-workers+sr/staging-deploy # Ajeet Mar 4
   - ay/increase-gunicorn-timeout # Ajeet Mar 4
+  - ze/create-update-work-areas-hq # Zandre Mar 5
 submodules:
