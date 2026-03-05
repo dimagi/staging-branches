@@ -27,4 +27,5 @@ branches:
     - es/config-cs-endpoints  # Ethan Feb 18
     - jc/disallow-basic-auth-when-sso-user # Jing Feb 19
     - ap/remove-toggle/fcm_notification-migrations # Amit March 5
+    - gh/serialize-javascript/7.0.4  # Graham Mar 5
 submodules: { }
