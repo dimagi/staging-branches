@@ -28,5 +28,6 @@ branches:
     - jc/disallow-basic-auth-when-sso-user # Jing Feb 19
     - ap/remove-toggle/fcm_notification-migrations # Amit March 5
     - dependabot/npm_and_yarn/dompurify-3.3.2  # Graham Mar 5
+    - gh/serialize-javascript/7.0.4  # Graham Mar 5
     - riese/amd_esm_final # Martin Mar 5
 submodules: { }
