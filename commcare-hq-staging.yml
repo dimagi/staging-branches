@@ -30,4 +30,5 @@ branches:
     - dependabot/npm_and_yarn/dompurify-3.3.2  # Graham Mar 5
     - gh/serialize-javascript/7.0.4  # Graham Mar 5
     - riese/amd_esm_final # Martin Mar 5
+    - dmr/restrict-superuser-oauth # Danny Mar 5
 submodules: { }
