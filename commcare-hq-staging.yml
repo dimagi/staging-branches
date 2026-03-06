@@ -32,4 +32,5 @@ branches:
     - riese/amd_esm_final # Martin Mar 5
     - dmr/restrict-superuser-oauth # Danny Mar 5
     - dependabot/uv/markdown-3.8.1  # Graham Mar 6
+    - gh/modernizr/3.13.1  # Graham Mar 6
 submodules: { }
