@@ -29,8 +29,8 @@ branches:
     - ap/remove-toggle/fcm_notification-migrations # Amit March 5
     - dependabot/npm_and_yarn/dompurify-3.3.2  # Graham Mar 5
     - gh/serialize-javascript/7.0.4  # Graham Mar 5
-    - riese/amd_esm_final # Martin Mar 5
-    - dmr/restrict-superuser-oauth # Danny Mar 5
     - dependabot/uv/markdown-3.8.1  # Graham Mar 6
     - gh/modernizr/3.13.1  # Graham Mar 6
+    - riese/amd_esm_final # Martin Mar 5
+    - dmr/restrict-superuser-oauth # Danny Mar 5
 submodules: { }
