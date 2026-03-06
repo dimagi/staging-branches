@@ -27,8 +27,6 @@ branches:
     - es/config-cs-endpoints  # Ethan Feb 18
     - jc/disallow-basic-auth-when-sso-user # Jing Feb 19
     - ap/remove-toggle/fcm_notification-migrations # Amit March 5
-    - dependabot/npm_and_yarn/dompurify-3.3.2  # Graham Mar 5
-    - dependabot/uv/markdown-3.8.1  # Graham Mar 6
     - gh/modernizr/3.13.1  # Graham Mar 6
     - gh/ajv/8.18.0  # Graham Mar 6
     - riese/amd_esm_final # Martin Mar 5
