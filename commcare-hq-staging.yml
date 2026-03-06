@@ -31,4 +31,5 @@ branches:
     - gh/serialize-javascript/7.0.4  # Graham Mar 5
     - riese/amd_esm_final # Martin Mar 5
     - dmr/restrict-superuser-oauth # Danny Mar 5
+    - dependabot/uv/markdown-3.8.1  # Graham Mar 6
 submodules: { }
