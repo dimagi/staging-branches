@@ -5,7 +5,6 @@ branches:  # list of branches to merge into final branch
   - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
   - sr/staging-deploy # Hemant May 2 # DO NOT REMOVE!!
   - cs/CCCT-1908-org-pay-per-pu # Charl Jan 21
-  - ce/new-deploy # Cal Oct 13
   - cs/CCCT-1762-fix-notifications # Charl Oct 15
   - hridaykedia:hk/AllowCustomHTMLTag # Pawan Nov 7
   - cs/CCCT-2046-create-base-map # Charl Jan 28
@@ -17,8 +16,8 @@ branches:  # list of branches to merge into final branch
   - sr/release  # Sravan Feb 23
   - hy/show-work-area # Hemant Feb 25
   - cs/CI-499-update-cw-status-processing # Charl March 3
-  - ce/export-scale # Cal March 3
   - ay/increase-gunicorn-timeout+pkv/fix-staging-workers+sr/staging-deploy # Ajeet Mar 4
   - ay/increase-gunicorn-timeout # Ajeet Mar 4
   - ze/create-update-work-areas-hq # Zandre Mar 5
+  - ce/kpi-spinner # Cal Mar 9
 submodules:
