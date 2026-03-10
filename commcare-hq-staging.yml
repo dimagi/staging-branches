@@ -12,7 +12,6 @@ branches:
     - gh/demo-case-pillow  # Graham Oct 1 - staging only
     - sr/gis-select # Sravan 7 Aug
     - dmr/add-365-day-option-to-enterprise-auto-deactivation  # Oct 26
-    - mjr/user_importer_critical_section
     - gh/device-rate-limiter/translatable-msg # Graham May 6
     - gh/restores/406  # Graham May 1
     - mk/report-builder-walkthrough # MK Jun 5
