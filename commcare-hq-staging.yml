@@ -27,4 +27,5 @@ branches:
     - riese/amd_esm_final # Martin Mar 5
     - dmr/restrict-superuser-oauth # Danny Mar 5
     - gh/pytz/2026.1.post1  # Graham Mar 5
+    - ejp/login-template-b3  # Evan Mar 11
 submodules: { }
