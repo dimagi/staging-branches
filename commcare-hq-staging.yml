@@ -28,4 +28,5 @@ branches:
     - dmr/restrict-superuser-oauth # Danny Mar 5
     - gh/pytz/2026.1.post1  # Graham Mar 5
     - ejp/login-template-b3  # Evan Mar 11
+    - dependabot/npm_and_yarn/tar-7.5.11  # Graham Mar 12
 submodules: { }
