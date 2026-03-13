@@ -22,11 +22,8 @@ branches:
     # - ay/kyc-report-new-filters # Ajeet Jan 9
     - es/case-search-ffs # Martin, Ethan Feb 17
     - es/config-cs-endpoints  # Ethan Feb 18
-    - jc/disallow-basic-auth-when-sso-user # Jing Feb 19
     - ap/remove-toggle/fcm_notification-migrations # Amit March 5
     - riese/amd_esm_final # Martin Mar 5
-    - dmr/restrict-superuser-oauth # Danny Mar 5
     - gh/pytz/2026.1.post1  # Graham Mar 5
-    - ejp/login-template-b3  # Evan Mar 11
     - dm/form-action-diff  # Daniel Mar 13
 submodules: { }
