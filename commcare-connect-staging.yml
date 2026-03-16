@@ -16,9 +16,6 @@ branches:  # list of branches to merge into final branch
   - sr/release  # Sravan Feb 23
   - hy/show-work-area # Hemant Feb 25
   - cs/CI-499-update-cw-status-processing # Charl March 3
-  - ay/increase-gunicorn-timeout+pkv/fix-staging-workers+sr/staging-deploy # Ajeet Mar 4
-  - ay/increase-gunicorn-timeout # Ajeet Mar 4
-  - ce/kpi-spinner # Cal Mar 9
   - ze/s3-export-cleanup # Zandre Mar 11
   - cs/CCC-2182 # Charl Mar 16
 submodules:
