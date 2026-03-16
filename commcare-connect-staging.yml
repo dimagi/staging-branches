@@ -20,4 +20,5 @@ branches:  # list of branches to merge into final branch
   - ay/increase-gunicorn-timeout # Ajeet Mar 4
   - ce/kpi-spinner # Cal Mar 9
   - ze/s3-export-cleanup # Zandre Mar 11
+  - cs/CCC-2182 # Charl Mar 16
 submodules:
