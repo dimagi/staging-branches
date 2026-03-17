@@ -20,5 +20,4 @@ branches:  # list of branches to merge into final branch
   - pkv/ccct-2114-clustering-algorithm # Pawan March 17
   - pkv/ccct-2115-clustering-ui # Pawan March 17
   - pkv/work-area-seed-command # Pawan March 17
-  - ze/temp-comment-migration-field # Zandre Mar 17
 submodules:
