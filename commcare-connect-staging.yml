@@ -19,4 +19,5 @@ branches:  # list of branches to merge into final branch
   - cs/CCC-2182 # Charl Mar 16
   - pkv/ccct-2114-clustering-algorithm # Pawan March 17
   - pkv/ccct-2115-clustering-ui # Pawan March 17
+  - pkv/work-area-seed-command # Pawan March 17
 submodules:
