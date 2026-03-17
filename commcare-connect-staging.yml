@@ -12,7 +12,6 @@ branches:  # list of branches to merge into final branch
   - cs/CI-507-add-livesession # Charl Feb 16
   - check-for-opp-membership # Charl Feb 18
   - ay/create-workspace-workflow # Ajeet Feb 19
-  - mk/2012-notify-scored-assessment # MK Feb 22
   - sr/release  # Sravan Feb 23
   - hy/show-work-area # Hemant Feb 25
   - cs/CI-499-update-cw-status-processing # Charl March 3
