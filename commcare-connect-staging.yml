@@ -18,4 +18,6 @@ branches:  # list of branches to merge into final branch
   - cs/CI-499-update-cw-status-processing # Charl March 3
   - ze/s3-export-cleanup # Zandre Mar 11
   - cs/CCC-2182 # Charl Mar 16
+  - pkv/ccct-2114-clustering-algorithm # Pawan March 17
+  - pkv/ccct-2115-clustering-ui # Pawan March 17
 submodules:
