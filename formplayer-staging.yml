@@ -3,9 +3,9 @@
 trunk: master
 name: autostaging
 branches:
-  - riese/log_4_hashes
-  - dmr/add-getBulkIdsForIndex-to-SqlStorage
+  - dmr/add-getBulkIdsForIndex-to-SqlStorage  # Danny Mar 18, 2026
 submodules:
   libs/commcare:
     trunk: formplayer
-    branches: []
+    branches:
+      - masterToFormplayer2.60  # goes with dmr/add-getBulkIdsForIndex-to-SqlStorage
