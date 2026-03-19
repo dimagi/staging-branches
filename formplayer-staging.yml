@@ -2,10 +2,8 @@
 
 trunk: master
 name: autostaging
-branches:
-  - dmr/add-getBulkIdsForIndex-to-SqlStorage  # Danny Mar 18, 2026
+branches: []
 submodules:
   libs/commcare:
-    trunk: formplayer
-    branches:
-      - masterToFormplayer2.60  # goes with dmr/add-getBulkIdsForIndex-to-SqlStorage
+    trunk: master
+    branches: []
