@@ -21,5 +21,4 @@ branches:  # list of branches to merge into final branch
   - pkv/ccct-2115-clustering-ui # Pawan March 17
   - pkv/work-area-seed-command # Pawan March 17
   - pkv/ccc-163-internal-permission-management # Pawan March 18
-  - mk/claude/2216-add-fields # MK March 20
 submodules:
