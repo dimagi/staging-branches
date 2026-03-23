@@ -20,4 +20,5 @@ branches:  # list of branches to merge into final branch
   - pkv/work-area-seed-command # Pawan March 17
   - pkv/ccc-163-internal-permission-management # Pawan March 18
   - cs/CI-499-update-cw-status-processing-v2 # Charl Mar 23
+  - temp-migration-fix # Charl Mar 23
 submodules:
