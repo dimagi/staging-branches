@@ -25,6 +25,5 @@ branches:
     - gh/pytz/2026.1.post1  # Graham Mar 5
     - dm/form-action-diff  # Daniel Mar 13
     - revert-37501-revert-37397-es/case-search-ffs # Ethan, Martin Mar 18
-    - riese/revert-search-field # Martin Mar 18
     - jc/tmp-fix-for-erin-cchq-side # Jing Mar 22
 submodules: { }
