@@ -17,4 +17,5 @@ branches:  # list of branches to merge into final branch
   - pkv/ccc-163-internal-permission-management # Pawan March 18
   #- cs/CI-499-update-cw-status-processing-v2 # Charl Mar 23
   - pkv/ci-549-to-date-error # Pawan March 24
+  - ay/CI-512-allow-non-managed-opps # Ajeet Mar 25
 submodules:
