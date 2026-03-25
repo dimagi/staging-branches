@@ -28,6 +28,7 @@ branches:
     - riese/search_filter_cat_fix # Martin Mar 24
     - riese/add_check_for_add_case_types # Martin Mar 24
     - riese/command_label_fix # Martin Mar 24
+    - riese/case_search_ff_cmd_reset # Martin Mar 25
     - riese/query_builder_claude_v3+es/config-cs-endpoints+gh/demo-case-pillow
     - riese/query_builder_claude_v3 # Martin Mar 23
 submodules: { }
