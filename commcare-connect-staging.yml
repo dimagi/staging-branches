@@ -13,5 +13,4 @@ branches:  # list of branches to merge into final branch
   - pkv/work-area-seed-command # Pawan March 17
   #- cs/CI-499-update-cw-status-processing-v2 # Charl Mar 23
   - ay/CI-512-allow-non-managed-opps # Ajeet Mar 25
-  - pkv/ci-574-disable-app-validation # Pawan March 25
 submodules:
