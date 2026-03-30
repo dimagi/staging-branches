@@ -32,4 +32,5 @@ branches:
     - riese/case_search_off_msg # Martin Mar 25
     - riese/query_builder_claude_v3+es/config-cs-endpoints+gh/demo-case-pillow
     - riese/query_builder_claude_v3 # Martin Mar 23
+    - ejp/delete-all-domain-memberships  # Evan Mar 30
 submodules: { }
