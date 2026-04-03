@@ -27,7 +27,6 @@ branches:
     - revert-37501-revert-37397-es/case-search-ffs # Ethan, Martin Mar 18
     - riese/query_builder_claude_v3+es/config-cs-endpoints+gh/demo-case-pillow
     - riese/query_builder_claude_v3 # Martin Mar 23
-    - ejp/delete-all-domain-memberships  # Evan Mar 30
     - dmr/role-url-include-id  # Danny Apr 1
     - dmr/user-audit-report-improvements  # Danny Apr 2
 submodules: { }
