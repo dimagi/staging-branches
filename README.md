@@ -20,6 +20,14 @@ The general workflow is virtually the same across repositories. The convention i
   $ scripts/rebuildstaging --deploy (NOTE: `commcare-cloud` must be available in your shell)
   ```
 
+## Automated Staging Rebuild
+
+When `commcare-hq-staging.yml` is pushed to `main`, a GitHub Actions workflow automatically triggers the [`rebuild-staging`](https://github.com/dimagi/commcare-hq/actions/workflows/rebuild-staging.yml) workflow in `dimagi/commcare-hq`. This removes the need to manually run `./scripts/rebuildstaging` after updating the branch list.
+
+You can monitor the triggered run in the [commcare-hq Actions tab](https://github.com/dimagi/commcare-hq/actions/workflows/rebuild-staging.yml).
+
+For implementation details, maintenance, and how to extend this to other repos, see [docs/automated-rebuild-trigger.md](docs/automated-rebuild-trigger.md).
+
 ## Resolving Branch Conflicts
 
 First, determine where the conflict lies.  All of these steps should be taken from the root of the repository you're working on (eg, `commcare-hq`)
