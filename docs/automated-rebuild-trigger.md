@@ -14,7 +14,7 @@ The workflow at `.github/workflows/trigger-commcare-hq-rebuild.yml` fires on pus
 
 ## Authentication
 
-The workflow uses a GitHub App rather than a PAT. This gives scoped permissions, short-lived tokens, and no dependency on a personal account.
+The workflow uses a GitHub App rather than a Personal Access Token (PAT). This gives scoped permissions, short-lived tokens, and no dependency on a personal account.
 
 **GitHub App:** Staging Branches Automations
 - Configured in the [dimagi org's GitHub Apps settings](https://github.com/organizations/dimagi/settings/apps)
