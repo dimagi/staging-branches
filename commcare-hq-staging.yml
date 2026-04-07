@@ -27,5 +27,5 @@ branches:
     - revert-37501-revert-37397-es/case-search-ffs # Ethan, Martin Mar 18
     - riese/query_builder_claude_v3+es/config-cs-endpoints+gh/demo-case-pillow
     - riese/query_builder_claude_v3 # Martin Mar 23
-    - dmr/user-audit-report-improvements-2  # Danny Apr 2
+    - dmr/role-permission-history-command  # Danny Apr 7
 submodules: { }
