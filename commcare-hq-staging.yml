@@ -25,6 +25,7 @@ branches:
     - dm/form-action-diff  # Daniel Mar 13
     - riese/query_builder_claude_v3+es/config-cs-endpoints+gh/demo-case-pillow
     - riese/query_builder_claude_v3 # Martin Mar 23
+    - riese/hook-up-query-builder-and-project-db # Martin Apr 9
     - dmr/user-audit-report-improvements-feedback  # Danny Apr 8
     - ap/remove-toggle/fcm_notification-migrations  # Graham Apr 8
 submodules: { }
