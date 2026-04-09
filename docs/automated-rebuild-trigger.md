@@ -4,7 +4,10 @@ This document covers how the automated staging rebuild trigger works and how to 
 
 ## Overview
 
-The workflow at `.github/workflows/trigger-commcare-hq-rebuild.yml` fires on pushes to `main` that modify `commcare-hq-staging.yml`. It triggers `rebuild-staging` in `dimagi/commcare-hq` via `workflow_dispatch`.
+There are two triggers that keep `autostaging` up to date:
+
+1. **This repo** — `.github/workflows/trigger-commcare-hq-rebuild.yml` fires on pushes to `main` that modify `commcare-hq-staging.yml`. It triggers `rebuild-staging` in `dimagi/commcare-hq` via `workflow_dispatch`.
+2. **commcare-hq** — The [`rebuild-staging` workflow](https://github.com/dimagi/commcare-hq/blob/master/.github/workflows/rebuild-staging.yml) fires on push to any branch. A `check-branch` job fetches `commcare-hq-staging.yml` and skips the rebuild if the pushed branch isn't listed. This covers pushes to `master` (the base branch) and pushes to branches already in the config. A global concurrency group with `cancel-in-progress: false` ensures at most one rebuild runs at a time, with one queued.
 
 ## How it works
 
