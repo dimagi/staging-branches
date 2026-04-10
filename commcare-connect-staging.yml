@@ -12,4 +12,5 @@ branches:  # list of branches to merge into final branch
   - cs/CI-499-update-cw-status-processing-v2 # Charl Mar 23
   - mk/claude/2296-add-tasks-to-delivery-progress-api # MK Mar 27
   - ay/CCCT-2336-update-visits-table # Ajeet Apr 8
+  - pkv/ccct-2276-assignment-mode # Pawan Apr 10
 submodules:
