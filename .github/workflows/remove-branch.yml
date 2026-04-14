@@ -1,0 +1,56 @@
+name: Remove branch from staging config
+
+on:
+  workflow_dispatch:
+    inputs:
+      file:
+        description: 'Staging config file (e.g. commcare-hq-staging.yml)'
+        required: true
+        type: string
+      branch:
+        description: 'Branch name to remove'
+        required: true
+        type: string
+
+jobs:
+  remove-branch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Remove branch from config
+        id: remove
+        env:
+          FILE: ${{ inputs.file }}
+          BRANCH: ${{ inputs.branch }}
+        run: |
+          if [ ! -f "$FILE" ]; then
+            echo "::error::File '$FILE' not found"
+            exit 1
+          fi
+
+          # Remove standalone branch entry (not +-joined conflict resolution branches).
+          # Matches lines like "    - branch-name  # optional comment"
+          # but not "    - foo+branch-name+bar"
+          grep -vP "^\s*-\s+\Q${BRANCH}\E(\s|$)" "$FILE" > "${FILE}.tmp" || true
+          mv "${FILE}.tmp" "$FILE"
+
+          if git diff --quiet -- "$FILE"; then
+            echo "::notice::Branch '$BRANCH' not found in $FILE, nothing to remove"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "Removed branch '$BRANCH' from $FILE"
+            git diff -- "$FILE"
+          fi
+
+      - name: Commit and push
+        if: steps.remove.outputs.changed == 'true'
+        env:
+          FILE: ${{ inputs.file }}
+          BRANCH: ${{ inputs.branch }}
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add "$FILE"
+          git commit -m "Remove merged branch \`$BRANCH\` from $FILE"
+          git push
