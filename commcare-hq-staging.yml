@@ -25,5 +25,4 @@ branches:
     - riese/query_builder_claude_v3 # Martin Mar 23
     - riese/hook-up-query-builder-and-project-db # Martin Apr 9
     - gh/revert-revert-fcm-notification  # Graham Apr 8
-    - es/case-api-fields  # Ethan Apr 10
 submodules: { }
