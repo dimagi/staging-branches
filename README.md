@@ -22,9 +22,14 @@ The general workflow is virtually the same across repositories. The convention i
 
 ## Automated Staging Rebuild
 
-When `commcare-hq-staging.yml` is pushed to `main`, a GitHub Actions workflow automatically triggers the [`rebuild-staging`](https://github.com/dimagi/commcare-hq/actions/workflows/rebuild-staging.yml) workflow in `dimagi/commcare-hq`. This removes the need to manually run `./scripts/rebuildstaging` after updating the branch list.
+The `autostaging` branch is rebuilt automatically in two ways:
 
-You can monitor the triggered run in the [commcare-hq Actions tab](https://github.com/dimagi/commcare-hq/actions/workflows/rebuild-staging.yml).
+1. **Config changes:** When `commcare-hq-staging.yml` is pushed to `main` in this repo, a workflow here triggers [`rebuild-staging`](https://github.com/dimagi/commcare-hq/actions/workflows/rebuild-staging.yml) in `dimagi/commcare-hq` via `workflow_dispatch`.
+2. **Branch pushes:** The `rebuild-staging` workflow in `dimagi/commcare-hq` also runs on push to any branch. It checks this config file and skips the rebuild if the pushed branch isn't listed. This means pushes to `master` or to any branch already in the config will trigger a rebuild automatically.
+
+The only case where `autostaging` can go stale is when new commits are pushed to a branch declared in a submodule's staging config.
+
+You can monitor triggered runs in the [commcare-hq Actions tab](https://github.com/dimagi/commcare-hq/actions/workflows/rebuild-staging.yml).
 
 For implementation details, maintenance, and how to extend this to other repos, see [docs/automated-rebuild-trigger.md](docs/automated-rebuild-trigger.md).
 
