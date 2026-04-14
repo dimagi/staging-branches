@@ -3,7 +3,7 @@
 trunk: master
 name: autostaging
 branches:
-  - riese/skip_cache
+  - riese/skip_cache_2
 submodules:
   libs/commcare:
     trunk: master
