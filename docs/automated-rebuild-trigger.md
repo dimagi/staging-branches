@@ -42,7 +42,9 @@ The commcare-hq secrets are used by the `rebuild-staging` workflow to trigger th
 
 1. Go to the app's settings page in the dimagi org
 2. Under **Private keys**, click **Generate a private key**
-3. Update the `STAGING_BRANCHES_APP_PRIVATE_KEY` secret with the new key's contents
+3. Update the `STAGING_BRANCHES_APP_PRIVATE_KEY` secret in both repos:
+   - [dimagi/staging-branches](https://github.com/dimagi/staging-branches/settings/secrets/actions)
+   - [dimagi/commcare-hq](https://github.com/dimagi/commcare-hq/settings/secrets/actions)
 4. Revoke the old key from the same page
 
 ## Merged branch removal
