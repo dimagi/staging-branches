@@ -27,6 +27,12 @@ The `autostaging` branch is rebuilt automatically in two ways:
 1. **Config changes:** When `commcare-hq-staging.yml` is pushed to `main` in this repo, a workflow here triggers [`rebuild-staging`](https://github.com/dimagi/commcare-hq/actions/workflows/rebuild-staging.yml) in `dimagi/commcare-hq` via `workflow_dispatch`.
 2. **Branch pushes:** The `rebuild-staging` workflow in `dimagi/commcare-hq` also runs on push to any branch. It checks this config file and skips the rebuild if the pushed branch isn't listed. This means pushes to `master` or to any branch already in the config will trigger a rebuild automatically.
 
+### Auto-removal of merged branches
+
+When a branch in the staging config is merged to `master` in commcare-hq, the `rebuild-staging` workflow detects this and triggers the [`remove-branch`](.github/workflows/remove-branch.yml) workflow in this repo instead of rebuilding. The branch is automatically removed from the config file, and the resulting push to `main` triggers a clean rebuild via trigger 1 above.
+
+This prevents rebuild failures caused by branches that have been deleted after merge. Note that `+`-joined conflict resolution branches (e.g. `foo+bar`) are not automatically removed — see [Resolving Branch Conflicts](#resolving-branch-conflicts) for how to clean those up manually.
+
 The only case where `autostaging` can go stale is when new commits are pushed to a branch declared in a submodule's staging config.
 
 You can monitor triggered runs in the [commcare-hq Actions tab](https://github.com/dimagi/commcare-hq/actions/workflows/rebuild-staging.yml).
