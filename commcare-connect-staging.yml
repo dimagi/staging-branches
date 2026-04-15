@@ -9,8 +9,6 @@ branches:  # list of branches to merge into final branch
   - cs/CI-507-add-livesession # Charl Feb 16
   - sr/release  # Sravan Feb 23
   - pkv/work-area-seed-command # Pawan March 17
-  - cs/CI-499-update-cw-status-processing-v2 # Charl Mar 23
-  - mk/claude/2296-add-tasks-to-delivery-progress-api # MK Mar 27
   - pkv/ccct-2276-assignment-mode # Pawan Apr 10
   - ce-ay-sp/deploy-release-updates # Ajeet, Cal, Dudu Apr 15
 submodules:
