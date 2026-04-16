@@ -1,0 +1,67 @@
+name: Remove branch from staging config
+
+on:
+  workflow_dispatch:
+    inputs:
+      file:
+        description: 'Staging config file (e.g. commcare-hq-staging.yml)'
+        required: true
+        type: string
+      branch:
+        description: 'Branch name to remove'
+        required: true
+        type: string
+
+jobs:
+  remove-branch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Remove branch from config
+        id: remove
+        env:
+          FILE: ${{ inputs.file }}
+          BRANCH: ${{ inputs.branch }}
+        run: |
+          if [ ! -f "$FILE" ]; then
+            echo "::error::File '$FILE' not found"
+            exit 1
+          fi
+
+          # Verify branch is in .branches (not submodules or elsewhere).
+          # This scopes the removal to the main branches list and excludes
+          # +-joined conflict resolution branches (those aren't equal strings).
+          match_count=$(yq '[.branches[] | select(. == env(BRANCH))] | length' "$FILE")
+          if [ "$match_count" = "0" ]; then
+            echo "::notice::Branch '$BRANCH' not in .branches of $FILE, nothing to remove"
+            exit 0
+          fi
+
+          # Delete only the first line matching the branch as a standalone entry.
+          # Since .branches comes before submodules in the file, this correctly
+          # targets the branches section even if a submodule happens to list
+          # a branch with the same name.
+          line_num=$(grep -nP "^\s*-\s+\Q${BRANCH}\E(\s|$)" "$FILE" | head -1 | cut -d: -f1)
+          if [ -z "$line_num" ]; then
+            echo "::error::Branch verified in .branches but grep couldn't locate the line"
+            exit 1
+          fi
+
+          sed -i "${line_num}d" "$FILE"
+
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+          echo "Removed branch '$BRANCH' from $FILE (line $line_num)"
+          git diff -- "$FILE"
+
+      - name: Commit and push
+        if: steps.remove.outputs.changed == 'true'
+        env:
+          FILE: ${{ inputs.file }}
+          BRANCH: ${{ inputs.branch }}
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add "$FILE"
+          git commit -m "Remove merged branch \`$BRANCH\` from $FILE"
+          git push
