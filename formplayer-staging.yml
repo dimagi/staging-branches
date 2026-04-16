@@ -3,9 +3,9 @@
 trunk: master
 name: autostaging
 branches:
-  - riese/skip_cache_2
+  - riese/fix_cache_collision
 submodules:
   libs/commcare:
     trunk: master
     branches:
-      - riese/logging
+      - riese/cache_key
