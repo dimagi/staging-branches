@@ -9,6 +9,7 @@ branches:  # list of branches to merge into final branch
   - cs/CI-507-add-livesession # Charl Feb 16
   - sr/release  # Sravan Feb 23
   - pkv/work-area-seed-command # Pawan March 17
-  - pkv/ccct-2276-assignment-mode # Pawan Apr 10
   - ce-ay-sp/deploy-release-updates # Ajeet, Cal, Dudu Apr 15
+  - pkv/pip-tools-to-uv-migration # Pawan Apr 22
+  - pkv/ccct-1772-worker-search # Pawan Apr 22
 submodules:
