@@ -12,5 +12,5 @@ branches:  # list of branches to merge into final branch
   - ce-ay-sp/deploy-release-updates # Ajeet, Cal, Dudu Apr 15
   - pkv/pip-tools-to-uv-migration # Pawan Apr 22
   - pkv/ccct-1772-worker-search # Pawan Apr 22
-  - pkv/pkv/ccct-2373-new-task-notification # Pawan Apr 24
+  - pkv/ccct-2373-new-task-notification # Pawan Apr 24
 submodules:
