@@ -27,4 +27,5 @@ branches:
     - gh/revert-revert-fcm-notification  # Graham Apr 8
     - dmr/enterprise-admin-self-service  # Danny Apr 22
     - dm/ga-form-builder-case-management  # Daniel Apr 23
+    - dmr/gettext_lazy  # Danny Apr 28
 submodules: { }
