@@ -1,0 +1,48 @@
+name: Add branch to staging config
+
+on:
+  workflow_dispatch:
+    inputs:
+      file:
+        description: 'Staging config file (e.g. commcare-hq-staging.yml)'
+        required: true
+        type: string
+      branch:
+        description: 'Branch name to add'
+        required: true
+        type: string
+      comment:
+        description: 'Optional comment to append after `#` on the branch line'
+        required: false
+        type: string
+
+jobs:
+  add-branch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Add branch to config
+        env:
+          FILE: ${{ inputs.file }}
+          BRANCH: ${{ inputs.branch }}
+          COMMENT: ${{ inputs.comment }}
+        run: |
+          python3 scripts/edit_branches.py add \
+            --file "$FILE" --branch "$BRANCH" --comment "$COMMENT"
+          git diff -- "$FILE"
+
+      - name: Commit and push
+        env:
+          FILE: ${{ inputs.file }}
+          BRANCH: ${{ inputs.branch }}
+        run: |
+          if git diff --quiet -- "$FILE"; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add "$FILE"
+          git commit -m "Add branch \`$BRANCH\` to $FILE"
+          git push
