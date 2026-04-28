@@ -19,6 +19,9 @@ on:
 jobs:
   add-branch:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: write
     steps:
       - uses: actions/checkout@v6
 
@@ -33,6 +36,7 @@ jobs:
           git diff -- "$FILE"
 
       - name: Commit and push
+        id: commit
         env:
           FILE: ${{ inputs.file }}
           BRANCH: ${{ inputs.branch }}
@@ -46,3 +50,10 @@ jobs:
           git add "$FILE"
           git commit -m "Add branch \`$BRANCH\` to $FILE"
           git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Trigger commcare-hq rebuild
+        if: steps.commit.outputs.changed == 'true' && inputs.file == 'commcare-hq-staging.yml'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run trigger-commcare-hq-rebuild.yml --ref main
