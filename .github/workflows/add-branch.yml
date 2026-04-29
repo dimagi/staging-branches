@@ -12,7 +12,7 @@ on:
         required: true
         type: string
       comment:
-        description: 'Optional comment to append after `#` on the branch line'
+        description: 'Comment after `#` on the branch line (defaults to e.g. `@dannyroberts Apr 29`)'
         required: false
         type: string
 
@@ -26,12 +26,16 @@ jobs:
       FILE: ${{ inputs.file }}
       BRANCH: ${{ inputs.branch }}
       COMMENT: ${{ inputs.comment }}
+      ACTOR: ${{ github.actor }}
     steps:
       - uses: actions/checkout@v6
       - uses: astral-sh/setup-uv@v6
 
       - name: Add branch to config
         run: |
+          if [ -z "$COMMENT" ]; then
+            COMMENT="@$ACTOR $(date -u +'%b %-d')"
+          fi
           uv run scripts/edit_branches.py add "$FILE" "$BRANCH" --comment "$COMMENT"
           git diff -- "$FILE"
 
