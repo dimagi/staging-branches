@@ -22,24 +22,21 @@ jobs:
     permissions:
       contents: write
       actions: write
+    env:
+      FILE: ${{ inputs.file }}
+      BRANCH: ${{ inputs.branch }}
+      COMMENT: ${{ inputs.comment }}
     steps:
       - uses: actions/checkout@v6
+      - uses: astral-sh/setup-uv@v6
 
       - name: Add branch to config
-        env:
-          FILE: ${{ inputs.file }}
-          BRANCH: ${{ inputs.branch }}
-          COMMENT: ${{ inputs.comment }}
         run: |
-          python3 scripts/edit_branches.py add \
-            --file "$FILE" --branch "$BRANCH" --comment "$COMMENT"
+          uv run scripts/edit_branches.py add "$FILE" "$BRANCH" --comment "$COMMENT"
           git diff -- "$FILE"
 
       - name: Commit and push
         id: commit
-        env:
-          FILE: ${{ inputs.file }}
-          BRANCH: ${{ inputs.branch }}
         run: |
           if git diff --quiet -- "$FILE"; then
             echo "No changes to commit"

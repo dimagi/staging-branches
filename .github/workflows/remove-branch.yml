@@ -18,22 +18,20 @@ jobs:
     permissions:
       contents: write
       actions: write
+    env:
+      FILE: ${{ inputs.file }}
+      BRANCH: ${{ inputs.branch }}
     steps:
       - uses: actions/checkout@v6
+      - uses: astral-sh/setup-uv@v6
 
       - name: Remove branch from config
-        env:
-          FILE: ${{ inputs.file }}
-          BRANCH: ${{ inputs.branch }}
         run: |
-          python3 scripts/edit_branches.py remove --file "$FILE" --branch "$BRANCH"
+          uv run scripts/edit_branches.py remove "$FILE" "$BRANCH"
           git diff -- "$FILE"
 
       - name: Commit and push
         id: commit
-        env:
-          FILE: ${{ inputs.file }}
-          BRANCH: ${{ inputs.branch }}
         run: |
           if git diff --quiet -- "$FILE"; then
             echo "No changes to commit"
