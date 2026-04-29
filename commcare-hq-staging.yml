@@ -21,8 +21,8 @@ branches:
     # - ay/kyc-staging-test # Ajeet Dec 19 - Staging Only
     # - ay/kyc-report-new-filters # Ajeet Jan 9
     - es/config-cs-endpoints  # Ethan Feb 18
-    - riese/query_builder_claude_v3+es/config-cs-endpoints+gh/demo-case-pillow
-    - riese/query_builder_claude_v3 # Martin Mar 23
+    # - riese/query_builder_claude_v3+es/config-cs-endpoints+gh/demo-case-pillow
+    # - riese/query_builder_claude_v3 # Martin Mar 23
     - gh/revert-revert-fcm-notification  # Graham Apr 8
     - dmr/enterprise-admin-self-service  # Danny Apr 22
     - dm/ga-form-builder-case-management  # Daniel Apr 23
