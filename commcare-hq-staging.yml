@@ -24,7 +24,6 @@ branches:
     # - riese/query_builder_claude_v3+es/config-cs-endpoints+gh/demo-case-pillow
     # - riese/query_builder_claude_v3 # Martin Mar 23
     - gh/revert-revert-fcm-notification  # Graham Apr 8
-    - dmr/enterprise-admin-self-service  # Danny Apr 22
     - dm/ga-form-builder-case-management  # Daniel Apr 23
     - dmr/gettext_lazy  # Danny Apr 28
 submodules: { }
