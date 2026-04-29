@@ -14,4 +14,5 @@ branches:  # list of branches to merge into final branch
   - pkv/ccct-1772-worker-search # Pawan Apr 22
   - pkv/ccct-2373-new-task-notification # Pawan Apr 24
   - pkv/ccct-2374-work-area-assigned-notification # Pawan Apr 28
+  - sr/work-area-expected-count # Sravan  Apr 29
 submodules:
