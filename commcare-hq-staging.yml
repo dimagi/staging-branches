@@ -27,5 +27,4 @@ branches:
     - gh/tombstones/create-app  # Graham Apr 29
     - ap/remove-fcm-models  # Amit Apr 29
     - riese/use_normal_case_list_ff # Martin Apr 30
-    - riese/hook-up-query-builder-and-project-db  # @dannyroberts Apr 30
 submodules: {}
