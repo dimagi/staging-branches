@@ -1,4 +1,4 @@
-name: Remove branch from staging config
+name: Add branch to staging config
 
 on:
   workflow_dispatch:
@@ -8,12 +8,16 @@ on:
         required: true
         type: string
       branch:
-        description: 'Branch name to remove'
+        description: 'Branch name to add'
         required: true
+        type: string
+      comment:
+        description: 'Comment after `#` on the branch line (defaults to e.g. `@dannyroberts Apr 29`)'
+        required: false
         type: string
 
 jobs:
-  remove-branch:
+  add-branch:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -21,13 +25,18 @@ jobs:
     env:
       FILE: ${{ inputs.file }}
       BRANCH: ${{ inputs.branch }}
+      COMMENT: ${{ inputs.comment }}
+      ACTOR: ${{ github.actor }}
     steps:
       - uses: actions/checkout@v6
       - uses: astral-sh/setup-uv@v6
 
-      - name: Remove branch from config
+      - name: Add branch to config
         run: |
-          uv run scripts/edit_branches.py remove "$FILE" "$BRANCH"
+          if [ -z "$COMMENT" ]; then
+            COMMENT="@$ACTOR $(date -u +'%b %-d')"
+          fi
+          uv run scripts/edit_branches.py add "$FILE" "$BRANCH" --comment "$COMMENT"
           git diff -- "$FILE"
 
       - name: Commit and push
@@ -40,7 +49,7 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add "$FILE"
-          git commit -m "Remove merged branch \`$BRANCH\` from $FILE"
+          git commit -m "Add branch \`$BRANCH\` to $FILE"
           git push
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
