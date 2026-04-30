@@ -11,6 +11,15 @@ on:
         description: 'Branch name to remove'
         required: true
         type: string
+      reason:
+        description: 'Reason for removal'
+        required: false
+        type: choice
+        default: unspecified
+        options:
+          - unspecified
+          - merge
+          - conflict
 
 jobs:
   remove-branch:
@@ -21,8 +30,11 @@ jobs:
     env:
       FILE: ${{ inputs.file }}
       BRANCH: ${{ inputs.branch }}
+      REASON: ${{ inputs.reason }}
     steps:
       - uses: actions/checkout@v6
+        with:
+          ref: main
       - uses: astral-sh/setup-uv@v6
 
       - name: Remove branch from config
@@ -40,7 +52,12 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add "$FILE"
-          git commit -m "Remove merged branch \`$BRANCH\` from $FILE"
+          case "$REASON" in
+            merge) MSG="Remove merged branch \`$BRANCH\` from $FILE" ;;
+            conflict) MSG="Remove conflicting branch \`$BRANCH\` from $FILE" ;;
+            *) MSG="Remove branch \`$BRANCH\` from $FILE" ;;
+          esac
+          git commit -m "$MSG"
           git push
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
