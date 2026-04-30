@@ -23,7 +23,6 @@ branches:
     # - riese/query_builder_claude_v3 # Martin Mar 23
     - dm/ga-form-builder-case-management  # Daniel Apr 23
     - dmr/gettext_lazy  # Danny Apr 28
-    - gh/tombstones/create-app  # Graham Apr 29
     - ap/remove-fcm-models  # Amit Apr 29
     - riese/use_normal_case_list_ff # Martin Apr 30
 submodules: {}
