@@ -10,8 +10,6 @@ branches:  # list of branches to merge into final branch
   - sr/release  # Sravan Feb 23
   - pkv/work-area-seed-command # Pawan March 17
   - ce-ay-sp/deploy-release-updates # Ajeet, Cal, Dudu Apr 15
-  - pkv/pip-tools-to-uv-migration # Pawan Apr 22
-  - pkv/ccct-1772-worker-search # Pawan Apr 22
   - pkv/ccct-2373-new-task-notification # Pawan Apr 24
   - pkv/ccct-2374-work-area-assigned-notification # Pawan Apr 28
   - sr/work-area-expected-count # Sravan  Apr 29
