@@ -29,6 +29,8 @@ jobs:
       ACTOR: ${{ github.actor }}
     steps:
       - uses: actions/checkout@v6
+        with:
+          ref: main
       - uses: astral-sh/setup-uv@v6
 
       - name: Add branch to config

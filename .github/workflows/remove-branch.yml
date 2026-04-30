@@ -33,6 +33,8 @@ jobs:
       REASON: ${{ inputs.reason }}
     steps:
       - uses: actions/checkout@v6
+        with:
+          ref: main
       - uses: astral-sh/setup-uv@v6
 
       - name: Remove branch from config
