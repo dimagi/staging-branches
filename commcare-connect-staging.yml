@@ -10,8 +10,8 @@ branches:  # list of branches to merge into final branch
   - sr/release  # Sravan Feb 23
   - pkv/work-area-seed-command # Pawan March 17
   - ce-ay-sp/deploy-release-updates # Ajeet, Cal, Dudu Apr 15
+  - hy/flw+expected_count # sr/work-area-expected-count + pkv/ccct-2374-work-area-assigned-notification + hy/wa-flw   hemant May 5
   - pkv/ccct-2374-work-area-assigned-notification # Pawan Apr 28
   - sr/work-area-expected-count # Sravan  Apr 29
-  - hy/flw+expected_count # sr/work-area-expected-count + pkv/ccct-2374-work-area-assigned-notification + hy/wa-flw   hemant May 5
   - hy/wa-flw # hemant May 5
 submodules:
