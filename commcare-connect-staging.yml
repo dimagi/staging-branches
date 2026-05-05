@@ -14,4 +14,5 @@ branches:  # list of branches to merge into final branch
   - sr/work-area-expected-count # Sravan  Apr 29
   - hy/flw+expected_count # sr/work-area-expected-count + pkv/ccct-2374-work-area-assigned-notification + hy/wa-flw   hemant May 5
   - hy/wa-flw # hemant May 5
+  - mk/claude/2252-work-area-inaccessible # Ajeet May 5
 submodules:
