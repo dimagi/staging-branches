@@ -25,5 +25,4 @@ branches:
     - dmr/gettext_lazy  # Danny Apr 28
     - ap/remove-fcm-models  # Amit Apr 29
     - gh/tombstones/migrate-deleted-sql-docs  # Graham May 1
-    - dm/gunicorn  # @dannyroberts May 5
 submodules: {}
