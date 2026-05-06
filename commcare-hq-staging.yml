@@ -24,6 +24,5 @@ branches:
     - dm/ga-form-builder-case-management  # Daniel Apr 23
     - dmr/gettext_lazy  # Danny Apr 28
     - ap/remove-fcm-models  # Amit Apr 29
-    - gh/tombstones/migrate-deleted-sql-docs  # Graham May 1
     - dependabot/uv/gunicorn-26.0.0  # @dannyroberts May 6
 submodules: {}
