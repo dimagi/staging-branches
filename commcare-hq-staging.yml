@@ -21,7 +21,7 @@ branches:
     - es/config-cs-endpoints  # Ethan Feb 18
     - riese/query_builder_claude_v3+es/config-cs-endpoints+gh/demo-case-pillow
     - riese/query_builder_claude_v3 # Martin Mar 23
-    - dm/ga-form-builder-case-management  # Daniel Apr 23
+    # - dm/ga-form-builder-case-management  # Daniel Apr 23
     - dmr/gettext_lazy  # Danny Apr 28
     - ap/remove-fcm-models  # Amit Apr 29
     - dmr/enterprise-admin-membership-validation  # @dannyroberts May 6
