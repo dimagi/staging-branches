@@ -24,6 +24,5 @@ branches:
     - dm/ga-form-builder-case-management  # Daniel Apr 23
     - dmr/gettext_lazy  # Danny Apr 28
     - ap/remove-fcm-models  # Amit Apr 29
-    - dmr/enterprise-admin-membership-validation  # @dannyroberts May 6
     - gh/linked-domain/unlink-apps  # @gherceg May 8
 submodules: {}
