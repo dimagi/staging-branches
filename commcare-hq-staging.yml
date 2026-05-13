@@ -25,5 +25,4 @@ branches:
     - dmr/gettext_lazy  # Danny Apr 28
     - ap/remove-fcm-models  # Amit Apr 29
     - gh/linked-domain/unlink-apps  # @gherceg May 8
-    - gh/conn-settings/use-saved-secret-in-test  # @gherceg May 13
 submodules: {}
