@@ -12,4 +12,5 @@ branches:  # list of branches to merge into final branch
   - sr/work-area-expected-count # Sravan  Apr 29
   - pkv/ccct-2286-ui-changes-automatic-verification # Pawan May 13
   - mk/fix-usercase-filter # MK May 14
+  - mk/fix-work-area-assignment # MK May 15
 submodules:
