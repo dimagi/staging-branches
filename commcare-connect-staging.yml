@@ -14,4 +14,5 @@ branches:  # list of branches to merge into final branch
   - mk/fix-usercase-filter # MK May 14
   - mk/fix-work-area-assignment # MK May 15
   - pkv/microplanning-admin-models # Pawan May 15
+  - mk/refine-task-processing
 submodules:
