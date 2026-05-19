@@ -25,7 +25,6 @@ branches:
     - ap/remove-fcm-models  # Amit Apr 29
     - gh/linked-domain/unlink-apps  # @gherceg May 8
     - nh/userflow  # @kaapstorm May 14
-    - dmr/dump-archive-refactor-spec  # @dannyroberts May 15
     - ay/add-open-close-filter-kyc-payments+dmr/gettext_lazy # Ajeet May 19
     - ay/add-open-close-filter-kyc-payments # Ajeet May 19
 submodules: {}
