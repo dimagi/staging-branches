@@ -27,5 +27,4 @@ branches:
     - nh/userflow  # @kaapstorm May 14
     - ay/add-open-close-filter-kyc-payments+dmr/gettext_lazy # Ajeet May 19
     - ay/add-open-close-filter-kyc-payments # Ajeet May 19
-    - gh/tombstones/simplify-form-delete  # @gherceg May 19
 submodules: {}
