@@ -12,9 +12,10 @@ branches:  # list of branches to merge into final branch
   - sr/work-area-expected-count # Sravan  Apr 29
   - pkv/ccct-2286-ui-changes-automatic-verification # Pawan May 13
   - mk/fix-usercase-filter # MK May 14
+  - mk/fix-work-area-assignment+pkv/fix-work-area-case-zip
   - mk/fix-work-area-assignment # MK May 15
+  - pkv/fix-work-area-case-zip # PV May 16
   - pkv/microplanning-admin-models # Pawan May 15
   - mk/refine-task-processing # MK May 15
-  - pkv/fix-work-area-case-zip # PV May 16
   - ay/CCCT-2210-review-inaccessible-work-areas # Ajeet May 17
 submodules:
