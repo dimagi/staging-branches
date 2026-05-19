@@ -17,7 +17,6 @@ branches:
     - ejp/serverlocation-staging-check  # Evan Nov 13
     - mk/18611-ingest-ucr-poc-data # MK Oct 17
     # - ay/kyc-staging-test # Ajeet Dec 19 - Staging Only
-    # - ay/kyc-report-new-filters # Ajeet Jan 9
     - es/config-cs-endpoints  # Ethan Feb 18
     - riese/query_builder_claude_v3+es/config-cs-endpoints+gh/demo-case-pillow
     - riese/query_builder_claude_v3 # Martin Mar 23
@@ -27,5 +26,6 @@ branches:
     - gh/linked-domain/unlink-apps  # @gherceg May 8
     - nh/userflow  # @kaapstorm May 14
     - dmr/dump-archive-refactor-spec  # @dannyroberts May 15
+    - ay/add-open-close-filter-kyc-payments+dmr/gettext_lazy # Ajeet May 19
     - ay/add-open-close-filter-kyc-payments # Ajeet May 19
 submodules: {}
