@@ -17,5 +17,4 @@ branches:  # list of branches to merge into final branch
   #- pkv/fix-work-area-case-zip # PV May 16
   - pkv/microplanning-admin-models # Pawan May 15
   - ay/CCCT-2210-review-inaccessible-work-areas # Ajeet May 17
-  - cs/CI-670-toggle-bug # Charl May 20
 submodules:
