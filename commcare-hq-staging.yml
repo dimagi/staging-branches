@@ -30,5 +30,6 @@ branches:
     - ay/payments-lookup-table-filters # Ajeet May 22
     - riese/unused_internal_case_search_ffs # Martin May 22
     - gh/tombstones/create-on-form-delete  # Graham May 22
+    - gh/tombstones/purge-forms  # Graham May 22
     - jc/b5/app_manager_form_settings_view # Jing May 22
 submodules: {}
