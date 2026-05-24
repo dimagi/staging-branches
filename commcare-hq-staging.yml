@@ -32,4 +32,5 @@ branches:
     - gh/tombstones/create-on-form-delete  # Graham May 22
     - gh/tombstones/purge-forms  # Graham May 22
     - jc/b5/app_manager_form_settings_view # Jing May 22
+    - ay/payments-campaign-worker-role # Ajeet May 25
 submodules: {}
