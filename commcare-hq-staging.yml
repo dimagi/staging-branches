@@ -25,7 +25,8 @@ branches:
     - ap/remove-fcm-models  # Amit Apr 29
     - gh/linked-domain/unlink-apps  # @gherceg May 8
     - nh/userflow  # @kaapstorm May 14
-    - ay/add-open-close-filter-kyc-payments+dmr/gettext_lazy+ay/payments-lookup-table-filters # Ajeet May 19
+    - 
+    ay/add-open-close-filter-kyc-payments+dmr/gettext_lazy+ay/payments-lookup-table-filters   # Ajeet May 19
     - ay/add-open-close-filter-kyc-payments # Ajeet May 19
     - ay/payments-lookup-table-filters # Ajeet May 22
     - riese/unused_internal_case_search_ffs # Martin May 22
@@ -33,4 +34,5 @@ branches:
     - gh/tombstones/purge-forms  # Graham May 22
     - jc/b5/app_manager_form_settings_view # Jing May 22
     - ay/payments-campaign-worker-role # Ajeet May 25
+    - gh/less/upgrade  # @gherceg May 25
 submodules: {}
