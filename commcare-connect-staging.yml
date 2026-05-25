@@ -14,7 +14,6 @@ branches:  # list of branches to merge into final branch
   - mk/fix-work-area-assignment+pkv/fix-work-area-case-zip
   - mk/fix-work-area-assignment # MK May 15
   - pkv/microplanning-admin-models # Pawan May 15
-  - ay/CCCT-2210-review-inaccessible-work-areas # Ajeet May 17
   - pkv/ccct-2431-work-area-case-properties-fixes # Pawan May 21
   - hy/calc # Hemant May 22
   - ze/clear-create-task-modal-on-close # Zandre May 22
