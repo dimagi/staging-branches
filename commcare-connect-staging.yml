@@ -18,4 +18,5 @@ branches:  # list of branches to merge into final branch
   - pkv/ccct-2431-work-area-case-properties-fixes # Pawan May 21
   - hy/calc # Hemant May 22
   - ze/clear-create-task-modal-on-close # Zandre May 22
+  - ze/query-on-assigned-tasks-for-dashboard # Zandre May 25
 submodules:
