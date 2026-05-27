@@ -21,7 +21,8 @@ branches:
     - dmr/gettext_lazy  # Danny Apr 28
     - gh/linked-domain/unlink-apps  # @gherceg May 8
     - nh/userflow  # @kaapstorm May 14
-    - ay/add-open-close-filter-kyc-payments+dmr/gettext_lazy+ay/payments-lookup-table-filters # Ajeet May 19
+    - 
+    ay/add-open-close-filter-kyc-payments+dmr/gettext_lazy+ay/payments-lookup-table-filters   # Ajeet May 19
     - ay/add-open-close-filter-kyc-payments # Ajeet May 19
     - ay/payments-lookup-table-filters # Ajeet May 22
     - gh/tombstones/create-on-form-delete  # Graham May 22
@@ -30,4 +31,5 @@ branches:
     - ay/payments-campaign-worker-role # Ajeet May 25
     - gh/less/upgrade  # @gherceg May 25
     - riese/rm_split_screen_default # Martin May 27
+    - gh/serial-task-tests  # @gherceg May 27
 submodules: {}
