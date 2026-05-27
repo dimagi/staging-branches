@@ -58,6 +58,7 @@ def load(path):
     """Open the YAML, matching ruamel's output indent to the file's existing style."""
     yaml = YAML()
     yaml.preserve_quotes = True
+    yaml.width = 4096  # don't wrap long branch+comment lines
     data = yaml.load(Path(path))
     indent = data["branches"].lc.col
     yaml.indent(mapping=indent, sequence=indent, offset=indent)
