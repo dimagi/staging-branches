@@ -26,9 +26,9 @@ branches:
     - ay/payments-lookup-table-filters # Ajeet May 22
     # - gh/tombstones/create-on-form-delete  # Graham May 22
     # - gh/tombstones/purge-forms  # Graham May 22
-    - jc/b5/app_manager_form_settings_view # Jing May 22
     - ay/payments-campaign-worker-role # Ajeet May 25
     - gh/less/upgrade  # @gherceg May 25
     - riese/rm_split_screen_default # Martin May 27
     - gh/serial-task-tests  # @gherceg May 27
+    - jc/revert-b5 # Jing May 27
 submodules: {}
