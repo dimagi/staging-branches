@@ -18,4 +18,5 @@ branches:  # list of branches to merge into final branch
   - hy/calc # Hemant May 22
   - cs/CI-648-download-not-working # Charl May 26
   - update-signup-link # Charl May 27
+  - cs/CI-673-remove-invoice-ff # Char May 27
 submodules:
