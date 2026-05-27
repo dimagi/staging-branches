@@ -17,4 +17,5 @@ branches:  # list of branches to merge into final branch
   - pkv/ccct-2431-work-area-case-properties-fixes # Pawan May 21
   - hy/calc # Hemant May 22
   - cs/CI-648-download-not-working # Charl May 26
+  - update-signup-link # Charl May 27
 submodules:
