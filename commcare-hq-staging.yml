@@ -27,4 +27,5 @@ branches:
     - gh/less/upgrade  # @gherceg May 25
     - riese/rm_split_screen_default # Martin May 27
     - gh/serial-task-tests  # @gherceg May 27
+    - dependabot/uv/idna-3.15  # @gherceg May 27
 submodules: {}
