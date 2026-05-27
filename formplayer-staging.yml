@@ -2,9 +2,9 @@
 
 trunk: master
 name: autostaging
-branches: []
+branches:
+  - riese/ga_split_screen
 submodules:
   libs/commcare:
     trunk: master
-    branches:
-      - riese/no_cache_no_prime
+    branches: []
