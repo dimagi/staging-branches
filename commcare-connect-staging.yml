@@ -18,6 +18,7 @@ branches:  # list of branches to merge into final branch
   - hy/calc # Hemant May 22
   - update-signup-link # Charl May 27
   - cs/CI-673-remove-invoice-ff # Char May 27
+  - pkv/ccct-2451-unassign-work-areas+ay/replace-not-started-work-area-status # Pawan May 28
   - ay/replace-not-started-work-area-status # Ajeet May 28
   - pkv/ccct-2451-unassign-work-areas # Pawan May 28
 submodules:
