@@ -17,6 +17,6 @@ branches:  # list of branches to merge into final branch
   - pkv/ccct-2451-unassign-work-areas+ay/replace-not-started-work-area-status # Pawan May 28
   - ay/replace-not-started-work-area-status # Ajeet May 28
   - pkv/ccct-2451-unassign-work-areas # Pawan May 28
-  - pkv/qa-8531-fix-double-counting-stats # Pawan May 29
+  - pkv/qa-8527-fix-work-area-update # Pawan May 29
   - pkv/add-sentry-error-for-failed-work-area-update # Pawan May 29
 submodules:
