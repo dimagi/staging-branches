@@ -10,15 +10,12 @@ branches:  # list of branches to merge into final branch
   - pkv/work-area-seed-command # Pawan March 17
   - ce-ay-sp/deploy-release-updates # Ajeet, Cal, Dudu Apr 15
   #- sr/work-area-expected-count # Sravan  Apr 29
-  - pkv/ccct-2286-ui-changes-automatic-verification # Pawan May 13
-  - mk/fix-work-area-assignment+pkv/fix-work-area-case-zip
-  - mk/fix-work-area-assignment # MK May 15
   - pkv/microplanning-admin-models # Pawan May 15
-  - pkv/ccct-2431-work-area-case-properties-fixes # Pawan May 21
   - hy/calc # Hemant May 22
   - update-signup-link # Charl May 27
   - cs/CI-673-remove-invoice-ff # Char May 27
   - pkv/ccct-2451-unassign-work-areas+ay/replace-not-started-work-area-status # Pawan May 28
   - ay/replace-not-started-work-area-status # Ajeet May 28
   - pkv/ccct-2451-unassign-work-areas # Pawan May 28
+  - pkv/qa-8531-fix-double-counting-stats # Pawan May 29
 submodules:
