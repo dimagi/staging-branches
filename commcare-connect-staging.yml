@@ -11,7 +11,7 @@ branches:  # list of branches to merge into final branch
   - ce-ay-sp/deploy-release-updates # Ajeet, Cal, Dudu Apr 15
   #- sr/work-area-expected-count # Sravan  Apr 29
   - pkv/microplanning-admin-models # Pawan May 15
-  - hy/calc # Hemant May 22
+  #- hy/calc # Hemant May 22
   - hy/calc-test # Hemant Jun 1 For Testing Only!!
   - update-signup-link # Charl May 27
   - cs/CI-673-remove-invoice-ff # Char May 27
