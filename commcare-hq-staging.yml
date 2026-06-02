@@ -26,5 +26,4 @@ branches:
     - riese/rm_split_screen_default # Martin May 27
     - dependabot/uv/idna-3.15  # @gherceg May 27
     - gh/tombstone-touchups  # @gherceg May 29
-    - dmr/dump-domain-timing  # @dannyroberts Jun 1
 submodules: {}
