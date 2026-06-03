@@ -27,4 +27,5 @@ branches:
     - dependabot/uv/idna-3.15  # @gherceg May 27
     - gh/tombstone-touchups  # @gherceg May 29
     - dmr/dump-domain-data-page-by  # @dannyroberts Jun 3
+    - dmr/case-importer-hide-uploads  # @dannyroberts Jun 3
 submodules: {}
