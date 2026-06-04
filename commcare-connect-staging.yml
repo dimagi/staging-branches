@@ -18,5 +18,4 @@ branches:  # list of branches to merge into final branch
   - pkv/ccct-2451-unassign-work-areas+ay/replace-not-started-work-area-status # Pawan May 28
   - pkv/ccct-2451-unassign-work-areas # Pawan May 28
   - pkv/qa-8525-fix-space-issue # Pawan June 2
-  - ze/dependency-bumps-staging # Zandre June 4
 submodules:
