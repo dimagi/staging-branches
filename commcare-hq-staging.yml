@@ -23,7 +23,6 @@ branches:
     - nh/userflow  # @kaapstorm May 14
     - ay/add-open-close-filter-kyc-payments+dmr/gettext_lazy+ay/payments-lookup-table-filters   # Ajeet May 19
     - gh/less/upgrade  # @gherceg May 25
-    - riese/rm_split_screen_default # Martin May 27
     - dependabot/uv/idna-3.15  # @gherceg May 27
     - gh/tombstone-touchups  # @gherceg May 29
     - dmr/dump-domain-data-page-by  # @dannyroberts Jun 3
