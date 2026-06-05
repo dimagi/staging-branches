@@ -27,4 +27,5 @@ branches:
     - gh/tombstone-touchups  # @gherceg May 29
     - dmr/dump-domain-data-page-by  # @dannyroberts Jun 3
     - riese/cs_endpoints_query_builder_lite # Martin Jun 4
+    - dependabot/uv/aiohttp-3.14.0  # @gherceg Jun 5
 submodules: {}
