@@ -26,6 +26,5 @@ branches:
     - dependabot/uv/idna-3.15  # @gherceg May 27
     - gh/tombstone-touchups  # @gherceg May 29
     - dmr/dump-domain-data-page-by  # @dannyroberts Jun 3
-    - riese/cs_endpoints_audit_log # Martin Jun 4
     - riese/cs_endpoints_query_builder_lite # Martin Jun 4
 submodules: {}
