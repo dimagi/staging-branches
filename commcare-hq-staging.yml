@@ -25,4 +25,5 @@ branches:
     - riese/cs_endpoints_query_builder_lite # Martin Jun 4
     - dmr/dump-domain-data-page-by  # @dannyroberts Jun 8
     - gh/unify-serial-and-concurrent-tasks  # @gherceg Jun 9
+    - gh/test-new-serial-task  # @gherceg Jun 9
 submodules: {}
