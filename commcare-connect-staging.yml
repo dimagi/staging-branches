@@ -17,4 +17,5 @@ branches:  # list of branches to merge into final branch
   # - cs/CI-673-remove-invoice-ff # Char May 27
   - staging/command-to-create-visits # Charl June 4 STAGING ONLY
   - pkv/ci-697-fix-pending-payments-amount # Pawan June 9
+  - pkv/qa-8547-fix-update-wa-status-on-visit-status # Pawan June 9
 submodules:
