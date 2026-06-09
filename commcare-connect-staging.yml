@@ -12,8 +12,8 @@ branches:  # list of branches to merge into final branch
   - pkv/microplanning-admin-models # Pawan May 15
   #- hy/calc # Hemant May 22
   - hy/calc-test # Hemant Jun 1 For Testing Only!!
-  - update-signup-link # Charl May 27
-  - cs/CI-673-remove-invoice-ff # Char May 27
+  # - update-signup-link # Charl May 27
+  # - cs/CI-673-remove-invoice-ff # Char May 27
   - staging/command-to-create-visits # Charl June 4 STAGING ONLY
   - pkv/ci-697-fix-pending-payments-amount # Pawan June 9
 submodules:
