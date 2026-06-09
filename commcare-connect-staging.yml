@@ -8,7 +8,6 @@ branches:  # list of branches to merge into final branch
   - sr/programbudgets  # Sravan Feb 2
   - sr/release  # Sravan Feb 23
   - pkv/work-area-seed-command # Pawan March 17
-  - ce-ay-sp/deploy-release-updates # Ajeet, Cal, Dudu Apr 15
   #- sr/work-area-expected-count # Sravan  Apr 29
   - pkv/microplanning-admin-models # Pawan May 15
   #- hy/calc # Hemant May 22
