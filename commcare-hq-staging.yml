@@ -24,4 +24,5 @@ branches:
     - ay/add-open-close-filter-kyc-payments+dmr/gettext_lazy+ay/payments-lookup-table-filters   # Ajeet May 19
     - riese/cs_endpoints_query_builder_lite # Martin Jun 4
     - dmr/dump-domain-data-page-by  # @dannyroberts Jun 8
+    - gh/unify-serial-and-concurrent-tasks  # @gherceg Jun 9
 submodules: {}
