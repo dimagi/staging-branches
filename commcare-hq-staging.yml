@@ -27,5 +27,4 @@ branches:
     - gh/unify-serial-and-concurrent-tasks  # @gherceg Jun 9
     - gh/test-new-serial-task  # @gherceg Jun 9
     - jc/ocs-context-base # Jing Jun 10
-    - dependabot/uv/jwcrypto-1.5.7  # Graham Jun 10
 submodules: {}
