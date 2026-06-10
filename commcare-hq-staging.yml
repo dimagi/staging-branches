@@ -21,7 +21,6 @@ branches:
     - dmr/gettext_lazy  # Danny Apr 28
     - gh/linked-domain/unlink-apps  # @gherceg May 8
     - jc/ocs-context-base+nh/userflow # Jing Jun 10
-    - nh/userflow  # @kaapstorm May 14
     - ay/add-open-close-filter-kyc-payments+dmr/gettext_lazy+ay/payments-lookup-table-filters   # Ajeet May 19
     - riese/cs_endpoints_query_tester # Martin Jun 10
     - dmr/dump-domain-data-page-by  # @dannyroberts Jun 8
