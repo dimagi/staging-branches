@@ -18,4 +18,5 @@ branches:  # list of branches to merge into final branch
   - staging/command-to-create-visits # Charl June 4 STAGING ONLY
   - pkv/ci-697-fix-pending-payments-amount # Pawan June 9
   - pkv/qa-8547-fix-update-wa-status-on-visit-status # Pawan June 9
+  - pkv/ci-683-refactor-microplanning-flags # Pawan June 10
 submodules:
