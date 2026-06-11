@@ -20,4 +20,5 @@ branches:  # list of branches to merge into final branch
   - pkv/qa-8547-fix-update-wa-status-on-visit-status # Pawan June 9
   - pkv/ci-683-refactor-microplanning-flags # Pawan June 10
   - pkv/ci-714-rollback-last-payment-broken # Pawan June 11
+  - ay/metrics-coverage-progress-tracking-report # Ajeet June 11
 submodules:
