@@ -18,7 +18,7 @@ branches:  # list of branches to merge into final branch
   - staging/command-to-create-visits # Charl June 4 STAGING ONLY
   - pkv/qa-8547-fix-update-wa-status-on-visit-status # Pawan June 9
   - pkv/ci-714-rollback-last-payment-broken # Pawan June 11
-  - ay/metrics-coverage-progress-tracking-report # Ajeet June 11
+  # - ay/metrics-coverage-progress-tracking-report # Ajeet June 11
   - pkv/ccct-2268-progress-tracking-report-page # Pawan June 11
   - pkv/ccct-2275-progress-tracking-report-filtering # Pawan June 11
 submodules:
