@@ -26,5 +26,4 @@ branches:
     - dmr/dump-domain-data-page-by  # @dannyroberts Jun 8
     - jc/ocs-context-base # Jing Jun 10
     - ejp/locked-questions-savetocase  # Evan Jun 10
-    - gh/tombstones/create-on-form-delete  # @gherceg Jun 11
 submodules: {}
