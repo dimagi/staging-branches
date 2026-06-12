@@ -16,8 +16,8 @@ branches:  # list of branches to merge into final branch
   # - update-signup-link # Charl May 27
   - cs/CI-673-remove-invoice-ff # Char May 27
   - pkv/qa-8547-fix-update-wa-status-on-visit-status # Pawan June 9
-  - pkv/ci-714-rollback-last-payment-broken # Pawan June 11
   # - ay/metrics-coverage-progress-tracking-report # Ajeet June 11
   - pkv/ccct-2268-progress-tracking-report-page # Pawan June 11
   - pkv/ccct-2275-progress-tracking-report-filtering # Pawan June 11
+  - pkv/ci-719-microplanning-map-layout-issue # Pawan June 12
 submodules:
