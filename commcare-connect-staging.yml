@@ -18,4 +18,5 @@ branches:  # list of branches to merge into final branch
   - pkv/ccct-2268-progress-tracking-report-page # Pawan June 11
   - pkv/ccct-2275-progress-tracking-report-filtering # Pawan June 11
   - pkv/ci-719-microplanning-map-layout-issue # Pawan June 12
+  - hy/non-managed-code-removal # hemant June 15
 submodules:
