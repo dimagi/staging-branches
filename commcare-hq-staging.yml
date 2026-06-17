@@ -24,4 +24,5 @@ branches:
     - riese/cs_endpoints_query_tester # Martin Jun 10
     - jc/form-designer-context # Jing Jun 10
     - dmr/case-id-filter  # @dannyroberts Jun 17
+    - nh/face-capture  # @kaapstorm Jun 17
 submodules: {}
