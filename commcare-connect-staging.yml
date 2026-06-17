@@ -15,9 +15,7 @@ branches:  # list of branches to merge into final branch
   - cs/CI-673-remove-invoice-ff # Char May 27
   - pkv/qa-8547-fix-update-wa-status-on-visit-status # Pawan June 9
   # - ay/metrics-coverage-progress-tracking-report # Ajeet June 11
-  - pkv/ccct-2268-progress-tracking-report-page # Pawan June 11
   - pkv/ccct-2275-progress-tracking-report-filtering # Pawan June 11
-  - pkv/ci-719-microplanning-map-layout-issue # Pawan June 12
   - hy/prog-to-opp # Hemant June 17 Check Before Removing this migration!!
   - hy/remove-managed-ref # Hemant June 17
   - mk/claude/2193-payment-upload-popup # MK June 17
