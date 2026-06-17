@@ -23,5 +23,4 @@ branches:
     - ay/add-open-close-filter-kyc-payments+dmr/gettext_lazy+ay/payments-lookup-table-filters   # Ajeet May 19
     - riese/cs_endpoints_query_tester # Martin Jun 10
     - jc/ocs-context-base # Jing Jun 10
-    - dmr/tuple-comparison-keyset-seek  # @dannyroberts Jun 16
 submodules: {}
