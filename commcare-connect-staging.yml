@@ -19,4 +19,5 @@ branches:  # list of branches to merge into final branch
   - mk/claude/2429-backfill-hq-user-ids # MK June 17
   - cs/2483-download-performance-report # Charl June 18
   - sr/auditreport # Sravan June 19
+  - hy/fix-user-status-query-fanout # Hemant June 19
 submodules:
