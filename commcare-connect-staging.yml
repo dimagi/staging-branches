@@ -20,4 +20,5 @@ branches:  # list of branches to merge into final branch
   - cs/2483-download-performance-report # Charl June 18
   - sr/auditreport # Sravan June 19
   - hy/fix-user-status-query-fanout # Hemant June 19
+  - sr/coverage-tracker  # Sravan June 19
 submodules:
