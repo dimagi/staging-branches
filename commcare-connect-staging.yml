@@ -14,7 +14,6 @@ branches:  # list of branches to merge into final branch
   - hy/remove-managed-ref # Hemant June 17
   - mk/claude/2193-payment-upload-popup # MK June 17
   - mk/claude/2429-backfill-hq-user-ids # MK June 17
-  - cs/2483-download-performance-report # Charl June 18
   - sr/auditreport # Sravan June 19
   - hy/fix-user-status-query-fanout # Hemant June 19
   - sr/coverage-tracker  # Sravan June 19
