@@ -23,4 +23,5 @@ branches:
     - ay/add-open-close-filter-kyc-payments+dmr/gettext_lazy+ay/payments-lookup-table-filters   # Ajeet May 19
     - jc/ocs-context-base # Jing Jun 10
     - nh/face-capture  # @kaapstorm Jun 17
+    - dmr/speed-up-run-blob-export  # @dannyroberts Jun 23
 submodules: {}
