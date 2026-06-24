@@ -25,4 +25,5 @@ branches:
     - nh/face-capture  # @kaapstorm Jun 17
     - dmr/speed-up-run-blob-export  # @dannyroberts Jun 23
     - dmr/blob-get-via-client  # @dannyroberts Jun 23
+    - es/project-db-fixups  # Ethan Jun 24
 submodules: {}
