@@ -17,6 +17,5 @@ branches:  # list of branches to merge into final branch
   - sr/auditreport # Sravan June 19
   - hy/fix-user-status-query-fanout # Hemant June 19
   - sr/coverage-tracker  # Sravan June 19
-  - fix/daily-limit-race-condition # Ajeet Jun 22
   - ay/CCCT-2505-count-agreed-visits # Ajeet Jun 23
 submodules:
