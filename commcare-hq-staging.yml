@@ -24,5 +24,4 @@ branches:
     - jc/ocs-context-base # Jing Jun 10
     - nh/face-capture  # @kaapstorm Jun 17
     - dmr/speed-up-run-blob-export  # @dannyroberts Jun 23
-    - gh/remove-rabbit-code  # @gherceg Jun 25
 submodules: {}
