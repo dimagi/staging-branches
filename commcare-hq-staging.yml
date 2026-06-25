@@ -24,4 +24,5 @@ branches:
     - jc/ocs-context-base # Jing Jun 10
     - nh/face-capture  # @kaapstorm Jun 17
     - dmr/speed-up-run-blob-export  # @dannyroberts Jun 23
+    - riese/cs_endpoints_parameters_2 # Martin Jun 25
 submodules: {}
