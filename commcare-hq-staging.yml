@@ -25,5 +25,4 @@ branches:
     - nh/face-capture  # @kaapstorm Jun 17
     - riese/cs_endpoints_parameters_2 # Martin Jun 25
     - es/tableau-v3  # Ethan Jun 26
-    - dmr/blob-export-missing-ids-dir  # @dannyroberts Jun 26
 submodules: {}
