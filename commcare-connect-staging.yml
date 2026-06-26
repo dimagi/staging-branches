@@ -19,4 +19,5 @@ branches:  # list of branches to merge into final branch
   - sr/coverage-tracker  # Sravan June 19
   - ay/CCCT-2505-count-agreed-visits # Ajeet Jun 23
   - ay/CCCT-2505-correct-unbilled-works # Ajeet Jun 25
+  - pkv/ci-750-fix-create-hq-users-failing # Pawan Jun 26
 submodules:
