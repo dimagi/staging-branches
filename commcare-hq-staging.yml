@@ -26,5 +26,5 @@ branches:
     - ejp/app-manager-models-split  # Evan Jun 26
     - dm/ga-form-builder-case-management  # Daniel Apr 23
     - dmr/gettext_lazy  # Danny Apr 28
-    - jc/listen-to-ocs-events # Jing Jun 29
+    - jc/ocs-context-base # Jing Jun 29
 submodules: {}
