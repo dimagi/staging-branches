@@ -19,7 +19,6 @@ branches:
     # - ay/kyc-staging-test # Ajeet Dec 19 - Staging Only
     - gh/linked-domain/unlink-apps  # @gherceg May 8
     - ay/add-open-close-filter-kyc-payments+dmr/gettext_lazy+ay/payments-lookup-table-filters   # Ajeet May 19
-    - jc/ocs-context-base # Jing Jun 10
     - nh/face-capture  # @kaapstorm Jun 17
     - riese/cs_endpoints_parameters_2 # Martin Jun 25
     - es/tableau-v3  # Ethan Jun 26
@@ -27,4 +26,5 @@ branches:
     - ejp/app-manager-models-split  # Evan Jun 26
     - dm/ga-form-builder-case-management  # Daniel Apr 23
     - dmr/gettext_lazy  # Danny Apr 28
+    - jc/listen-to-ocs-events # Jing Jun 29
 submodules: {}
