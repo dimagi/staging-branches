@@ -22,7 +22,6 @@ branches:
     - nh/face-capture  # @kaapstorm Jun 17
     - es/tableau-v3  # Ethan Jun 26
     - ejp/app-manager-models-split+dm/ga-form-builder-case-management+dmr/gettext_lazy  # Evan Jun 26
-    - ejp/app-manager-models-split  # Evan Jun 26
     - dm/ga-form-builder-case-management  # Daniel Apr 23
     - dmr/gettext_lazy  # Danny Apr 28
     - jc/ocs-context-base # Jing Jun 29
