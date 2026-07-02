@@ -18,7 +18,6 @@ branches:
     - mk/18611-ingest-ucr-poc-data # MK Oct 17
     # - ay/kyc-staging-test # Ajeet Dec 19 - Staging Only
     - gh/linked-domain/unlink-apps  # @gherceg May 8
-    - nh/face-capture  # @kaapstorm Jun 17
     - es/tableau-v3  # Ethan Jun 26
     - ejp/app-manager-models-split+dm/ga-form-builder-case-management+dmr/gettext_lazy  # Evan Jun 26
     - dm/ga-form-builder-case-management  # Daniel Apr 23
