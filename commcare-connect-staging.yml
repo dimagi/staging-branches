@@ -17,6 +17,7 @@ branches:  # list of branches to merge into final branch
   - pkv/ci-750-fix-create-hq-users-failing # Pawan Jun 26
   - cs/CCCT-2551-ocs-oauth # Charl Jul 2
   - cs/CCCT-2551-staging-test # Charl Jul 2 -- STAGING ONLY
+  - hy/audio_upload # Hemant Jul 3
   - hy/audio-attachments # Hemant Jul 3
   - hy/audio-transcription # Hemant Jul 3
 submodules:
