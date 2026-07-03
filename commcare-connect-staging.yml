@@ -15,5 +15,5 @@ branches:  # list of branches to merge into final branch
   - sr/auditreport # Sravan June 19
   - pkv/ci-750-fix-create-hq-users-failing # Pawan Jun 26
   - cs/CCCT-2551-ocs-oauth # Charl Jul 2
-  - cs/CCCT-2551-staging-test # Charl Jul 2 -- STAGING ONLY
+  - cs/CCCT-2551-login-button # Charl Jul 3
 submodules:
