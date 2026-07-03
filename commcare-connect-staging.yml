@@ -10,8 +10,6 @@ branches:  # list of branches to merge into final branch
   - sr/release  # Sravan Feb 23
   - pkv/work-area-seed-command # Pawan March 17
   - pkv/microplanning-admin-models # Pawan May 15
-  - hy/audio-attachments # Hemant Jul 3
-  - hy/audio-transcription # Hemant Jul 3
   - mk/claude/2193-payment-upload-popup # MK June 17
   - mk/claude/2429-backfill-hq-user-ids # MK June 17
   - sr/auditreport # Sravan June 19
@@ -19,4 +17,6 @@ branches:  # list of branches to merge into final branch
   - pkv/ci-750-fix-create-hq-users-failing # Pawan Jun 26
   - cs/CCCT-2551-ocs-oauth # Charl Jul 2
   - cs/CCCT-2551-staging-test # Charl Jul 2 -- STAGING ONLY
+  - hy/audio-attachments # Hemant Jul 3
+  - hy/audio-transcription # Hemant Jul 3
 submodules:
