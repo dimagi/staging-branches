@@ -23,4 +23,5 @@ branches:
     - dm/ga-form-builder-case-management  # Daniel Apr 23
     - dmr/gettext_lazy  # Danny Apr 28
     - jc/form-errors-context # Jing Jul 2
+    - riese/cs_endpoints_operators_2 # Martin Jul 6
 submodules: {}
