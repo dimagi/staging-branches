@@ -15,4 +15,5 @@ branches:  # list of branches to merge into final branch
   - cs/CCCT-2551-ocs-oauth # Charl Jul 2
   - cs/CCCT-2551-login-button # Charl Jul 3
   - sr/area-count  # Sravan Jul 3
+  - pkv/ccct-2584-rerun-clustering # Pawan Jul 7
 submodules:
