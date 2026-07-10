@@ -14,8 +14,6 @@ branches:  # list of branches to merge into final branch
   - cs/CCCT-2551-ocs-oauth # Charl Jul 2
   # - cs/CCCT-2552-ocs-tasks # Charl Jul 8
   - cs/CCCT-2553-ui-for-task-types # Charl Jul 8
-  - sr/area-count  # Sravan Jul 3
-  - pkv/ccct-2584-rerun-clustering # Pawan Jul 7
   - mk/claude/2193-payment-upload-status # MK Jul 8
   - ay/invoice-drift-report # Ajeet Jul 10
 submodules:
