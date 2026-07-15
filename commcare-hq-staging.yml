@@ -23,6 +23,5 @@ branches:
     - dm/ga-form-builder-case-management  # Daniel Apr 23
     - dmr/gettext_lazy  # Danny Apr 28
     - riese/cs_endpoints_operators_2 # Martin Jul 6
-    - dmr/enterprise-per-domain-billing  # @dannyroberts Jul 7
     - jc/general-errors # Jing Jul 15
 submodules: {}
