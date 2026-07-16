@@ -24,4 +24,5 @@ branches:
     - dmr/gettext_lazy  # Danny Apr 28
     - riese/cs_endpoints_operators_2 # Martin Jul 6
     - jc/general-errors # Jing Jul 15
+    - gh/use-bulk-async-jobs  # @gherceg Jul 16
 submodules: {}
