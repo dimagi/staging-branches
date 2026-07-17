@@ -16,4 +16,5 @@ branches:  # list of branches to merge into final branch
   - cs/CCCT-2553-ui-for-task-types # Charl Jul 8
   - mk/claude/2193-payment-upload-status # MK Jul 8
   - ay/invoice-drift-report # Ajeet Jul 10
+  - pkv/ccct-2645-wag-centroid # Pawan Jul 17
 submodules:
