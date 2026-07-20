@@ -10,7 +10,7 @@ branches:  # list of branches to merge into final branch
   - pkv/work-area-seed-command # Pawan March 17
   - pkv/microplanning-admin-models # Pawan May 15
   - mk/claude/2429-backfill-hq-user-ids # MK June 17
-  - cs/CCCT-2552-ocs-tasks # Charl Jul 8
+  #- cs/CCCT-2552-ocs-tasks # Charl Jul 8
   - cs/CCCT-2553-ui-for-task-types # Charl Jul 8
   - mk/claude/2193-payment-upload-status # MK Jul 8
   - ay/invoice-drift-report # Ajeet Jul 10
