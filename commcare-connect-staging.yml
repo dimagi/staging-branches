@@ -4,6 +4,7 @@ branches:  # list of branches to merge into final branch
   - main
   - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
   - sr/staging-deploy # Hemant May 2 # DO NOT REMOVE!!
+  - cs/fix-staging-migrations # Charl Jul 20
   - hridaykedia:hk/AllowCustomHTMLTag # Pawan Nov 7
   - sr/programbudgets  # Sravan Feb 2
   - sr/release  # Sravan Feb 23
