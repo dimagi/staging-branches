@@ -5,7 +5,6 @@ branches:  # list of branches to merge into final branch
   - pkv/fix-staging-workers # Pawan April 30 # DO NOT REMOVE!!
   - sr/staging-deploy+cs/main-merge # charl 20 Jul
   - sr/staging-deploy # Hemant May 2 # DO NOT REMOVE!!
-  - temp-deploy-update # Charl Jul 2026 - can remove when deploy script allows to deploy to us-east-1 and eu-west-1
   - hridaykedia:hk/AllowCustomHTMLTag # Pawan Nov 7
   - sr/programbudgets  # Sravan Feb 2
   - sr/release  # Sravan Feb 23
