@@ -15,4 +15,5 @@ branches:  # list of branches to merge into final branch
   - mk/claude/2193-payment-upload-status # MK Jul 8
   - ay/invoice-drift-report # Ajeet Jul 10
   - pkv/ccct-2645-wag-centroid # Pawan Jul 17
+  - staging-only/drop-old-column-from-db # Charl Jul 21
 submodules:
