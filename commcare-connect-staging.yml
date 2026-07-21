@@ -2,7 +2,7 @@ trunk: main
 name: autostaging  # name of the branch to build
 branches:  # list of branches to merge into final branch
   - main
-  - staging-configs # Charl Jul 20
+  - staging-configs # Charl Jul 20 - DO NOT REMOVE
   - hridaykedia:hk/AllowCustomHTMLTag # Pawan Nov 7
   - sr/programbudgets  # Sravan Feb 2
   - sr/release  # Sravan Feb 23
