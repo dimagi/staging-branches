@@ -20,7 +20,7 @@ branches:
     - gh/linked-domain/unlink-apps  # @gherceg May 8
     - dmr/gettext_lazy  # Danny Apr 28
     - riese/cs_endpoints_operators_2 # Martin Jul 6
-    - jc/general-errors # Jing Jul 15
     - gh/use-bulk-async-jobs  # @gherceg Jul 16
     - es/project-db-endpoint  # Ethan Jul 22
+    - jc/put-feature-behind-release-toggle # Jing Jul 22
 submodules: {}
