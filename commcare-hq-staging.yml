@@ -18,7 +18,6 @@ branches:
     - mk/18611-ingest-ucr-poc-data # MK Oct 17
     # - ay/kyc-staging-test # Ajeet Dec 19 - Staging Only
     - gh/linked-domain/unlink-apps  # @gherceg May 8
-    - es/tableau-v3  # Ethan Jun 26
     - dmr/gettext_lazy  # Danny Apr 28
     - riese/cs_endpoints_operators_2 # Martin Jul 6
     - jc/general-errors # Jing Jul 15
