@@ -20,4 +20,5 @@ branches:  # list of branches to merge into final branch
   - ay/CCCT-2528-visit-agreement-tracking # Ajeet Jul 23
   - ay/CCCT-2528-visit-agreement-tracking+cs/CCCT-2553-ui-for-task-types # Ajeet Jul 23
   - sr/wag-map/CCCT-2647 # Sravan Jul 23
+  - sr/wag-map/CCCT-2647+pkv/ccct-2609-implementation-layer-ui+pkv/ccct-2645-wag-centroid  # Sravan Jul 23
 submodules:
