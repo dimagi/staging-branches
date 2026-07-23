@@ -22,4 +22,5 @@ branches:
     - riese/cs_endpoints_operators_2 # Martin Jul 6
     - gh/use-bulk-async-jobs  # @gherceg Jul 16
     - es/project-db-endpoint  # Ethan Jul 22
+    - es/tableau-v3  # Ethan Jul 23
 submodules: {}
