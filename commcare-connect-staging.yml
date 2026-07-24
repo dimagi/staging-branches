@@ -12,6 +12,7 @@ branches:  # list of branches to merge into final branch
   - cs/CCCT-2552-ocs-tasks # Charl Jul 8
   - cs/CCCT-2553-ui-for-task-types # Charl Jul 8
   - ay/invoice-drift-report # Ajeet Jul 10
+  - sr/wag-map/CCCT-2647+pkv/ccct-2609-implementation-layer-ui+pkv/ccct-2645-wag-centroid  # Sravan Jul 23
   - pkv/ccct-2609-implementation-layer-ui+pkv/ccct-2645-wag-centroid # Pawan Jul 22
   - pkv/ccct-2645-wag-centroid # Pawan Jul 17
   - hy/group-inital # Hemant Jul 22
@@ -20,5 +21,4 @@ branches:  # list of branches to merge into final branch
   - ay/CCCT-2528-visit-agreement-tracking # Ajeet Jul 23
   - ay/CCCT-2528-visit-agreement-tracking+cs/CCCT-2553-ui-for-task-types # Ajeet Jul 23
   - sr/wag-map/CCCT-2647 # Sravan Jul 23
-  - sr/wag-map/CCCT-2647+pkv/ccct-2609-implementation-layer-ui+pkv/ccct-2645-wag-centroid  # Sravan Jul 23
 submodules:
