@@ -9,12 +9,11 @@ branches:  # list of branches to merge into final branch
   - pkv/work-area-seed-command # Pawan March 17
   - pkv/microplanning-admin-models # Pawan May 15
   - ay/invoice-drift-report # Ajeet Jul 10
-  - sr/wag-map/CCCT-2647+pkv/ccct-2609-implementation-layer-ui+pkv/ccct-2645-wag-centroid  # Sravan Jul 23
+  #- sr/wag-map/CCCT-2647+pkv/ccct-2609-implementation-layer-ui+pkv/ccct-2645-wag-centroid  # Sravan Jul 23
   - pkv/ccct-2609-implementation-layer-ui+pkv/ccct-2645-wag-centroid # Pawan Jul 22
   - pkv/ccct-2645-wag-centroid # Pawan Jul 17
   - hy/group-inital # Hemant Jul 22
   - pkv/ccct-2585-ward-layer-models-import # Pawan Jul 22
   - pkv/ccct-2609-implementation-layer-ui # Pawan Jul 22
-  - sr/wag-map/CCCT-2647 # Sravan Jul 23
   - cs/CCCT-2553-ui-for-task-types # Charl Jul 27
 submodules:
