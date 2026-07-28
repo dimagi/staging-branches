@@ -10,6 +10,7 @@ branches:  # list of branches to merge into final branch
   - pkv/microplanning-admin-models # Pawan May 15
   - ay/invoice-drift-report # Ajeet Jul 10
   - cs/CCCT-2553-ui-for-task-types # Charl Jul 27
+  - hy/connected-accounts+cs/CCCT-2553-ui-for-task-types # Hemant Jul 28
   - hy/connected-accounts # Hemant Jul 27
   - hy/oauth-toolkit # Hemant Jul 28
 submodules:
