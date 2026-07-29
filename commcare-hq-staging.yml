@@ -26,4 +26,5 @@ branches:
     - jc/couch-to-sql-2 # Jing Jul 24
     - gh/bulk-async-jobs-dual-path  # Graham Jul 28
     - gh/disable-payload-btn-succeeded  # Graham Jul 29
+    - gh/dont-show-soft-deleted-payloads  # @gherceg Jul 29
 submodules: {}
