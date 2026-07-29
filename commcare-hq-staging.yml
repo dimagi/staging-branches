@@ -20,9 +20,10 @@ branches:
     - gh/linked-domain/unlink-apps  # @gherceg May 8
     - dmr/gettext_lazy  # Danny Apr 28
     - riese/cs_endpoints_operators_2 # Martin Jul 6
-    - gh/bulk-async-jobs-dual-path  # Graham Jul 16
     - es/project-db-endpoint  # Ethan Jul 22
     - es/tableau-v3  # Ethan Jul 23
     - dmr/enterprise-per-domain-billing  # @dannyroberts Jul 24
     - jc/couch-to-sql-2 # Jing Jul 24
+    - gh/bulk-async-jobs-dual-path  # Graham Jul 28
+    - gh/disable-payload-btn-succeeded  # Graham Jul 29
 submodules: {}
