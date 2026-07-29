@@ -13,4 +13,5 @@ branches:  # list of branches to merge into final branch
   - hy/connected-accounts+cs/CCCT-2553-ui-for-task-types # Hemant Jul 28
   - hy/connected-accounts # Hemant Jul 27
   - hy/oauth-toolkit # Hemant Jul 28
+  - pkv/ccct-2649-clear-work-areas # Pawan Jul 29
 submodules:
