@@ -15,4 +15,6 @@ branches:  # list of branches to merge into final branch
   - hy/oauth-toolkit # Hemant Jul 28
   - pkv/ccct-2649-clear-work-areas # Pawan Jul 29
   - ctsims/url_presigning # Clayton Jul 29
+  - ze/CCCT-2473-remove-unused-dependencies # Zandre Jul 30
+  - ze/CCCT-2474-modernize-js-build-toolchain # Zandre Jul 30
 submodules:
