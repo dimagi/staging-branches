@@ -15,4 +15,5 @@ branches:  # list of branches to merge into final branch
   - hy/oauth-toolkit # Hemant Jul 28
   - pkv/ccct-2649-clear-work-areas # Pawan Jul 29
   - ctsims/url_presigning # Clayton Jul 29
+  - pkv/ccct-2557-data-model-changes # Pawan Jul 30
 submodules:
