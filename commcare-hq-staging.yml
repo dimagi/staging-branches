@@ -29,5 +29,4 @@ branches:
     - dmr/audit-non-monthly-invoicing  # @dannyroberts Jul 30
     - riese/fix_analytics_module_name # Martin Jul 31
     - gh/bulkasyncjob-in-archive-ui  # Graham Jul 31
-    - ap/app-import-api-csrf-exempt # Amit Aug 3
 submodules: {}
