@@ -16,6 +16,6 @@ branches:  # list of branches to merge into final branch
   - ze/CCCT-2473-remove-unused-dependencies+ze/CCCT-2474-modernize-js-build-toolchain+hy/oauth-toolkit # Zandre Jul 30
   - ze/CCCT-2473-remove-unused-dependencies # Zandre Jul 30
   - ze/CCCT-2474-modernize-js-build-toolchain # Zandre Jul 30
-  - sr/drop-managedopp/CCCT-2503  # Sravan Aug 3
-  - sr/htmx-upgrade+cs/CCCT-2553-ui-for-task-types  # Sravan Aug 4
+  - sr/drop-managedopp/CCCT-2503+cs/CCCT-2553-ui-for-task-types  # Sravan Aug 3
+  - sr/htmx-upgrade  # Sravan Aug 4
 submodules:
