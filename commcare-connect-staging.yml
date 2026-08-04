@@ -13,9 +13,6 @@ branches:  # list of branches to merge into final branch
   - hy/connected-accounts+cs/CCCT-2553-ui-for-task-types # Hemant Jul 28
   - hy/connected-accounts # Hemant Jul 27
   - ctsims/url_presigning # Clayton Jul 29
-  - ze/CCCT-2473-remove-unused-dependencies+ze/CCCT-2474-modernize-js-build-toolchain+hy/oauth-toolkit # Zandre Jul 30
-  - ze/CCCT-2473-remove-unused-dependencies # Zandre Jul 30
-  - ze/CCCT-2474-modernize-js-build-toolchain # Zandre Jul 30
   - sr/drop-managedopp/CCCT-2503+cs/CCCT-2553-ui-for-task-types  # Sravan Aug 3
   - sr/htmx-upgrade  # Sravan Aug 4
   - pkv/ccct-2696-searchable-microplanning-entities # Pawan Aug 4
