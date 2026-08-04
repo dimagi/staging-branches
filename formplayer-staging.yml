@@ -4,7 +4,9 @@ trunk: master
 name: autostaging
 branches:
   - riese/ga_split_screen
+  - riese/menuname_for_datadog
 submodules:
   libs/commcare:
     trunk: master
-    branches: []
+    branches:
+      - riese/menu_title
