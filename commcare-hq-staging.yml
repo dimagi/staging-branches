@@ -24,8 +24,6 @@ branches:
     - es/tableau-v3  # Ethan Jul 23
     - dmr/enterprise-per-domain-billing  # @dannyroberts Jul 24
     - jc/couch-to-sql-2 # Jing Jul 24
-    - gh/disable-payload-btn-succeeded  # Graham Jul 29
-    - gh/dont-show-soft-deleted-payloads  # @gherceg Jul 29
     - dmr/audit-non-monthly-invoicing  # @dannyroberts Jul 30
     - riese/fix_analytics_module_name # Martin Jul 31
     - gh/bulkasyncjob-in-archive-ui  # Graham Jul 31
