@@ -14,6 +14,5 @@ branches:  # list of branches to merge into final branch
   - hy/connected-accounts # Hemant Jul 27
   - ctsims/url_presigning # Clayton Jul 29
   - sr/drop-managedopp/CCCT-2503+cs/CCCT-2553-ui-for-task-types  # Sravan Aug 3
-  - sr/htmx-upgrade  # Sravan Aug 4
   - pkv/ccct-2696-searchable-microplanning-entities # Pawan Aug 4
 submodules:
