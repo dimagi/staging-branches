@@ -11,5 +11,4 @@ branches:  # list of branches to merge into final branch
   - ay/invoice-drift-report # Ajeet Jul 10
   - ctsims/url_presigning # Clayton Jul 29
   - pkv/ccct-2696-searchable-microplanning-entities # Pawan Aug 4
-  - sr/drop-managedopp/CCCT-2503+cs/CCCT-2553-ui-for-task-types # Sravan
 submodules:
