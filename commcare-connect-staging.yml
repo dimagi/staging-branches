@@ -12,4 +12,5 @@ branches:  # list of branches to merge into final branch
   - ctsims/url_presigning # Clayton Jul 29
   - pkv/ccct-2696-searchable-microplanning-entities # Pawan Aug 4
   - ay/CCCT-2644-update-metrics-calcualation # Ajeet Aug 6
+  - ay/CCCT-2644-update-metrics-calcualation+pkv/ccct-2696-searchable-microplanning-entities # Ajeet Aug 6
 submodules:
