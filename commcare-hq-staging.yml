@@ -27,4 +27,5 @@ branches:
     - riese/fix_analytics_module_name # Martin Jul 31
     - gh/bulkasyncjob-in-archive-ui  # Graham Jul 31
     - riese/cs_endpoints_query_builder_sql # Martin Aug 7
+    - dmr/remove-non-monthly-invoicing  # @dannyroberts Aug 10
 submodules: {}
