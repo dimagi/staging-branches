@@ -27,5 +27,4 @@ branches:
     - gh/bulkasyncjob-in-archive-ui  # Graham Jul 31
     - riese/cs_endpoints_query_builder_sql # Martin Aug 7
     - dmr/remove-non-monthly-invoicing  # @dannyroberts Aug 10
-    - gh/drop-auditcare-data  # @gherceg Aug 11
 submodules: {}
