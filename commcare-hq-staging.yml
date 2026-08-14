@@ -21,7 +21,6 @@ branches:
     - dmr/gettext_lazy  # Danny Apr 28
     - es/project-db-endpoint  # Ethan Jul 22
     - es/tableau-v3  # Ethan Jul 23
-    - jc/couch-to-sql-2 # Jing Jul 24
     - dmr/audit-non-monthly-invoicing  # @dannyroberts Jul 30
     - riese/fix_analytics_module_name # Martin Jul 31
     - gh/bulkasyncjob-in-archive-ui  # Graham Jul 31
