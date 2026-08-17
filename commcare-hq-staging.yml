@@ -22,7 +22,6 @@ branches:
     - es/project-db-endpoint  # Ethan Jul 22
     - es/tableau-v3  # Ethan Jul 23
     - dmr/audit-non-monthly-invoicing  # @dannyroberts Jul 30
-    - riese/fix_analytics_module_name # Martin Jul 31
     - gh/bulkasyncjob-in-archive-ui  # Graham Jul 31
     - riese/cs_endpoints_query_builder_sql # Martin Aug 7
     - dmr/offboarding-list-accounting-admins  # @dannyroberts Aug 13
