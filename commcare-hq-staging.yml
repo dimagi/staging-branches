@@ -28,4 +28,5 @@ branches:
     - ejp/public-webforms-admin-ui-create  # Evan Aug 13
     - ejp/public-webforms-admin-ui-manage  # Evan Aug 13
     - ejp/public-webforms-admin-ui-edit  # Evan Aug 13
+    - ap/mcp-server # Amit Aug 17
 submodules: {}
