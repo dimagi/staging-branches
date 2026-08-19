@@ -29,4 +29,5 @@ branches:
     - ejp/public-webforms-admin-ui-edit  # Evan Aug 13
     - ap/mcp-server # Amit Aug 17
     - ce/openapi-spec # Cal Aug 19
+    - nh/openapi-specs-groom  # @kaapstorm Aug 19
 submodules: {}
