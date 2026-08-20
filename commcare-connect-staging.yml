@@ -12,6 +12,8 @@ branches:  # list of branches to merge into final branch
   - hy/django-5.2 # Hemant Aug 12
   - ze/CCCT-2689-payment-import-error-reporting # Zandre Aug 13
   - ze/CCCT-2565-open-org-creation # Zandre Aug 13
+  - ay/invoice-delta-cutover # Ajeet Aug 20
+  - ay/invoice-line-item-read # Ajeet Aug 20
   - ay/invoice-line-items-backfill # Ajeet Aug 16
   - ay/invoice-rollback-on-cancel # Ajeet Aug 16
   - ay/CCCT-2410-catch-up-count # Ajeet Aug 18
