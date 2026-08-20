@@ -19,6 +19,7 @@ branches:
     - gh/linked-domain/unlink-apps  # @gherceg May 8
     - dmr/gettext_lazy  # Danny Apr 28
     - es/project-db-endpoint  # Ethan Jul 22
+    - es/test-projectdb-queries
     - es/tableau-v3  # Ethan Jul 23
     - dmr/audit-non-monthly-invoicing  # @dannyroberts Jul 30
     - gh/bulkasyncjob-in-archive-ui  # Graham Jul 31
