@@ -15,6 +15,7 @@ branches:  # list of branches to merge into final branch
   - ay/invoice-line-items-backfill # Ajeet Aug 16
   - ay/invoice-rollback-on-cancel # Ajeet Aug 16
   - ay/CCCT-2410-catch-up-count # Ajeet Aug 18
+  - pkv/ccct-2562-repoint-lloentity-surfaces-2+cs/CCCT-2563-org-merge-tool # Charl Aug 21
   - cs/CCCT-2563-org-merge-tool # Charl Aug 18
   - pkv/ccct-2562-repoint-lloentity-surfaces-2 # Pawan Aug 21
 submodules:
