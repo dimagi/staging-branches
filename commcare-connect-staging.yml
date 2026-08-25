@@ -14,6 +14,6 @@ branches:  # list of branches to merge into final branch
   - ze/CCCT-2565-open-org-creation # Zandre Aug 13
   - ay/CCCT-2410-catch-up-count # Ajeet Aug 18
   - pkv/ccct-2562-repoint-lloentity-surfaces-2 # Pawan Aug 21
-  #- mk/claude/2559-program-access-redesign-ui # MK Aug 22
   - cs/CCCT-2566-invitation-model # Charl Aug 25
+  - mk/claude/2559-program-opp-access-redesign-ui # MK Aug 25
 submodules:
