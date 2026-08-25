@@ -15,4 +15,5 @@ branches:  # list of branches to merge into final branch
   - ay/CCCT-2410-catch-up-count # Ajeet Aug 18
   - pkv/ccct-2562-repoint-lloentity-surfaces-2 # Pawan Aug 21
   - mk/claude/2559-program-access-redesign-ui # MK Aug 22
+  - cs/CCCT-2566-invitation-model # Charl Aug 25
 submodules:
