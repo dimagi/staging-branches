@@ -16,5 +16,4 @@ branches:  # list of branches to merge into final branch
   - pkv/ccct-2562-repoint-lloentity-surfaces-2+mk/claude/2559-program-opp-access-redesign-ui
   - pkv/ccct-2562-repoint-lloentity-surfaces-2 # Pawan Aug 21
   - mk/claude/2559-program-opp-access-redesign-ui # MK Aug 25
-  - cs/CCCT-2566-invitation-model # Charl Aug 25
 submodules:
