@@ -14,7 +14,7 @@ branches:  # list of branches to merge into final branch
   - ze/CCCT-2565-open-org-creation # Zandre Aug 13
   - ay/CCCT-2410-catch-up-count # Ajeet Aug 18
   - ay/CCCT-2558-role-aware-permission+pkv/ccct-2562-repoint-lloentity-surfaces-2+mk/claude/2559-program-opp-access-redesign-ui # Ajeet Aug 26
-  # - pkv/ccct-2562-repoint-lloentity-surfaces-2+mk/claude/2559-program-opp-access-redesign-ui
+  - pkv/ccct-2562-repoint-lloentity-surfaces-2+mk/claude/2559-program-opp-access-redesign-ui
   - pkv/ccct-2562-repoint-lloentity-surfaces-2 # Pawan Aug 21
   - mk/claude/2559-program-opp-access-redesign-ui # MK Aug 25
   - ay/CCCT-2558-role-aware-permission # Ajeet Aug 26
