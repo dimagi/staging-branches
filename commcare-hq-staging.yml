@@ -26,7 +26,6 @@ branches:
     - ejp/public-webforms-admin-ui-manage  # Evan Aug 13
     - ejp/public-webforms-admin-ui-edit  # Evan Aug 13
     # - ap/mcp-server # Amit Aug 17
-    - dependency-upgrade/django-oauth-toolkit-3.4.0 # Amit Aug 20
     - ce/openapi-spec # Cal Aug 19
     - ce/openapi-spec+nh/openapi-specs-groom  # @kaapstorm Aug 19
     - nh/openapi-specs-groom  # @kaapstorm Aug 19
