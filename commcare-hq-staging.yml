@@ -21,7 +21,6 @@ branches:
     - es/projdb-advanced-queries  # Ethan Aug 26
     - es/tableau-v3  # Ethan Jul 23
     - dmr/audit-non-monthly-invoicing  # @dannyroberts Jul 30
-    - riese/cs_endpoints_query_builder_sql # Martin Aug 7
     - dmr/offboarding-list-accounting-admins  # @dannyroberts Aug 13
     - ejp/public-webforms-admin-ui-manage  # Evan Aug 13
     - ejp/public-webforms-admin-ui-edit  # Evan Aug 13
