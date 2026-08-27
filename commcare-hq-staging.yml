@@ -29,6 +29,5 @@ branches:
     - ce/openapi-spec+nh/openapi-specs-groom  # @kaapstorm Aug 19
     - nh/openapi-specs-groom  # @kaapstorm Aug 19
     - ay/payments-trigger-buttons-demo # Ajeet Aug 20
-    - ejp/cloudflare-turnstile-field  # Evan Aug 27
     - ejp/public-webforms-landing  # Evan Aug 27
 submodules: {}
