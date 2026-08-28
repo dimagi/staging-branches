@@ -21,7 +21,6 @@ branches:
     - es/tableau-v3  # Ethan Jul 23
     - dmr/audit-non-monthly-invoicing  # @dannyroberts Jul 30
     - dmr/offboarding-list-accounting-admins  # @dannyroberts Aug 13
-    - ejp/public-webforms-admin-ui-manage  # Evan Aug 13
     - ejp/public-webforms-admin-ui-edit  # Evan Aug 13
     # - ap/mcp-server # Amit Aug 17
     - ce/openapi-spec # Cal Aug 19
