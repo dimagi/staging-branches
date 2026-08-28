@@ -18,7 +18,6 @@ branches:
     # - ay/kyc-staging-test # Ajeet Dec 19 - Staging Only
     - gh/linked-domain/unlink-apps  # @gherceg May 8
     - dmr/gettext_lazy  # Danny Apr 28
-    - es/projdb-advanced-queries  # Ethan Aug 26
     - es/tableau-v3  # Ethan Jul 23
     - dmr/audit-non-monthly-invoicing  # @dannyroberts Jul 30
     - dmr/offboarding-list-accounting-admins  # @dannyroberts Aug 13
