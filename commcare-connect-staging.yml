@@ -16,4 +16,5 @@ branches:  # list of branches to merge into final branch
   - pkv/ccct-2562-repoint-lloentity-surfaces-2 # Pawan Aug 21
   - mk/claude/2559-program-opp-access-redesign-ui # MK Aug 25
   - ay/CCCT-2558-role-aware-permission # Ajeet Aug 26
+  - mk/claude/2753-inaccessible-mode # MK Aug 29
 submodules:
