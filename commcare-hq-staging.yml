@@ -30,4 +30,5 @@ branches:
     - ejp/public-webforms-landing  # Evan Aug 27
     - ay/connect-messaging-fixes # Ajeet Aug 31
     - riese/cs_endpoints_sql_hook_up # Martin Aug 31
+    - ejp/linked-domain-downstream-eligibility  # Evan Aug 31
 submodules: {}
