@@ -28,4 +28,5 @@ branches:
     - nh/openapi-specs-groom  # @kaapstorm Aug 19
     - ay/payments-trigger-buttons-demo # Ajeet Aug 20
     - ejp/public-webforms-landing  # Evan Aug 27
+    - ay/connect-messaging-fixes # Ajeet Aug 31
 submodules: {}
