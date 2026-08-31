@@ -18,4 +18,5 @@ branches:  # list of branches to merge into final branch
   - sk/map-zoom+mk/claude/2753-inaccessible-mode # Simon Aug 31
   - mk/claude/2753-inaccessible-mode # MK Aug 29
   - sk/map-zoom # Simon Aug 31
+  - ay/CCCT-2558-role-aware-permission+sk/map-zoom  # Simon Aug 31
 submodules:
