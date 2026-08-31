@@ -29,4 +29,5 @@ branches:
     - ay/payments-trigger-buttons-demo # Ajeet Aug 20
     - ejp/public-webforms-landing  # Evan Aug 27
     - ay/connect-messaging-fixes # Ajeet Aug 31
+    - riese/cs_endpoints_sql_hook_up # Martin Aug 31
 submodules: {}
