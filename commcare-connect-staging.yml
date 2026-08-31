@@ -19,5 +19,4 @@ branches:  # list of branches to merge into final branch
   - mk/claude/2753-inaccessible-mode # MK Aug 29
   - sk/map-zoom # Simon Aug 31
   - ay/CCCT-2558-role-aware-permission+sk/map-zoom  # Simon Aug 31
-  - cs/CCCT-2750-add-buildings-info # Charl Aug 31
 submodules:
