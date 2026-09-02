@@ -12,6 +12,7 @@ branches:  # list of branches to merge into final branch
   - ay/CCCT-2558-role-aware-permission+pkv/ccct-2562-repoint-lloentity-surfaces-2+mk/claude/2559-program-opp-access-redesign-ui # Ajeet Aug 26
   - pkv/ccct-2562-repoint-lloentity-surfaces-2 # Pawan Aug 21
   - mk/claude/2559-program-opp-access-redesign-ui # MK Aug 25
+  - ay/CCCT-2558-role-aware-permission+cs/CCCT-2566-invitation-model # Ajeet Sep 2
   - ay/CCCT-2558-role-aware-permission # Ajeet Aug 26
   - cs/CCCT-2566-invitation-model # Charl Aug 31
   - sk/map-zoom # Simon Aug 31
