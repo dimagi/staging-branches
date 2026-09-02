@@ -15,5 +15,4 @@ branches:  # list of branches to merge into final branch
   - sk/map-zoom # Simon Aug 31
   - ay/CCCT-2558-role-aware-permission+sk/map-zoom  # Simon Aug 31
   - hy/invoice-pdf-details # Hemant Sep 2
-  - cs/CCCT-2750-fetch-buildings-info # Charl Sep 2
 submodules:
