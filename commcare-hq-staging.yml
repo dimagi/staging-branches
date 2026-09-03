@@ -30,5 +30,4 @@ branches:
     - ejp/public-webforms-landing  # Evan Aug 27
     - ay/connect-messaging-fixes # Ajeet Aug 31
     - riese/cs_endpoints_number_param # Martin Aug 31
-    - nh/copy-apps  # @kaapstorm Sep 2
 submodules: {}
