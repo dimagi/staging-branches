@@ -18,7 +18,6 @@ branches:
     # - ay/kyc-staging-test # Ajeet Dec 19 - Staging Only
     - gh/linked-domain/unlink-apps  # @gherceg May 8
     - dmr/gettext_lazy  # Danny Apr 28
-    - es/tableau-v3  # Ethan Jul 23
     - dmr/audit-non-monthly-invoicing  # @dannyroberts Jul 30
     - dmr/offboarding-list-accounting-admins  # @dannyroberts Aug 13
     - ejp/public-webforms-admin-ui-edit  # Evan Aug 13
@@ -29,4 +28,5 @@ branches:
     - ay/payments-trigger-buttons-demo # Ajeet Aug 20
     - ejp/public-webforms-landing  # Evan Aug 27
     - ay/connect-messaging-fixes # Ajeet Aug 31
+    - es/no-case-case-search  # Ethan Sep 4
 submodules: {}
