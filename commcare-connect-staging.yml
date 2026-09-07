@@ -11,8 +11,6 @@ branches:  # list of branches to merge into final branch
   - mk/claude/2559-program-opp-access-redesign-ui # MK Aug 25
   - ay/CCCT-2558-role-aware-permission+cs/CCCT-2566-invitation-model # Ajeet Sep 2
   - ay/CCCT-2558-role-aware-permission # Ajeet Aug 26
-  - cs/CCCT-2566-invitation-model # Charl Aug 31
-  - cs/CCCT-2566-members-page-styling # Charl Sep 4
   - sk/map-zoom # Simon Aug 31
   - ay/CCCT-2558-role-aware-permission+sk/map-zoom  # Simon Aug 31
   - hy/invoice-pdf-details # Hemant Sep 2
