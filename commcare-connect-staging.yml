@@ -14,10 +14,10 @@ branches:  # list of branches to merge into final branch
   - mk/claude/2559-program-opp-access-redesign-ui # MK Aug 25
   - sk/map-zoom # Simon Aug 31
   - ay/CCCT-2558-role-aware-permission+sk/map-zoom  # Simon Aug 31
-  # - hy/audit-report-ended-opps # Sep 8 Hemant
-  # - hy/opp-currency-format # Sep 8 Hemant
-  # - hy/invoice-usd-rounding # Sep 8 Hemant
-  # - hy/multi-deliver-unit-limit # Sep 8 Hemant
   - cs/CCCT-2750-fetch-buildings-info # Charl Sep 8
   - fix/autostaging-migrations # Charl Sep 8
+  - hy/audit-report-ended-opps # Sep 8 Hemant
+  - hy/opp-currency-format # Sep 8 Hemant
+  - hy/invoice-usd-rounding # Sep 8 Hemant
+  - hy/multi-deliver-unit-limit # Sep 8 Hemant
 submodules:
