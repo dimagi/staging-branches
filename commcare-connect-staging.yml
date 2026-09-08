@@ -14,4 +14,5 @@ branches:  # list of branches to merge into final branch
   - ay/CCCT-2558-role-aware-permission+sk/map-zoom  # Simon Aug 31
   # - hy/audit-report-ended-opps # Sep 8 Hemant
   # - hy/opp-currency-format # Sep 8 Hemant
+  # - hy/invoice-usd-rounding # Sep 8 Hemant
 submodules:
