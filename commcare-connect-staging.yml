@@ -8,6 +8,7 @@ branches:  # list of branches to merge into final branch
   - sr/release  # Sravan Feb 23
   - ctsims/url_presigning # Clayton Jul 29
   # - ay/CCCT-2558-role-aware-permission+pkv/ccct-2562-repoint-lloentity-surfaces-2+mk/claude/2559-program-opp-access-redesign-ui # Ajeet Aug 26
+  - ay/CCCT-2558-role-aware-permission+cs/CCCT-2750-fetch-buildings-info # Charl Sep 8
   - ay/CCCT-2558-role-aware-permission # Ajeet Aug 26
   - mk/claude/2559-program-opp-access-redesign-ui+main # Ajeet Sep 8
   - mk/claude/2559-program-opp-access-redesign-ui # MK Aug 25
