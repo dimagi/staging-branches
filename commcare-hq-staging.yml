@@ -26,4 +26,6 @@ branches:
     - ay/payments-trigger-buttons-demo # Ajeet Aug 20
     - ay/connect-messaging-fixes # Ajeet Aug 31
     - es/no-case-case-search  # Ethan Sep 4
+    - es/user-sql-fixes  # Ethan Sep 9
+    - es/projectdb-metrics  # Ethan Sep 9
 submodules: {}
