@@ -18,6 +18,6 @@ branches:  # list of branches to merge into final branch
   - fix/autostaging-migrations # Charl Sep 8
   - hy/audit-report-ended-opps # Sep 8 Hemant
   # - hy/opp-currency-format # Sep 8 Hemant
-  - hy/invoice-usd-rounding # Sep 8 Hemant
+  # - hy/invoice-usd-rounding # Sep 8 Hemant
   - hy/multi-deliver-unit-limit # Sep 8 Hemant
 submodules:
