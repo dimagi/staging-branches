@@ -19,4 +19,5 @@ branches:  # list of branches to merge into final branch
   # - hy/invoice-usd-rounding # Sep 8 Hemant
   - hy/multi-deliver-unit-limit # Sep 8 Hemant
   - hy/toggles-timeout # Sep 9 Hemant
+  - hy/invoice-pdf # Sep 10 Hemant
 submodules:
