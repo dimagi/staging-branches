@@ -8,7 +8,6 @@ branches:  # list of branches to merge into final branch
   - sr/release  # Sravan Feb 23
   - ctsims/url_presigning # Clayton Jul 29
   - ay/CCCT-2558-role-aware-permission # Ajeet Aug 26
-  - mk/claude/2559-program-opp-access-redesign-ui+main # Ajeet Sep 8
   - mk/claude/2559-program-opp-access-redesign-ui # MK Aug 25
   - cs/CCCT-2750-overture-buildings-pmtiles # Charl Sep 10
   # - hy/invoice-usd-rounding # Sep 8 Hemant
