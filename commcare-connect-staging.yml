@@ -13,4 +13,5 @@ branches:  # list of branches to merge into final branch
   - hy/multi-deliver-unit-limit # Sep 8 Hemant
   - ay/drop-completedWork-invoice-fk+mk/claude/2559-program-opp-access-redesign-ui # Ajeet Sep 10
   - ay/drop-completedWork-invoice-fk # Ajeet Sep 10
+  - ay/CI-857-Remove-catchment-areas-feature # Ajeet Sep 11
 submodules:
