@@ -26,4 +26,5 @@ branches:
     - ay/payments-trigger-buttons-demo # Ajeet Aug 20
     - ay/connect-messaging-fixes # Ajeet Aug 31
     - es/projectdb-metrics  # Ethan Sep 9
+    - jc/copy-fixture-when-import-app # Jing Sep 12
 submodules: {}
