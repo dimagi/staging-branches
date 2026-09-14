@@ -13,5 +13,4 @@ branches:  # list of branches to merge into final branch
   - hy/multi-deliver-unit-limit # Sep 8 Hemant
   - ay/drop-completedWork-invoice-fk # Ajeet Sep 10
   - fix-autostaging-migrations # Charl Sep 14
-  - cs/trigger-post-deploy-qa # Charl Sep 14
 submodules:
