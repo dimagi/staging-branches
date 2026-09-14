@@ -20,8 +20,6 @@ branches:
     - dmr/gettext_lazy  # Danny Apr 28
     - dmr/audit-non-monthly-invoicing  # @dannyroberts Jul 30
     - dmr/offboarding-list-accounting-admins  # @dannyroberts Aug 13
-    - ce/openapi-spec # Cal Aug 19
-    - ce/openapi-spec+nh/openapi-specs-groom  # @kaapstorm Aug 19
     - nh/openapi-specs-groom  # @kaapstorm Aug 19
     - ay/payments-trigger-buttons-demo # Ajeet Aug 20
     - ay/connect-messaging-fixes # Ajeet Aug 31
