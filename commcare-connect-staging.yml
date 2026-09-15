@@ -12,4 +12,5 @@ branches:  # list of branches to merge into final branch
   # - hy/invoice-usd-rounding # Sep 8 Hemant
   - hy/multi-deliver-unit-limit # Sep 8 Hemant
   - ay/drop-completedWork-invoice-fk # Ajeet Sep 10
+  - sk/invoice-bulk-export-CCCT-2771 # Simon Sep 15
 submodules:
