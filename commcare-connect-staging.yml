@@ -12,7 +12,7 @@ branches:  # list of branches to merge into final branch
   - mk/claude/2753-inaccessible-mode # MK Sep 15
   - hy/fix-unclaimed-delivery-notification # Hemant Sep 16
   - ay/CI-857-Remove-catchment-areas-feature+mk/claude/2559-program-opp-access-redesign-ui # Ajeet Sep 16
-  - ay/CI-857-Remove-catchment-areas-feature # Ajeet Sep 16
   - ay/CCCT-2813-programs-opps-list+sk/invoice-bulk-export-ui-CCCT-2771 # Ajeet Sep 17
+  - ay/CI-857-Remove-catchment-areas-feature # Ajeet Sep 16
   - ay/CCCT-2813-programs-opps-list # Ajeet Sep 17
 submodules:
