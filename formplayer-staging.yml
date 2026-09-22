@@ -2,10 +2,7 @@
 
 trunk: master
 name: autostaging
-branches:
-  - ejp/public-webforms-auth  # Evan Aug 12
-  - ejp/public-webforms-confinement  # Evan Aug 12
-  - ejp/public-webforms-cleanup  # Evan Aug 12
+branches: []
 submodules:
   libs/commcare:
     trunk: master
