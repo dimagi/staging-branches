@@ -10,6 +10,6 @@ branches:  # list of branches to merge into final branch
   - sk/invoice-bulk-export-ui-CCCT-2771 # Simon Sep 15
   - hy/fix-unclaimed-delivery-notification # Hemant Sep 16
   - ay/CCCT-2813-programs-opps-list+sk/invoice-bulk-export-ui-CCCT-2771 # Ajeet Sep 17
-  # - ay/CI-857-Remove-catchment-areas-feature # Ajeet Sep 16
+  - ay/CI-857-Remove-catchment-areas-feature # Ajeet Sep 16
   - ay/CCCT-2813-programs-opps-list # Ajeet Sep 17
 submodules:
