@@ -12,4 +12,5 @@ branches:  # list of branches to merge into final branch
   - ay/CCCT-2813-programs-opps-list+sk/invoice-bulk-export-ui-CCCT-2771 # Ajeet Sep 17
   - ay/CCCT-2813-programs-opps-list # Ajeet Sep 17
   - mk/claude/2767-record-over-limit-reason # MK Sep 22
+  - cs/CI-945-claim-robustness # Charl Sep 23
 submodules:
