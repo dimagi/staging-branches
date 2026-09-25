@@ -14,7 +14,6 @@ branches:  # list of branches to merge into final branch
   - mk/claude/2767-record-over-limit-reason # MK Sep 22
   - cs/CI-945-claim-robustness # Charl Sep 23
   - hy/invite-completion # Hemant Sep 23
-  - mk/claude/2753-inaccessible-mode-followup # MK Sep 24
   #- cs/CI-970-block-claim-if-partial-budget # Charl Sep 24
   - mk/claude/2559-program-form-tomselect-init # MK Sep 25
 submodules:
