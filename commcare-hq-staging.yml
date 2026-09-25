@@ -24,7 +24,6 @@ branches:
     - ay/connect-messaging-fixes # Ajeet Aug 31
     - es/date-stuff+es/project-db-domain-user  # Ethan Sep 18
     - es/project-db-domain-user # Martin Sep 14
-    - kc/prelogin-refresh-css  # Evan Sep 16
     - gh/bulk-form-actions-api-docs  # @gherceg Sep 23
     - ejp/public-webforms-build  # Evan Sep 23
     - ejp/public-webforms-session-auth  # Evan Sep 23
