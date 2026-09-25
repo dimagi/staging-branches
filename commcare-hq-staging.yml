@@ -28,5 +28,4 @@ branches:
     - ejp/public-webforms-build  # Evan Sep 23
     - ejp/public-webforms-session-auth  # Evan Sep 23
     - ejp/public-webforms-page  # Evan Sep 23
-    - ejp/break-username-case-history  # Evan Sep 25
 submodules: {}
