@@ -15,5 +15,5 @@ branches:  # list of branches to merge into final branch
   - cs/CI-945-claim-robustness # Charl Sep 23
   - hy/invite-completion # Hemant Sep 23
   - mk/claude/2753-inaccessible-mode-followup # MK Sep 24
-  - cs/CI-970-block-claim-if-partial-budget # Charl Sep 24
+  #- cs/CI-970-block-claim-if-partial-budget # Charl Sep 24
 submodules:
