@@ -18,4 +18,5 @@ branches:  # list of branches to merge into final branch
   - mk/claude/2559-program-form-tomselect-init # MK Sep 25
   - ay/CCCT-2794-hide-export-status-without-access+sk/invoice-bulk-export-tasks-CCCT-2771 # Ajeet Sep 28
   - ay/CCCT-2794-hide-export-status-without-access # Ajeet Sep 28
+  - ay/invoice-form-fixes # Ajeet Sep 28
 submodules:
