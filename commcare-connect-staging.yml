@@ -12,7 +12,6 @@ branches:  # list of branches to merge into final branch
   - mk/claude/2767-record-over-limit-reasons # MK Sep 22
   - hy/invite-completion # Hemant Sep 23
   - cs/CI-970-block-claim-if-partial-budget # Charl Sep 24
-  - ay/CCCT-2794-hide-export-status-without-access # Ajeet Sep 28
   - ay/invoice-form-fixes # Ajeet Sep 28
   - hy/org-profile-edit-form # Hemant Sep 29
   - ay/ccct-2751-audit-report-update # Ajeet Sep 29
