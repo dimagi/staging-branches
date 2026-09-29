@@ -7,8 +7,8 @@ branches:  # list of branches to merge into final branch
   - sr/programbudgets  # Sravan Feb 2
   - sr/release  # Sravan Feb 23
   - ctsims/url_presigning # Clayton Jul 29
-  - ay/invoice-form-fixes+/sk/invoice-bulk-export-tasks-CCCT-2771 # Ajeet Sep 28
-  - sk/invoice-bulk-export-tasks-CCCT-2771 # Simon Sep 15
+  # - ay/invoice-form-fixes+/sk/invoice-bulk-export-tasks-CCCT-2771 # Ajeet Sep 28
+  # - sk/invoice-bulk-export-tasks-CCCT-2771 # Simon Sep 15
   - hy/fix-unclaimed-delivery-notification # Hemant Sep 16
   # - ay/CCCT-2813-programs-opps-list+sk/invoice-bulk-export-ui-CCCT-2771 # Ajeet Sep 17
   # - ay/CCCT-2813-programs-opps-list # Ajeet Sep 17
@@ -17,9 +17,9 @@ branches:  # list of branches to merge into final branch
   - hy/invite-completion # Hemant Sep 23
   #- cs/CI-970-block-claim-if-partial-budget # Charl Sep 24
   - mk/claude/2559-program-form-tomselect-init # MK Sep 25
-  # - ay/CCCT-2794-hide-export-status-without-access+sk/invoice-bulk-export-tasks-CCCT-2771 # Ajeet Sep 28
-  # - ay/CCCT-2794-hide-export-status-without-access # Ajeet Sep 28
+  - ay/CCCT-2794-hide-export-status-without-access # Ajeet Sep 28
   - ay/invoice-form-fixes # Ajeet Sep 28
   - hy/invite+org_form # Hemant Sep 29
   - hy/org-profile-edit-form # Hemant Sep 29
+  - ay/ccct-2751-audit-report-update # Ajeet Sep 29
 submodules:
