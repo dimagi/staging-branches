@@ -9,10 +9,9 @@ branches:  # list of branches to merge into final branch
   - ctsims/url_presigning # Clayton Jul 29
   - hy/fix-unclaimed-delivery-notification # Hemant Sep 16
   # - ay/CCCT-2813-programs-opps-list # Ajeet Sep 17
-  - mk/claude/2767-record-over-limit-reason # MK Sep 22
+  - mk/claude/2767-record-over-limit-reasons # MK Sep 22
   - hy/invite-completion # Hemant Sep 23
   - cs/CI-970-block-claim-if-partial-budget # Charl Sep 24
-  - mk/claude/2559-program-form-tomselect-init # MK Sep 25
   - ay/CCCT-2794-hide-export-status-without-access # Ajeet Sep 28
   - ay/invoice-form-fixes # Ajeet Sep 28
   - hy/org-profile-edit-form # Hemant Sep 29
