@@ -15,7 +15,6 @@ branches:  # list of branches to merge into final branch
   - mk/claude/2559-program-form-tomselect-init # MK Sep 25
   - ay/CCCT-2794-hide-export-status-without-access # Ajeet Sep 28
   - ay/invoice-form-fixes # Ajeet Sep 28
-  - hy/invite+org_form # Hemant Sep 29
   - hy/org-profile-edit-form # Hemant Sep 29
   - ay/ccct-2751-audit-report-update # Ajeet Sep 29
 submodules:
