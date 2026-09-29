@@ -22,7 +22,6 @@ branches:
     - dmr/offboarding-list-accounting-admins  # @dannyroberts Aug 13
     - ay/payments-trigger-buttons-demo # Ajeet Aug 20
     - ay/connect-messaging-fixes # Ajeet Aug 31
-    - es/project-db-domain-user # Martin Sep 14
     - gh/bulk-form-actions-api-docs  # @gherceg Sep 23
     - ejp/public-webforms-build  # Evan Sep 23
     - ejp/public-webforms-page  # Evan Sep 23
