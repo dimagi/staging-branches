@@ -26,6 +26,5 @@ branches:
     - es/project-db-domain-user # Martin Sep 14
     - gh/bulk-form-actions-api-docs  # @gherceg Sep 23
     - ejp/public-webforms-build  # Evan Sep 23
-    - ejp/public-webforms-session-auth  # Evan Sep 23
     - ejp/public-webforms-page  # Evan Sep 23
 submodules: {}
