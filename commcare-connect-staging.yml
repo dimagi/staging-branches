@@ -20,4 +20,5 @@ branches:  # list of branches to merge into final branch
   # - ay/CCCT-2794-hide-export-status-without-access+sk/invoice-bulk-export-tasks-CCCT-2771 # Ajeet Sep 28
   # - ay/CCCT-2794-hide-export-status-without-access # Ajeet Sep 28
   - ay/invoice-form-fixes # Ajeet Sep 28
+  - hy/org-profile-edit-form # Hemant Sep 29
 submodules:
