@@ -26,6 +26,5 @@ branches:
     - ejp/public-webforms-build  # Evan Sep 23
     - ejp/public-webforms-page  # Evan Sep 23
     - jc/update-widget-ui # Jing Oct 1
-    - jc/test-on-staging # Jing Oct 1
     
 submodules: {}
