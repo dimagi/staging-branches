@@ -25,4 +25,5 @@ branches:
     - gh/bulk-form-actions-api-docs  # @gherceg Sep 23
     - ejp/public-webforms-page  # Evan Sep 23
     - jc/update-widget-ui # Jing Oct 1
+    - dmr/minimum-password-length-14  # @dannyroberts Oct 1
 submodules: {}
