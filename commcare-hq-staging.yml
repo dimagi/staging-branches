@@ -23,6 +23,5 @@ branches:
     - ay/payments-trigger-buttons-demo # Ajeet Aug 20
     - ay/connect-messaging-fixes # Ajeet Aug 31
     - gh/bulk-form-actions-api-docs  # @gherceg Sep 23
-    - ejp/public-webforms-page  # Evan Sep 23
     - jc/update-widget-ui # Jing Oct 1
 submodules: {}
