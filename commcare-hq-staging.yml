@@ -24,5 +24,4 @@ branches:
     - ay/connect-messaging-fixes # Ajeet Aug 31
     - gh/bulk-form-actions-api-docs  # @gherceg Sep 23
     - jc/update-widget-ui # Jing Oct 1
-    - gh/flag-search-slug  # @gherceg Oct 2
 submodules: {}
