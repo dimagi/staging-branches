@@ -26,4 +26,5 @@ branches:
     - jc/update-widget-ui # Jing Oct 1
     - ejp/public-webforms-choices-cleanup  # Evan Oct 2
     - gh/delete-check  # @gherceg Oct 2
+    - ap/ai-translation-demo # Amit Oct 4
 submodules: {}
