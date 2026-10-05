@@ -14,6 +14,6 @@ branches:  # list of branches to merge into final branch
   - cs/CI-970-block-claim-if-partial-budget # Charl Sep 24
   - ay/invoice-form-fixes # Ajeet Sep 28
   - ay/ccct-2751-audit-report-update # Ajeet Sep 29
-  - mk/claude/2753-followup-fix-metric-display # MK Sep 30
+  # - mk/claude/2753-followup-fix-metric-display # MK Sep 30
   - hy/optional-daily-limit # Hemant Oct 5
 submodules:
