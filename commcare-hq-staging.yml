@@ -24,7 +24,6 @@ branches:
     - ay/connect-messaging-fixes # Ajeet Aug 31
     - gh/bulk-form-actions-api-docs  # @gherceg Sep 23
     - ejp/public-webforms-choices-cleanup  # Evan Oct 2
-    - gh/delete-check  # @gherceg Oct 2
     - ap/ai-translation-task  # Amit Oct 5
     - ap/ai-translation-ui # Amit Oct 5
 submodules: {}
