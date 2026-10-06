@@ -28,5 +28,4 @@ branches:
     - ap/ai-translation-ui # Amit Oct 5
     - jc/refresh-session # Jing Oct 7
     - riese/cs_endpoints_typed_params # Martin Oct 6
-    - gh/partition-bulk-async-job  # @gherceg Oct 6
 submodules: {}
