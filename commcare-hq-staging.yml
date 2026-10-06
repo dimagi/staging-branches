@@ -27,5 +27,4 @@ branches:
     - gh/delete-check  # @gherceg Oct 2
     - ap/ai-translation-task  # Amit Oct 5
     - ap/ai-translation-ui # Amit Oct 5
-    - ap/ai-translation-partial-case-list # Amit Oct 5
 submodules: {}
