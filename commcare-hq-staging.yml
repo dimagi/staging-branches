@@ -25,4 +25,6 @@ branches:
     - ap/ai-translation-task  # Amit Oct 5
     - ap/ai-translation-ui # Amit Oct 5
     - riese/cs_endpoints_typed_params # Martin Oct 6
+    - ejp/public-webforms-app-attribution  # Evan Oct 7
+    - ejp/public-webforms-submission-report  # Evan Oct 7
 submodules: {}
