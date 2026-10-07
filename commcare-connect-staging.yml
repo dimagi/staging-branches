@@ -13,4 +13,5 @@ branches:  # list of branches to merge into final branch
   - ze/security-response-headers # Zandre Oct 6
   - cs/CCCT-2882-opps-filters # Charl Oct 6
   - ay/fix-pm-users-navigation # Ajeet Oct 7
+  - sk/jira-integration # Simon Oct 7
 submodules:
