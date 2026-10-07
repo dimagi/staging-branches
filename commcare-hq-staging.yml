@@ -25,6 +25,5 @@ branches:
     - ejp/public-webforms-choices-cleanup  # Evan Oct 2
     - ap/ai-translation-task  # Amit Oct 5
     - ap/ai-translation-ui # Amit Oct 5
-    - jc/refresh-session # Jing Oct 7
     - riese/cs_endpoints_typed_params # Martin Oct 6
 submodules: {}
