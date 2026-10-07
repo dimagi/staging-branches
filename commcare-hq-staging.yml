@@ -17,7 +17,6 @@ branches:
     - mk/18611-ingest-ucr-poc-data # MK Oct 17
     # - ay/kyc-staging-test # Ajeet Dec 19 - Staging Only
     - gh/linked-domain/unlink-apps  # @gherceg May 8
-    - dmr/gettext_lazy  # Danny Apr 28
     - dmr/audit-non-monthly-invoicing  # @dannyroberts Jul 30
     - dmr/offboarding-list-accounting-admins  # @dannyroberts Aug 13
     - ay/payments-trigger-buttons-demo # Ajeet Aug 20
