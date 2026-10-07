@@ -8,9 +8,9 @@ branches:  # list of branches to merge into final branch
   - sr/release  # Sravan Feb 23
   - ctsims/url_presigning # Clayton Jul 29
   - hy/fix-unclaimed-delivery-notification # Hemant Sep 16
-  # - ay/CCCT-2813-programs-opps-list # Ajeet Sep 17
   # - mk/claude/2753-followup-fix-metric-display # MK Sep 30
   - hy/optional-daily-limit # Hemant Oct 5
   - ze/security-response-headers # Zandre Oct 6
   - cs/CCCT-2882-opps-filters # Charl Oct 6
+  - ay/fix-pm-users-navigation # Ajeet Oct 7
 submodules:
