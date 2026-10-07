@@ -10,6 +10,7 @@ branches:  # list of branches to merge into final branch
   - hy/fix-unclaimed-delivery-notification # Hemant Sep 16
   # - mk/claude/2753-followup-fix-metric-display # MK Sep 30
   - hy/optional-daily-limit # Hemant Oct 5
+  - hy/opps-filters+main # Hemant Oct 7
   - cs/CCCT-2882-opps-filters # Charl Oct 6
   - ay/fix-pm-users-navigation # Ajeet Oct 7
   - sk/jira-integration # Simon Oct 7
