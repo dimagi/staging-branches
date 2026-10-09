@@ -22,7 +22,6 @@ branches:
     - ay/payments-trigger-buttons-demo # Ajeet Aug 20
     - ay/connect-messaging-fixes # Ajeet Aug 31
     - ap/ai-translation-ui # Amit Oct 5
-    - ejp/public-webforms-app-attribution  # Evan Oct 7
     - ejp/public-webforms-submission-report  # Evan Oct 7
     - nh/oauthlib # Jing Oct 8
 submodules: {}
