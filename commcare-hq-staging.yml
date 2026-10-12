@@ -24,4 +24,5 @@ branches:
     - ap/ai-translation-ui # Amit Oct 5
     - ejp/public-webforms-submission-report  # Evan Oct 7
     - riese/philly_es # Martin Oct 9
+    - jc/ga-chatbot # Jing Oct 12
 submodules: {}
