@@ -4,7 +4,6 @@ trunk: master
 name: autostaging
 branches:
   - es/webapps-pragmas # Martin Oct 12
-  - ejp/public-session-username-ownership  # Evan Oct 12
 submodules:
   libs/commcare:
     trunk: master
