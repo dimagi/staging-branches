@@ -2,7 +2,8 @@
 
 trunk: master
 name: autostaging
-branches: []
+branches:
+  - es/webapps-pragmas # Martin Oct 12
 submodules:
   libs/commcare:
     trunk: master
