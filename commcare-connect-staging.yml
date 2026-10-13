@@ -11,6 +11,7 @@ branches:  # list of branches to merge into final branch
   - cs/CCCT-2882-opps-filters # Charl Oct 6
   - ay/fix-pm-users-navigation # Ajeet Oct 7
   - sk/jira-integration # Simon Oct 7
+  - sk/jira-integration+hy/optional-daily-limit # Simon Oct 7 - merge migration
   - ze/CCCT-2707-map-js-bundle # Zandre Oct 13
   - mk/claude/2903-llo-directory-orgs-list # MK Oct 13
   - mk/claude/2917-llo-directory-contacts-list # MK Oct 13
