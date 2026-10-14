@@ -21,7 +21,6 @@ branches:
     - dmr/offboarding-list-accounting-admins  # @dannyroberts Aug 13
     - ay/payments-trigger-buttons-demo # Ajeet Aug 20
     - ay/connect-messaging-fixes # Ajeet Aug 31
-    - ap/ai-translation-ui # Amit Oct 5
     - riese/philly_es # Martin Oct 9
     - jc/ga-chatbot # Jing Oct 12
     - es/condensed-form  # Ethan Oct 12
