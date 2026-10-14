@@ -25,4 +25,5 @@ branches:
     - jc/ga-chatbot # Jing Oct 12
     - es/condensed-form  # Ethan Oct 12
     - gh/b5/domain_internal_subscription_management_view  # @gherceg Oct 14
+    - jc/internal_subscription_management_ko_to_alpine  # @gherceg Oct 14
 submodules: {}
