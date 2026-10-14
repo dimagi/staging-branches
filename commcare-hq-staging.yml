@@ -24,4 +24,5 @@ branches:
     - riese/philly_es # Martin Oct 9
     - jc/ga-chatbot # Jing Oct 12
     - jc/internal_subscription_management_ko_to_alpine  # @gherceg Oct 14
+    - gh/replace-billing-account-web-user-history  # @gherceg Oct 14
 submodules: {}
