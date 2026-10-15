@@ -21,6 +21,5 @@ branches:
     - dmr/offboarding-list-accounting-admins  # @dannyroberts Aug 13
     - ay/payments-trigger-buttons-demo # Ajeet Aug 20
     - ay/connect-messaging-fixes # Ajeet Aug 31
-    - jc/ga-chatbot # Jing Oct 12
     - ejp/public-webforms-form-settings-link  # Evan Oct 14
 submodules: {}
