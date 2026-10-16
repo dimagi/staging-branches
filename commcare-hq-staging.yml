@@ -23,5 +23,4 @@ branches:
     - ay/connect-messaging-fixes # Ajeet Aug 31
     - ejp/public-webforms-form-settings-link  # Evan Oct 14
     - gh/restrict-delete-build  # @gherceg Oct 15
-    - gh/mobile-user-limit  # @gherceg Oct 16
 submodules: {}
