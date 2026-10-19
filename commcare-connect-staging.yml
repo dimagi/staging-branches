@@ -16,4 +16,5 @@ branches:  # list of branches to merge into final branch
   - mk/claude/2917-llo-directory-contacts-list # MK Oct 13
   - ay/fix-sidenav-my-organization-members+mk/claude/2903-llo-directory-orgs-list+mk/claude/2917-llo-directory-contacts-list # Ajeet Oct 14
   - ay/fix-sidenav-my-organization-members # Ajeet OCt 14
+  - pkv/ci-1014-internal-features-page-manage-org-fields # Pawan Oct 19
 submodules:
