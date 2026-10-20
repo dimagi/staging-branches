@@ -23,4 +23,5 @@ branches:
     - ay/connect-messaging-fixes # Ajeet Aug 31
     - ejp/public-webforms-form-settings-link  # Evan Oct 14
     - ejp/messaging-self-enable  # Evan Oct 16
+    - dependabot/uv/tornado-6.5.9  # @millerdev Oct 20
 submodules: {}
