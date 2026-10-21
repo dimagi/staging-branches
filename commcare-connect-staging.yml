@@ -21,4 +21,5 @@ branches:  # list of branches to merge into final branch
   - ze/CCCT-2952-work-area-overlap-check # Zandre Oct 20
   - cs/marketing-site-login-fallback # Charl Oct 20
   - pkv/ci-1014-delivery-types-page # Pawan Oct 21
+  - ze/CCCT-2953-work-area-group-ward-check # Zandre Oct 21
 submodules:
