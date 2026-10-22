@@ -21,6 +21,6 @@ branches:  # list of branches to merge into final branch
   - pkv/ci-1014-delivery-types-page # Pawan Oct 21
   - ze/CCCT-2953-work-area-group-ward-check # Zandre Oct 21
   - pkv/ci-989-same-permission-for-nm-pm # Pawan Oct 22
-  - cs/CCCT-2897-update-opp-dashboard # Charl Oct 22
+  #- cs/CCCT-2897-update-opp-dashboard # Charl Oct 22
   - mk/claude/2928-org-contact-pghistory # MK Oct 22
 submodules:
