@@ -23,4 +23,5 @@ branches:  # list of branches to merge into final branch
   - ze/CCCT-2953-work-area-group-ward-check+ze/CCCT-2952-work-area-overlap-check # Zandre Oct 21
   - ze/CCCT-2953-work-area-group-ward-check # Zandre Oct 21
   - ze/CCCT-2952-work-area-overlap-check # Zandre Oct 20
+  - pkv/ci-989-same-permission-for-nm-pm # Pawan Oct 22
 submodules:
