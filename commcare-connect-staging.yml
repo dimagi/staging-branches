@@ -18,7 +18,6 @@ branches:  # list of branches to merge into final branch
   - ay/fix-sidenav-my-organization-members # Ajeet OCt 14
   - pkv/ci-1014-internal-features-page-manage-org-fields # Pawan Oct 19
   - hy/perm-decorators #Hemant Oct 20
-  - cs/marketing-site-login-fallback # Charl Oct 20
   - pkv/ci-1014-delivery-types-page # Pawan Oct 21
   - ze/CCCT-2953-work-area-group-ward-check+ze/CCCT-2952-work-area-overlap-check # Zandre Oct 21
   - ze/CCCT-2953-work-area-group-ward-check # Zandre Oct 21
