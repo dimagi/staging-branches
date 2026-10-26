@@ -25,5 +25,4 @@ branches:
     - vellum-94d5dc7  # @millerdev Oct 23
     - ejp/public-webforms-analytics  # Evan Oct 23
     - ejp/bootstrap5-outline-button-bg  # Evan Oct 23
-    - ejp/public-webforms-show-recipient-contact  # Evan Oct 23
 submodules: {}
