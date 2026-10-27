@@ -21,7 +21,6 @@ branches:
     - dmr/offboarding-list-accounting-admins  # @dannyroberts Aug 13
     - ay/payments-trigger-buttons-demo # Ajeet Aug 20
     - ay/connect-messaging-fixes # Ajeet Aug 31
-    - vellum-94d5dc7  # @millerdev Oct 23
     - ejp/bootstrap5-outline-button-bg  # Evan Oct 23
     - ejp/public-webforms-improve-validation  # Evan Oct 26
     - ap/ai-translation-failed-labels # Amit Oct 27
