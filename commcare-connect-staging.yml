@@ -25,4 +25,5 @@ branches:  # list of branches to merge into final branch
   - sr/over-limit-export/CCCT-2836 # Sravan Oct 27
   - sr/drop-bootstrap/CCCT-2870 # Sravan Oct 27
   - pkv/ci-1008-automate-monthly-kpis # Pawan Oct 27
+  - ay/ccct-2885-update-deliver-tab # Ajeet Oct 27
 submodules:
