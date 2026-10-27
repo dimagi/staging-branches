@@ -23,7 +23,6 @@ branches:
     - ay/connect-messaging-fixes # Ajeet Aug 31
     - ejp/bootstrap5-outline-button-bg  # Evan Oct 23
     - ejp/public-webforms-improve-validation  # Evan Oct 26
-    - ap/ai-translation-failed-labels # Amit Oct 27
     - riese/fetch_pdf # Martin Oct 27
     - dm/upgrade-django-phonenumber-field  # @millerdev Oct 27
 submodules: {}
