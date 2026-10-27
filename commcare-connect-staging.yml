@@ -23,4 +23,7 @@ branches:  # list of branches to merge into final branch
   - pkv/ci-989-same-permission-for-nm-pm # Pawan Oct 22
   - cs/CCCT-2897-update-opp-dashboard # Charl Oct 23
   - mk/claude/2928-org-contact-pghistory # MK Oct 22
+  - hy/solicitations-dashboard # Hemant Oct 27
+  - hy/solicitation-form # Hemant Oct 27
+  - hy/solicitation-invites # Hemant Oct 27
 submodules:
