@@ -27,4 +27,5 @@ branches:  # list of branches to merge into final branch
   - hy/solicitation-invites # Hemant Oct 27
   - sr/over-limit-export/CCCT-2836 # Sravan Oct 27
   - sr/drop-bootstrap/CCCT-2870 # Sravan Oct 27
+  - pkv/ci-1008-automate-monthly-kpis # Pawan Oct 27
 submodules:
