@@ -26,4 +26,5 @@ branches:  # list of branches to merge into final branch
   - hy/solicitation-form # Hemant Oct 27
   - hy/solicitation-invites # Hemant Oct 27
   - sr/over-limit-export/CCCT-2836 # Sravan Oct 27
+  - sr/drop-bootstrap/CCCT-2870 # Sravan Oct 27
 submodules:
