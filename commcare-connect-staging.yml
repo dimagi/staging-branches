@@ -14,7 +14,6 @@ branches:  # list of branches to merge into final branch
   - ze/CCCT-2707-map-js-bundle # Zandre Oct 13
   # - pkv/ci-1014-internal-features-page-manage-org-fields # Pawan Oct 19
   # - pkv/ci-1014-delivery-types-page # Pawan Oct 21
-  - ze/CCCT-2953-work-area-group-ward-check # Zandre Oct 21
   - cs/CCCT-2897-update-opp-dashboard # Charl Oct 23
   - hy/solicitations-dashboard # Hemant Oct 27
   - hy/solicitation-form # Hemant Oct 27
