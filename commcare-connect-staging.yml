@@ -27,6 +27,7 @@ branches:  # list of branches to merge into final branch
   - pkv/ci-1008-automate-monthly-kpis # Pawan Oct 27
   - ay/ccct-2885-update-deliver-tab+cs/CCCT-2897-update-opp-dashboard # Ajeet Oct 28
   - ay/ccct-2885-update-deliver-tab # Ajeet Oct 27
+  - ze/CCCT-2953-work-area-group-ward-check+cs/empty-area-csv-error # Chris 28 Oct
   - cs/empty-area-csv-error # Chris Oct 27
   - cs/CCCT-2897-max-connect-workers # Charl Oct 28
 submodules:
