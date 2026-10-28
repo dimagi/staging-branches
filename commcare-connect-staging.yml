@@ -14,8 +14,8 @@ branches:  # list of branches to merge into final branch
   - ze/CCCT-2707-map-js-bundle # Zandre Oct 13
   - mk/claude/2903-llo-directory-orgs-list # MK Oct 13
   - mk/claude/2917-llo-directory-contacts-list # MK Oct 13
-  - pkv/ci-1014-internal-features-page-manage-org-fields # Pawan Oct 19
-  - pkv/ci-1014-delivery-types-page # Pawan Oct 21
+  # - pkv/ci-1014-internal-features-page-manage-org-fields # Pawan Oct 19
+  # - pkv/ci-1014-delivery-types-page # Pawan Oct 21
   - ze/CCCT-2953-work-area-group-ward-check # Zandre Oct 21
   - cs/CCCT-2897-update-opp-dashboard # Charl Oct 23
   # - mk/claude/2928-org-contact-pghistory # MK Oct 22 - conflicts with main, needs rebase
