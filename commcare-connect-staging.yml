@@ -21,7 +21,6 @@ branches:  # list of branches to merge into final branch
   - sr/over-limit-export/CCCT-2836 # Sravan Oct 27
   - sr/drop-bootstrap/CCCT-2870 # Sravan Oct 27
   - pkv/ci-1008-automate-monthly-kpis # Pawan Oct 27
-  - ze/CCCT-2953-work-area-group-ward-check+cs/empty-area-csv-error # Chris 28 Oct
   - cs/CCCT-2897-max-connect-workers # Charl Oct 28
   - mk/claude/3023-llo-directory-feedback # MK Oct 30
 submodules:
