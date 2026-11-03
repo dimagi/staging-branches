@@ -24,4 +24,5 @@ branches:  # list of branches to merge into final branch
   - cs/CCCT-2897-max-connect-workers # Charl Oct 28
   - mk/claude/3023-llo-directory-feedback # MK Oct 30
   - ay/ccct-2768-configure-worker-facing-term # Ajeet Nov 2
+  - sr/overlimit-restamp/CI-993 # Zandre Nov 3
 submodules:
