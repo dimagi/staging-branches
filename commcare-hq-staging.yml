@@ -22,5 +22,4 @@ branches:
     - ay/payments-trigger-buttons-demo # Ajeet Aug 20
     - ejp/public-webforms-improve-validation  # Evan Oct 26
     - riese/fetch_pdf # Martin Oct 27
-    - dm/rm-npm  # @millerdev Nov 3
 submodules: {}
