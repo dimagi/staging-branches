@@ -26,5 +26,5 @@ branches:  # list of branches to merge into final branch
   - sr/overlimit-restamp/CI-993 # Zandre Nov 3
   # - ay/ccct-3013-pay-rate-history # Ajeet Nov 3
   - cs/celery_task_sync # Chris 3 Nov
-  - claude/optimistic-brahmagupta-g1maou # Simon Nov 3
+  - claude/optimistic-brahmagupta-g1maou # Simon Nov 3 (ses security stuff)
 submodules:
