@@ -25,4 +25,5 @@ branches:  # list of branches to merge into final branch
   - ay/ccct-2768-configure-worker-facing-term # Ajeet Nov 2
   - sr/overlimit-restamp/CI-993 # Zandre Nov 3
   # - ay/ccct-3013-pay-rate-history # Ajeet Nov 3
+  - cs/celery_task_sync # Chris 3 Nov
 submodules:
