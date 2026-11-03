@@ -9,7 +9,6 @@ branches:  # list of branches to merge into final branch
   - ctsims/url_presigning # Clayton Jul 29
   - hy/fix-unclaimed-delivery-notification # Hemant Sep 16
   # - cs/CCCT-2882-opps-filters # Charl Oct 6
-  # - ay/fix-pm-users-navigation # Ajeet Oct 7
   # - sk/jira-integration # Simon Oct 7
   - ze/CCCT-2707-map-js-bundle # Zandre Oct 13
   # - pkv/ci-1014-internal-features-page-manage-org-fields # Pawan Oct 19
