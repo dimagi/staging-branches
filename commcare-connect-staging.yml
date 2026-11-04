@@ -14,13 +14,14 @@ branches:  # list of branches to merge into final branch
   # - pkv/ci-1014-delivery-types-page # Pawan Oct 21
   - cs/CCCT-2897-update-opp-dashboard # Charl Oct 23
   - pkv/ci-1008-automate-monthly-kpis # Pawan Oct 27
-  - cs/CCCT-2897-max-connect-workers # Charl Oct 28
   - mk/claude/3023-llo-directory-feedback # MK Oct 30
   - ay/ccct-2768-configure-worker-facing-term # Ajeet Nov 2
   - sr/overlimit-restamp/CI-993 # Zandre Nov 3
   # - ay/ccct-3013-pay-rate-history # Ajeet Nov 3
   - cs/celery_task_sync # Chris 3 Nov
   - claude/optimistic-brahmagupta-g1maou # Simon Nov 3 (ses security stuff)
+  - pkv/ci-1014-delivery-types-page+cs/CCCT-2897-max-connect-workers # Zandre Nov 4
   - pkv/ci-1014-delivery-types-page # Zandre Nov 4
+  - cs/CCCT-2897-max-connect-workers # Charl Oct 28
   - hy/close-sol # Hemant Nov 4
 submodules:
