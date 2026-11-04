@@ -24,4 +24,5 @@ branches:  # list of branches to merge into final branch
   - cs/celery_task_sync # Chris 3 Nov
   - claude/optimistic-brahmagupta-g1maou # Simon Nov 3 (ses security stuff)
   - pkv/ci-1014-delivery-types-page # Zandre Nov 4
+  - hy/close-sol # Hemant Nov 4
 submodules:
