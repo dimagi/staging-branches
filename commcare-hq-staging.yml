@@ -22,4 +22,5 @@ branches:
     - ay/payments-trigger-buttons-demo # Ajeet Aug 20
     - riese/fetch_pdf # Martin Oct 27
     - riese/document_templates_permissions # Martin Nov 4
+    - riese/document_templates_images # Martin Nov 4
 submodules: {}
