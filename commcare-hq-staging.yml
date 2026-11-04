@@ -20,6 +20,5 @@ branches:
     - dmr/audit-non-monthly-invoicing  # @dannyroberts Jul 30
     - dmr/offboarding-list-accounting-admins  # @dannyroberts Aug 13
     - ay/payments-trigger-buttons-demo # Ajeet Aug 20
-    - ejp/public-webforms-improve-validation  # Evan Oct 26
     - riese/fetch_pdf # Martin Oct 27
 submodules: {}
