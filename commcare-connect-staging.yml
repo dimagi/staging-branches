@@ -24,4 +24,5 @@ branches:  # list of branches to merge into final branch
   - pkv/ci-1014-delivery-types-page # Zandre Nov 4
   - cs/CCCT-2897-max-connect-workers # Charl Oct 28
   - hy/close-sol # Hemant Nov 4
+  - cs/work-area-search-show-all # Chris Nov 5
 submodules:
