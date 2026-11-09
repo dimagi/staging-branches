@@ -1,0 +1,79 @@
+name: Add branch to Connect staging config
+
+# Connect copy of add-branch.yml. Differences: the file is fixed, `before` can insert the entry
+# above an existing one, a rejected push is retried, and the Connect rebuild is started at the end.
+# No concurrency group: GitHub cancels a pending run when a third one joins the group, which would
+# drop that edit. The retry loop in "Commit and push" handles the race instead.
+
+on:
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: 'Branch name to add'
+        required: true
+        type: string
+      before:
+        description: 'Insert just before this listed branch (leave blank to add at the end)'
+        required: false
+        type: string
+      comment:
+        description: 'Comment after `#` on the branch line (defaults to e.g. `@dannyroberts Apr 29`)'
+        required: false
+        type: string
+
+jobs:
+  add-branch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: write
+    env:
+      FILE: commcare-connect-staging.yml
+      BRANCH: ${{ inputs.branch }}
+      BEFORE: ${{ inputs.before }}
+      COMMENT: ${{ inputs.comment }}
+      ACTOR: ${{ github.actor }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+      - uses: astral-sh/setup-uv@v6
+
+      - name: Commit and push
+        id: commit
+        run: |
+          if [ -z "$COMMENT" ]; then
+            COMMENT="@$ACTOR $(date -u +'%b %-d')"
+          fi
+          edit_args=(add "$BRANCH" --comment "$COMMENT")
+          if [ -n "$BEFORE" ]; then
+            edit_args+=(--before "$BEFORE")
+          fi
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+
+          for attempt in 1 2 3 4 5; do
+            uv run scripts/edit_connect_branches.py "${edit_args[@]}"
+            if git diff --quiet -- "$FILE"; then
+              echo "No changes to commit"
+              exit 0
+            fi
+            git diff -- "$FILE"
+            git commit -m "Add branch \`$BRANCH\` to $FILE" -- "$FILE"
+            if git push origin HEAD:main; then
+              echo "changed=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            echo "Push rejected (attempt $attempt), re-applying on the latest main"
+            git fetch origin main
+            git reset --hard origin/main
+            sleep $((attempt * 3))
+          done
+          echo "::error::Could not push after 5 attempts"
+          exit 1
+
+      - name: Trigger commcare-connect rebuild
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run trigger-commcare-connect-rebuild.yml --ref main

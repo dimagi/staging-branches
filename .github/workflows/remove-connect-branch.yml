@@ -1,0 +1,76 @@
+name: Remove branch from Connect staging config
+
+# Connect copy of remove-branch.yml. Differences: the file is fixed, a rejected push is retried,
+# and the Connect rebuild is started at the end. The retry matters most here: if an automatic
+# removal of a merged branch is lost, the deleted branch stays listed and every rebuild fails.
+# No concurrency group, for the reason given in add-connect-branch.yml.
+
+on:
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: 'Branch name to remove'
+        required: true
+        type: string
+      reason:
+        description: 'Reason for removal'
+        required: false
+        type: choice
+        default: unspecified
+        options:
+          - unspecified
+          - merge
+          - conflict
+
+jobs:
+  remove-branch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: write
+    env:
+      FILE: commcare-connect-staging.yml
+      BRANCH: ${{ inputs.branch }}
+      REASON: ${{ inputs.reason }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+      - uses: astral-sh/setup-uv@v6
+
+      - name: Commit and push
+        id: commit
+        run: |
+          case "$REASON" in
+            merge) MSG="Remove merged branch \`$BRANCH\` from $FILE" ;;
+            conflict) MSG="Remove conflicting branch \`$BRANCH\` from $FILE" ;;
+            *) MSG="Remove branch \`$BRANCH\` from $FILE" ;;
+          esac
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+
+          for attempt in 1 2 3 4 5; do
+            uv run scripts/edit_connect_branches.py remove "$BRANCH"
+            if git diff --quiet -- "$FILE"; then
+              echo "No changes to commit"
+              exit 0
+            fi
+            git diff -- "$FILE"
+            git commit -m "$MSG" -- "$FILE"
+            if git push origin HEAD:main; then
+              echo "changed=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            echo "Push rejected (attempt $attempt), re-applying on the latest main"
+            git fetch origin main
+            git reset --hard origin/main
+            sleep $((attempt * 3))
+          done
+          echo "::error::Could not push after 5 attempts"
+          exit 1
+
+      - name: Trigger commcare-connect rebuild
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run trigger-commcare-connect-rebuild.yml --ref main
