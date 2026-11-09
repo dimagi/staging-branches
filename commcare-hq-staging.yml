@@ -21,4 +21,5 @@ branches:
     - dmr/offboarding-list-accounting-admins  # @dannyroberts Aug 13
     - ay/payments-trigger-buttons-demo # Ajeet Aug 20
     - riese/document_templates_images # Martin Nov 5
+    - gh/repeaters-ready-exists  # @gherceg Nov 9
 submodules: {}
