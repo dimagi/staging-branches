@@ -12,14 +12,11 @@ branches:  # list of branches to merge into final branch
   # - ze/CCCT-2707-map-js-bundle # Zandre Oct 13
   # - pkv/ci-1014-internal-features-page-manage-org-fields # Pawan Oct 19
   # - pkv/ci-1014-delivery-types-page # Pawan Oct 21
-  - cs/CCCT-2897-update-opp-dashboard # Charl Oct 23
   - pkv/ci-1008-automate-monthly-kpis # Pawan Oct 27
   - mk/claude/3023-llo-directory-feedback # MK Oct 30
   - sr/overlimit-restamp/CI-993 # Zandre Nov 3
   # - ay/ccct-3013-pay-rate-history # Ajeet Nov 3
-  #- cs/CCCT-2897-max-connect-workers # Charl Oct 28
   - hy/close-sol # Hemant Nov 4
-  #- cs/opportunity-pm-only-pages # Charl Nov 9
-  #- cs/hq-api-key-hardening # Charl Nov 9
-  #- cs/api-key-rotation # Charl Nov 9
+  - cs/hq-api-key-hardening # Charl Nov 9
+  - cs/api-key-rotation # Charl Nov 9
 submodules:
