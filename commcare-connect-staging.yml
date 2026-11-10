@@ -15,7 +15,6 @@ branches:  # list of branches to merge into final branch
   - cs/CCCT-2897-update-opp-dashboard # Charl Oct 23
   - pkv/ci-1008-automate-monthly-kpis # Pawan Oct 27
   - mk/claude/3023-llo-directory-feedback # MK Oct 30
-  - ay/ccct-2768-configure-worker-facing-term # Ajeet Nov 2
   - sr/overlimit-restamp/CI-993 # Zandre Nov 3
   # - ay/ccct-3013-pay-rate-history # Ajeet Nov 3
   #- cs/CCCT-2897-max-connect-workers # Charl Oct 28
