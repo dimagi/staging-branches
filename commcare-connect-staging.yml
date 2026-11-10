@@ -20,4 +20,5 @@ branches:  # list of branches to merge into final branch
   - cs/CCCT-2897-update-opp-dashboard+cs/api-key-rotation # Charl Nov 10
   - cs/CCCT-2897-update-opp-dashboard # Charl Oct 28
   - cs/api-key-rotation # Charl Nov 9
+  - ze/CI-952-audit-review-modal # Zandre Nov 10
 submodules:
