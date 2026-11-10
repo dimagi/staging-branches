@@ -17,7 +17,6 @@ branches:  # list of branches to merge into final branch
   - sr/overlimit-restamp/CI-993 # Zandre Nov 3
   # - ay/ccct-3013-pay-rate-history # Ajeet Nov 3
   - hy/close-sol # Hemant Nov 4
-  - cs/CCCT-2897-update-opp-dashboard+cs/api-key-rotation # Charl Nov 10
   - cs/CCCT-2897-update-opp-dashboard # Charl Oct 28
   - cs/hq-api-key-hardening # Charl Nov 9
   - cs/api-key-rotation # Charl Nov 9
