@@ -1,8 +1,4 @@
 #!/usr/bin/env python3
-# /// script
-# requires-python = ">=3.11"
-# dependencies = ["ruamel.yaml"]
-# ///
 """Add or remove a branch in the ``branches:`` list of commcare-connect-staging.yml.
 
 Connect version of edit_branches.py, used by add-connect-branch.yml and remove-connect-branch.yml.
