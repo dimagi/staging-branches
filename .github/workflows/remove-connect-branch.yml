@@ -33,6 +33,13 @@ jobs:
       BRANCH: ${{ inputs.branch }}
       REASON: ${{ inputs.reason }}
     steps:
+      # edit_connect_branches.py refuses this too; checking here fails the run before anything else
+      - name: Refuse to remove main
+        if: inputs.branch == 'main'
+        run: |
+          echo "::error::'main' can't be removed from $FILE"
+          exit 1
+
       - uses: actions/checkout@v6
         with:
           ref: main

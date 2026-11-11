@@ -63,6 +63,10 @@ def cmd_add(args):
 def cmd_remove(args):
     yaml, data, _ = load(args.file)
     branches = data["branches"]
+    # Connect's rebuild-staging.yml only rebuilds on a push to the trunk while it is listed
+    trunk = data.get("trunk", "main")
+    if args.branch == trunk:
+        raise SystemExit(f"::error::'{trunk}' is the trunk and can't be removed from {args.file.name}")
     if args.branch not in branches:
         notice(f"Branch '{args.branch}' not in .branches of {args.file.name}")
         return
