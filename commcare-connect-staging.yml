@@ -13,7 +13,7 @@ branches:  # list of branches to merge into final branch
   # - pkv/ci-1014-internal-features-page-manage-org-fields # Pawan Oct 19
   # - pkv/ci-1014-delivery-types-page # Pawan Oct 21
   - pkv/ci-1008-automate-monthly-kpis # Pawan Oct 27
-  - mk/claude/3023-llo-directory-feedback+cs/api-key-rotation-followup
+  - mk/claude/3023-llo-directory-feedback+cs/api-key-rotation-followup  # Charl Nov 12
   - mk/claude/3023-llo-directory-feedback # MK Oct 30
   # - ay/ccct-3013-pay-rate-history # Ajeet Nov 3
   - hy/close-sol # Hemant Nov 4
