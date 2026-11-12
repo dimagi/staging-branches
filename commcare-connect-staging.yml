@@ -16,8 +16,7 @@ branches:  # list of branches to merge into final branch
   - mk/claude/3023-llo-directory-feedback # MK Oct 30
   # - ay/ccct-3013-pay-rate-history # Ajeet Nov 3
   - hy/close-sol # Hemant Nov 4
-  - cs/CCCT-2897-update-opp-dashboard+cs/api-key-rotation+cs/api-key-rotation-followup # Charl Nov 12
-  #- cs/CCCT-2897-update-opp-dashboard+cs/api-key-rotation # Charl Nov 10
+  - cs/CCCT-2897-update-opp-dashboard+cs/api-key-rotation # Charl Nov 10
   - cs/CCCT-2897-update-opp-dashboard # Charl Oct 28
   - cs/api-key-rotation # Charl Nov 9
   - cs/api-key-rotation-followup # Charl Nov 11
