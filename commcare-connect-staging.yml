@@ -23,4 +23,5 @@ branches:  # list of branches to merge into final branch
   - ze/CI-952-audit-review-modal # Zandre Nov 10
   - ay/ccct-3014-date-rules # Ajeet Nov 13
   - cs/npm_audit_fix # Chris Nov 13
+  - ze/CI-1049-bill-to-admin # Zandre Nov 13
 submodules:
