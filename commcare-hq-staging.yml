@@ -21,4 +21,5 @@ branches:
     - ay/payments-trigger-buttons-demo # Ajeet Aug 20
     - riese/document_templates_linked # Martin Nov 13
     - ejp/public-webforms-direct-access-start  # Evan Nov 12
+    - nh/bg_feed  # Norman Nov 13
 submodules: {}
