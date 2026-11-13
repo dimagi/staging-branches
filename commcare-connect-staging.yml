@@ -18,6 +18,7 @@ branches:  # list of branches to merge into final branch
   # - ay/ccct-3013-pay-rate-history # Ajeet Nov 3
   - hy/close-sol # Hemant Nov 4
   - ay/ccct-3014-date-rules+cs/api-key-rotation # Charl Nov 13
+  - ze/CI-1049-bill-to-admin+cs/api-key-rotation # Charl Nov 13
   - cs/api-key-rotation # Charl Nov 9
   - cs/api-key-rotation-followup # Charl Nov 11
   - ze/CI-952-audit-review-modal # Zandre Nov 10
