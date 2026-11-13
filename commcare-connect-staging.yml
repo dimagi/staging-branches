@@ -22,4 +22,5 @@ branches:  # list of branches to merge into final branch
   #- cs/api-key-rotation # Charl Nov 9
   #- cs/api-key-rotation-followup # Charl Nov 11
   - ze/CI-952-audit-review-modal # Zandre Nov 10
+  - ay/ccct-3014-date-rules # Ajeet Nov 13
 submodules:
