@@ -22,5 +22,4 @@ branches:
     - riese/document_templates_linked # Martin Nov 13
     - ejp/public-webforms-direct-access-start  # Evan Nov 12
     - nh/bg_feed  # Norman Nov 13
-    - dependabot/uv/soupsieve-4.0  # @gherceg Nov 13
 submodules: {}
