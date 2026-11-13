@@ -19,6 +19,6 @@ branches:
     - dmr/audit-non-monthly-invoicing  # @dannyroberts Jul 30
     - dmr/offboarding-list-accounting-admins  # @dannyroberts Aug 13
     - ay/payments-trigger-buttons-demo # Ajeet Aug 20
-    - riese/document_templates_images # Martin Nov 5
+    - riese/document_templates_linked # Martin Nov 13
     - ejp/public-webforms-direct-access-start  # Evan Nov 12
 submodules: {}
