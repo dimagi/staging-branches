@@ -1,0 +1,11 @@
+[project]
+name = "staging-branches"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = ["ruamel.yaml"]
+
+[dependency-groups]
+dev = ["pytest"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

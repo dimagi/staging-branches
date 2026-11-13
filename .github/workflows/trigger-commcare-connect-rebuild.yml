@@ -1,0 +1,29 @@
+name: Trigger commcare-connect staging rebuild
+
+# Hand edits to the config start this through `push`. add-connect-branch.yml and
+# remove-connect-branch.yml push with GITHUB_TOKEN, which starts no workflows, so they run it
+# through `workflow_dispatch` instead.
+
+on:
+  push:
+    branches: [main]
+    paths: [commcare-connect-staging.yml]
+  workflow_dispatch:
+
+jobs:
+  trigger-rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub App token
+        id: app-token
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ secrets.STAGING_BRANCHES_APP_ID }}
+          private-key: ${{ secrets.STAGING_BRANCHES_APP_PRIVATE_KEY }}
+          owner: dimagi
+          repositories: commcare-connect
+
+      - name: Trigger rebuild-staging workflow
+        env:
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+        run: gh workflow run rebuild-staging.yml --repo dimagi/commcare-connect
