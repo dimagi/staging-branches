@@ -23,4 +23,5 @@ branches:
     - ejp/public-webforms-direct-access-start  # Evan Nov 12
     - nh/bg_feed  # Norman Nov 13
     - dependabot/uv/opentelemetry-api-1.45.2  # @gherceg Nov 13
+    - gh/two-factor/infinite-redirects  # @gherceg Nov 13
 submodules: {}
