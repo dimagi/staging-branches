@@ -22,4 +22,5 @@ branches:
     - riese/document_templates_linked # Martin Nov 13
     - ejp/public-webforms-direct-access-start  # Evan Nov 12
     - nh/bg_feed  # Norman Nov 13
+    - dependabot/uv/opentelemetry-api-1.45.2  # @gherceg Nov 13
 submodules: {}
