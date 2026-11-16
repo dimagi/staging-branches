@@ -24,7 +24,7 @@ branches:  # list of branches to merge into final branch
   - cs/init-form-api-key-access # Charl Nov 16
   - cs/CCCT-3078-mobile-worker-key-check # Charl Nov 16
   - cs/CCCT-3078-api-key-mobile-worker-check # Charl Nov 16
-  - cs/CCCT-3079-hq-select-errors # Charl Nov 16
+  #- cs/CCCT-3079-hq-select-errors # Charl Nov 16
   - ze/CI-952-audit-review-modal # Zandre Nov 10
   - ay/ccct-3014-date-rules # Ajeet Nov 13
   - cs/npm_audit_fix # Chris Nov 13
