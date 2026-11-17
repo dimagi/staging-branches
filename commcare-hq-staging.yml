@@ -22,4 +22,5 @@ branches:
     - ejp/public-webforms-direct-access-start  # Evan Nov 12
     - gh/two-factor/infinite-redirects  # @gherceg Nov 13
     - riese/document_templates_error_handling # Martin Nov 16
+    - dependabot/npm_and_yarn/calendars-2.2.1  # @gherceg Nov 17
 submodules: {}
