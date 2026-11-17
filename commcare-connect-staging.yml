@@ -19,14 +19,14 @@ branches:  # list of branches to merge into final branch
   - ay/ccct-3014-date-rules+cs/CCCT-3078-mobile-worker-key-check # Charl Nov 17
   - mk/claude/3023-llo-directory-feedback # MK Oct 30
   # - ay/ccct-3013-pay-rate-history # Ajeet Nov 3
-  - hy/close-sol # Hemant Nov 4
+  # - hy/close-sol # Hemant Nov 4
   - ay/ccct-3014-date-rules+cs/api-key-rotation # Charl Nov 13
   - ze/CI-1049-bill-to-admin+cs/api-key-rotation # Charl Nov 13
   - cs/api-key-rotation # Charl Nov 9
   - cs/CCCT-3078-mobile-worker-key-check # Charl Nov 16
-  - cs/CCCT-3078-api-key-mobile-worker-check # Charl Nov 16
+  # - cs/CCCT-3078-api-key-mobile-worker-check # Charl Nov 16
   #- cs/CCCT-3079-hq-select-errors # Charl Nov 16
-  - ze/CI-952-audit-review-modal # Zandre Nov 10
+  # - ze/CI-952-audit-review-modal # Zandre Nov 10
   - ay/ccct-3014-date-rules # Ajeet Nov 13
   - cs/npm_audit_fix # Chris Nov 13
   - ze/CI-1049-bill-to-admin # Zandre Nov 13
