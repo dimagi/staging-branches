@@ -27,4 +27,5 @@ branches:  # list of branches to merge into final branch
   - ze/CI-1049-bill-to-admin # Zandre Nov 13
   - hy/close-cancel-sol+mk/claude/2944-llo-directory-solicitations # Zandre Nov 18
   - hy/close-cancel-sol # Hemant Nov 18
+  - cs/npm_audit_fix # Chris 18 Nov
 submodules:
