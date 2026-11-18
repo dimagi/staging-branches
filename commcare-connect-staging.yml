@@ -28,4 +28,5 @@ branches:  # list of branches to merge into final branch
   - hy/close-cancel-sol+mk/claude/2944-llo-directory-solicitations # Zandre Nov 18
   - hy/close-cancel-sol # Hemant Nov 18
   - cs/npm_audit_fix # Chris 18 Nov
+  - claude/busy-mccarthy-4d8r2p # Simon Nov 18
 submodules:
