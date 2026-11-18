@@ -7,16 +7,12 @@ branches:  # list of branches to merge into final branch
   - sr/programbudgets  # Sravan Feb 2
   - sr/release  # Sravan Feb 23
   - ctsims/url_presigning # Clayton Jul 29
-  # - cs/CCCT-2882-opps-filters # Charl Oct 6
   # - sk/jira-integration # Simon Oct 7
   # - ze/CCCT-2707-map-js-bundle # Zandre Oct 13
   # - pkv/ci-1014-internal-features-page-manage-org-fields # Pawan Oct 19
   # - pkv/ci-1014-delivery-types-page # Pawan Oct 21
   # - pkv/ci-1008-automate-monthly-kpis # Pawan Oct 27
   - mk/claude/3023-llo-directory-feedback+cs/api-key-rotation  # Charl Nov 17
-  - mk/claude/3023-llo-directory-feedback+cs/CCCT-3078-mobile-worker-key-check # Charl Nov 17
-  - ze/CI-1049-bill-to-admin+cs/CCCT-3078-mobile-worker-key-check # Charl Nov 17
-  - ay/ccct-3014-date-rules+cs/CCCT-3078-mobile-worker-key-check # Charl Nov 17
   - mk/claude/3023-llo-directory-feedback # MK Oct 30
   - mk/claude/2944-llo-directory-solicitations # MK Nov 18
   # - ay/ccct-3013-pay-rate-history # Ajeet Nov 3
@@ -24,9 +20,7 @@ branches:  # list of branches to merge into final branch
   - ay/ccct-3014-date-rules+cs/api-key-rotation # Charl Nov 13
   - ze/CI-1049-bill-to-admin+cs/api-key-rotation # Charl Nov 13
   - cs/api-key-rotation # Charl Nov 9
-  - cs/CCCT-3078-mobile-worker-key-check # Charl Nov 16
-  # - cs/CCCT-3078-api-key-mobile-worker-check # Charl Nov 16
-  #- cs/CCCT-3079-hq-select-errors # Charl Nov 16
+  #- cs/CCCT-3078-mobile-worker-key-check # Charl Nov 16
   # - ze/CI-952-audit-review-modal # Zandre Nov 10
   - ay/ccct-3014-date-rules # Ajeet Nov 13
   - ze/CI-1049-bill-to-admin # Zandre Nov 13
