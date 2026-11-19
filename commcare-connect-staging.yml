@@ -35,4 +35,5 @@ branches:  # list of branches to merge into final branch
   - cs/ccct-2908+cs/api-key-rotation+mk/claude/2944-llo-directory-solicitations # Chris 19 Nov
   - cs/ccct-2908 # Chris 19 Nov
   - mk/claude/ci/815-fetch-latest-app-version # MK Nov 19
+  - ze/CCCT-2617-marketplace-list # Zandre Nov 19
 submodules:
