@@ -1,0 +1,26 @@
+name: Test
+
+# Runs the tests for scripts/. On pushes to main it also runs when the Connect list changes, since one test
+# edits a copy of the real commcare-connect-staging.yml and so catches a malformed hand edit.
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+    paths:
+      - scripts/**
+      - tests/**
+      - pyproject.toml
+      - uv.lock
+      - commcare-connect-staging.yml
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+      - run: uv run --locked pytest
