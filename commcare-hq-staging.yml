@@ -22,4 +22,5 @@ branches:
     - ejp/public-webforms-direct-access-start  # Evan Nov 12
     - gh/two-factor/infinite-redirects  # @gherceg Nov 13
     - riese/document_templates_qa # Martin Nov 19
+    - jc/datasource-export-drop-ko # Jing Nov 20
 submodules: {}
