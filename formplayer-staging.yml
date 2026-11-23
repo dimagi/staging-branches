@@ -2,7 +2,8 @@
 
 trunk: master
 name: autostaging
-branches: []
+branches:
+  - bump-spring-boot-to-3.5.16
 submodules:
   libs/commcare:
     trunk: master
