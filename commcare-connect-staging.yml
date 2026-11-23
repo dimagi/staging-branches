@@ -31,4 +31,5 @@ branches:  # list of branches to merge into final branch
   - cs/ccct-2908 # Chris 19 Nov
   - revert-1809-revert-1799-mk/claude/ci/815-fetch-latest-app-version # MK Nov 19
   - mk/claude/ci/1058-nm-payment-unit-pay-columns # MK Nov 23
+  - claude/busy-mccarthy-4d8r2p  # SK Nov 23
 submodules:
