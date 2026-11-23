@@ -31,4 +31,5 @@ branches:  # list of branches to merge into final branch
   - mk/claude/ci/1058-nm-payment-unit-pay-columns # MK Nov 23
   - ay/ccct-3014-date-rules+claude/busy-mccarthy-4d8r2p # SK Nov 23
   - claude/busy-mccarthy-4d8r2p  # SK Nov 23
+  - ze/CI-1049-bill-to-admin+claude/busy-mccarthy-4d8r2p  # SK Nov 23
 submodules:
