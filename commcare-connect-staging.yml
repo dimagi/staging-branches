@@ -27,6 +27,7 @@ branches:  # list of branches to merge into final branch
   - hy/sol-reviewers # Hemant Nov 19
   - claude/busy-mccarthy-4d8r2p+ze/CI-1049-bill-to-admin # Simon Nov 18 (0155 migration merge)
   - claude/busy-mccarthy-4d8r2p # Simon Nov 18
+  - cs/ccct-2908+cs/api-key-rotation # Chris 23 Nov
   - cs/ccct-2908 # Chris 19 Nov
   - revert-1809-revert-1799-mk/claude/ci/815-fetch-latest-app-version # MK Nov 19
 submodules:
