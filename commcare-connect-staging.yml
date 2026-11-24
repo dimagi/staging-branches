@@ -17,6 +17,7 @@ branches:  # list of branches to merge into final branch
   # - ay/ccct-3013-pay-rate-history # Ajeet Nov 3
   # - hy/close-sol # Hemant Nov 4
   - ay/ccct-3014-date-rules+cs/api-key-rotation # Charl Nov 13
+  - ze/CI-1049-bill-to-admin+main # Hemant Nov 24, temp: main conflict in invoice_export.py
   - ze/CI-1049-bill-to-admin+cs/api-key-rotation # Charl Nov 13
   - cs/api-key-rotation # Charl Nov 9
   #- cs/CCCT-3078-mobile-worker-key-check # Charl Nov 16
