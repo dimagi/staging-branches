@@ -22,4 +22,5 @@ branches:
     - gh/two-factor/infinite-redirects  # @gherceg Nov 13
     - riese/document_templates_qa # Martin Nov 19
     - ejp/public-webforms-backup-delivery  # Evan Nov 20
+    - ejp/web-apps-time-input-parsing  # Evan Nov 24
 submodules: {}
