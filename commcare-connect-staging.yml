@@ -27,4 +27,5 @@ branches:  # list of branches to merge into final branch
   - claude/busy-mccarthy-4d8r2p  # SK Nov 23
   - ze/CI-1049-bill-to-admin+claude/busy-mccarthy-4d8r2p  # SK Nov 23
   - hy/schedule-sol # HY Nov 24
+  - cs/CCCT-3078-mobile-worker-key-check # charl nov 25
 submodules:
