@@ -14,17 +14,12 @@ branches:  # list of branches to merge into final branch
   # - pkv/ci-1008-automate-monthly-kpis # Pawan Oct 27
   # - ay/ccct-3013-pay-rate-history # Ajeet Nov 3
   # - hy/close-sol # Hemant Nov 4
-  - ay/ccct-3014-date-rules+cs/api-key-rotation # Charl Nov 13
   - ze/CI-1049-bill-to-admin+main # Hemant Nov 24, temp: main conflict in invoice_export.py
-  - ze/CI-1049-bill-to-admin+cs/api-key-rotation # Charl Nov 13
-  - cs/api-key-rotation # Charl Nov 9
-  #- cs/CCCT-3078-mobile-worker-key-check # Charl Nov 16
   # - ze/CI-952-audit-review-modal # Zandre Nov 10
   - ay/ccct-3014-date-rules # Ajeet Nov 13
   - ze/CI-1049-bill-to-admin # Zandre Nov 13
   - hy/close-cancel-sol # Hemant Nov 18
   - hy/sol-reviewers # Hemant Nov 19
-  - cs/ccct-2908+cs/api-key-rotation # Chris 23 Nov
   - cs/ccct-2908 # Chris 19 Nov
   - revert-1809-revert-1799-mk/claude/ci/815-fetch-latest-app-version # MK Nov 19
   - mk/claude/ci/1058-nm-payment-unit-pay-columns # MK Nov 23
