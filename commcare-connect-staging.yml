@@ -26,4 +26,5 @@ branches:  # list of branches to merge into final branch
   - hy/schedule-sol # HY Nov 24
   - cs/CCCT-3078-mobile-worker-key-check # charl nov 25
   - fix/duplicate-leaf-node # Charl Nov 26
+  - cs/solicitations/applications_list # Chris 26 Nov
 submodules:
