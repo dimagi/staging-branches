@@ -19,7 +19,6 @@ branches:  # list of branches to merge into final branch
   - ay/ccct-3014-date-rules+cs/CCCT-3078-mobile-worker-key-check # Charl Nov 26
   - ay/ccct-3014-date-rules # Ajeet Nov 13
   - ze/CI-1049-bill-to-admin # Zandre Nov 13
-  - hy/close-cancel-sol # Hemant Nov 18
   - hy/sol-reviewers # Hemant Nov 19
   - cs/ccct-2908 # Chris 19 Nov
   - revert-1809-revert-1799-mk/claude/ci/815-fetch-latest-app-version # MK Nov 19
