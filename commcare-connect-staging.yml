@@ -16,7 +16,6 @@ branches:  # list of branches to merge into final branch
   # - hy/close-sol # Hemant Nov 4
   - ze/CI-1049-bill-to-admin+main # Hemant Nov 24, temp: main conflict in invoice_export.py
   # - ze/CI-952-audit-review-modal # Zandre Nov 10
-  #- ay/ccct-3014-date-rules+main # Charl Nov 25
   - ay/ccct-3014-date-rules+cs/CCCT-3078-mobile-worker-key-check # Charl Nov 26
   - ay/ccct-3014-date-rules # Ajeet Nov 13
   - ze/CI-1049-bill-to-admin # Zandre Nov 13
