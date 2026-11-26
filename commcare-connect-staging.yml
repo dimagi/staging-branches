@@ -26,4 +26,5 @@ branches:  # list of branches to merge into final branch
   - mk/claude/ci/1058-nm-payment-unit-pay-columns # MK Nov 23
   - hy/schedule-sol # HY Nov 24
   - cs/CCCT-3078-mobile-worker-key-check # charl nov 25
+  - fix/duplicate-leaf-node # Charl Nov 26
 submodules:
